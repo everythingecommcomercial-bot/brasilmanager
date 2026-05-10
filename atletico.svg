@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#00ff77"/><stop offset="1" stop-color="#0b7d3a"/></linearGradient></defs>
+<path d="M60 5 105 25v45c0 25-19 39-45 45-26-6-45-20-45-45V25z" fill="#07110d" stroke="url(#g)" stroke-width="4"/>
+<circle cx="60" cy="52" r="25" fill="white"/><path d="M60 27l8 17 18 2-13 13 3 18-16-9-16 9 3-18-13-13 18-2z" fill="#0a0a0a"/>
+<text x="60" y="103" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700" fill="#fff">MANAGER</text></svg>

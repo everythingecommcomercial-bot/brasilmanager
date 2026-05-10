@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Brasileirão Manager 2026</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="brand">
+        <img src="assets/brasileirao-logo.svg" alt="Brasileirão Manager" />
+        <div>
+          <strong>BRASILEIRÃO</strong>
+          <span>MANAGER 2026</span>
+        </div>
+      </div>
+
+      <nav class="menu">
+        <button class="active" data-screen="inicio">🏠 <span>Início</span></button>
+        <button data-screen="clube">🛡️ <span>Meu Clube</span></button>
+        <button data-screen="elenco">👥 <span>Elenco</span></button>
+        <button data-screen="taticas">⚙️ <span>Táticas</span></button>
+        <button data-screen="transferencias">↔️ <span>Transferências</span></button>
+        <button data-screen="calendario">🗓️ <span>Calendário</span></button>
+        <button data-screen="competicoes">🏆 <span>Competições</span></button>
+        <button data-screen="tabela">☰ <span>Tabela</span></button>
+        <button data-screen="financas">💰 <span>Finanças</span></button>
+        <button data-screen="estadio">🏟️ <span>Estádio</span></button>
+        <button data-screen="config">⚙️ <span>Configurações</span></button>
+      </nav>
+
+      <div class="career-box">
+        <button class="primary">▶ CONTINUAR CARREIRA</button>
+        <p>✓ Salvar automaticamente <b>ON</b></p>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <div class="club-status">
+          <img id="currentLogo" src="assets/palmeiras.webp" alt="Clube atual" />
+          <div>
+            <small>CLUBE ATUAL</small>
+            <h2><span id="currentClub">Palmeiras</span> <i></i></h2>
+            <p>Prestígio Continental</p>
+          </div>
+        </div>
+
+        <div class="status-item">
+          <small>DINHEIRO</small>
+          <strong id="money">R$ 125.430.000</strong>
+        </div>
+
+        <div class="status-item">
+          <small>DATA</small>
+          <strong>10/05/2026</strong>
+        </div>
+
+        <button class="icon-btn">📅</button>
+        <button class="icon-btn">⚙️</button>
+      </header>
+
+      <section class="content">
+        <div class="left-content">
+          <section class="panel hero">
+            <h1>Bem-vindo, Manager!</h1>
+            <p>O que você gostaria de fazer hoje?</p>
+
+            <div class="club-grid" id="clubGrid"></div>
+          </section>
+
+          <div class="bottom-grid">
+            <section class="panel">
+              <h3>CLASSIFICAÇÃO - SÉRIE A</h3>
+              <table class="league-table">
+                <thead>
+                  <tr>
+                    <th>POS</th><th>CLUBE</th><th>J</th><th>V</th><th>E</th><th>D</th><th>GP</th><th>GC</th><th>SG</th><th>PTS</th>
+                  </tr>
+                </thead>
+                <tbody id="tableBody"></tbody>
+              </table>
+            </section>
+
+            <section class="panel finance">
+              <h3>FINANÇAS DO CLUBE</h3>
+              <div class="row"><span>Saldo Atual</span><b>R$ 125.430.000</b></div>
+              <div class="row"><span>Receita (Mês)</span><b class="green">R$ 18.750.000</b></div>
+              <div class="row"><span>Despesa (Mês)</span><b class="red">R$ 9.250.000</b></div>
+              <div class="row"><span>Lucro (Mês)</span><b class="green">R$ 9.500.000</b></div>
+              <button class="secondary">VER DETALHES</button>
+            </section>
+          </div>
+        </div>
+
+        <aside class="right-content">
+          <section class="panel next-match">
+            <h3>PRÓXIMO JOGO</h3>
+            <div class="competition">
+              <img src="assets/brasileirao-logo.svg" alt="" />
+              <div>
+                <strong>Brasileirão Série A</strong>
+                <p>Rodada 6</p>
+              </div>
+            </div>
+
+            <div class="match">
+              <div>
+                <img id="matchHomeLogo" src="assets/palmeiras.webp" alt="" />
+                <strong id="matchHome">PALMEIRAS</strong>
+              </div>
+              <span>X</span>
+              <div>
+                <img src="assets/atletico.svg" alt="" />
+                <strong>ATLÉTICO-MG</strong>
+              </div>
+            </div>
+
+            <p class="detail">📅 13/05/2026 - 21:30</p>
+            <p class="detail">📍 Allianz Parque</p>
+          </section>
+
+          <section class="panel news">
+            <h3>NOTÍCIAS</h3>
+            <article>
+              <img src="assets/news-player.svg" alt="" />
+              <div>
+                <p>Palmeiras anuncia renovação de contrato de jovem promessa</p>
+                <small>10/05/2026</small>
+              </div>
+            </article>
+            <article>
+              <img src="assets/news-stadium.svg" alt="" />
+              <div>
+                <p>Corinthians fecha acordo por novo patrocinador máster</p>
+                <small>09/05/2026</small>
+              </div>
+            </article>
+            <article>
+              <img src="assets/news-flamengo.svg" alt="" />
+              <div>
+                <p>Flamengo prepara oferta por atacante europeu</p>
+                <small>09/05/2026</small>
+              </div>
+            </article>
+            <button class="secondary">VER TODAS</button>
+          </section>
+        </aside>
+      </section>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
