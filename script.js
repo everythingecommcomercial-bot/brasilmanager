@@ -2,7 +2,7 @@ const clubs = [
   {
     id: "palmeiras",
     name: "Palmeiras",
-    logo: "assets/palmeiras.webp",
+    logo: "palmeiras.webp",
     prestige: "★★★★★",
     squad: 83,
     finance: "Muito Bom",
@@ -12,7 +12,7 @@ const clubs = [
   {
     id: "corinthians",
     name: "Corinthians",
-    logo: "assets/corinthians.png",
+    logo: "corinthians.png",
     prestige: "★★★★☆",
     squad: 80,
     finance: "Bom",
@@ -22,7 +22,7 @@ const clubs = [
   {
     id: "flamengo",
     name: "Flamengo",
-    logo: "assets/flamengo.png",
+    logo: "flamengo.png",
     prestige: "★★★★★",
     squad: 84,
     finance: "Muito Bom",
@@ -32,11 +32,11 @@ const clubs = [
 ];
 
 const table = [
-  { pos: 1, club: "Palmeiras", logo: "assets/palmeiras.webp", j: 5, v: 4, e: 1, d: 0, gp: 10, gc: 2, sg: 8, pts: 13 },
-  { pos: 2, club: "Flamengo", logo: "assets/flamengo.png", j: 5, v: 4, e: 0, d: 1, gp: 11, gc: 4, sg: 7, pts: 12 },
-  { pos: 3, club: "Corinthians", logo: "assets/corinthians.png", j: 5, v: 3, e: 1, d: 1, gp: 8, gc: 4, sg: 4, pts: 10 },
-  { pos: 4, club: "Atlético-MG", logo: "assets/atletico.svg", j: 5, v: 3, e: 1, d: 1, gp: 7, gc: 5, sg: 2, pts: 10 },
-  { pos: 5, club: "São Paulo", logo: "assets/saopaulo.svg", j: 5, v: 2, e: 2, d: 1, gp: 6, gc: 4, sg: 2, pts: 8 }
+  { pos: 1, club: "Palmeiras", logo: "palmeiras.webp", j: 5, v: 4, e: 1, d: 0, gp: 10, gc: 2, sg: 8, pts: 13 },
+  { pos: 2, club: "Flamengo", logo: "flamengo.png", j: 5, v: 4, e: 0, d: 1, gp: 11, gc: 4, sg: 7, pts: 12 },
+  { pos: 3, club: "Corinthians", logo: "corinthians.png", j: 5, v: 3, e: 1, d: 1, gp: 8, gc: 4, sg: 4, pts: 10 },
+  { pos: 4, club: "Atlético-MG", logo: "atletico.svg", j: 5, v: 3, e: 1, d: 1, gp: 7, gc: 5, sg: 2, pts: 10 },
+  { pos: 5, club: "São Paulo", logo: "saopaulo.svg", j: 5, v: 2, e: 2, d: 1, gp: 6, gc: 4, sg: 2, pts: 8 }
 ];
 
 let currentClub = clubs[0];
