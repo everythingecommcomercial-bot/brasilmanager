@@ -110,3 +110,6 @@ document.querySelectorAll(".menu button").forEach((button) => {
 
 renderClubs();
 renderTable();
+function continuarCarreira() {
+  alert("Carreira carregada!");
+}
