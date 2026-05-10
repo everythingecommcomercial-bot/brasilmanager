@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-<path d="M14 12h72v34c0 25-14 40-36 48-22-8-36-23-36-48z" fill="#111" stroke="#fff" stroke-width="3"/>
-<text x="50" y="38" fill="#fff" font-size="24" text-anchor="middle" font-family="Arial" font-weight="700">CAM</text>
-<path d="M25 50h7v30h-7zm14 0h7v35h-7zm14 0h7v35h-7zm14 0h7v30h-7z" fill="#fff"/>
-<path d="M50 5l3 8h8l-7 5 3 8-7-5-7 5 3-8-7-5h8z" fill="#f6c341"/></svg>
