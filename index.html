@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Brasileirão Manager</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app">
+    <aside class="sidebar">
+      <h1>Brasileirão<br><span>Manager</span></h1>
+      <button class="nav active" data-screen="clubes">Clubes</button>
+      <button class="nav" data-screen="elenco">Elenco</button>
+      <button class="nav" data-screen="escalacao">Escalação</button>
+      <button class="nav" data-screen="partida">Partida</button>
+      <button class="nav" data-screen="tabela">Tabela</button>
+    </aside>
+
+    <main>
+      <section id="clubes" class="screen active">
+        <h2>Escolha seu clube</h2>
+        <div id="clubCards" class="cards"></div>
+      </section>
+
+      <section id="elenco" class="screen">
+        <h2>Elenco</h2>
+        <div id="squadInfo"></div>
+        <table>
+          <thead><tr><th>Nome</th><th>Posição</th><th>Nac.</th><th>OVR</th></tr></thead>
+          <tbody id="squadTable"></tbody>
+        </table>
+      </section>
+
+      <section id="escalacao" class="screen">
+        <h2>Escalação titular</h2>
+        <div id="lineup" class="pitch"></div>
+      </section>
+
+      <section id="partida" class="screen">
+        <h2>Simular partida</h2>
+        <div class="matchBox">
+          <p id="matchTitle">Escolha um clube para começar.</p>
+          <button id="simulateBtn">Simular próxima partida</button>
+          <div id="matchResult"></div>
+        </div>
+      </section>
+
+      <section id="tabela" class="screen">
+        <h2>Tabela</h2>
+        <table>
+          <thead><tr><th>Clube</th><th>J</th><th>V</th><th>E</th><th>D</th><th>GP</th><th>GC</th><th>Pts</th></tr></thead>
+          <tbody id="leagueTable"></tbody>
+        </table>
+      </section>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
