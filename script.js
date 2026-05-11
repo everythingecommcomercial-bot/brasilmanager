@@ -676,17 +676,35 @@ function selecionarClubeModal(id) {
 renderizarClubesDaLiga(ligaSelecionada);
 selecionarClube(clubesPorLiga[ligaSelecionada][0]);
 
-const managerPhotoInput = document.getElementById("managerPhotoInput");
-const avatarCircle = document.querySelector(".avatar-circle");
+const managerPhotoInput =
+  document.getElementById("managerPhotoInput");
+
+const avatarCircle =
+  document.querySelector(".avatar-circle");
 
 managerPhotoInput.addEventListener("change", function () {
+
   const file = this.files[0];
 
   if (!file) return;
 
-  const imageUrl = URL.createObjectURL(file);
+  const reader = new FileReader();
 
-  avatarCircle.innerHTML = `
-    <img src="${imageUrl}" alt="Foto do manager">
-  `;
+  reader.onload = function () {
+
+    const fotoBase64 =
+      reader.result;
+
+    localStorage.setItem(
+      "fotoTreinador",
+      fotoBase64
+    );
+
+    avatarCircle.innerHTML = `
+      <img src="${fotoBase64}" alt="Foto do manager">
+    `;
+  };
+
+  reader.readAsDataURL(file);
+
 });
