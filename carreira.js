@@ -523,11 +523,27 @@ preencherTela();{
   document.getElementById("nextMatchHome").textContent =
     mandante.nome;
 
-  const adversarioId =
-    proximoJogo.mandante === clubeSelecionado
-      ? proximoJogo.visitante
-      : proximoJogo.mandante;
+const mandante =
+  clubes[proximoJogo.mandante];
 
+const visitante =
+  clubes[proximoJogo.visitante];
+
+document.getElementById("nextMatchHomeLogo").src =
+  mandante.logo;
+
+document.getElementById("nextMatchHome").textContent =
+  mandante.nome;
+
+document.getElementById("nextMatchAwayLogo").src =
+  visitante.logo;
+
+document.getElementById("nextMatchAway").textContent =
+  visitante.nome;
+
+document.getElementById("matchStadium").textContent =
+  "🏟 " + mandante.estadio;
+  
   const adversario =
     clubes[adversarioId];
 
