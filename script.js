@@ -10,6 +10,7 @@ const clubes = {
     fundacao: "26/08/1914",
     financas: "Muito Forte",
     reputacao: "Mundial"
+    conquistas: ["2023", "2022", "2021", "2014", "2013"]
   },
 
   flamengo: {
@@ -22,6 +23,7 @@ const clubes = {
     fundacao: "15/11/1895",
     financas: "Muito Forte",
     reputacao: "Mundial"
+    conquistas: ["2025", "2020", "2019", "2009", "1992"]
   },
 
   corinthians: {
@@ -34,6 +36,7 @@ const clubes = {
     fundacao: "01/09/1910",
     financas: "Forte",
     reputacao: "Continental"
+    conquistas: ["2017", "2015", "2011", "2005", "1999"]
   },
   
  atleticomg: {
@@ -41,11 +44,12 @@ const clubes = {
     nomeCompleto: "Clube Atlético Mineiro",
     logo: "emblemas/clubes/atleticomg.png",
     estrelas: "★★★⯨☆",
-    estadio: "MRV Arena",
+    estadio: "Arena MRV",
     capacidade: "44.892",
     fundacao: "25/03/1908",
     financas: "Fraco",
     reputacao: "Continental"
+    conquistas: ["2021", "1971", "1937"]
  },
   
 saopaulo: {
@@ -58,6 +62,7 @@ saopaulo: {
     fundacao: "25/01/1930",
     financas: "Médio",
     reputacao: "Mundial"
+    conquistas: ["2008", "2007", "2006", "1991", "1986"]
  },
 
   gremio: {
@@ -70,6 +75,7 @@ saopaulo: {
     fundacao: "15/09/1903",
     financas: "Médio",
     reputacao: "Continental"
+    conquistas: ["1996", "1981"]
  },
 
     internacional: {
@@ -82,6 +88,7 @@ saopaulo: {
     fundacao: "04/04/1909",
     financas: "Fraco",
     reputacao: "Continental"
+    conquistas: ["1979", "1976", "1975"]
  },
 
     fluminense: {
@@ -94,6 +101,7 @@ saopaulo: {
     fundacao: "21/07/1902",
     financas: "Médio",
     reputacao: "Continental"
+    conquistas: ["2012", "2010", "1984", "1970"]
  },
 
     botafogo: {
@@ -106,6 +114,7 @@ saopaulo: {
     fundacao: "08/12/1942",
     financas: "Fraco",
     reputacao: "Continental"
+    conquistas: ["2024", "1995", "1968"]
  },
 
     cruzeiro: {
@@ -118,6 +127,7 @@ saopaulo: {
     fundacao: "02/01/1921",
     financas: "Forte",
     reputacao: "Continental"
+    conquistas: ["2014", "2013", "2003", "1966"]
  },
 
     athleticopr: {
@@ -130,6 +140,7 @@ saopaulo: {
     fundacao: "26/03/1924",
     financas: "Médio",
     reputacao: "Nacional"
+    conquistas: ["2001"]
  },
 
     santos: {
@@ -142,6 +153,7 @@ saopaulo: {
     fundacao: "14/04/1912",
     financas: "Fraco",
     reputacao: "Mundial"
+    conquistas: ["2004", "2002", "1968", "1965", "1964"]
  },
 
   
