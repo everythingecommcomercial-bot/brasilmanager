@@ -646,3 +646,6 @@ function selecionarClubeModal(id) {
   document.getElementById("modalClubFinance").textContent = clube.financas;
   document.getElementById("modalClubReputation").textContent = clube.reputacao;
 }
+
+renderizarClubesDaLiga(ligaSelecionada);
+selecionarClube(clubesPorLiga[ligaSelecionada][0]);
