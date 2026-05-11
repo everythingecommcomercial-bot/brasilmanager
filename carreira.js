@@ -371,8 +371,147 @@ const clubes = {
   }
 };
 
+function gerarCalendarioLiga(clubesDaLiga) {
+  let times = [...clubesDaLiga];
+
+  if (times.length % 2 !== 0) {
+    times.push("folga");
+  }
+
+  const totalTimes = times.length;
+  const rodadasIda = totalTimes - 1;
+  const jogosPorRodada = totalTimes / 2;
+
+  let calendario = [];
+
+  for (let rodada = 0; rodada < rodadasIda; rodada++) {
+    let jogos = [];
+
+    for (let i = 0; i < jogosPorRodada; i++) {
+      let mandante = times[i];
+      let visitante = times[totalTimes - 1 - i];
+
+      if (mandante !== "folga" && visitante !== "folga") {
+        if (rodada % 2 === 0) {
+          jogos.push({
+            rodada: rodada + 1,
+            mandante,
+            visitante
+          });
+        } else {
+          jogos.push({
+            rodada: rodada + 1,
+            mandante: visitante,
+            visitante: mandante
+          });
+        }
+      }
+    }
+
+    calendario.push(jogos);
+
+    const fixo = times[0];
+    const restante = times.slice(1);
+    restante.unshift(restante.pop());
+    times = [fixo, ...restante];
+  }
+
+  const returno = calendario.map((rodada, index) => {
+    return rodada.map(jogo => ({
+      rodada: index + 20,
+      mandante: jogo.visitante,
+      visitante: jogo.mandante
+    }));
+  });
+
+  return [...calendario, ...returno];
+}
+
+const clubesbrasileiraoserieb = [
+  "flamengo",
+  "vasco",
+  "fluminense",
+  "botafogo",
+  "saopaulo",
+  "palmeiras",
+  "corinthians",
+  "santos",
+  "mirassol",
+  "rbbragantino",
+  "internacional",
+  "gremio",
+  "athleticopr",
+  "coritiba",
+  "chapecoense"
+  "atleticomg"
+  "cruzeiro"
+  "remo"
+  "bahia"
+  "vitoria"
+];
+
+const clubesbrasileiraoserieb = [
+  "sport",
+  "goias",
+  "americamg",
+  "atleticogo",
+  "vilanova",
+  "gremionovorizontino",
+  "fortaleza",
+  "crb",
+  "juventude",
+  "operario",
+  "saobernardo",
+  "criciuma",
+  "avai",
+  "botafogoribeirao",
+  "athletic"
+];
+
+const calendariobrasileiraoseriea =
+  gerarCalendarioLiga(clubesbrasileiraoseriea);
+
+const calendariobrasileiraoserieb =
+  gerarCalendarioLiga(clubesbrasileiraoserieb);
+
+localStorage.setItem(
+  "calendariobrasileiraoseriea",
+  JSON.stringify(calendariobrasileiraoseriea)
+);
+
+localStorage.setItem(
+  "calendariobrasileiraoserieb",
+  JSON.stringify(calendariobrasileiraoserieb)
+);
+
 const clube =
   clubes[clubeSelecionado] || clubes.palmeiras;
+
+const calendario =
+  JSON.parse(
+    localStorage.getItem(
+      ligaSelecionada === "brasileiraoserieb"
+        ? "calendarioBrasileiraoSerieB"
+        : "calendarioBrasileiraoSerieA"
+    )
+  );
+
+function buscarJogosDoClube() {
+
+  return calendario.flat().filter(jogo =>
+
+    jogo.mandante === clubeSelecionado ||
+    jogo.visitante === clubeSelecionado
+
+  );
+
+}
+
+const jogosDoClube =
+  buscarJogosDoClube();
+
+const proximoJogo =
+  jogosDoClube[0];
 
 function preencherTela() {
   document.getElementById("topClubLogo").src = clube.logo;
