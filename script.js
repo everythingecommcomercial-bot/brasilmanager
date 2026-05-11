@@ -9,7 +9,7 @@ const clubes = {
     capacidade: "43.713",
     fundacao: "26/08/1914",
     financas: "Muito Forte",
-    reputacao: "Mundial"
+    reputacao: "Mundial",
     conquistas: ["2023", "2022", "2021", "2014", "2013"]
   },
 
@@ -22,7 +22,7 @@ const clubes = {
     capacidade: "78.838",
     fundacao: "15/11/1895",
     financas: "Muito Forte",
-    reputacao: "Mundial"
+    reputacao: "Mundial",
     conquistas: ["2025", "2020", "2019", "2009", "1992"]
   },
 
@@ -35,7 +35,7 @@ const clubes = {
     capacidade: "49.205",
     fundacao: "01/09/1910",
     financas: "Forte",
-    reputacao: "Continental"
+    reputacao: "Continental",
     conquistas: ["2017", "2015", "2011", "2005", "1999"]
   },
   
@@ -48,7 +48,7 @@ const clubes = {
     capacidade: "44.892",
     fundacao: "25/03/1908",
     financas: "Fraco",
-    reputacao: "Continental"
+    reputacao: "Continental",
     conquistas: ["2021", "1971", "1937"]
  },
   
@@ -61,7 +61,7 @@ saopaulo: {
     capacidade: "66.795",
     fundacao: "25/01/1930",
     financas: "Médio",
-    reputacao: "Mundial"
+    reputacao: "Mundial",
     conquistas: ["2008", "2007", "2006", "1991", "1986"]
  },
 
@@ -74,7 +74,7 @@ saopaulo: {
     capacidade: "60.540",
     fundacao: "15/09/1903",
     financas: "Médio",
-    reputacao: "Continental"
+    reputacao: "Continental",
     conquistas: ["1996", "1981"]
  },
 
@@ -87,7 +87,7 @@ saopaulo: {
     capacidade: "50.842",
     fundacao: "04/04/1909",
     financas: "Fraco",
-    reputacao: "Continental"
+    reputacao: "Continental",
     conquistas: ["1979", "1976", "1975"]
  },
 
@@ -100,7 +100,7 @@ saopaulo: {
     capacidade: "78.838",
     fundacao: "21/07/1902",
     financas: "Médio",
-    reputacao: "Continental"
+    reputacao: "Continental",
     conquistas: ["2012", "2010", "1984", "1970"]
  },
 
@@ -113,7 +113,7 @@ saopaulo: {
     capacidade: "44.661",
     fundacao: "08/12/1942",
     financas: "Fraco",
-    reputacao: "Continental"
+    reputacao: "Continental",
     conquistas: ["2024", "1995", "1968"]
  },
 
@@ -126,7 +126,7 @@ saopaulo: {
     capacidade: "62.170",
     fundacao: "02/01/1921",
     financas: "Forte",
-    reputacao: "Continental"
+    reputacao: "Continental",
     conquistas: ["2014", "2013", "2003", "1966"]
  },
 
@@ -139,7 +139,7 @@ saopaulo: {
     capacidade: "42.372",
     fundacao: "26/03/1924",
     financas: "Médio",
-    reputacao: "Nacional"
+    reputacao: "Nacional",
     conquistas: ["2001"]
  },
 
@@ -152,7 +152,7 @@ saopaulo: {
     capacidade: "17.923",
     fundacao: "14/04/1912",
     financas: "Fraco",
-    reputacao: "Mundial"
+    reputacao: "Mundial",
     conquistas: ["2004", "2002", "1968", "1965", "1964"]
  },
 
