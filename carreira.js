@@ -513,7 +513,15 @@ function preencherTela() {
   document.getElementById("tableClubName").textContent = clube.nome;
   document.getElementById("financeMoney").textContent = clube.dinheiro;
   document.getElementById("starPlayer").textContent = clube.destaque;
-  document.getElementById("starPlayerImage").src = clube.fotoJogador;
+  
+const fotoJogador =
+  document.getElementById("starPlayerImage");
+
+fotoJogador.src =
+  clube.fotoJogador || "jogadoresbra/padrao.png";
+
+fotoJogador.alt =
+  clube.destaque;
   document.getElementById("clubNews").textContent =
     clube.nome + " renova contrato de promessa da base";
 }
