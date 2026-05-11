@@ -354,7 +354,7 @@ saopaulo: {
   vilanova: {
    nome: "Vila Nova",
    nomeCompleto: "Clube do Remo",
-   logo: "emblemas/clubes/vilanova.png",
+   logo: "emblemas/clubes/vila nova.png",
    estrelas: "★★☆☆☆",
    estadio: "Baenão",
    capacidade: "13.792",
