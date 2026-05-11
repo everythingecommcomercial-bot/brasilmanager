@@ -489,5 +489,5 @@ body {
 }
 
 .yellow {
-  color: #ffd43b;
+  color: #ffd43b !important;
 }
