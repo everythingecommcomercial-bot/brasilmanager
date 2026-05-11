@@ -360,6 +360,75 @@
 
   </div>
 
-  <script src="script.js"></script>
+ <script src="script.js"></script>
+
+<div id="clubesModal" class="modal">
+
+  <div class="modal-content">
+
+    <button class="modal-close"
+      onclick="fecharClubesModal()">
+      ×
+    </button>
+
+    <h2>Todos os clubes</h2>
+
+    <div class="modal-body">
+
+      <div id="modalClubGrid"
+        class="modal-club-grid">
+      </div>
+
+      <div class="modal-club-info">
+
+        <img id="modalClubLogo"
+          src=""
+          alt="">
+
+        <h3 id="modalClubName"></h3>
+
+        <p id="modalClubFullName"></p>
+
+        <div id="modalClubStars"
+          class="stars">
+        </div>
+
+        <div class="info-list">
+
+          <div>
+            <span>🏟 Estádio</span>
+            <strong id="modalClubStadium"></strong>
+          </div>
+
+          <div>
+            <span>👥 Capacidade</span>
+            <strong id="modalClubCapacity"></strong>
+          </div>
+
+          <div>
+            <span>📅 Fundação</span>
+            <strong id="modalClubFounded"></strong>
+          </div>
+
+          <div>
+            <span>💰 Finanças</span>
+            <strong id="modalClubFinance"></strong>
+          </div>
+
+          <div>
+            <span>⭐ Reputação</span>
+            <strong id="modalClubReputation"></strong>
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
 </body>
 </html>
