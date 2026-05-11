@@ -19,7 +19,8 @@ const clubes = {
     estrelas: "★★★★☆",
     dinheiro: "R$ 142.700.000",
     estadio: "Maracanã",
-    destaque: "Giorgian De Arrascaeta"
+    destaque: "Giorgian De Arrascaeta",
+    fotojogador: "jogadores/brseriea/arrascaeta.png"
   },
 
   corinthians: {
