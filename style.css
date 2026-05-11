@@ -504,3 +504,16 @@ select {
 
   flex-shrink: 0;
 }
+
+.birth-grid {
+  display: grid;
+  grid-template-columns: 65px 95px 75px;
+  gap: 10px;
+}
+
+.birth-grid select {
+  min-width: 0;
+  width: 100%;
+  font-size: 14px;
+  padding: 12px 8px;
+}
