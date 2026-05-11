@@ -492,48 +492,28 @@ body {
   color: #ffd43b !important;
 }
 
-.topbar {
-  padding: 18px 28px;
-}
-
 .top-info {
   width: 100%;
   display: grid;
-  grid-template-columns: auto 70px 70px auto auto auto 1fr;
+  grid-template-columns: auto 70px 55px auto 1fr auto auto;
   align-items: center;
-  gap: 18px;
+  column-gap: 22px;
 }
 
-.top-item span {
-  display: block;
-  color: #a7b8b1;
-  font-size: 14px;
-  margin-bottom: 5px;
-}
-
-.top-item strong {
-  color: #fff;
-  font-size: 18px;
-}
-
-.manager-photo,
 .top-club-logo {
-  width: 64px;
-  height: 64px;
-  object-fit: contain;
-  border-radius: 12px;
+  margin-left: 45px;
 }
 
-.manager-photo {
-  background: rgba(255,255,255,.06);
-  border: 1px solid rgba(0,255,120,.2);
+.top-item:nth-of-type(3) {
+  justify-self: center;
 }
 
 .money-box {
   justify-self: end;
   text-align: right;
+  margin-left: 10px;
 }
 
-.money-box strong {
-  font-size: 20px;
+.top-item:nth-of-type(4) {
+  margin-right: -10px;
 }
