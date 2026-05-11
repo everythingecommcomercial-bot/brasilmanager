@@ -443,3 +443,30 @@ select {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+
+.club-info-panel {
+  min-height: 520px;
+}
+
+.selected-club {
+  align-items: flex-start;
+}
+
+.info-list {
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px 35px;
+}
+
+.info-list div {
+  justify-content: flex-start;
+  gap: 12px;
+}
+
+.start-career {
+  width: 260px;
+  align-self: flex-end;
+  margin-top: 30px;
+}
