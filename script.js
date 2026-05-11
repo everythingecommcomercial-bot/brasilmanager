@@ -605,8 +605,6 @@ function atualizarCards(idSelecionado) {
 
 function iniciarCarreira() {
 
-  alert("Vou salvar: " + clubeSelecionado);
-
   localStorage.setItem(
     "clubeSelecionado",
     clubeSelecionado
