@@ -432,3 +432,23 @@ body {
     grid-column: 1;
   }
 }
+
+.player-highlight {
+  grid-column: 2;
+  grid-row: 2;
+}
+
+.finances-panel {
+  grid-column: 2;
+  grid-row: 3;
+}
+
+.news-panel {
+  grid-column: 1;
+  grid-row: 2;
+}
+
+.table-panel {
+  grid-column: 1;
+  grid-row: 3;
+}
