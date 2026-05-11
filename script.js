@@ -34,8 +34,117 @@ const clubes = {
     fundacao: "01/09/1910",
     financas: "Forte",
     reputacao: "Continental"
-  }
+  },
+  
+ atletico-mg: {
+    nome: "Atlétcio-MG",
+    nomeCompleto: "Clube Atlético Mineiro",
+    logo: "emblemas/clubes/atleticomineiro.png",
+    estrelas: "★★★⯨☆",
+    estadio: "MRV Arena",
+    capacidade: "44.892",
+    fundacao: "25/03/1908",
+    financas: "Fraco",
+    reputacao: "Continental"
+ },
+  
+saopaulo: {
+    nome: "São Paulo",
+    nomeCompleto: "São Paulo Futebol Clube",
+    logo: "emblemas/clubes/saopaulo.png",
+    estrelas: "★★★⯨☆",
+    estadio: "MorumBIS",
+    capacidade: "66.795",
+    fundacao: "25/01/1930",
+    financas: "Médio",
+    reputacao: "Mundial"
+ },
 
+  gremio: {
+    nome: "Grêmio",
+    nomeCompleto: "Grêmio Football Porto Alegrense",
+    logo: "emblemas/clubes/gremio.png",
+    estrelas: "★★★⯨☆",
+    estadio: "Arena do Grêmio",
+    capacidade: "60.540",
+    fundacao: "15/09/1903",
+    financas: "Médio",
+    reputacao: "Continental"
+ },
+
+    internacional: {
+    nome: "Internacional",
+    nomeCompleto: "Sport Club Internacional",
+    logo: "emblemas/clubes/internacional.png",
+    estrelas: "★★★⯨☆",
+    estadio: "Beira Rio",
+    capacidade: "50.842",
+    fundacao: "04/04/1909",
+    financas: "Fraco",
+    reputacao: "Continental"
+ },
+
+    fluminense: {
+    nome: "Fluminense",
+    nomeCompleto: "Fluminense Football Club",
+    logo: "emblemas/clubes/fluminense.png",
+    estrelas: "★★★⯨☆",
+    estadio: "Maracanã",
+    capacidade: "78.838",
+    fundacao: "21/07/1902",
+    financas: "Médio",
+    reputacao: "Continental"
+ },
+
+    botafogo: {
+    nome: "Botafogo",
+    nomeCompleto: "Botafogo de Futebol e Regatas",
+    logo: "emblemas/clubes/botafogo.png",
+    estrelas: "★★★⯨☆",
+    estadio: "Nilton Santos",
+    capacidade: "44.661",
+    fundacao: "08/12/1942",
+    financas: "Fraco",
+    reputacao: "Continental"
+ },
+
+    cruzeiro: {
+    nome: "Cruzeiro",
+    nomeCompleto: "Cruzeiro Esporte Clube",
+    logo: "emblemas/clubes/cruzeiro.png",
+    estrelas: "★★★⯨☆",
+    estadio: "Mineirão",
+    capacidade: "62.170",
+    fundacao: "02/01/1921",
+    financas: "Forte",
+    reputacao: "Continental"
+ },
+
+    athletico-pr: {
+    nome: "Athletico-PR",
+    nomeCompleto: "Club Athletico Paranaense",
+    logo: "emblemas/clubes/athleticoparanaense.png",
+    estrelas: "★★★☆☆",
+    estadio: "Ligga Arena",
+    capacidade: "42.372",
+    fundacao: "26/03/1924",
+    financas: "Médio",
+    reputacao: "Nacional"
+ },
+
+    santos: {
+    nome: "Santos",
+    nomeCompleto: "Santos Futebol Clube",
+    logo: "emblemas/clubes/santos.png",
+    estrelas: "★★★☆☆",
+    estadio: "Vila Belmiro",
+    capacidade: "17.923",
+    fundacao: "14/04/1912",
+    financas: "Fraco",
+    reputacao: "Mundial"
+ },
+
+  
 };
 
 let clubeSelecionado = "palmeiras";
