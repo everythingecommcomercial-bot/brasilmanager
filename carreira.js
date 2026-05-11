@@ -21,12 +21,11 @@ const clubes = {
     estadio: "Maracanã",
     destaque: "Giorgian De Arrascaeta",
     fotoJogador: "jogadoresbra/arrascaeta.png",
-    elenco: 35,
+    elenco: "35",
     idadeMedia: "28,1",
     formacao: "4-1-4-1",
     posicaoJogador: "Meia",
-    geralJogador: 82
-},
+    geralJogador: "82"
   },
 
   corinthians: {
