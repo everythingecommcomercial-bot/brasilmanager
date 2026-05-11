@@ -34,8 +34,8 @@ const clubes = {
     estadio: "Neo Química Arena",
     capacidade: "49.205",
     fundacao: "01/09/1910",
-    financas: "Forte",
-    reputacao: "Continental",
+    financas: "Médio",
+    reputacao: "Mundial",
     conquistas: ["2017", "2015", "2011", "2005", "1999"]
   },
   
@@ -165,7 +165,7 @@ saopaulo: {
    capacidade: "21.880",
    fundacao: "21/08/1898",
    financas: "Fraco",
-   reputacao: "Nacional",
+   reputacao: "Continental",
    conquistas: ["2000", "1997", "1989", "1974"]
 },
 
