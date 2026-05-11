@@ -484,6 +484,9 @@ localStorage.setItem(
   JSON.stringify(calendariobrasileiraoserieb)
 );
 
+alert("Clube salvo: " + clubeSelecionado);
+
+
 const clube =
   clubes[clubeSelecionado] || clubes.palmeiras;
 
@@ -491,8 +494,8 @@ const calendario =
   JSON.parse(
     localStorage.getItem(
       ligaSelecionada === "brasileiraoserieb"
-        ? "calendarioBrasileiraoSerieB"
-        : "calendarioBrasileiraoSerieA"
+        ? "calendariobrasileiraoserieb"
+        : "calendariobrasileiraoseriea"
     )
   );
 
