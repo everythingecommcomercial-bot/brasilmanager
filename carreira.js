@@ -20,7 +20,13 @@ const clubes = {
     dinheiro: "R$ 142.700.000",
     estadio: "Maracanã",
     destaque: "Giorgian De Arrascaeta",
-    fotoJogador: "jogadoresbra/arrascaeta.png"
+    fotoJogador: "jogadoresbra/arrascaeta.png",
+    elenco: 35,
+    idadeMedia: "28,1",
+    formacao: "4-1-4-1",
+    posicaoJogador: "Meia",
+    geralJogador: 82
+},
   },
 
   corinthians: {
@@ -519,6 +525,11 @@ function preencherTela() {
   document.getElementById("tableClubName").textContent = clube.nome;
   document.getElementById("financeMoney").textContent = clube.dinheiro;
   document.getElementById("starPlayer").textContent = clube.destaque;
+  document.getElementById("clubSquad").textContent = clube.elenco;
+  document.getElementById("clubAge").textContent = clube.idadeMedia;
+  document.getElementById("clubFormation").textContent = clube.formacao;
+  document.getElementById("playerPosition").textContent = clube.posicaoJogador;
+  document.getElementById("playerOverall").textContent = clube.geralJogador;
 
   const fotoJogador =
     document.getElementById("starPlayerImage");
