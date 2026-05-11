@@ -645,7 +645,7 @@ function renderizarClubesModal() {
   const grid = document.getElementById("modalClubGrid");
   grid.innerHTML = "";
 
-  Object.keys(clubes).forEach(id => {
+  clubesPorLiga[ligaSelecionada].forEach(id => {
     const clube = clubes[id];
 
     grid.innerHTML += `
