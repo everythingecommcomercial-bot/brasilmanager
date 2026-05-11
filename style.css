@@ -517,3 +517,36 @@ select {
   font-size: 14px;
   padding: 12px 8px;
 }
+
+.club-info-panel {
+  display: flex;
+  flex-direction: column;
+}
+
+.selected-club {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+}
+
+.club-top {
+  display: flex;
+  flex-direction: column;
+}
+
+.achievements {
+  margin-top: 18px;
+}
+
+.info-list {
+  margin-top: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 18px 30px;
+}
+
+.start-career {
+  margin-top: 35px;
+  align-self: flex-end;
+  width: 260px;
+}
