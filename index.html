@@ -7,149 +7,229 @@
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div class="app">
+
+  <div class="career-page">
+
     <aside class="sidebar">
-      <div class="brand">
-        <img src="brasileirao-logo.svg" alt="Brasileirão Manager" />
-        <div>
-          <strong>BRASILEIRÃO</strong>
-          <span>MANAGER 2026</span>
-        </div>
+      <div class="game-logo">
+        <img src="logo-jogo.png" alt="Brasileirão Manager 2026">
       </div>
 
-      <nav class="menu">
-        <button class="active" data-screen="inicio">🏠 <span>Início</span></button>
-        <button data-screen="clube">🛡️ <span>Meu Clube</span></button>
-        <button data-screen="elenco">👥 <span>Elenco</span></button>
-        <button data-screen="taticas">⚙️ <span>Táticas</span></button>
-        <button data-screen="transferencias">↔️ <span>Transferências</span></button>
-        <button data-screen="calendario">🗓️ <span>Calendário</span></button>
-        <button data-screen="competicoes">🏆 <span>Competições</span></button>
-        <button data-screen="tabela">☰ <span>Tabela</span></button>
-        <button data-screen="financas">💰 <span>Finanças</span></button>
-        <button data-screen="estadio">🏟️ <span>Estádio</span></button>
-        <button data-screen="config">⚙️ <span>Configurações</span></button>
+      <nav class="side-menu">
+        <button class="active">👤 Nova Carreira</button>
+        <button>⬇ Carregar Carreira</button>
+        <button>🏆 Conquistas</button>
+        <button>⚙ Configurações</button>
+        <button>ℹ Créditos</button>
       </nav>
-
-      <div class="career-box">
-        <button class="primary" onclick="continuarCarreira()">▶ CONTINUAR CARREIRA</button>
-        <p>✓ Salvar automaticamente <b>ON</b></p>
-      </div>
     </aside>
 
-    <main class="main">
-      <header class="topbar">
-        <div class="club-status">
-          <img id="currentLogo" src="palmeiras.webp" alt="Clube atual" />
-          <div>
-            <small>CLUBE ATUAL</small>
-            <h2><span id="currentClub">Palmeiras</span> <i></i></h2>
-            <p>Prestígio Continental</p>
-          </div>
-        </div>
+    <main class="main-content">
 
-        <div class="status-item">
-          <small>DINHEIRO</small>
-          <strong id="money">R$ 125.430.000</strong>
+      <header class="hero-header">
+        <div>
+          <h2>INICIE SUA</h2>
+          <h1>CARREIRA</h1>
+          <p>Crie seu manager, escolha seu clube e a liga para começar sua jornada rumo ao topo do futebol brasileiro.</p>
         </div>
-
-        <div class="status-item">
-          <small>DATA</small>
-          <strong>10/05/2026</strong>
-        </div>
-
-        <button class="icon-btn">📅</button>
-        <button class="icon-btn">⚙️</button>
       </header>
 
-      <section class="content">
-        <div class="left-content">
-          <section class="panel hero">
-            <h1>Bem-vindo, Manager!</h1>
-            <p>O que você gostaria de fazer hoje?</p>
+      <section class="setup-grid">
 
-            <div class="club-grid" id="clubGrid"></div>
-          </section>
+        <div class="panel manager-panel">
+          <h3><span>1</span> Crie seu manager</h3>
 
-          <div class="bottom-grid">
-            <section class="panel">
-              <h3>CLASSIFICAÇÃO - SÉRIE A</h3>
-              <table class="league-table">
-                <thead>
-                  <tr>
-                    <th>POS</th><th>CLUBE</th><th>J</th><th>V</th><th>E</th><th>D</th><th>GP</th><th>GC</th><th>SG</th><th>PTS</th>
-                  </tr>
-                </thead>
-                <tbody id="tableBody"></tbody>
-              </table>
-            </section>
+          <div class="avatar">
+            <div class="avatar-circle">👤</div>
+            <button>📷</button>
+          </div>
 
-            <section class="panel finance">
-              <h3>FINANÇAS DO CLUBE</h3>
-              <div class="row"><span>Saldo Atual</span><b>R$ 125.430.000</b></div>
-              <div class="row"><span>Receita (Mês)</span><b class="green">R$ 18.750.000</b></div>
-              <div class="row"><span>Despesa (Mês)</span><b class="red">R$ 9.250.000</b></div>
-              <div class="row"><span>Lucro (Mês)</span><b class="green">R$ 9.500.000</b></div>
-              <button class="secondary">VER DETALHES</button>
-            </section>
+          <label>Nome completo</label>
+          <input type="text" value="João Silva">
+
+          <label>Data de nascimento</label>
+          <div class="birth-grid">
+            <select><option>15</option></select>
+            <select><option>Maio</option></select>
+            <select><option>1990</option></select>
+          </div>
+
+          <label>Nacionalidade</label>
+          <select>
+            <option>🇧🇷 Brasil</option>
+          </select>
+
+          <label>Estilo de manager</label>
+          <select>
+            <option>Equilibrado</option>
+            <option>Ofensivo</option>
+            <option>Defensivo</option>
+            <option>Revelador de jovens</option>
+          </select>
+
+          <label>Experiência inicial</label>
+          <div class="stars">★★★☆☆</div>
+        </div>
+
+        <div class="panel league-panel">
+          <h3><span>2</span> Escolha a liga</h3>
+
+          <button class="league-card active" data-league="serie-a">
+            <span class="league-icon">🏆</span>
+            <strong>Brasileirão<br>Série A</strong>
+            <b>✓</b>
+          </button>
+
+          <button class="league-card" data-league="serie-b">
+            <span class="league-icon">🏆</span>
+            <strong>Brasileirão<br>Série B</strong>
+            <b></b>
+          </button>
+
+          <div class="league-info">
+            <h4>Sobre a liga</h4>
+            <p>A principal competição nacional. Dispute o título contra os melhores clubes do Brasil e conquiste a glória no cenário nacional.</p>
+
+            <div class="league-stats">
+              <div>
+                <strong>20</strong>
+                <span>Clubes</span>
+              </div>
+              <div>
+                <strong>38</strong>
+                <span>Rodadas</span>
+              </div>
+              <div>
+                <strong>Libertadores</strong>
+                <span>Vaga direta</span>
+              </div>
+            </div>
           </div>
         </div>
 
-        <aside class="right-content">
-          <section class="panel next-match">
-            <h3>PRÓXIMO JOGO</h3>
-            <div class="competition">
-              <img src="brasileirao-logo.svg" alt="" />
-              <div>
-                <strong>Brasileirão Série A</strong>
-                <p>Rodada 6</p>
-              </div>
+        <div class="panel club-panel">
+          <h3><span>3</span> Escolha seu clube</h3>
+
+          <div class="club-grid">
+            <button class="club-card active">
+              <img src="emblemas/clubes/palmeiras.png" alt="Palmeiras">
+              <span>Palmeiras</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/flamengo.png" alt="Flamengo">
+              <span>Flamengo</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/corinthians.png" alt="Corinthians">
+              <span>Corinthians</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/atleticomg.png" alt="Atlético-MG">
+              <span>Atlético-MG</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/saopaulo.png" alt="São Paulo">
+              <span>São Paulo</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/gremio.png" alt="Grêmio">
+              <span>Grêmio</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/internacional.png" alt="Internacional">
+              <span>Internacional</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/fluminense.png" alt="Fluminense">
+              <span>Fluminense</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/botafogo.png" alt="Botafogo">
+              <span>Botafogo</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/cruzeiro.png" alt="Cruzeiro">
+              <span>Cruzeiro</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/athleticoparanaense.png" alt="Athletico-PR">
+              <span>Athletico-PR</span>
+            </button>
+
+            <button class="club-card">
+              <img src="emblemas/clubes/santos.png" alt="Santos">
+              <span>Santos</span>
+            </button>
+          </div>
+
+          <button class="show-all">Ver todos clubes</button>
+        </div>
+
+        <div class="panel club-info-panel">
+          <h3>Informações do clube</h3>
+
+          <div class="selected-club">
+            <img src="emblemas/clubes/palmeiras.png" alt="Palmeiras">
+            <div>
+              <h2>Palmeiras</h2>
+              <p>Sociedade Esportiva Palmeiras</p>
+              <div class="stars">★★★★☆</div>
             </div>
+          </div>
 
-            <div class="match">
-              <div>
-                <img id="matchHomeLogo" src="palmeiras.webp" alt="" />
-                <strong id="matchHome">PALMEIRAS</strong>
-              </div>
-              <span>X</span>
-              <div>
-                <img src="atletico.svg" alt="" />
-                <strong>ATLÉTICO-MG</strong>
-              </div>
+          <div class="info-list">
+            <div><span>🏟 Estádio</span><strong>Allianz Parque</strong></div>
+            <div><span>👥 Capacidade</span><strong>43.713</strong></div>
+            <div><span>📅 Fundação</span><strong>26/08/1914</strong></div>
+            <div><span>💰 Finanças</span><strong>Muito Forte</strong></div>
+            <div><span>⭐ Reputação</span><strong>Mundial</strong></div>
+          </div>
+
+          <div class="achievements">
+            <h4>Últimas conquistas</h4>
+            <div>
+              <span>🏆<small>2023</small></span>
+              <span>🏆<small>2022</small></span>
+              <span>🏆<small>2020</small></span>
+              <span>🏆<small>2018</small></span>
+              <span>🏆<small>2016</small></span>
             </div>
+          </div>
 
-            <p class="detail">📅 13/05/2026 - 21:30</p>
-            <p class="detail">📍 Allianz Parque</p>
-          </section>
+          <button class="start-career">▶ Iniciar carreira</button>
+        </div>
 
-          <section class="panel news">
-            <h3>NOTÍCIAS</h3>
-            <article>
-              <img src="news-player.svg" alt="" />
-              <div>
-                <p>Palmeiras anuncia renovação de contrato de jovem promessa</p>
-                <small>10/05/2026</small>
-              </div>
-            </article>
-            <article>
-              <img src="news-stadium.svg" alt="" />
-              <div>
-                <p>Corinthians fecha acordo por novo patrocinador máster</p>
-                <small>09/05/2026</small>
-              </div>
-            </article>
-            <article>
-              <img src="news-flamengo.svg" alt="" />
-              <div>
-                <p>Flamengo prepara oferta por atacante europeu</p>
-                <small>09/05/2026</small>
-              </div>
-            </article>
-            <button class="secondary">VER TODAS</button>
-          </section>
-        </aside>
       </section>
+
+      <section class="features">
+        <div>
+          <strong>🔀 Total liberdade</strong>
+          <p>Tome decisões, contrate jogadores, defina táticas e leve seu clube ao topo.</p>
+        </div>
+
+        <div>
+          <strong>📈 Gestão completa</strong>
+          <p>Gerencie finanças, infraestrutura, base e todos os aspectos do clube.</p>
+        </div>
+
+        <div>
+          <strong>👑 Seu legado</strong>
+          <p>Construa sua história e torne-se uma lenda do futebol brasileiro.</p>
+        </div>
+      </section>
+
     </main>
+
   </div>
 
   <script src="script.js"></script>
