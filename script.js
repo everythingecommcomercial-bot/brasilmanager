@@ -17,7 +17,7 @@ const clubes = {
     nome: "Flamengo",
     nomeCompleto: "Clube de Regatas do Flamengo",
     logo: "emblemas/clubes/flamengo.png",
-    estrelas: "★★★★★",
+    estrelas: "★★★★☆",
     estadio: "Maracanã",
     capacidade: "78.838",
     fundacao: "15/11/1895",
@@ -156,7 +156,109 @@ saopaulo: {
     conquistas: ["2004", "2002", "1968", "1965", "1964"]
  },
 
-  
+   vasco: {
+   nome: "Vasco",
+   nomeCompleto: "Club de Regatas Vasco da Gama",
+   logo: "emblemas/clubes/vasco.png",
+   estrelas: "★★★☆☆",
+   estadio: "São Januário",
+   capacidade: "21.880",
+   fundacao: "21/08/1898",
+   financas: "Fraco",
+   reputacao: "Nacional",
+   conquistas: ["2000", "1997", "1989", "1974"]
+},
+
+   rbbragantino: {
+   nome: "RB Bragantino",
+   nomeCompleto: "Red Bull Bragantino",
+   logo: "emblemas/clubes/rbbragantino.png",
+   estrelas: "★★★☆☆",
+   estadio: "Nabi Abi Chedid",
+   capacidade: "12.000",
+   fundacao: "08/01/1928",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},
+
+   mirassol: {
+   nome: "Mirassol",
+   nomeCompleto: "Mirassol Futebol Clube",
+   logo: "emblemas/clubes/mirassol.png",
+   estrelas: "★★⯨☆☆",
+   estadio: "Maião",
+   capacidade: "15.000",
+   fundacao: "09/11/1925",
+   financas: "Fraco",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+   chapecoense: {
+   nome: "Chapecoense",
+   nomeCompleto: "Associação Chapecoense de Futebol",
+   logo: "emblemas/clubes/chapecoense.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Arena Condá",
+   capacidade: "20.089",
+   fundacao: "10/05/1973",
+   financas: "Muito Fraco",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+   coritiba: {
+   nome: "Coritiba",
+   nomeCompleto: "Coritiba Football Club",
+   logo: "emblemas/clubes/coritiba.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Couto Pereira",
+   capacidade: "40.502",
+   fundacao: "12/10/1909",
+   financas: "Muito Fraco",
+   reputacao: "Nacional",
+   conquistas: ["1985"]
+},  
+
+   bahia: {
+   nome: "Bahia",
+   nomeCompleto: "Esporte Clube Bahia",
+   logo: "emblemas/clubes/bahia.png",
+   estrelas: "★★★⯨☆",
+   estadio: "Arena Fonte Nova",
+   capacidade: "20.089",
+   fundacao: "01/01/1931",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: ["1988", "1959"]
+},  
+
+   vitoria: {
+   nome: "Vitória",
+   nomeCompleto: "Esporte Clube Vitória",
+   logo: "emblemas/clubes/vitoria.png",
+   estrelas: "★★⯨☆☆",
+   estadio: "Barradão",
+   capacidade: "34.535",
+   fundacao: "13/05/1899",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+   remo: {
+   nome: "Remo",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/remo.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
 };
 
 let clubeSelecionado = "palmeiras";
