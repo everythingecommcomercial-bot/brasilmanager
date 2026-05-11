@@ -491,3 +491,49 @@ body {
 .yellow {
   color: #ffd43b !important;
 }
+
+.topbar {
+  padding: 18px 28px;
+}
+
+.top-info {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1.2fr 70px 70px 1.2fr 1fr 1fr 1.4fr;
+  align-items: center;
+  gap: 34px;
+}
+
+.top-item span {
+  display: block;
+  color: #a7b8b1;
+  font-size: 14px;
+  margin-bottom: 5px;
+}
+
+.top-item strong {
+  color: #fff;
+  font-size: 18px;
+}
+
+.manager-photo,
+.top-club-logo {
+  width: 64px;
+  height: 64px;
+  object-fit: contain;
+  border-radius: 12px;
+}
+
+.manager-photo {
+  background: rgba(255,255,255,.06);
+  border: 1px solid rgba(0,255,120,.2);
+}
+
+.money-box {
+  justify-self: end;
+  text-align: right;
+}
+
+.money-box strong {
+  font-size: 20px;
+}
