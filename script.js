@@ -185,6 +185,11 @@ function selecionarClube(id) {
   document.getElementById("clubReputation").textContent =
     clube.reputacao;
 
+  document.getElementById("clubAchievements").innerHTML =
+  clube.conquistas
+    .map(ano => `<span>🏆<small>${ano}</small></span>`)
+    .join("");
+  
   atualizarCards(id);
 
 }
