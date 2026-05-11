@@ -500,43 +500,6 @@ function preencherTela() {
   document.getElementById("clubPanelFullName").textContent = clube.nomeCompleto;
   document.getElementById("clubStars").textContent = clube.estrelas;
 
-  const mandante =
-  clubes[proximoJogo.mandante];
-
-  document.getElementById("nextMatchHomeLogo").src =
-  mandante.logo;
-
-  document.getElementById("nextMatchHome").textContent =
-  mandante.nome;
-  document.getElementById("matchStadium").textContent = "🏟 " + clube.estadio;
-
-  document.getElementById("tableClubName").textContent = clube.nome;
-  document.getElementById("financeMoney").textContent = clube.dinheiro;
-  document.getElementById("starPlayer").textContent = clube.destaque;
-  
-const fotoJogador =
-  document.getElementById("starPlayerImage");
-
-fotoJogador.src =
-  clube.fotoJogador || "jogadoresbra/padrao.png";
-
-fotoJogador.alt =
-  clube.destaque;
-  document.getElementById("clubNews").textContent =
-    clube.nome + " renova contrato de promessa da base";
-}
-
-function preencherTela() {
-  document.getElementById("topClubLogo").src = clube.logo;
-  document.getElementById("topClubName").textContent = clube.nome;
-  document.getElementById("topMoney").textContent = clube.dinheiro;
-  document.getElementById("topStars").textContent = clube.estrelas;
-
-  document.getElementById("clubPanelLogo").src = clube.logo;
-  document.getElementById("clubPanelName").textContent = clube.nome;
-  document.getElementById("clubPanelFullName").textContent = clube.nomeCompleto;
-  document.getElementById("clubStars").textContent = clube.estrelas;
-
   if (proximoJogo) {
     const mandante = clubes[proximoJogo.mandante];
     const visitante = clubes[proximoJogo.visitante];
@@ -556,6 +519,15 @@ function preencherTela() {
   document.getElementById("tableClubName").textContent = clube.nome;
   document.getElementById("financeMoney").textContent = clube.dinheiro;
   document.getElementById("starPlayer").textContent = clube.destaque;
+
+  const fotoJogador =
+    document.getElementById("starPlayerImage");
+
+  fotoJogador.src =
+    clube.fotoJogador || "jogadoresbra/padrao.png";
+
+  fotoJogador.alt =
+    clube.destaque;
 
   document.getElementById("clubNews").textContent =
     clube.nome + " renova contrato de promessa da base";
