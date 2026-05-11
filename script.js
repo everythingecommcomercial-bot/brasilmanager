@@ -251,3 +251,19 @@ clubCards.forEach(card => {
 });
 
 selecionarClube(clubeSelecionado);
+
+function abrirClubesModal() {
+
+  document
+    .getElementById("clubesModal")
+    .classList.add("show");
+
+}
+
+function fecharClubesModal() {
+
+  document
+    .getElementById("clubesModal")
+    .classList.remove("show");
+
+}
