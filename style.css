@@ -481,3 +481,10 @@ select {
   min-width: 120px;
   text-align: right;
 }
+
+.panel h3 {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  line-height: 1.2;
+}
