@@ -197,11 +197,10 @@
           <button class="show-all">Ver todos clubes</button>
         </div>
 
-       <div class="panel club-info-panel">
+      <div class="panel club-info-panel">
   <h3>Informações do clube</h3>
 
   <div class="selected-club">
-
     <img
       id="clubLogo"
       src="emblemas/clubes/palmeiras.png"
@@ -219,32 +218,31 @@
         ★★★★☆
       </div>
 
-       <div class="achievements">
-            <h4>Últimas conquistas</h4>
-            <div>
-              <span>🏆<small>2023</small></span>
-              <span>🏆<small>2022</small></span>
-              <span>🏆<small>2020</small></span>
-              <span>🏆<small>2018</small></span>
-              <span>🏆<small>2016</small></span>
-            </div>
-         
-          <div class="info-list">
-            <div><span>🏟 Estádio</span><strong>Allianz Parque</strong></div>
-            <div><span>👥 Capacidade</span><strong>43.713</strong></div>
-            <div><span>📅 Fundação</span><strong>26/08/1914</strong></div>
-            <div><span>💰 Finanças</span><strong>Muito Forte</strong></div>
-            <div><span>⭐ Reputação</span><strong>Mundial</strong></div>
-          </div>
-
-         
+      <div class="achievements">
+        <h4>Últimas conquistas</h4>
+        <div>
+          <span>🏆<small>2023</small></span>
+          <span>🏆<small>2022</small></span>
+          <span>🏆<small>2020</small></span>
+          <span>🏆<small>2018</small></span>
+          <span>🏆<small>2016</small></span>
         </div>
-    
-          </div>
-
-          <button class="start-career">▶ Iniciar carreira</button>
-        
+      </div>
     </div>
+  </div>
+
+  <div class="info-list">
+    <div><span>🏟 Estádio</span><strong id="clubStadium">Allianz Parque</strong></div>
+    <div><span>👥 Capacidade</span><strong id="clubCapacity">43.713</strong></div>
+    <div><span>📅 Fundação</span><strong id="clubFounded">26/08/1914</strong></div>
+    <div><span>💰 Finanças</span><strong id="clubFinance">Muito Forte</strong></div>
+    <div><span>⭐ Reputação</span><strong id="clubReputation">Mundial</strong></div>
+  </div>
+
+  <button class="start-career" onclick="iniciarCarreira()">
+    ▶ Iniciar carreira
+  </button>
+</div>
  
       </section>
 
