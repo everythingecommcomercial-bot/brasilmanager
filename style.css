@@ -349,8 +349,13 @@ select {
   color: #35ff63;
 }
 
+.club-info-panel {
+  display: flex;
+  flex-direction: column;
+}
+
 .achievements {
-  margin-top: 25px;
+  margin-top: 35px;
 }
 
 .achievements div {
@@ -371,7 +376,7 @@ select {
 
 .start-career {
   width: 100%;
-  margin-top: 28px;
+  margin-top: 80px;
   padding: 18px;
   border: 1px solid #35ff63;
   border-radius: 8px;
