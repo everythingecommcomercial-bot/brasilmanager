@@ -209,12 +209,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/americamineiro.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   crb: {
@@ -222,12 +219,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/crb.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   fortaleza: {
@@ -235,25 +229,29 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/fortaleza.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
+   sport: {
+   nome: "Sport Recife",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/sport.png",
+   estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
+   estadio: "Baenão",
+   destaque: "Patrick de Paula"
+},  
+  
   nautico: {
    nome: "Náutico",
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/nautico.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   criciuma: {
@@ -261,12 +259,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/criciuma.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   operario: {
@@ -274,12 +269,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/operario.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   vilanova: {
@@ -287,12 +279,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/vila nova.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   saobernardo: {
@@ -300,12 +289,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/saobernardo.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   gremionovorizontino: {
@@ -313,12 +299,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/gremionovorizontino.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   goias: {
@@ -326,12 +309,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/goias.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   juventude: {
@@ -339,12 +319,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/juventude.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   atleticogo: {
@@ -352,23 +329,10 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/atleticogoianiense.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
-},  
-
-  sport: {
-    nome: "Sport Recife",
-    nomeCompleto: "Sport Club do Recife",
-    logo: "emblemas/clubes/sport.png",
-    estrelas: "★★★☆☆",
-    dinheiro: "R$ 38.000.000",
-    estadio: "Ilha do Retiro",
-    destaque: "Lucas Lima"
-  }
+   destaque: "Patrick de Paula"
+  },
 };
 
 function gerarCalendarioLiga(clubesDaLiga) {
