@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modo Carreira - Brasileirão Manager</title>
+  <link rel="stylesheet" href="carreira.css">
+</head>
+<body>
+
+<div class="career-layout">
+
+  <aside class="sidebar">
+    <div class="logo-area">
+      <img src="logo-jogo.png" alt="Brasileirão Manager 2026">
+    </div>
+
+    <nav class="menu">
+      <button class="active">🏠 Início</button>
+      <button>🛡 Meu Clube</button>
+      <button>👥 Elenco</button>
+      <button>⚙ Táticas</button>
+      <button>🔄 Transferências</button>
+      <button>📅 Calendário</button>
+      <button>🏆 Competições</button>
+      <button>📊 Tabela</button>
+      <button>💰 Finanças</button>
+      <button>⚙ Configurações</button>
+    </nav>
+
+    <button class="continue-btn">▶ CONTINUAR TEMPORADA</button>
+  </aside>
+
+  <main class="main-content">
+
+    <header class="topbar">
+      <div class="club-header">
+        <img id="topClubLogo" src="" alt="Clube">
+
+        <div>
+          <span>Treinador</span>
+          <strong id="managerName">João Silva</strong>
+        </div>
+
+        <div>
+          <span>Clube</span>
+          <strong id="topClubName">Palmeiras</strong>
+        </div>
+
+        <div>
+          <span>Saldo</span>
+          <strong id="topMoney" class="money">R$ 125.430.000</strong>
+        </div>
+
+        <div>
+          <span>Temporada</span>
+          <strong>2026</strong>
+        </div>
+
+        <div>
+          <span>Reputação</span>
+          <strong id="topStars" class="stars-small">★★★★★</strong>
+        </div>
+      </div>
+
+      <div class="top-icons">
+        <button>✉</button>
+        <button>🔔</button>
+        <button>⚙</button>
+      </div>
+    </header>
+
+    <section class="dashboard-grid">
+
+      <div class="panel next-match">
+        <h2>PRÓXIMO JOGO</h2>
+
+        <div class="match-card">
+          <div class="team">
+            <img id="nextMatchHomeLogo" src="" alt="Casa">
+            <h3 id="nextMatchHome">Palmeiras</h3>
+          </div>
+
+          <div class="match-center">
+            <span class="league">🏆 Brasileirão Série A</span>
+            <div class="vs">X</div>
+            <p id="matchStadium">🏟 Allianz Parque</p>
+            <p>📅 13/05/2026</p>
+            <p>🕒 19:00</p>
+          </div>
+
+          <div class="team">
+            <img src="emblemas/clubes/flamengo.png" alt="Visitante">
+            <h3>Flamengo</h3>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel my-club">
+        <h2>MEU CLUBE</h2>
+
+        <div class="club-info-card">
+          <img id="clubPanelLogo" src="" alt="Clube">
+
+          <h3 id="clubPanelName">Palmeiras</h3>
+          <p id="clubPanelFullName">Sociedade Esportiva Palmeiras</p>
+
+          <div id="clubStars" class="stars">★★★★★</div>
+
+          <div class="club-stats">
+            <div>
+              <span>Elenco</span>
+              <strong>30</strong>
+            </div>
+
+            <div>
+              <span>Média Idade</span>
+              <strong>26,4</strong>
+            </div>
+
+            <div>
+              <span>Moral</span>
+              <strong class="green">Muito Alta</strong>
+            </div>
+          </div>
+
+          <div class="formation">
+            <span>Formação Padrão</span>
+            <strong>4-2-3-1</strong>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel news-panel">
+        <h2>ÚLTIMAS NOTÍCIAS</h2>
+
+        <div class="news-item">
+          <div class="news-thumb">📰</div>
+          <div>
+            <p>Flamengo negocia contratação de atacante europeu</p>
+            <small>2 horas atrás</small>
+          </div>
+        </div>
+
+        <div class="news-item">
+          <div class="news-thumb">📰</div>
+          <div>
+            <p>Corinthians fecha novo acordo de patrocínio</p>
+            <small>5 horas atrás</small>
+          </div>
+        </div>
+
+        <div class="news-item">
+          <div class="news-thumb">📰</div>
+          <div>
+            <p id="clubNews">Palmeiras renova contrato de promessa da base</p>
+            <small>1 dia atrás</small>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel table-panel">
+        <h2>CLASSIFICAÇÃO</h2>
+
+        <table>
+          <thead>
+            <tr>
+              <th>POS</th>
+              <th>CLUBE</th>
+              <th>PTS</th>
+              <th>J</th>
+              <th>V</th>
+              <th>SG</th>
+            </tr>
+          </thead>
+
+          <tbody>
+            <tr class="highlight">
+              <td>1</td>
+              <td id="tableClubName">Palmeiras</td>
+              <td>21</td>
+              <td>8</td>
+              <td>7</td>
+              <td>12</td>
+            </tr>
+
+            <tr>
+              <td>2</td>
+              <td>Flamengo</td>
+              <td>19</td>
+              <td>8</td>
+              <td>6</td>
+              <td>10</td>
+            </tr>
+
+            <tr>
+              <td>3</td>
+              <td>Corinthians</td>
+              <td>17</td>
+              <td>8</td>
+              <td>5</td>
+              <td>7</td>
+            </tr>
+
+            <tr>
+              <td>4</td>
+              <td>Atlético-MG</td>
+              <td>16</td>
+              <td>8</td>
+              <td>5</td>
+              <td>6</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <button class="panel-btn">VER TABELA COMPLETA ›</button>
+      </div>
+
+      <div class="panel finances-panel">
+        <h2>FINANÇAS</h2>
+
+        <div class="finance-line">
+          <span>Receita</span>
+          <strong class="green">+ R$ 18.250.000</strong>
+        </div>
+
+        <div class="finance-line">
+          <span>Despesas</span>
+          <strong class="red">- R$ 9.300.000</strong>
+        </div>
+
+        <div class="finance-line">
+          <span>Lucro</span>
+          <strong class="green">+ R$ 8.950.000</strong>
+        </div>
+
+        <div class="finance-line">
+          <span>Saldo</span>
+          <strong id="financeMoney" class="green">R$ 125.430.000</strong>
+        </div>
+      </div>
+
+      <div class="panel player-highlight">
+        <h2>DESTAQUE DO ELENCO</h2>
+
+        <div class="player-card">
+          <div class="player-photo">⚽</div>
+
+          <div>
+            <h3 id="starPlayer">Endrick</h3>
+            <p>Atacante</p>
+            <strong>GER 84</strong>
+          </div>
+        </div>
+
+        <button class="panel-btn">VER ELENCO ›</button>
+      </div>
+
+    </section>
+
+    <footer class="footer">
+      <span>Versão 1.0.0</span>
+      <span class="green">🟢 Online</span>
+      <span>04/05/2026</span>
+    </footer>
+
+  </main>
+
+</div>
+
+<script src="carreira.js"></script>
+</body>
+</html>
