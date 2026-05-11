@@ -391,7 +391,7 @@ function gerarCalendarioLiga(clubesDaLiga) {
   return [...calendario, ...returno];
 }
 
-const clubesbrasileiraoserieb = [
+const clubesbrasileiraoseriea = [
   "flamengo",
   "vasco",
   "fluminense",
@@ -406,30 +406,28 @@ const clubesbrasileiraoserieb = [
   "gremio",
   "athleticopr",
   "coritiba",
-  "chapecoense"
-  "atleticomg"
-  "cruzeiro"
-  "remo"
-  "bahia"
+  "chapecoense",
+  "atleticomg",
+  "cruzeiro",
+  "remo",
+  "bahia",
   "vitoria"
 ];
 
 const clubesbrasileiraoserieb = [
-  "sport",
-  "goias",
   "americamg",
-  "atleticogo",
-  "vilanova",
-  "gremionovorizontino",
-  "fortaleza",
   "crb",
-  "juventude",
-  "operario",
-  "saobernardo",
+  "fortaleza",
+  "sport",
+  "nautico",
   "criciuma",
-  "avai",
-  "botafogoribeirao",
-  "athletic"
+  "operario",
+  "vilanova",
+  "saobernardo",
+  "gremionovorizontino",
+  "goias",
+  "juventude",
+  "atleticogo"
 ];
 
 const calendariobrasileiraoseriea =
@@ -457,7 +455,7 @@ const clube =
 const calendario =
   JSON.parse(
     localStorage.getItem(
-      ligaSelecionada === "brasileiraoserieb"
+      clubesbrasileiraoserieb.includes(clubeSelecionado)
         ? "calendariobrasileiraoserieb"
         : "calendariobrasileiraoseriea"
     )
