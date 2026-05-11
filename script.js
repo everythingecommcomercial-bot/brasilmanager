@@ -259,9 +259,238 @@ saopaulo: {
    reputacao: "Nacional",
    conquistas: []
 },  
+
+  americamg: {
+   nome: "América-MG",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/americamineiro.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  crb: {
+   nome: "CRB",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/crb.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  fortaleza: {
+   nome: "Fortaleza",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/fortaleza.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  sport: {
+   nome: "Sport Recife",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/sport.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  nautico: {
+   nome: "Náutico",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/nautico.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  criciuma: {
+   nome: "Criciúma",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/criciuma.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  operario: {
+   nome: "Operário",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/operario.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  vilanova: {
+   nome: "Vila Nova",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/vilanova.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  saobernardo: {
+   nome: "São Bernardo",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/saobernardo.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  gremionovorizontino: {
+   nome: "Grêmio Novorizontino",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/gremionovorizontino.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  goias: {
+   nome: "Goiás",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/goias.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  juventude: {
+   nome: "Juventude",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/juventude.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+
+  atleticogo: {
+   nome: "Atlético-GO",
+   nomeCompleto: "Clube do Remo",
+   logo: "emblemas/clubes/atleticogoianiense.png",
+   estrelas: "★★☆☆☆",
+   estadio: "Baenão",
+   capacidade: "13.792",
+   fundacao: "05/02/1905",
+   financas: "Médio",
+   reputacao: "Nacional",
+   conquistas: []
+},  
+};
+
+const clubesPorLiga = {
+
+  "brasileiraoseriea": [
+    "palmeiras",
+    "flamengo",
+    "corinthians",
+    "atleticomg",
+    "cruzeiro",
+    "vasco",
+    "fluminense",
+    "botafogo",
+    "santos",
+    "saopaulo",
+    "rbbragantino",
+    "mirassol",
+    "gremio",
+    "internacional",
+    "chapecoense",
+    "athleticopr",
+    "coritiba",
+    "vitoria",
+    "bahia",
+    "remo",
+    
+  ],
+
+  "brasileiraoserieb": [
+    "sport",
+    "goias",
+    "americamg"
+    "atleticogo"
+    "vilanova"
+    "gremionovorizontino"
+    "fortaleza"
+    "crb"
+    "juventude"
+    "operario"
+    "saobernardo"
+    "criciuma"
+    "nautico"
+  
+  ]
+
 };
 
 let clubeSelecionado = "palmeiras";
+
+let ligaSelecionada = "serie-a";
+
+function selecionarLiga(liga) {
+
+  ligaSelecionada = liga;
+
+  renderizarClubesDaLiga(liga);
+
+  const primeiroClube =
+    clubesPorLiga[liga][0];
+
+  selecionarClube(primeiroClube);
+
+}
 
 function selecionarClube(id) {
 
