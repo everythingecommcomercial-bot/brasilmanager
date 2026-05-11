@@ -36,7 +36,7 @@ const clubes = {
     reputacao: "Continental"
   },
   
- atletico-mg: {
+ atleticomg: {
     nome: "Atlétcio-MG",
     nomeCompleto: "Clube Atlético Mineiro",
     logo: "emblemas/clubes/atleticomineiro.png",
@@ -120,7 +120,7 @@ saopaulo: {
     reputacao: "Continental"
  },
 
-    athletico-pr: {
+    athleticopr: {
     nome: "Athletico-PR",
     nomeCompleto: "Club Athletico Paranaense",
     logo: "emblemas/clubes/athleticoparanaense.png",
