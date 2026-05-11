@@ -39,7 +39,7 @@ const clubes = {
  atleticomg: {
     nome: "Atlétcio-MG",
     nomeCompleto: "Clube Atlético Mineiro",
-    logo: "emblemas/clubes/atleticomineiro.png",
+    logo: "emblemas/clubes/atleticomg.png",
     estrelas: "★★★⯨☆",
     estadio: "MRV Arena",
     capacidade: "44.892",
