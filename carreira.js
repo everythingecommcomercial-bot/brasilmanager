@@ -497,6 +497,10 @@ const proximoJogo =
 function preencherTela() {
   document.getElementById("topClubLogo").src = clube.logo;
   document.getElementById("topClubName").textContent = clube.nome;
+  const fotoTreinador = localStorage.getItem("fotoTreinador");
+
+if (fotoTreinador) { document.getElementById("managerPhoto").src = fotoTreinador; }
+  
   document.getElementById("topMoney").textContent = clube.dinheiro;
   document.getElementById("topStars").textContent = clube.estrelas;
 
