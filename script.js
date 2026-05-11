@@ -1,115 +1,125 @@
-const clubs = [
-  {
-    id: "palmeiras",
-    name: "Palmeiras",
-    logo: "palmeiras.webp",
-    prestige: "★★★★★",
-    squad: 83,
-    finance: "Muito Bom",
-    structure: "Excelente",
-    money: "R$ 125.430.000"
+const clubes = {
+
+  palmeiras: {
+    nome: "Palmeiras",
+    nomeCompleto: "Sociedade Esportiva Palmeiras",
+    logo: "emblemas/clubes/palmeiras.png",
+    estrelas: "★★★★☆",
+    estadio: "Allianz Parque",
+    capacidade: "43.713",
+    fundacao: "26/08/1914",
+    financas: "Muito Forte",
+    reputacao: "Mundial"
   },
-  {
-    id: "corinthians",
-    name: "Corinthians",
-    logo: "corinthians.png",
-    prestige: "★★★★☆",
-    squad: 80,
-    finance: "Bom",
-    structure: "Muito Bom",
-    money: "R$ 88.200.000"
+
+  flamengo: {
+    nome: "Flamengo",
+    nomeCompleto: "Clube de Regatas do Flamengo",
+    logo: "emblemas/clubes/flamengo.png",
+    estrelas: "★★★★★",
+    estadio: "Maracanã",
+    capacidade: "78.838",
+    fundacao: "15/11/1895",
+    financas: "Muito Forte",
+    reputacao: "Mundial"
   },
-  {
-    id: "flamengo",
-    name: "Flamengo",
-    logo: "flamengo.png",
-    prestige: "★★★★★",
-    squad: 84,
-    finance: "Muito Bom",
-    structure: "Excelente",
-    money: "R$ 142.700.000"
+
+  corinthians: {
+    nome: "Corinthians",
+    nomeCompleto: "Sport Club Corinthians Paulista",
+    logo: "emblemas/clubes/corinthians.png",
+    estrelas: "★★★★☆",
+    estadio: "Neo Química Arena",
+    capacidade: "49.205",
+    fundacao: "01/09/1910",
+    financas: "Forte",
+    reputacao: "Continental"
   }
-];
 
-const table = [
-  { pos: 1, club: "Palmeiras", logo: "palmeiras.webp", j: 5, v: 4, e: 1, d: 0, gp: 10, gc: 2, sg: 8, pts: 13 },
-  { pos: 2, club: "Flamengo", logo: "flamengo.png", j: 5, v: 4, e: 0, d: 1, gp: 11, gc: 4, sg: 7, pts: 12 },
-  { pos: 3, club: "Corinthians", logo: "corinthians.png", j: 5, v: 3, e: 1, d: 1, gp: 8, gc: 4, sg: 4, pts: 10 },
-  { pos: 4, club: "Atlético-MG", logo: "atletico.svg", j: 5, v: 3, e: 1, d: 1, gp: 7, gc: 5, sg: 2, pts: 10 },
-  { pos: 5, club: "São Paulo", logo: "saopaulo.svg", j: 5, v: 2, e: 2, d: 1, gp: 6, gc: 4, sg: 2, pts: 8 }
-];
+};
 
-let currentClub = clubs[0];
+let clubeSelecionado = "palmeiras";
 
-function renderClubs() {
-  const grid = document.getElementById("clubGrid");
-  grid.innerHTML = "";
+function selecionarClube(id) {
 
-  clubs.forEach((club) => {
-    const card = document.createElement("div");
-    card.className = `club-card ${club.id === currentClub.id ? "active" : ""}`;
+  clubeSelecionado = id;
 
-    card.innerHTML = `
-      <img src="${club.logo}" alt="${club.name}">
-      <h2>${club.name.toUpperCase()}</h2>
-      <div class="info-row"><span>Prestígio</span><span class="stars">${club.prestige}</span></div>
-      <div class="info-row"><span>Elenco</span><b>${club.squad}</b></div>
-      <div class="info-row"><span>Finanças</span><b>${club.finance}</b></div>
-      <div class="info-row"><span>Estrutura</span><b>${club.structure}</b></div>
-      <button>ESCOLHER CLUBE</button>
-    `;
+  const clube = clubes[id];
 
-    card.querySelector("button").addEventListener("click", () => selectClub(club.id));
-    grid.appendChild(card);
-  });
+  document.getElementById("clubLogo").src =
+    clube.logo;
+
+  document.getElementById("clubLogo").alt =
+    clube.nome;
+
+  document.getElementById("clubName").textContent =
+    clube.nome;
+
+  document.getElementById("clubFullName").textContent =
+    clube.nomeCompleto;
+
+  document.getElementById("clubStars").textContent =
+    clube.estrelas;
+
+  document.getElementById("clubStadium").textContent =
+    clube.estadio;
+
+  document.getElementById("clubCapacity").textContent =
+    clube.capacidade;
+
+  document.getElementById("clubFounded").textContent =
+    clube.fundacao;
+
+  document.getElementById("clubFinance").textContent =
+    clube.financas;
+
+  document.getElementById("clubReputation").textContent =
+    clube.reputacao;
+
+  atualizarCards(id);
+
 }
 
-function renderTable() {
-  const tbody = document.getElementById("tableBody");
-  tbody.innerHTML = "";
+function atualizarCards(idSelecionado) {
 
-  table.forEach((row) => {
-    const tr = document.createElement("tr");
-    if (row.club.toLowerCase() === currentClub.name.toLowerCase()) tr.classList.add("active");
+  const cards =
+    document.querySelectorAll(".club-card");
 
-    tr.innerHTML = `
-      <td>${row.pos}</td>
-      <td><div class="league-club"><img src="${row.logo}" alt="">${row.club}</div></td>
-      <td>${row.j}</td>
-      <td>${row.v}</td>
-      <td>${row.e}</td>
-      <td>${row.d}</td>
-      <td>${row.gp}</td>
-      <td>${row.gc}</td>
-      <td>${row.sg}</td>
-      <td>${row.pts}</td>
-    `;
-    tbody.appendChild(tr);
+  cards.forEach(card => {
+
+    card.classList.remove("active");
+
+    if(card.dataset.club === idSelecionado) {
+      card.classList.add("active");
+    }
+
   });
+
 }
 
-function selectClub(id) {
-  currentClub = clubs.find((club) => club.id === id);
+function iniciarCarreira() {
 
-  document.getElementById("currentClub").textContent = currentClub.name;
-  document.getElementById("currentLogo").src = currentClub.logo;
-  document.getElementById("money").textContent = currentClub.money;
-  document.getElementById("matchHome").textContent = currentClub.name.toUpperCase();
-  document.getElementById("matchHomeLogo").src = currentClub.logo;
+  localStorage.setItem(
+    "clubeSelecionado",
+    clubeSelecionado
+  );
 
-  renderClubs();
-  renderTable();
+  window.location.href = "carreira.html";
+
 }
 
-document.querySelectorAll(".menu button").forEach((button) => {
-  button.addEventListener("click", () => {
-    document.querySelectorAll(".menu button").forEach((b) => b.classList.remove("active"));
-    button.classList.add("active");
+const clubCards =
+  document.querySelectorAll(".club-card");
+
+clubCards.forEach(card => {
+
+  card.addEventListener("click", () => {
+
+    const clubeId =
+      card.dataset.club;
+
+    selecionarClube(clubeId);
+
   });
+
 });
-
-renderClubs();
-renderTable();
-function continuarCarreira() {
-  alert("Carreira carregada!");
-}
