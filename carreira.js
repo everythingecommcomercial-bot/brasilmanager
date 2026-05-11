@@ -6,7 +6,7 @@ const clubes = {
     nome: "Palmeiras",
     nomeCompleto: "Sociedade Esportiva Palmeiras",
     logo: "emblemas/clubes/palmeiras.png",
-    estrelas: "★★★★★",
+    estrelas: "★★★★☆",
     dinheiro: "R$ 125.430.000",
     estadio: "Allianz Parque",
     destaque: "Gustavo Gómez"
@@ -16,7 +16,7 @@ const clubes = {
     nome: "Flamengo",
     nomeCompleto: "Clube de Regatas do Flamengo",
     logo: "emblemas/clubes/flamengo.png",
-    estrelas: "★★★★★",
+    estrelas: "★★★★☆",
     dinheiro: "R$ 142.700.000",
     estadio: "Maracanã",
     destaque: "Giorgian De Arrascaeta"
@@ -26,7 +26,7 @@ const clubes = {
     nome: "Corinthians",
     nomeCompleto: "Sport Club Corinthians Paulista",
     logo: "emblemas/clubes/corinthians.png",
-    estrelas: "★★★★☆",
+    estrelas: "★★★⯨☆",
     dinheiro: "R$ 88.200.000",
     estadio: "Neo Química Arena",
     destaque: "Memphis"
@@ -36,7 +36,7 @@ const clubes = {
     nome: "Atlético-MG",
     nomeCompleto: "Clube Atlético Mineiro",
     logo: "emblemas/clubes/atleticomineiro.png",
-    estrelas: "★★★★☆",
+    estrelas: "★★★⯨☆",
     dinheiro: "R$ 96.500.000",
     estadio: "Arena MRV",
     destaque: "Everson"
