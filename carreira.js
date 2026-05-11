@@ -446,9 +446,6 @@ localStorage.setItem(
   JSON.stringify(calendariobrasileiraoserieb)
 );
 
-alert("Clube salvo: " + clubeSelecionado);
-
-
 const clube =
   clubes[clubeSelecionado] || clubes.palmeiras;
 
