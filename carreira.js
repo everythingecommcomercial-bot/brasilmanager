@@ -20,7 +20,7 @@ const clubes = {
     dinheiro: "R$ 142.700.000",
     estadio: "Maracanã",
     destaque: "Giorgian De Arrascaeta",
-    fotojogador: "jogadores/brseriea/arrascaeta.png"
+    fotojogador: "jogadoresbra/arrascaeta.png"
   },
 
   corinthians: {
