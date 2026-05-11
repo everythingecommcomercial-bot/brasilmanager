@@ -9,7 +9,7 @@ const clubes = {
     estrelas: "★★★★★",
     dinheiro: "R$ 125.430.000",
     estadio: "Allianz Parque",
-    destaque: "Endrick"
+    destaque: "Gustavo Gómez"
   },
 
   flamengo: {
@@ -19,7 +19,7 @@ const clubes = {
     estrelas: "★★★★★",
     dinheiro: "R$ 142.700.000",
     estadio: "Maracanã",
-    destaque: "Pedro"
+    destaque: "Giorgian De Arrascaeta"
   },
 
   corinthians: {
@@ -38,18 +38,18 @@ const clubes = {
     logo: "emblemas/clubes/atleticomineiro.png",
     estrelas: "★★★★☆",
     dinheiro: "R$ 96.500.000",
-    estadio: "MRV Arena",
-    destaque: "Hulk"
+    estadio: "Arena MRV",
+    destaque: "Everson"
   },
 
   "saopaulo": {
     nome: "São Paulo",
     nomeCompleto: "São Paulo Futebol Clube",
     logo: "emblemas/clubes/saopaulo.png",
-    estrelas: "★★★★☆",
+    estrelas: "★★★⯨☆",
     dinheiro: "R$ 78.400.000",
     estadio: "Morumbis",
-    destaque: "Lucas Moura"
+    destaque: "Luciano"
   },
 
   gremio: {
@@ -58,11 +58,9 @@ const clubes = {
     logo: "emblemas/clubes/gremio.png",
     estrelas: "★★★⯨☆",
     estadio: "Arena do Grêmio",
-    capacidade: "60.540",
-    fundacao: "15/09/1903",
-    financas: "Médio",
-    reputacao: "Continental",
-    conquistas: ["1996", "1981"]
+    dinheiro: "R$ 18.400.000",
+    estadio: "Arena do Grêmio",
+    destaque: "Arthur Melo"
  },
 
     internacional: {
@@ -70,12 +68,9 @@ const clubes = {
     nomeCompleto: "Sport Club Internacional",
     logo: "emblemas/clubes/internacional.png",
     estrelas: "★★★⯨☆",
+    dinheiro: "R$ 18.400.000",
     estadio: "Beira Rio",
-    capacidade: "50.842",
-    fundacao: "04/04/1909",
-    financas: "Fraco",
-    reputacao: "Continental",
-    conquistas: ["1979", "1976", "1975"]
+    destaque: "Rafael Borré"
  },
 
     fluminense: {
@@ -83,12 +78,9 @@ const clubes = {
     nomeCompleto: "Fluminense Football Club",
     logo: "emblemas/clubes/fluminense.png",
     estrelas: "★★★⯨☆",
+    dinheiro: "R$ 28.400.000",
     estadio: "Maracanã",
-    capacidade: "78.838",
-    fundacao: "21/07/1902",
-    financas: "Médio",
-    reputacao: "Continental",
-    conquistas: ["2012", "2010", "1984", "1970"]
+    destaque: "Martinelli"
  },
 
     botafogo: {
@@ -96,12 +88,9 @@ const clubes = {
     nomeCompleto: "Botafogo de Futebol e Regatas",
     logo: "emblemas/clubes/botafogo.png",
     estrelas: "★★★⯨☆",
+    dinheiro: "R$ 78.400.000",
     estadio: "Nilton Santos",
-    capacidade: "44.661",
-    fundacao: "08/12/1942",
-    financas: "Fraco",
-    reputacao: "Continental",
-    conquistas: ["2024", "1995", "1968"]
+    destaque: "Danilo Santos"
  },
 
     cruzeiro: {
@@ -109,12 +98,9 @@ const clubes = {
     nomeCompleto: "Cruzeiro Esporte Clube",
     logo: "emblemas/clubes/cruzeiro.png",
     estrelas: "★★★⯨☆",
+    dinheiro: "R$ 78.400.000",
     estadio: "Mineirão",
-    capacidade: "62.170",
-    fundacao: "02/01/1921",
-    financas: "Forte",
-    reputacao: "Continental",
-    conquistas: ["2014", "2013", "2003", "1966"]
+    destaque: "Kaio Jorge"
  },
 
     athleticopr: {
@@ -122,12 +108,9 @@ const clubes = {
     nomeCompleto: "Club Athletico Paranaense",
     logo: "emblemas/clubes/athleticoparanaense.png",
     estrelas: "★★★☆☆",
+    dinheiro: "R$ 78.400.000",
     estadio: "Ligga Arena",
-    capacidade: "42.372",
-    fundacao: "26/03/1924",
-    financas: "Médio",
-    reputacao: "Nacional",
-    conquistas: ["2001"]
+    destaque: "Kevin Viveros"
  },
 
 
@@ -146,12 +129,9 @@ const clubes = {
    nomeCompleto: "Club de Regatas Vasco da Gama",
    logo: "emblemas/clubes/vasco.png",
    estrelas: "★★★☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "São Januário",
-   capacidade: "21.880",
-   fundacao: "21/08/1898",
-   financas: "Fraco",
-   reputacao: "Continental",
-   conquistas: ["2000", "1997", "1989", "1974"]
+   destaque: "Léo Jardim"
 },
 
    rbbragantino: {
@@ -159,12 +139,9 @@ const clubes = {
    nomeCompleto: "Red Bull Bragantino",
    logo: "emblemas/clubes/rbbragantino.png",
    estrelas: "★★★☆☆",
-   estadio: "Nabi Abi Chedid",
-   capacidade: "12.000",
-   fundacao: "08/01/1928",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   dinheiro: "R$ 78.400.000",
+    estadio: "Nabi Abi Chedid",
+    destaque: "Juninho Capixaba"
 },
 
    mirassol: {
@@ -172,12 +149,9 @@ const clubes = {
    nomeCompleto: "Mirassol Futebol Clube",
    logo: "emblemas/clubes/mirassol.png",
    estrelas: "★★⯨☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Maião",
-   capacidade: "15.000",
-   fundacao: "09/11/1925",
-   financas: "Fraco",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Reinaldo"
 },  
 
    chapecoense: {
@@ -185,12 +159,9 @@ const clubes = {
    nomeCompleto: "Associação Chapecoense de Futebol",
    logo: "emblemas/clubes/chapecoense.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Arena Condá",
-   capacidade: "20.089",
-   fundacao: "10/05/1973",
-   financas: "Muito Fraco",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Carvalheira"
 },  
 
    coritiba: {
@@ -198,12 +169,9 @@ const clubes = {
    nomeCompleto: "Coritiba Football Club",
    logo: "emblemas/clubes/coritiba.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Couto Pereira",
-   capacidade: "40.502",
-   fundacao: "12/10/1909",
-   financas: "Muito Fraco",
-   reputacao: "Nacional",
-   conquistas: ["1985"]
+   destaque: "Pedro Morisco"
 },  
 
    bahia: {
@@ -211,12 +179,9 @@ const clubes = {
    nomeCompleto: "Esporte Clube Bahia",
    logo: "emblemas/clubes/bahia.png",
    estrelas: "★★★⯨☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Arena Fonte Nova",
-   capacidade: "20.089",
-   fundacao: "01/01/1931",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: ["1988", "1959"]
+   destaque: "Everton Ribeiro"
 },  
 
    vitoria: {
@@ -224,12 +189,9 @@ const clubes = {
    nomeCompleto: "Esporte Clube Vitória",
    logo: "emblemas/clubes/vitoria.png",
    estrelas: "★★⯨☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Barradão",
-   capacidade: "34.535",
-   fundacao: "13/05/1899",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Luan Cândido"
 },  
 
    remo: {
@@ -237,12 +199,9 @@ const clubes = {
    nomeCompleto: "Clube do Remo",
    logo: "emblemas/clubes/remo.png",
    estrelas: "★★☆☆☆",
+   dinheiro: "R$ 78.400.000",
    estadio: "Baenão",
-   capacidade: "13.792",
-   fundacao: "05/02/1905",
-   financas: "Médio",
-   reputacao: "Nacional",
-   conquistas: []
+   destaque: "Patrick de Paula"
 },  
 
   americamg: {
