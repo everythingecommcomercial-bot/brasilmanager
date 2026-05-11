@@ -492,6 +492,29 @@ function selecionarLiga(liga) {
 
 }
 
+function renderizarClubesDaLiga(liga) {
+  const grid = document.querySelector(".club-grid");
+
+  grid.innerHTML = "";
+
+  clubesPorLiga[liga].forEach(id => {
+    const clube = clubes[id];
+
+    grid.innerHTML += `
+      <button class="club-card" data-club="${id}">
+        <img src="${clube.logo}" alt="${clube.nome}">
+        <span>${clube.nome}</span>
+      </button>
+    `;
+  });
+
+  document.querySelectorAll(".club-card").forEach(card => {
+    card.addEventListener("click", () => {
+      selecionarClube(card.dataset.club);
+    });
+  });
+}
+
 function selecionarClube(id) {
 
   clubeSelecionado = id;
