@@ -335,8 +335,21 @@ const clubes = {
   },
 };
 
+function embaralharLista(lista) {
+  const novaLista = [...lista];
+
+  for (let i = novaLista.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+
+    [novaLista[i], novaLista[j]] =
+      [novaLista[j], novaLista[i]];
+  }
+
+  return novaLista;
+}
+
 function gerarCalendarioLiga(clubesDaLiga) {
-  let times = [...clubesDaLiga];
+  let times = embaralharLista(clubesDaLiga);
 
   if (times.length % 2 !== 0) {
     times.push("folga");
