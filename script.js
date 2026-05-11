@@ -452,23 +452,23 @@ const clubesPorLiga = {
     "coritiba",
     "vitoria",
     "bahia",
-    "remo",
+    "remo"
     
   ],
 
   "brasileiraoserieb": [
     "sport",
     "goias",
-    "americamg"
-    "atleticogo"
-    "vilanova"
-    "gremionovorizontino"
-    "fortaleza"
-    "crb"
-    "juventude"
-    "operario"
-    "saobernardo"
-    "criciuma"
+    "americamg",
+    "atleticogo",
+    "vilanova",
+    "gremionovorizontino",
+    "fortaleza",
+    "crb",
+    "juventude",
+    "operario",
+    "saobernardo",
+    "criciuma",
     "nautico"
   
   ]
@@ -477,7 +477,7 @@ const clubesPorLiga = {
 
 let clubeSelecionado = "palmeiras";
 
-let ligaSelecionada = "serie-a";
+let ligaSelecionada = "brasileiraoseriea";
 
 function selecionarLiga(liga) {
 
