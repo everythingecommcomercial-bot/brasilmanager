@@ -517,7 +517,6 @@ function selecionarLiga(liga) {
 
 }
 
-}
 
 function renderizarClubesDaLiga(liga) {
   const grid = document.querySelector(".club-grid");
