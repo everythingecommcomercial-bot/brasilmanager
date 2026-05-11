@@ -497,7 +497,7 @@ function renderizarClubesDaLiga(liga) {
 
   grid.innerHTML = "";
 
-  clubesPorLiga[liga].forEach(id => {
+  clubesPorLiga[liga].slice(0, 12).forEach(id => {
     const clube = clubes[id];
 
     grid.innerHTML += `
