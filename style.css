@@ -550,3 +550,56 @@ select {
   align-self: flex-end;
   width: 260px;
 }
+
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.78);
+  z-index: 999;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal.show {
+  display: flex;
+}
+
+.modal-content {
+  width: 90%;
+  max-width: 1200px;
+  max-height: 90vh;
+  overflow: auto;
+  background: #061211;
+  border: 1px solid #35ff63;
+  border-radius: 14px;
+  padding: 24px;
+  box-shadow: 0 0 40px rgba(0,255,100,.25);
+}
+
+.modal-close {
+  float: right;
+  background: transparent;
+  border: 0;
+  color: #35ff63;
+  font-size: 34px;
+  cursor: pointer;
+}
+
+.modal-body {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 24px;
+}
+
+.modal-club-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 12px;
+}
+
+.modal-club-info img {
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+}
