@@ -675,3 +675,18 @@ function selecionarClubeModal(id) {
 
 renderizarClubesDaLiga(ligaSelecionada);
 selecionarClube(clubesPorLiga[ligaSelecionada][0]);
+
+const managerPhotoInput = document.getElementById("managerPhotoInput");
+const avatarCircle = document.querySelector(".avatar-circle");
+
+managerPhotoInput.addEventListener("change", function () {
+  const file = this.files[0];
+
+  if (!file) return;
+
+  const imageUrl = URL.createObjectURL(file);
+
+  avatarCircle.innerHTML = `
+    <img src="${imageUrl}" alt="Foto do manager">
+  `;
+});
