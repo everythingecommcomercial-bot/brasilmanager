@@ -253,17 +253,42 @@ clubCards.forEach(card => {
 selecionarClube(clubeSelecionado);
 
 function abrirClubesModal() {
-
-  document
-    .getElementById("clubesModal")
-    .classList.add("show");
-
+  document.getElementById("clubesModal").classList.add("show");
+  renderizarClubesModal();
 }
 
 function fecharClubesModal() {
+  document.getElementById("clubesModal").classList.remove("show");
+}
 
-  document
-    .getElementById("clubesModal")
-    .classList.remove("show");
+function renderizarClubesModal() {
+  const grid = document.getElementById("modalClubGrid");
+  grid.innerHTML = "";
 
+  Object.keys(clubes).forEach(id => {
+    const clube = clubes[id];
+
+    grid.innerHTML += `
+      <button class="club-card" onclick="selecionarClubeModal('${id}')">
+        <img src="${clube.logo}" alt="${clube.nome}">
+        <span>${clube.nome}</span>
+      </button>
+    `;
+  });
+
+  selecionarClubeModal(clubeSelecionado);
+}
+
+function selecionarClubeModal(id) {
+  const clube = clubes[id];
+
+  document.getElementById("modalClubLogo").src = clube.logo;
+  document.getElementById("modalClubName").textContent = clube.nome;
+  document.getElementById("modalClubFullName").textContent = clube.nomeCompleto;
+  document.getElementById("modalClubStars").textContent = clube.estrelas;
+  document.getElementById("modalClubStadium").textContent = clube.estadio;
+  document.getElementById("modalClubCapacity").textContent = clube.capacidade;
+  document.getElementById("modalClubFounded").textContent = clube.fundacao;
+  document.getElementById("modalClubFinance").textContent = clube.financas;
+  document.getElementById("modalClubReputation").textContent = clube.reputacao;
 }
