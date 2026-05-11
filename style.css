@@ -470,3 +470,14 @@ select {
   align-self: flex-end;
   margin-top: 30px;
 }
+
+.info-list div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.info-list strong {
+  min-width: 120px;
+  text-align: right;
+}
