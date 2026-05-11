@@ -489,8 +489,14 @@ function preencherTela() {
   document.getElementById("clubPanelFullName").textContent = clube.nomeCompleto;
   document.getElementById("clubStars").textContent = clube.estrelas;
 
-  document.getElementById("nextMatchHomeLogo").src = clube.logo;
-  document.getElementById("nextMatchHome").textContent = clube.nome;
+  const mandante =
+  clubes[proximoJogo.mandante];
+
+  document.getElementById("nextMatchHomeLogo").src =
+  mandante.logo;
+
+  document.getElementById("nextMatchHome").textContent =
+  mandante.nome;
   document.getElementById("matchStadium").textContent = "🏟 " + clube.estadio;
 
   document.getElementById("tableClubName").textContent = clube.nome;
@@ -500,4 +506,35 @@ function preencherTela() {
     clube.nome + " renova contrato de promessa da base";
 }
 
-preencherTela();
+preencherTela();{
+
+  document.getElementById("topClubLogo").src =
+    clube.logo;
+
+  document.getElementById("topClubName").textContent =
+    clube.nome;
+
+  const mandante =
+    clubes[proximoJogo.mandante];
+
+  document.getElementById("nextMatchHomeLogo").src =
+    mandante.logo;
+
+  document.getElementById("nextMatchHome").textContent =
+    mandante.nome;
+
+  const adversarioId =
+    proximoJogo.mandante === clubeSelecionado
+      ? proximoJogo.visitante
+      : proximoJogo.mandante;
+
+  const adversario =
+    clubes[adversarioId];
+
+  document.getElementById("nextMatchAwayLogo").src =
+    adversario.logo;
+
+  document.getElementById("nextMatchAway").textContent =
+    adversario.nome;
+
+}
