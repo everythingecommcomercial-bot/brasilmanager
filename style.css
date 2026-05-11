@@ -1,499 +1,440 @@
-:root {
-  --bg: #05090b;
-  --panel: rgba(13, 20, 24, 0.88);
-  --panel-2: rgba(18, 27, 32, 0.88);
-  --line: rgba(255,255,255,0.11);
-  --text: #f4f7f6;
-  --muted: #a7b0ad;
-  --green: #00c853;
-  --green-2: #0e7c3b;
-  --yellow: #ffc83d;
-  --red: #ff3b3b;
-}
-
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
 body {
-  margin: 0;
-  min-height: 100vh;
-  background:
-    radial-gradient(circle at 20% 20%, rgba(0, 200, 83, .10), transparent 30%),
-    radial-gradient(circle at 80% 60%, rgba(0, 255, 140, .06), transparent 35%),
-    linear-gradient(135deg, #030607, #071014 60%, #020303);
-  color: var(--text);
   font-family: Arial, Helvetica, sans-serif;
+  background: #020707;
+  color: #fff;
 }
 
-button {
-  font-family: inherit;
-  cursor: pointer;
-}
-
-.app {
+.career-page {
+  min-height: 100vh;
   display: grid;
   grid-template-columns: 280px 1fr;
-  min-height: 100vh;
-  gap: 14px;
-  padding: 12px;
+  background:
+    radial-gradient(circle at top, rgba(0, 255, 100, 0.18), transparent 35%),
+    linear-gradient(135deg, #020707, #071614);
 }
 
 .sidebar {
-  border: 1px solid var(--line);
-  background: linear-gradient(180deg, rgba(9,18,20,.95), rgba(3,7,8,.92));
-  border-radius: 10px;
-  padding: 16px 12px;
+  padding: 24px 16px;
+  border-right: 1px solid rgba(0, 255, 100, 0.35);
+  background: rgba(0, 12, 10, 0.85);
+}
+
+.game-logo img {
+  width: 190px;
+  display: block;
+  margin: 0 auto 35px;
+}
+
+.side-menu {
   display: flex;
   flex-direction: column;
-}
-
-.brand {
-  display: flex;
-  align-items: center;
   gap: 14px;
-  margin-bottom: 28px;
 }
 
-.brand img {
-  width: 76px;
-  height: 76px;
-  object-fit: contain;
-}
-
-.brand strong {
-  display: block;
-  color: #2ee36d;
-  font-size: 25px;
-  letter-spacing: 1px;
-}
-
-.brand span {
-  display: block;
-  font-size: 22px;
-  font-weight: 800;
-}
-
-.menu {
-  display: grid;
-  gap: 9px;
-}
-
-.menu button {
-  border: 0;
-  color: var(--text);
+.side-menu button {
   background: transparent;
+  color: #cfd8d6;
+  border: 1px solid transparent;
+  padding: 17px;
+  border-radius: 8px;
   text-align: left;
-  border-radius: 8px;
-  padding: 14px 14px;
-  font-size: 18px;
-  display: flex;
-  gap: 12px;
-  align-items: center;
-  transition: .2s;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
 }
 
-.menu button:hover,
-.menu button.active {
-  background: linear-gradient(90deg, var(--green-2), rgba(0,200,83,.35));
+.side-menu button.active,
+.side-menu button:hover {
+  background: linear-gradient(90deg, #0f8f3d, #073d24);
+  border-color: #00ff66;
+  color: #fff;
+  box-shadow: 0 0 18px rgba(0, 255, 100, 0.25);
 }
 
-.career-box {
-  margin-top: auto;
+.main-content {
+  padding: 35px 28px;
 }
 
-.primary,
-.secondary {
-  width: 100%;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 13px 18px;
-  color: white;
-  font-weight: 800;
-  letter-spacing: .3px;
-}
-
-.primary {
-  background: linear-gradient(180deg, #12a856, #087337);
-  box-shadow: 0 8px 25px rgba(0, 200, 83, .18);
-}
-
-.secondary {
-  background: rgba(255,255,255,.04);
-  margin-top: 18px;
-}
-
-.career-box p {
-  color: var(--muted);
-  font-size: 14px;
-  text-align: center;
-}
-
-.career-box b {
-  color: var(--green);
-}
-
-.main {
-  display: grid;
-  gap: 14px;
-}
-
-.topbar {
-  min-height: 108px;
-  border: 1px solid var(--line);
-  background: var(--panel);
-  border-radius: 10px;
-  display: grid;
-  grid-template-columns: 1fr 260px 210px 70px 70px;
-  align-items: center;
-  overflow: hidden;
-}
-
-.club-status {
+.hero-header {
+  min-height: 190px;
   display: flex;
   align-items: center;
-  gap: 18px;
-  padding: 20px;
-  border-right: 1px solid var(--line);
+  background:
+    linear-gradient(90deg, rgba(0, 0, 0, 0.85), rgba(0, 255, 100, 0.08)),
+    url("imagens/estadio/header.jpg");
+  background-size: cover;
+  background-position: center;
+  border-bottom: 1px solid rgba(0, 255, 100, 0.25);
+  margin: -35px -28px 20px;
+  padding: 40px 50px;
 }
 
-.club-status img {
-  width: 72px;
-  height: 72px;
-  object-fit: contain;
+.hero-header h2 {
+  font-size: 34px;
+  font-style: italic;
 }
 
-small {
-  color: var(--muted);
+.hero-header h1 {
+  font-size: 58px;
+  color: #1ee85b;
+  line-height: 1;
 }
 
-.club-status h2 {
-  margin: 4px 0;
-  font-size: 24px;
+.hero-header p {
+  max-width: 520px;
+  color: #d8e2df;
+  margin-top: 15px;
+  line-height: 1.5;
 }
 
-.club-status i {
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  background: var(--green);
-  border-radius: 50%;
-}
-
-.club-status p,
-.competition p {
-  margin: 0;
-  color: var(--muted);
-}
-
-.status-item {
-  padding: 20px;
-  border-right: 1px solid var(--line);
-}
-
-.status-item strong {
-  display: block;
-  margin-top: 8px;
-  color: var(--green);
-  font-size: 22px;
-}
-
-.icon-btn {
-  height: 100%;
-  border: 0;
-  background: transparent;
-  color: var(--muted);
-  font-size: 27px;
-  border-left: 1px solid var(--line);
-}
-
-.content {
+.setup-grid {
   display: grid;
-  grid-template-columns: 1fr 370px;
+  grid-template-columns: 1fr 1fr 1.2fr 1.2fr;
   gap: 14px;
-}
-
-.left-content {
-  display: grid;
-  gap: 0;
 }
 
 .panel {
-  border: 1px solid var(--line);
-  background: linear-gradient(180deg, rgba(13,20,24,.90), rgba(7,12,14,.94));
+  background: linear-gradient(180deg, rgba(10, 25, 25, 0.92), rgba(3, 10, 10, 0.96));
+  border: 1px solid rgba(0, 255, 100, 0.22);
   border-radius: 10px;
-  box-shadow: inset 0 1px 0 rgba(255,255,255,.03);
+  padding: 18px;
+  box-shadow: inset 0 0 20px rgba(0, 255, 100, 0.04);
 }
 
-.hero {
-  padding: 24px;
+.panel h3 {
+  color: #35ff63;
+  text-transform: uppercase;
+  margin-bottom: 18px;
+  font-size: 18px;
 }
 
-.hero h1 {
-  color: var(--green);
-  margin: 0 0 6px;
-  font-size: 30px;
+.panel h3 span {
+  display: inline-flex;
+  width: 32px;
+  height: 32px;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #28ff5f;
+  border-radius: 8px;
+  margin-right: 10px;
+  color: #28ff5f;
 }
 
-.hero > p {
-  margin-top: 0;
-  font-size: 21px;
+.avatar {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  position: relative;
+}
+
+.avatar-circle {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  border: 1px solid #62706d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 70px;
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.avatar button {
+  position: absolute;
+  bottom: 6px;
+  right: 78px;
+  background: #0e8f3e;
+  border: 1px solid #22ff5f;
+  color: #fff;
+  border-radius: 7px;
+  padding: 8px;
+}
+
+label {
+  display: block;
+  color: #aab5b2;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 14px 0 6px;
+}
+
+input,
+select {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 6px;
+  padding: 11px;
+}
+
+.birth-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr 1fr;
+  gap: 8px;
+}
+
+.stars {
+  color: #ffc933;
+  font-size: 22px;
+  letter-spacing: 3px;
+}
+
+.league-card {
+  width: 100%;
+  min-height: 110px;
+  margin-bottom: 16px;
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  border-radius: 9px;
+  color: #fff;
+  display: grid;
+  grid-template-columns: 80px 1fr 36px;
+  align-items: center;
+  gap: 15px;
+  padding: 15px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.league-card.active,
+.league-card:hover {
+  border-color: #20ff5c;
+  box-shadow: 0 0 22px rgba(0, 255, 100, 0.22);
+}
+
+.league-icon {
+  width: 70px;
+  height: 70px;
+  object-fit: contain;
+}
+
+.league-card strong {
+  font-size: 19px;
+  text-transform: uppercase;
+}
+
+.league-card b {
+  color: #36ff54;
+  font-size: 22px;
+}
+
+.league-info {
+  margin-top: 25px;
+  color: #c7d0cd;
+  line-height: 1.5;
+}
+
+.league-info h4,
+.achievements h4 {
+  color: #35ff63;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+}
+
+.league-stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  margin-top: 18px;
+  text-align: center;
+  gap: 8px;
+}
+
+.league-stats strong {
+  display: block;
+  font-size: 19px;
+  color: #fff;
+}
+
+.league-stats span {
+  color: #aab5b2;
+  font-size: 13px;
 }
 
 .club-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
-  margin-top: 18px;
+  gap: 9px;
 }
 
 .club-card {
-  border: 1px solid var(--line);
-  background: linear-gradient(180deg, rgba(20,31,35,.8), rgba(7,12,13,.92));
-  border-radius: 10px;
-  min-height: 430px;
-  padding: 22px;
-  transition: .2s;
-  display: grid;
-  align-content: start;
+  min-height: 105px;
+  background: rgba(255, 255, 255, 0.035);
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  border-radius: 7px;
+  color: #fff;
+  padding: 10px;
+  cursor: pointer;
+  position: relative;
 }
 
 .club-card.active,
 .club-card:hover {
-  border-color: var(--green);
-  box-shadow: 0 0 0 1px rgba(0,200,83,.2), 0 15px 40px rgba(0,200,83,.10);
-  transform: translateY(-2px);
+  border-color: #20ff5c;
+  box-shadow: 0 0 20px rgba(0, 255, 100, 0.2);
 }
 
 .club-card img {
-  width: 155px;
-  height: 155px;
-  object-fit: contain;
-  margin: 0 auto 18px;
-}
-
-.club-card h2 {
-  text-align: center;
-  font-size: 26px;
-  margin: 0 0 22px;
-}
-
-.info-row {
-  display: flex;
-  justify-content: space-between;
-  gap: 10px;
-  margin: 9px 0;
-  color: var(--muted);
-}
-
-.info-row b {
-  color: white;
-}
-
-.stars {
-  color: var(--yellow);
-  letter-spacing: 2px;
-  font-size: 18px;
-}
-
-.club-card button {
-  margin-top: 20px;
-  border: 1px solid var(--line);
-  background: rgba(255,255,255,.04);
-  color: white;
-  border-radius: 8px;
-  padding: 13px;
-  font-weight: 800;
-}
-
-.club-card.active button {
-  background: linear-gradient(180deg, #10a856, #087139);
-}
-
-.bottom-grid {
-  display: grid;
-  grid-template-columns: 1.55fr .85fr;
-}
-
-.bottom-grid .panel {
-  border-radius: 0 0 10px 10px;
-  padding: 16px 20px;
-}
-
-.panel h3 {
-  margin: 0 0 16px;
-  color: var(--green);
-  font-size: 20px;
-}
-
-.league-table {
+  height: 56px;
   width: 100%;
-  border-collapse: collapse;
-  font-size: 15px;
+  object-fit: contain;
+  display: block;
+  margin-bottom: 7px;
 }
 
-.league-table th {
-  color: var(--muted);
-  font-weight: 500;
-  text-align: left;
-  padding: 8px 6px;
+.club-card span {
+  display: block;
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: 700;
 }
 
-.league-table td {
-  padding: 10px 6px;
-  border-top: 1px solid rgba(255,255,255,.06);
+.show-all {
+  width: 100%;
+  margin-top: 16px;
+  padding: 13px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  color: #35ff63;
+  border-radius: 8px;
+  font-weight: 800;
+  cursor: pointer;
+  text-transform: uppercase;
 }
 
-.league-table tr.active {
-  background: linear-gradient(90deg, rgba(0,200,83,.55), rgba(0,200,83,.12));
-}
-
-.league-club {
+.selected-club {
   display: flex;
   align-items: center;
-  gap: 9px;
+  gap: 18px;
+  margin-bottom: 22px;
 }
 
-.league-club img {
-  width: 26px;
-  height: 26px;
+.selected-club img {
+  width: 125px;
+  height: 125px;
   object-fit: contain;
 }
 
-.finance .row {
+.selected-club h2 {
+  font-size: 28px;
+  text-transform: uppercase;
+}
+
+.selected-club p {
+  color: #aab5b2;
+  margin: 6px 0;
+}
+
+.info-list {
+  display: grid;
+  gap: 13px;
+  margin-top: 15px;
+}
+
+.info-list div {
   display: flex;
   justify-content: space-between;
-  padding: 11px 0;
-  color: var(--muted);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding-top: 12px;
+  color: #b9c2bf;
 }
 
-.finance b {
-  color: #b6ff00;
+.info-list strong {
+  color: #35ff63;
 }
 
-.green {
-  color: var(--green) !important;
+.achievements {
+  margin-top: 25px;
 }
 
-.red {
-  color: var(--red) !important;
-}
-
-.right-content {
-  display: grid;
-  gap: 14px;
-}
-
-.next-match,
-.news {
-  padding: 20px;
-}
-
-.competition {
+.achievements div {
   display: flex;
-  align-items: center;
-  gap: 14px;
-  border-top: 1px solid rgba(255,255,255,.06);
-  padding-top: 15px;
+  gap: 16px;
 }
 
-.competition img {
-  width: 50px;
-  height: 50px;
-}
-
-.match {
+.achievements span {
   display: grid;
-  grid-template-columns: 1fr 40px 1fr;
-  align-items: center;
   text-align: center;
-  margin: 25px 0;
+  color: #ffc933;
 }
 
-.match img {
-  width: 88px;
-  height: 88px;
-  object-fit: contain;
+.achievements small {
+  color: #b9c2bf;
+  margin-top: 5px;
 }
 
-.match strong {
-  display: block;
-  margin-top: 10px;
-}
-
-.match span {
-  font-size: 28px;
-  font-weight: 800;
-}
-
-.detail {
-  color: var(--muted);
-  margin-left: 50px;
-}
-
-.news article {
-  display: grid;
-  grid-template-columns: 100px 1fr;
-  gap: 14px;
-  padding: 14px 0;
-  border-top: 1px solid rgba(255,255,255,.07);
-}
-
-.news img {
-  width: 100px;
-  height: 70px;
-  object-fit: cover;
+.start-career {
+  width: 100%;
+  margin-top: 28px;
+  padding: 18px;
+  border: 1px solid #35ff63;
   border-radius: 8px;
+  background: linear-gradient(90deg, #129843, #0b5c2f);
+  color: #fff;
+  font-size: 20px;
+  font-weight: 900;
+  cursor: pointer;
+  text-transform: uppercase;
+  box-shadow: 0 0 22px rgba(0, 255, 100, 0.22);
 }
 
-.news p {
-  margin: 0 0 8px;
-  line-height: 1.35;
+.features {
+  margin-top: 16px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background: rgba(5, 18, 18, 0.85);
+  border: 1px solid rgba(0, 255, 100, 0.2);
+  border-radius: 10px;
+  overflow: hidden;
 }
 
-@media (max-width: 1150px) {
-  .app {
+.features div {
+  padding: 20px;
+  border-right: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.features strong {
+  display: block;
+  color: #35ff63;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+
+.features p {
+  color: #aab5b2;
+  line-height: 1.45;
+}
+
+@media (max-width: 1200px) {
+  .career-page {
     grid-template-columns: 1fr;
   }
 
-  .sidebar {
-    position: static;
+  .setup-grid {
+    grid-template-columns: 1fr 1fr;
   }
 
-  .menu {
+  .features {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 700px) {
+  .setup-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .hero-header h1 {
+    font-size: 42px;
+  }
+
+  .club-grid {
     grid-template-columns: repeat(2, 1fr);
-  }
-
-  .content,
-  .bottom-grid,
-  .club-grid,
-  .topbar {
-    grid-template-columns: 1fr;
-  }
-
-  .right-content {
-    grid-template-columns: 1fr;
-  }
-}
-
-@media (max-width: 640px) {
-  .app {
-    padding: 8px;
-  }
-
-  .brand strong {
-    font-size: 20px;
-  }
-
-  .brand span {
-    font-size: 18px;
-  }
-
-  .club-card {
-    min-height: auto;
-  }
-
-  .topbar {
-    display: block;
   }
 }
