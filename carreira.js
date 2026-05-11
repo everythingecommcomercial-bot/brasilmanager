@@ -32,7 +32,7 @@ const clubes = {
     destaque: "Memphis"
   },
 
-  "atleticomg": {
+  atleticomg: {
     nome: "Atlético-MG",
     nomeCompleto: "Clube Atlético Mineiro",
     logo: "emblemas/clubes/atleticomineiro.png",
@@ -42,7 +42,7 @@ const clubes = {
     destaque: "Everson"
   },
 
-  "saopaulo": {
+  saopaulo: {
     nome: "São Paulo",
     nomeCompleto: "São Paulo Futebol Clube",
     logo: "emblemas/clubes/saopaulo.png",
