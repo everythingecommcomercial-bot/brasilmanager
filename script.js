@@ -483,12 +483,39 @@ function selecionarLiga(liga) {
 
   ligaSelecionada = liga;
 
+  document.querySelectorAll(".league-card").forEach(card => {
+
+    card.classList.remove("active");
+
+    const check =
+      card.querySelector("b");
+
+    if (check)
+      check.textContent = "";
+
+  });
+
+  const ligaAtiva =
+    document.querySelector(
+      `[data-league="${liga}"]`
+    );
+
+  ligaAtiva.classList.add("active");
+
+  const checkAtivo =
+    ligaAtiva.querySelector("b");
+
+  if (checkAtivo)
+    checkAtivo.textContent = "✓";
+
   renderizarClubesDaLiga(liga);
 
   const primeiroClube =
     clubesPorLiga[liga][0];
 
   selecionarClube(primeiroClube);
+
+}
 
 }
 
