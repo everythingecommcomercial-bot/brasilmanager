@@ -249,3 +249,5 @@ clubCards.forEach(card => {
   });
 
 });
+
+selecionarClube(clubeSelecionado);
