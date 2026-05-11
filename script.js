@@ -30,7 +30,7 @@ const clubes = {
     nome: "Corinthians",
     nomeCompleto: "Sport Club Corinthians Paulista",
     logo: "emblemas/clubes/corinthians.png",
-    estrelas: "★★★★☆",
+    estrelas: "★★★⯨☆",
     estadio: "Neo Química Arena",
     capacidade: "49.205",
     fundacao: "01/09/1910",
