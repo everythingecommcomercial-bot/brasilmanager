@@ -1,0 +1,9 @@
+{
+  "pais": "Belgica",
+  "pais_slug": "belgica",
+  "liga": "Belgian Super Cup",
+  "liga_slug": "belgiansupercup",
+  "caminho": "ligas/belgica/belgiansupercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

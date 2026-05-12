@@ -1,0 +1,9 @@
+{
+  "pais": "Bahrein",
+  "pais_slug": "bahrein",
+  "liga": "Bahrain King's Cup",
+  "liga_slug": "bahrainkingscup",
+  "caminho": "ligas/bahrein/bahrainkingscup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

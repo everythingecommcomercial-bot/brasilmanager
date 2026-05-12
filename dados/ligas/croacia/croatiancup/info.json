@@ -1,0 +1,9 @@
+{
+  "pais": "Croacia",
+  "pais_slug": "croacia",
+  "liga": "Croatian Cup",
+  "liga_slug": "croatiancup",
+  "caminho": "ligas/croacia/croatiancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

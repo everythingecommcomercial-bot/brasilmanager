@@ -1,0 +1,9 @@
+{
+  "pais": "Camarões",
+  "pais_slug": "camaroes",
+  "liga": "Cameroon Cup",
+  "liga_slug": "camerooncup",
+  "caminho": "ligas/camaroes/camerooncup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

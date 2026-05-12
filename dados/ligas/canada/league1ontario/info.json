@@ -1,0 +1,9 @@
+{
+  "pais": "Canada",
+  "pais_slug": "canada",
+  "liga": "League1 Ontario",
+  "liga_slug": "league1ontario",
+  "caminho": "ligas/canada/league1ontario",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

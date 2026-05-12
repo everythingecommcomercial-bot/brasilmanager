@@ -1,0 +1,9 @@
+{
+  "pais": "Chipre",
+  "pais_slug": "chipre",
+  "liga": "Cypriot First Division",
+  "liga_slug": "cypriotfirstdivision",
+  "caminho": "ligas/chipre/cypriotfirstdivision",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

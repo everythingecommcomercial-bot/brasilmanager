@@ -1,0 +1,9 @@
+{
+  "pais": "Chile",
+  "pais_slug": "chile",
+  "liga": "Primera Division",
+  "liga_slug": "primeradivision",
+  "caminho": "ligas/chile/primeradivision",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

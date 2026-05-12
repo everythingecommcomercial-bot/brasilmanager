@@ -1,0 +1,9 @@
+{
+  "pais": "Canada",
+  "pais_slug": "canada",
+  "liga": "Canadian Premier League",
+  "liga_slug": "canadianpremierleague",
+  "caminho": "ligas/canada/canadianpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

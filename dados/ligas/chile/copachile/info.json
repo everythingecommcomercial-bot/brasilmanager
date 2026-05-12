@@ -1,0 +1,9 @@
+{
+  "pais": "Chile",
+  "pais_slug": "chile",
+  "liga": "Copa Chile",
+  "liga_slug": "copachile",
+  "caminho": "ligas/chile/copachile",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

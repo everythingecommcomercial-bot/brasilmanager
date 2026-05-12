@@ -1,0 +1,9 @@
+{
+  "pais": "Bahrein",
+  "pais_slug": "bahrein",
+  "liga": "Bahraini Premier League",
+  "liga_slug": "bahrainipremierleague",
+  "caminho": "ligas/bahrein/bahrainipremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

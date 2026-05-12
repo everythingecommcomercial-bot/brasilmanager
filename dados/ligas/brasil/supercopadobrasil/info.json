@@ -1,0 +1,9 @@
+{
+  "pais": "Brasil",
+  "pais_slug": "brasil",
+  "liga": "Supercopa do Brasil",
+  "liga_slug": "supercopadobrasil",
+  "caminho": "ligas/brasil/supercopadobrasil",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

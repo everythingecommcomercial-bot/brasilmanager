@@ -1,0 +1,9 @@
+{
+  "pais": "Costa Rica",
+  "pais_slug": "costarica",
+  "liga": "Liga de Ascenso",
+  "liga_slug": "ligadeascenso",
+  "caminho": "ligas/costarica/ligadeascenso",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Chile",
+  "pais_slug": "chile",
+  "liga": "Primera B",
+  "liga_slug": "primerab",
+  "caminho": "ligas/chile/primerab",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

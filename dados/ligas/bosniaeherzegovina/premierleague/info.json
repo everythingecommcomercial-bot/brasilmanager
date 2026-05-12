@@ -1,0 +1,9 @@
+{
+  "pais": "Bosnia e Herzegovina",
+  "pais_slug": "bosniaeherzegovina",
+  "liga": "Premier League",
+  "liga_slug": "premierleague",
+  "caminho": "ligas/bosniaeherzegovina/premierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

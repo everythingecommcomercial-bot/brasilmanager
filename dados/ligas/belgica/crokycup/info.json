@@ -1,0 +1,9 @@
+{
+  "pais": "Belgica",
+  "pais_slug": "belgica",
+  "liga": "Croky Cup",
+  "liga_slug": "crokycup",
+  "caminho": "ligas/belgica/crokycup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

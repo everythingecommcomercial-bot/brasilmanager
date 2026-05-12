@@ -1,0 +1,9 @@
+{
+  "pais": "Colombia",
+  "pais_slug": "colombia",
+  "liga": "Superliga Colombiana",
+  "liga_slug": "superligacolombiana",
+  "caminho": "ligas/colombia/superligacolombiana",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "China",
+  "pais_slug": "china",
+  "liga": "Chinese Super League",
+  "liga_slug": "chinesesuperleague",
+  "caminho": "ligas/china/chinesesuperleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

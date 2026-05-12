@@ -1,0 +1,9 @@
+{
+  "pais": "Congo",
+  "pais_slug": "congo",
+  "liga": "Ligue 1",
+  "liga_slug": "ligue1",
+  "caminho": "ligas/congo/ligue1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

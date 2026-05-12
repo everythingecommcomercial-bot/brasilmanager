@@ -1,0 +1,9 @@
+{
+  "pais": "Botswana",
+  "pais_slug": "botswana",
+  "liga": "Botswana Premier League",
+  "liga_slug": "botswanapremierleague",
+  "caminho": "ligas/botswana/botswanapremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

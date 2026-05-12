@@ -1,0 +1,9 @@
+{
+  "pais": "Bosnia e Herzegovina",
+  "pais_slug": "bosniaeherzegovina",
+  "liga": "First League FBiH",
+  "liga_slug": "firstleaguefbih",
+  "caminho": "ligas/bosniaeherzegovina/firstleaguefbih",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

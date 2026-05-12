@@ -1,0 +1,9 @@
+{
+  "pais": "Colombia",
+  "pais_slug": "colombia",
+  "liga": "Copa Colombia",
+  "liga_slug": "copacolombia",
+  "caminho": "ligas/colombia/copacolombia",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

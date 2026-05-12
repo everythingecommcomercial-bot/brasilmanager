@@ -1,0 +1,9 @@
+{
+  "pais": "Brasil",
+  "pais_slug": "brasil",
+  "liga": "Brasileirao Serie C",
+  "liga_slug": "brasileiraoseriec",
+  "caminho": "ligas/brasil/brasileiraoseriec",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

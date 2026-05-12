@@ -1,0 +1,9 @@
+{
+  "pais": "Croacia",
+  "pais_slug": "croacia",
+  "liga": "First NL",
+  "liga_slug": "firstnl",
+  "caminho": "ligas/croacia/firstnl",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

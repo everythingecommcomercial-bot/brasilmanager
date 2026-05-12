@@ -1,0 +1,9 @@
+{
+  "pais": "Botswana",
+  "pais_slug": "botswana",
+  "liga": "FA Challenge Cup",
+  "liga_slug": "fachallengecup",
+  "caminho": "ligas/botswana/fachallengecup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

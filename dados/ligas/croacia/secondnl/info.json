@@ -1,0 +1,9 @@
+{
+  "pais": "Croacia",
+  "pais_slug": "croacia",
+  "liga": "Second NL",
+  "liga_slug": "secondnl",
+  "caminho": "ligas/croacia/secondnl",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

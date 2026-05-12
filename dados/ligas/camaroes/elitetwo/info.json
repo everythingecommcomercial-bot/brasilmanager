@@ -1,0 +1,9 @@
+{
+  "pais": "Camarões",
+  "pais_slug": "camaroes",
+  "liga": "Elite Two",
+  "liga_slug": "elitetwo",
+  "caminho": "ligas/camaroes/elitetwo",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

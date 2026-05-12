@@ -1,0 +1,9 @@
+{
+  "pais": "Belarus",
+  "pais_slug": "belarus",
+  "liga": "Belarusian First League",
+  "liga_slug": "belarusianfirstleague",
+  "caminho": "ligas/belarus/belarusianfirstleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

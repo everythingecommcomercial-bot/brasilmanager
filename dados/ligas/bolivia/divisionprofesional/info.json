@@ -1,0 +1,9 @@
+{
+  "pais": "Bolivia",
+  "pais_slug": "bolivia",
+  "liga": "Division Profesional",
+  "liga_slug": "divisionprofesional",
+  "caminho": "ligas/bolivia/divisionprofesional",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

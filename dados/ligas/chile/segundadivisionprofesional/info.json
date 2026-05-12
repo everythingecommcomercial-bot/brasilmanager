@@ -1,0 +1,9 @@
+{
+  "pais": "Chile",
+  "pais_slug": "chile",
+  "liga": "Segunda Division Profesional",
+  "liga_slug": "segundadivisionprofesional",
+  "caminho": "ligas/chile/segundadivisionprofesional",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

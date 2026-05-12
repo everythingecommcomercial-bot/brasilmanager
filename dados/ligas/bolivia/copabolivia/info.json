@@ -1,0 +1,9 @@
+{
+  "pais": "Bolivia",
+  "pais_slug": "bolivia",
+  "liga": "Copa Bolivia",
+  "liga_slug": "copabolivia",
+  "caminho": "ligas/bolivia/copabolivia",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

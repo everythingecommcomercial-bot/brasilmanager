@@ -1,0 +1,9 @@
+{
+  "pais": "Colombia",
+  "pais_slug": "colombia",
+  "liga": "Categoria Primera A",
+  "liga_slug": "categoriaprimeraa",
+  "caminho": "ligas/colombia/categoriaprimeraa",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

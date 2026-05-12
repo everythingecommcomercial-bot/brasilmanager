@@ -1,0 +1,9 @@
+{
+  "pais": "Costa do Marfim",
+  "pais_slug": "costadomarfim",
+  "liga": "Coupe de Cote d'Ivoire",
+  "liga_slug": "coupedecotedivoire",
+  "caminho": "ligas/costadomarfim/coupedecotedivoire",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

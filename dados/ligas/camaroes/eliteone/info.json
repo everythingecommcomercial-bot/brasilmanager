@@ -1,0 +1,9 @@
+{
+  "pais": "Camarões",
+  "pais_slug": "camaroes",
+  "liga": "Elite One",
+  "liga_slug": "eliteone",
+  "caminho": "ligas/camaroes/eliteone",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Costa do Marfim",
+  "pais_slug": "costadomarfim",
+  "liga": "Ligue 1",
+  "liga_slug": "ligue1",
+  "caminho": "ligas/costadomarfim/ligue1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Belgica",
+  "pais_slug": "belgica",
+  "liga": "Jupiler Pro League",
+  "liga_slug": "jupilerproleague",
+  "caminho": "ligas/belgica/jupilerproleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

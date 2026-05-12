@@ -1,0 +1,9 @@
+{
+  "pais": "Croacia",
+  "pais_slug": "croacia",
+  "liga": "HNL",
+  "liga_slug": "hnl",
+  "caminho": "ligas/croacia/hnl",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

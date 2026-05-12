@@ -1,0 +1,9 @@
+{
+  "pais": "Canada",
+  "pais_slug": "canada",
+  "liga": "Canadian Championship",
+  "liga_slug": "canadianchampionship",
+  "caminho": "ligas/canada/canadianchampionship",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

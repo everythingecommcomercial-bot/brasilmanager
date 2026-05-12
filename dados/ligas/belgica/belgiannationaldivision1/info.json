@@ -1,0 +1,9 @@
+{
+  "pais": "Belgica",
+  "pais_slug": "belgica",
+  "liga": "Belgian National Division 1",
+  "liga_slug": "belgiannationaldivision1",
+  "caminho": "ligas/belgica/belgiannationaldivision1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

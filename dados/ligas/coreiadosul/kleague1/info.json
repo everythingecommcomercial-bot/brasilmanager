@@ -1,0 +1,9 @@
+{
+  "pais": "Coreia do Sul",
+  "pais_slug": "coreiadosul",
+  "liga": "K League 1",
+  "liga_slug": "kleague1",
+  "caminho": "ligas/coreiadosul/kleague1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

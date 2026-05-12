@@ -1,0 +1,9 @@
+{
+  "pais": "Costa Rica",
+  "pais_slug": "costarica",
+  "liga": "Copa Costa Rica",
+  "liga_slug": "copacostarica",
+  "caminho": "ligas/costarica/copacostarica",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

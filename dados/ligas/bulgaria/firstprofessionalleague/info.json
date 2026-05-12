@@ -1,0 +1,9 @@
+{
+  "pais": "Bulgaria",
+  "pais_slug": "bulgaria",
+  "liga": "First Professional League",
+  "liga_slug": "firstprofessionalleague",
+  "caminho": "ligas/bulgaria/firstprofessionalleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

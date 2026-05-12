@@ -1,0 +1,9 @@
+{
+  "pais": "China",
+  "pais_slug": "china",
+  "liga": "Chinese FA Cup",
+  "liga_slug": "chinesefacup",
+  "caminho": "ligas/china/chinesefacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

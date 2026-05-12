@@ -1,0 +1,9 @@
+{
+  "pais": "Bulgaria",
+  "pais_slug": "bulgaria",
+  "liga": "Second Professional League",
+  "liga_slug": "secondprofessionalleague",
+  "caminho": "ligas/bulgaria/secondprofessionalleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Bulgaria",
+  "pais_slug": "bulgaria",
+  "liga": "Bulgarian Cup",
+  "liga_slug": "bulgariancup",
+  "caminho": "ligas/bulgaria/bulgariancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

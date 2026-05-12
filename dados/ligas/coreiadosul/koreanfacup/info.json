@@ -1,0 +1,9 @@
+{
+  "pais": "Coreia do Sul",
+  "pais_slug": "coreiadosul",
+  "liga": "Korean FA Cup",
+  "liga_slug": "koreanfacup",
+  "caminho": "ligas/coreiadosul/koreanfacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Bosnia e Herzegovina",
+  "pais_slug": "bosniaeherzegovina",
+  "liga": "First League RS",
+  "liga_slug": "firstleaguers",
+  "caminho": "ligas/bosniaeherzegovina/firstleaguers",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

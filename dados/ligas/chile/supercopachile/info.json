@@ -1,0 +1,9 @@
+{
+  "pais": "Chile",
+  "pais_slug": "chile",
+  "liga": "Supercopa Chile",
+  "liga_slug": "supercopachile",
+  "caminho": "ligas/chile/supercopachile",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

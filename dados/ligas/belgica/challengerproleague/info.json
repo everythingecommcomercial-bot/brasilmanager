@@ -1,0 +1,9 @@
+{
+  "pais": "Belgica",
+  "pais_slug": "belgica",
+  "liga": "Challenger Pro League",
+  "liga_slug": "challengerproleague",
+  "caminho": "ligas/belgica/challengerproleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

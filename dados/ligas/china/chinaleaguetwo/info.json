@@ -1,0 +1,9 @@
+{
+  "pais": "China",
+  "pais_slug": "china",
+  "liga": "China League Two",
+  "liga_slug": "chinaleaguetwo",
+  "caminho": "ligas/china/chinaleaguetwo",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

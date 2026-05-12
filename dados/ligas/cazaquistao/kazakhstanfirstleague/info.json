@@ -1,0 +1,9 @@
+{
+  "pais": "Cazaquistao",
+  "pais_slug": "cazaquistao",
+  "liga": "Kazakhstan First League",
+  "liga_slug": "kazakhstanfirstleague",
+  "caminho": "ligas/cazaquistao/kazakhstanfirstleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}
