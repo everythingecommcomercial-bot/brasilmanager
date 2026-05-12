@@ -1,0 +1,9 @@
+{
+  "pais": "Andorra",
+  "pais_slug": "andorra",
+  "liga": "Primera Divisio",
+  "liga_slug": "primeradivisio",
+  "caminho": "ligas/andorra/primeradivisio",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Austria",
+  "pais_slug": "austria",
+  "liga": "Regionalliga",
+  "liga_slug": "regionalliga",
+  "caminho": "ligas/austria/regionalliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

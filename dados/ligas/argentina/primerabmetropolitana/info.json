@@ -1,0 +1,9 @@
+{
+  "pais": "Argentina",
+  "pais_slug": "argentina",
+  "liga": "Primera B Metropolitana",
+  "liga_slug": "primerabmetropolitana",
+  "caminho": "ligas/argentina/primerabmetropolitana",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

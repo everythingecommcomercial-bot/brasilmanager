@@ -1,0 +1,9 @@
+{
+  "pais": "Angola",
+  "pais_slug": "angola",
+  "liga": "Girabola",
+  "liga_slug": "girabola",
+  "caminho": "ligas/angola/girabola",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

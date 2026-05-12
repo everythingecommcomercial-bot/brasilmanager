@@ -1,0 +1,9 @@
+{
+  "pais": "Austria",
+  "pais_slug": "austria",
+  "liga": "Austrian Bundesliga",
+  "liga_slug": "austrianbundesliga",
+  "caminho": "ligas/austria/austrianbundesliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

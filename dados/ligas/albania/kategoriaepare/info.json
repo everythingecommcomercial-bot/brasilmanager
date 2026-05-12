@@ -1,0 +1,9 @@
+{
+  "pais": "Albania",
+  "pais_slug": "albania",
+  "liga": "Kategoria e Pare",
+  "liga_slug": "kategoriaepare",
+  "caminho": "ligas/albania/kategoriaepare",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

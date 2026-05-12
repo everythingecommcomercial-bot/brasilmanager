@@ -1,0 +1,9 @@
+{
+  "pais": "Alemanha",
+  "pais_slug": "alemanha",
+  "liga": "DFL Supercup",
+  "liga_slug": "dflsupercup",
+  "caminho": "ligas/alemanha/dflsupercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

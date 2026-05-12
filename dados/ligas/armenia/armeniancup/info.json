@@ -1,0 +1,9 @@
+{
+  "pais": "Armenia",
+  "pais_slug": "armenia",
+  "liga": "Armenian Cup",
+  "liga_slug": "armeniancup",
+  "caminho": "ligas/armenia/armeniancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

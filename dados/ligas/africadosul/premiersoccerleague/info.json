@@ -1,0 +1,9 @@
+{
+  "pais": "Africa do Sul",
+  "pais_slug": "africadosul",
+  "liga": "Premier Soccer League",
+  "liga_slug": "premiersoccerleague",
+  "caminho": "ligas/africadosul/premiersoccerleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

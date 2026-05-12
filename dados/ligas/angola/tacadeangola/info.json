@@ -1,0 +1,9 @@
+{
+  "pais": "Angola",
+  "pais_slug": "angola",
+  "liga": "Taca de Angola",
+  "liga_slug": "tacadeangola",
+  "caminho": "ligas/angola/tacadeangola",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

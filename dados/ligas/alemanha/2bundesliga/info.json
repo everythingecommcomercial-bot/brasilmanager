@@ -1,0 +1,9 @@
+{
+  "pais": "Alemanha",
+  "pais_slug": "alemanha",
+  "liga": "2 Bundesliga",
+  "liga_slug": "2bundesliga",
+  "caminho": "ligas/alemanha/2bundesliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

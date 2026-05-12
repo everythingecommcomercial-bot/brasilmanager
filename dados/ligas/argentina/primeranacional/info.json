@@ -1,0 +1,9 @@
+{
+  "pais": "Argentina",
+  "pais_slug": "argentina",
+  "liga": "Primera Nacional",
+  "liga_slug": "primeranacional",
+  "caminho": "ligas/argentina/primeranacional",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

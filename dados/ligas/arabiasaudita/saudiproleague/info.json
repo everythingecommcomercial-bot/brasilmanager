@@ -1,0 +1,9 @@
+{
+  "pais": "Arabia Saudita",
+  "pais_slug": "arabiasaudita",
+  "liga": "Saudi Pro League",
+  "liga_slug": "saudiproleague",
+  "caminho": "ligas/arabiasaudita/saudiproleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

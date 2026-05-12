@@ -1,0 +1,9 @@
+{
+  "pais": "Australia",
+  "pais_slug": "australia",
+  "liga": "Australia Cup",
+  "liga_slug": "australiacup",
+  "caminho": "ligas/australia/australiacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

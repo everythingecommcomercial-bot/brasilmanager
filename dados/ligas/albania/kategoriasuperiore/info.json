@@ -1,0 +1,9 @@
+{
+  "pais": "Albania",
+  "pais_slug": "albania",
+  "liga": "Kategoria Superiore",
+  "liga_slug": "kategoriasuperiore",
+  "caminho": "ligas/albania/kategoriasuperiore",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

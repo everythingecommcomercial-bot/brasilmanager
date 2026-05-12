@@ -1,0 +1,9 @@
+{
+  "pais": "Andorra",
+  "pais_slug": "andorra",
+  "liga": "Segona Divisio",
+  "liga_slug": "segonadivisio",
+  "caminho": "ligas/andorra/segonadivisio",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

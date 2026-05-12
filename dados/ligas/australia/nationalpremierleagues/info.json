@@ -1,0 +1,9 @@
+{
+  "pais": "Australia",
+  "pais_slug": "australia",
+  "liga": "National Premier Leagues",
+  "liga_slug": "nationalpremierleagues",
+  "caminho": "ligas/australia/nationalpremierleagues",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

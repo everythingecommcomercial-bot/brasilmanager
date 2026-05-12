@@ -1,0 +1,9 @@
+{
+  "pais": "Argelia",
+  "pais_slug": "argelia",
+  "liga": "Ligue Professionnelle 1",
+  "liga_slug": "ligueprofessionnelle1",
+  "caminho": "ligas/argelia/ligueprofessionnelle1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Albania",
+  "pais_slug": "albania",
+  "liga": "Albanian Supercup",
+  "liga_slug": "albaniansupercup",
+  "caminho": "ligas/albania/albaniansupercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

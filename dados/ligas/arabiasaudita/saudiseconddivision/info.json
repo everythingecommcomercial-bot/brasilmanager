@@ -1,0 +1,9 @@
+{
+  "pais": "Arabia Saudita",
+  "pais_slug": "arabiasaudita",
+  "liga": "Saudi Second Division",
+  "liga_slug": "saudiseconddivision",
+  "caminho": "ligas/arabiasaudita/saudiseconddivision",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

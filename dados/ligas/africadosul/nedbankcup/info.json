@@ -1,0 +1,9 @@
+{
+  "pais": "Africa do Sul",
+  "pais_slug": "africadosul",
+  "liga": "Nedbank Cup",
+  "liga_slug": "nedbankcup",
+  "caminho": "ligas/africadosul/nedbankcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

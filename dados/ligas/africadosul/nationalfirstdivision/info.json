@@ -1,0 +1,9 @@
+{
+  "pais": "Africa do Sul",
+  "pais_slug": "africadosul",
+  "liga": "National First Division",
+  "liga_slug": "nationalfirstdivision",
+  "caminho": "ligas/africadosul/nationalfirstdivision",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

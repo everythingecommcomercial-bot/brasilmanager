@@ -1,0 +1,9 @@
+{
+  "pais": "Australia",
+  "pais_slug": "australia",
+  "liga": "A League Men",
+  "liga_slug": "aleaguemen",
+  "caminho": "ligas/australia/aleaguemen",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Argentina",
+  "pais_slug": "argentina",
+  "liga": "Copa Argentina",
+  "liga_slug": "copaargentina",
+  "caminho": "ligas/argentina/copaargentina",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Africa do Sul",
+  "pais_slug": "africadosul",
+  "liga": "MTN 8",
+  "liga_slug": "mtn8",
+  "caminho": "ligas/africadosul/mtn8",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

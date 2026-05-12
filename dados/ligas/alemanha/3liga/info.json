@@ -1,0 +1,9 @@
+{
+  "pais": "Alemanha",
+  "pais_slug": "alemanha",
+  "liga": "3 Liga",
+  "liga_slug": "3liga",
+  "caminho": "ligas/alemanha/3liga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}
