@@ -1,0 +1,8 @@
+{
+  "nome": "Panathinaikos",
+  "nome_slug": "panathinaikos",
+  "pais": "Grecia",
+  "pais_slug": "grecia",
+  "caminho": "clubes/grecia/panathinaikos.json",
+  "observacao": "Base gerada automaticamente; validar dados atuais antes de uso oficial."
+}
