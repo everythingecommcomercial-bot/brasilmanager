@@ -1,0 +1,9 @@
+{
+  "pais": "Noruega",
+  "pais_slug": "noruega",
+  "liga": "Norwegian Football Cup",
+  "liga_slug": "norwegianfootballcup",
+  "caminho": "ligas/noruega/norwegianfootballcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

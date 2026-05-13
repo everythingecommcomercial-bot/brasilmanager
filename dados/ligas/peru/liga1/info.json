@@ -1,0 +1,9 @@
+{
+  "pais": "Peru",
+  "pais_slug": "peru",
+  "liga": "Liga 1",
+  "liga_slug": "liga1",
+  "caminho": "ligas/peru/liga1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

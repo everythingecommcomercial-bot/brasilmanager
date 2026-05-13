@@ -1,0 +1,9 @@
+{
+  "pais": "Oma",
+  "pais_slug": "oma",
+  "liga": "Oman Professional League",
+  "liga_slug": "omanprofessionalleague",
+  "caminho": "ligas/oma/omanprofessionalleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

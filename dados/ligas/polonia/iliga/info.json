@@ -1,0 +1,9 @@
+{
+  "pais": "Polonia",
+  "pais_slug": "polonia",
+  "liga": "I Liga",
+  "liga_slug": "iliga",
+  "caminho": "ligas/polonia/iliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

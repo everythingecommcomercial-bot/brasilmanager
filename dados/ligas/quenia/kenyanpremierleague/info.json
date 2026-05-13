@@ -1,0 +1,9 @@
+{
+  "pais": "Quenia",
+  "pais_slug": "quenia",
+  "liga": "Kenyan Premier League",
+  "liga_slug": "kenyanpremierleague",
+  "caminho": "ligas/quenia/kenyanpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

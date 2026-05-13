@@ -1,0 +1,9 @@
+{
+  "pais": "Nicaragua",
+  "pais_slug": "nicaragua",
+  "liga": "Liga Primera",
+  "liga_slug": "ligaprimera",
+  "caminho": "ligas/nicaragua/ligaprimera",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

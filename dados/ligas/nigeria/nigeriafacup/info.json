@@ -1,0 +1,9 @@
+{
+  "pais": "Nigeria",
+  "pais_slug": "nigeria",
+  "liga": "Nigeria FA Cup",
+  "liga_slug": "nigeriafacup",
+  "caminho": "ligas/nigeria/nigeriafacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

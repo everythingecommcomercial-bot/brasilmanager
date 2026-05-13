@@ -1,0 +1,9 @@
+{
+  "pais": "Polonia",
+  "pais_slug": "polonia",
+  "liga": "Polish Cup",
+  "liga_slug": "polishcup",
+  "caminho": "ligas/polonia/polishcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

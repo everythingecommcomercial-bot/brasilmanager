@@ -1,0 +1,9 @@
+{
+  "pais": "Peru",
+  "pais_slug": "peru",
+  "liga": "Supercopa Peruana",
+  "liga_slug": "supercopaperuana",
+  "caminho": "ligas/peru/supercopaperuana",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

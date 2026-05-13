@@ -1,0 +1,9 @@
+{
+  "pais": "Nigeria",
+  "pais_slug": "nigeria",
+  "liga": "Nigeria National League",
+  "liga_slug": "nigerianationalleague",
+  "caminho": "ligas/nigeria/nigerianationalleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

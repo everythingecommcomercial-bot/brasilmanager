@@ -1,0 +1,9 @@
+{
+  "pais": "Nova Zelandia",
+  "pais_slug": "novazelandia",
+  "liga": "Chatham Cup",
+  "liga_slug": "chathamcup",
+  "caminho": "ligas/novazelandia/chathamcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

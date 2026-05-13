@@ -1,0 +1,9 @@
+{
+  "pais": "Panama",
+  "pais_slug": "panama",
+  "liga": "Liga Prom",
+  "liga_slug": "ligaprom",
+  "caminho": "ligas/panama/ligaprom",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

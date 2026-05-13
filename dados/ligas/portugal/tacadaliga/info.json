@@ -1,0 +1,9 @@
+{
+  "pais": "Portugal",
+  "pais_slug": "portugal",
+  "liga": "Taca da Liga",
+  "liga_slug": "tacadaliga",
+  "caminho": "ligas/portugal/tacadaliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

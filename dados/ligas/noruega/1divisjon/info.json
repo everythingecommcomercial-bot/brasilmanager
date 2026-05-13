@@ -1,0 +1,9 @@
+{
+  "pais": "Noruega",
+  "pais_slug": "noruega",
+  "liga": "1 Divisjon",
+  "liga_slug": "1divisjon",
+  "caminho": "ligas/noruega/1divisjon",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

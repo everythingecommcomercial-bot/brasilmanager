@@ -1,0 +1,9 @@
+{
+  "pais": "Qatar",
+  "pais_slug": "qatar",
+  "liga": "Qatar Cup",
+  "liga_slug": "qatarcup",
+  "caminho": "ligas/qatar/qatarcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

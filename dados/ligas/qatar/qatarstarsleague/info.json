@@ -1,0 +1,9 @@
+{
+  "pais": "Qatar",
+  "pais_slug": "qatar",
+  "liga": "Qatar Stars League",
+  "liga_slug": "qatarstarsleague",
+  "caminho": "ligas/qatar/qatarstarsleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

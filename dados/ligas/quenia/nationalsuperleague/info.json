@@ -1,0 +1,9 @@
+{
+  "pais": "Quenia",
+  "pais_slug": "quenia",
+  "liga": "National Super League",
+  "liga_slug": "nationalsuperleague",
+  "caminho": "ligas/quenia/nationalsuperleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

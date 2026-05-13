@@ -1,0 +1,9 @@
+{
+  "pais": "Pais de Gales",
+  "pais_slug": "paisdegales",
+  "liga": "Cymru North",
+  "liga_slug": "cymrunorth",
+  "caminho": "ligas/paisdegales/cymrunorth",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

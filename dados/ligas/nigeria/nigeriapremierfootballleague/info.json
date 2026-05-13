@@ -1,0 +1,9 @@
+{
+  "pais": "Nigeria",
+  "pais_slug": "nigeria",
+  "liga": "Nigeria Premier Football League",
+  "liga_slug": "nigeriapremierfootballleague",
+  "caminho": "ligas/nigeria/nigeriapremierfootballleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

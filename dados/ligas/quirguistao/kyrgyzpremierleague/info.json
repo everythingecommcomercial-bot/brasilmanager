@@ -1,0 +1,9 @@
+{
+  "pais": "Quirguistao",
+  "pais_slug": "quirguistao",
+  "liga": "Kyrgyz Premier League",
+  "liga_slug": "kyrgyzpremierleague",
+  "caminho": "ligas/quirguistao/kyrgyzpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

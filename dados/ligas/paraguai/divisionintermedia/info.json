@@ -1,0 +1,9 @@
+{
+  "pais": "Paraguai",
+  "pais_slug": "paraguai",
+  "liga": "Division Intermedia",
+  "liga_slug": "divisionintermedia",
+  "caminho": "ligas/paraguai/divisionintermedia",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

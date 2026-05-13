@@ -1,0 +1,9 @@
+{
+  "pais": "Portugal",
+  "pais_slug": "portugal",
+  "liga": "Primeira Liga",
+  "liga_slug": "primeiraliga",
+  "caminho": "ligas/portugal/primeiraliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

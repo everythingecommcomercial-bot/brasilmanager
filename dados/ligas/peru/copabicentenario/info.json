@@ -1,0 +1,9 @@
+{
+  "pais": "Peru",
+  "pais_slug": "peru",
+  "liga": "Copa Bicentenario",
+  "liga_slug": "copabicentenario",
+  "caminho": "ligas/peru/copabicentenario",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

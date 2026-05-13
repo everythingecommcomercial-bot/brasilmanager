@@ -1,0 +1,9 @@
+{
+  "pais": "Quenia",
+  "pais_slug": "quenia",
+  "liga": "FKF Cup",
+  "liga_slug": "fkfcup",
+  "caminho": "ligas/quenia/fkfcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

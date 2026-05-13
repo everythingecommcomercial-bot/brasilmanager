@@ -1,0 +1,9 @@
+{
+  "pais": "Portugal",
+  "pais_slug": "portugal",
+  "liga": "Liga Portugal 2",
+  "liga_slug": "ligaportugal2",
+  "caminho": "ligas/portugal/ligaportugal2",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

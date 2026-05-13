@@ -1,0 +1,9 @@
+{
+  "pais": "Nova Zelandia",
+  "pais_slug": "novazelandia",
+  "liga": "New Zealand National League",
+  "liga_slug": "newzealandnationalleague",
+  "caminho": "ligas/novazelandia/newzealandnationalleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

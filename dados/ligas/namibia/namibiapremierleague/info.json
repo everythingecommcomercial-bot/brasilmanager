@@ -1,0 +1,9 @@
+{
+  "pais": "Namibia",
+  "pais_slug": "namibia",
+  "liga": "Namibia Premier League",
+  "liga_slug": "namibiapremierleague",
+  "caminho": "ligas/namibia/namibiapremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

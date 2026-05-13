@@ -1,0 +1,9 @@
+{
+  "pais": "Paraguai",
+  "pais_slug": "paraguai",
+  "liga": "Supercopa Paraguay",
+  "liga_slug": "supercopaparaguay",
+  "caminho": "ligas/paraguai/supercopaparaguay",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

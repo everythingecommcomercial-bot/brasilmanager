@@ -1,0 +1,9 @@
+{
+  "pais": "Paraguai",
+  "pais_slug": "paraguai",
+  "liga": "Copa Paraguay",
+  "liga_slug": "copaparaguay",
+  "caminho": "ligas/paraguai/copaparaguay",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

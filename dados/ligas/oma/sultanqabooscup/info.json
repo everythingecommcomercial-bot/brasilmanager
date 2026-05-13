@@ -1,0 +1,9 @@
+{
+  "pais": "Oma",
+  "pais_slug": "oma",
+  "liga": "Sultan Qaboos Cup",
+  "liga_slug": "sultanqabooscup",
+  "caminho": "ligas/oma/sultanqabooscup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

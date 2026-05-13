@@ -1,0 +1,9 @@
+{
+  "pais": "Portugal",
+  "pais_slug": "portugal",
+  "liga": "Supertaca Candido de Oliveira",
+  "liga_slug": "supertacacandidodeoliveira",
+  "caminho": "ligas/portugal/supertacacandidodeoliveira",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

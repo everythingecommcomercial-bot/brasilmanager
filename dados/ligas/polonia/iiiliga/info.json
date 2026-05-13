@@ -1,0 +1,9 @@
+{
+  "pais": "Polonia",
+  "pais_slug": "polonia",
+  "liga": "III Liga",
+  "liga_slug": "iiiliga",
+  "caminho": "ligas/polonia/iiiliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

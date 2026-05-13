@@ -1,0 +1,9 @@
+{
+  "pais": "Pais de Gales",
+  "pais_slug": "paisdegales",
+  "liga": "Cymru Premier",
+  "liga_slug": "cymrupremier",
+  "caminho": "ligas/paisdegales/cymrupremier",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

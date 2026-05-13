@@ -1,0 +1,9 @@
+{
+  "pais": "Polonia",
+  "pais_slug": "polonia",
+  "liga": "Ekstraklasa",
+  "liga_slug": "ekstraklasa",
+  "caminho": "ligas/polonia/ekstraklasa",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}
