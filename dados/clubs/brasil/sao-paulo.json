@@ -1,0 +1,8 @@
+{
+  "nome": "Sao Paulo",
+  "nome_slug": "sao-paulo",
+  "pais": "Brasil",
+  "pais_slug": "brasil",
+  "caminho": "clubes/brasil/sao-paulo.json",
+  "observacao": "Base gerada automaticamente; validar dados atuais antes de uso oficial."
+}
