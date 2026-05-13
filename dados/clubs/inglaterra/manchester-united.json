@@ -1,0 +1,8 @@
+{
+  "nome": "Manchester United",
+  "nome_slug": "manchester-united",
+  "pais": "Inglaterra",
+  "pais_slug": "inglaterra",
+  "caminho": "clubes/inglaterra/manchester-united.json",
+  "observacao": "Base gerada automaticamente; validar dados atuais antes de uso oficial."
+}
