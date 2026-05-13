@@ -1,9 +1,0 @@
-{
-  "pais": "Selecoes",
-  "pais_slug": "selecoes",
-  "liga": "UEFA Nations League",
-  "liga_slug": "uefanationsleague",
-  "caminho": "ligas/selecoes/uefanationsleague",
-  "tipo": "liga/copa",
-  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
-}
