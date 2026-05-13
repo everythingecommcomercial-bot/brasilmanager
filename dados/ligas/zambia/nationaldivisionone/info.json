@@ -1,0 +1,9 @@
+{
+  "pais": "Zambia",
+  "pais_slug": "zambia",
+  "liga": "National Division One",
+  "liga_slug": "nationaldivisionone",
+  "caminho": "ligas/zambia/nationaldivisionone",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

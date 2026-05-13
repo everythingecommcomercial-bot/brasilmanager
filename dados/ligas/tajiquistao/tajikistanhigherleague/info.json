@@ -1,0 +1,9 @@
+{
+  "pais": "Tajiquistao",
+  "pais_slug": "tajiquistao",
+  "liga": "Tajikistan Higher League",
+  "liga_slug": "tajikistanhigherleague",
+  "caminho": "ligas/tajiquistao/tajikistanhigherleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

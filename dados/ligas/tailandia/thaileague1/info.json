@@ -1,0 +1,9 @@
+{
+  "pais": "Tailandia",
+  "pais_slug": "tailandia",
+  "liga": "Thai League 1",
+  "liga_slug": "thaileague1",
+  "caminho": "ligas/tailandia/thaileague1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

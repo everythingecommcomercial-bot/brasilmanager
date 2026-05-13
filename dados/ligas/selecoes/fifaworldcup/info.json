@@ -1,0 +1,9 @@
+{
+  "pais": "Selecoes",
+  "pais_slug": "selecoes",
+  "liga": "FIFA World Cup",
+  "liga_slug": "fifaworldcup",
+  "caminho": "ligas/selecoes/fifaworldcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

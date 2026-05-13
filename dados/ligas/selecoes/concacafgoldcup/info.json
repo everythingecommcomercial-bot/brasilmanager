@@ -1,0 +1,9 @@
+{
+  "pais": "Selecoes",
+  "pais_slug": "selecoes",
+  "liga": "CONCACAF Gold Cup",
+  "liga_slug": "concacafgoldcup",
+  "caminho": "ligas/selecoes/concacafgoldcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

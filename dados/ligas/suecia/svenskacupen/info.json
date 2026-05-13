@@ -1,0 +1,9 @@
+{
+  "pais": "Suecia",
+  "pais_slug": "suecia",
+  "liga": "Svenska Cupen",
+  "liga_slug": "svenskacupen",
+  "caminho": "ligas/suecia/svenskacupen",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

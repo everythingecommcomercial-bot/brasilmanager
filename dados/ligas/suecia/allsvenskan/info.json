@@ -1,0 +1,9 @@
+{
+  "pais": "Suecia",
+  "pais_slug": "suecia",
+  "liga": "Allsvenskan",
+  "liga_slug": "allsvenskan",
+  "caminho": "ligas/suecia/allsvenskan",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

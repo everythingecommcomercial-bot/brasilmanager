@@ -1,0 +1,9 @@
+{
+  "pais": "Selecoes",
+  "pais_slug": "selecoes",
+  "liga": "Copa America",
+  "liga_slug": "copaamerica",
+  "caminho": "ligas/selecoes/copaamerica",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

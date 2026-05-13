@@ -1,0 +1,9 @@
+{
+  "pais": "Vietna",
+  "pais_slug": "vietna",
+  "liga": "Vietnamese National Cup",
+  "liga_slug": "vietnamesenationalcup",
+  "caminho": "ligas/vietna/vietnamesenationalcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

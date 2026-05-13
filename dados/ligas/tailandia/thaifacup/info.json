@@ -1,0 +1,9 @@
+{
+  "pais": "Tailandia",
+  "pais_slug": "tailandia",
+  "liga": "Thai FA Cup",
+  "liga_slug": "thaifacup",
+  "caminho": "ligas/tailandia/thaifacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

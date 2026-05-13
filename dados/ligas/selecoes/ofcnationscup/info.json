@@ -1,0 +1,9 @@
+{
+  "pais": "Selecoes",
+  "pais_slug": "selecoes",
+  "liga": "OFC Nations Cup",
+  "liga_slug": "ofcnationscup",
+  "caminho": "ligas/selecoes/ofcnationscup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

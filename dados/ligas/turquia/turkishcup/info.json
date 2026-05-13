@@ -1,0 +1,9 @@
+{
+  "pais": "Turquia",
+  "pais_slug": "turquia",
+  "liga": "Turkish Cup",
+  "liga_slug": "turkishcup",
+  "caminho": "ligas/turquia/turkishcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

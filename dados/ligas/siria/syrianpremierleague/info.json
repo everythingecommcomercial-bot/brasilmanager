@@ -1,0 +1,9 @@
+{
+  "pais": "Siria",
+  "pais_slug": "siria",
+  "liga": "Syrian Premier League",
+  "liga_slug": "syrianpremierleague",
+  "caminho": "ligas/siria/syrianpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Ucrania",
+  "pais_slug": "ucrania",
+  "liga": "Ukrainian First League",
+  "liga_slug": "ukrainianfirstleague",
+  "caminho": "ligas/ucrania/ukrainianfirstleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

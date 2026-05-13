@@ -1,0 +1,9 @@
+{
+  "pais": "Suica",
+  "pais_slug": "suica",
+  "liga": "Swiss Challenge League",
+  "liga_slug": "swisschallengeleague",
+  "caminho": "ligas/suica/swisschallengeleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

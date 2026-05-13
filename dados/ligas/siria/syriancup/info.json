@@ -1,0 +1,9 @@
+{
+  "pais": "Siria",
+  "pais_slug": "siria",
+  "liga": "Syrian Cup",
+  "liga_slug": "syriancup",
+  "caminho": "ligas/siria/syriancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Tunisia",
+  "pais_slug": "tunisia",
+  "liga": "Tunisian Cup",
+  "liga_slug": "tunisiancup",
+  "caminho": "ligas/tunisia/tunisiancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

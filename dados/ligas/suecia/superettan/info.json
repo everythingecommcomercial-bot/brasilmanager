@@ -1,0 +1,9 @@
+{
+  "pais": "Suecia",
+  "pais_slug": "suecia",
+  "liga": "Superettan",
+  "liga_slug": "superettan",
+  "caminho": "ligas/suecia/superettan",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

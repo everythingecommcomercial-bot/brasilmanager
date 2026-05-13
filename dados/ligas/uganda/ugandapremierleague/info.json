@@ -1,0 +1,9 @@
+{
+  "pais": "Uganda",
+  "pais_slug": "uganda",
+  "liga": "Uganda Premier League",
+  "liga_slug": "ugandapremierleague",
+  "caminho": "ligas/uganda/ugandapremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Uruguai",
+  "pais_slug": "uruguai",
+  "liga": "Supercopa Uruguaya",
+  "liga_slug": "supercopauruguaya",
+  "caminho": "ligas/uruguai/supercopauruguaya",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

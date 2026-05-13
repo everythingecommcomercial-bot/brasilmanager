@@ -1,0 +1,9 @@
+{
+  "pais": "Suica",
+  "pais_slug": "suica",
+  "liga": "Swiss Cup",
+  "liga_slug": "swisscup",
+  "caminho": "ligas/suica/swisscup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

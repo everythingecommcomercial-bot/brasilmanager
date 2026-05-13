@@ -1,0 +1,9 @@
+{
+  "pais": "Suica",
+  "pais_slug": "suica",
+  "liga": "Swiss Promotion League",
+  "liga_slug": "swisspromotionleague",
+  "caminho": "ligas/suica/swisspromotionleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

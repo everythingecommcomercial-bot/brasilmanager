@@ -1,0 +1,9 @@
+{
+  "pais": "Tunisia",
+  "pais_slug": "tunisia",
+  "liga": "Tunisian Ligue Professionnelle 1",
+  "liga_slug": "tunisianligueprofessionnelle1",
+  "caminho": "ligas/tunisia/tunisianligueprofessionnelle1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

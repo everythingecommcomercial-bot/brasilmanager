@@ -1,0 +1,9 @@
+{
+  "pais": "Ucrania",
+  "pais_slug": "ucrania",
+  "liga": "Ukrainian Super Cup",
+  "liga_slug": "ukrainiansupercup",
+  "caminho": "ligas/ucrania/ukrainiansupercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

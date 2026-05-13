@@ -1,0 +1,9 @@
+{
+  "pais": "Tanzania",
+  "pais_slug": "tanzania",
+  "liga": "Championship League",
+  "liga_slug": "championshipleague",
+  "caminho": "ligas/tanzania/championshipleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

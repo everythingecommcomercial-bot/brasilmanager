@@ -1,0 +1,9 @@
+{
+  "pais": "Suica",
+  "pais_slug": "suica",
+  "liga": "Swiss Super League",
+  "liga_slug": "swisssuperleague",
+  "caminho": "ligas/suica/swisssuperleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

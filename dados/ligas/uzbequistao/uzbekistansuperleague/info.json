@@ -1,0 +1,9 @@
+{
+  "pais": "Uzbequistao",
+  "pais_slug": "uzbequistao",
+  "liga": "Uzbekistan Super League",
+  "liga_slug": "uzbekistansuperleague",
+  "caminho": "ligas/uzbequistao/uzbekistansuperleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

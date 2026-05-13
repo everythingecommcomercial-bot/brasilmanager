@@ -1,0 +1,9 @@
+{
+  "pais": "Zimbabwe",
+  "pais_slug": "zimbabwe",
+  "liga": "Premier Soccer League",
+  "liga_slug": "premiersoccerleague",
+  "caminho": "ligas/zimbabwe/premiersoccerleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

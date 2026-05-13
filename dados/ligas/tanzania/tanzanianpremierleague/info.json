@@ -1,0 +1,9 @@
+{
+  "pais": "Tanzania",
+  "pais_slug": "tanzania",
+  "liga": "Tanzanian Premier League",
+  "liga_slug": "tanzanianpremierleague",
+  "caminho": "ligas/tanzania/tanzanianpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Selecoes",
+  "pais_slug": "selecoes",
+  "liga": "Africa Cup of Nations",
+  "liga_slug": "africacupofnations",
+  "caminho": "ligas/selecoes/africacupofnations",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

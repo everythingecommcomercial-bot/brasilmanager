@@ -1,0 +1,9 @@
+{
+  "pais": "Senegal",
+  "pais_slug": "senegal",
+  "liga": "Senegal FA Cup",
+  "liga_slug": "senegalfacup",
+  "caminho": "ligas/senegal/senegalfacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

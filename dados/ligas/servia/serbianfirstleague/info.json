@@ -1,0 +1,9 @@
+{
+  "pais": "Servia",
+  "pais_slug": "servia",
+  "liga": "Serbian First League",
+  "liga_slug": "serbianfirstleague",
+  "caminho": "ligas/servia/serbianfirstleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Tanzania",
+  "pais_slug": "tanzania",
+  "liga": "FA Cup",
+  "liga_slug": "facup",
+  "caminho": "ligas/tanzania/facup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

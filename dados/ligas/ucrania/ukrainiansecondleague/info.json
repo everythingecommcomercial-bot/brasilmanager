@@ -1,0 +1,9 @@
+{
+  "pais": "Ucrania",
+  "pais_slug": "ucrania",
+  "liga": "Ukrainian Second League",
+  "liga_slug": "ukrainiansecondleague",
+  "caminho": "ligas/ucrania/ukrainiansecondleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

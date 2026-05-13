@@ -1,0 +1,9 @@
+{
+  "pais": "Uruguai",
+  "pais_slug": "uruguai",
+  "liga": "Copa Uruguay",
+  "liga_slug": "copauruguay",
+  "caminho": "ligas/uruguai/copauruguay",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

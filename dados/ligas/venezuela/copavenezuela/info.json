@@ -1,0 +1,9 @@
+{
+  "pais": "Venezuela",
+  "pais_slug": "venezuela",
+  "liga": "Copa Venezuela",
+  "liga_slug": "copavenezuela",
+  "caminho": "ligas/venezuela/copavenezuela",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

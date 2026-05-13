@@ -1,0 +1,9 @@
+{
+  "pais": "Uganda",
+  "pais_slug": "uganda",
+  "liga": "Uganda Cup",
+  "liga_slug": "ugandacup",
+  "caminho": "ligas/uganda/ugandacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

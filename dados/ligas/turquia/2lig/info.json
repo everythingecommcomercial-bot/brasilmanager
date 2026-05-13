@@ -1,0 +1,9 @@
+{
+  "pais": "Turquia",
+  "pais_slug": "turquia",
+  "liga": "2 Lig",
+  "liga_slug": "2lig",
+  "caminho": "ligas/turquia/2lig",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

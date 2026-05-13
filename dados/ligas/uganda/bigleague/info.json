@@ -1,0 +1,9 @@
+{
+  "pais": "Uganda",
+  "pais_slug": "uganda",
+  "liga": "Big League",
+  "liga_slug": "bigleague",
+  "caminho": "ligas/uganda/bigleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

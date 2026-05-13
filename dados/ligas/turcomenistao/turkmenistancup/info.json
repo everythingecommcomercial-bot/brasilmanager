@@ -1,0 +1,9 @@
+{
+  "pais": "Turcomenistao",
+  "pais_slug": "turcomenistao",
+  "liga": "Turkmenistan Cup",
+  "liga_slug": "turkmenistancup",
+  "caminho": "ligas/turcomenistao/turkmenistancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

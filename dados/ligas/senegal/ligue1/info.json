@@ -1,0 +1,9 @@
+{
+  "pais": "Senegal",
+  "pais_slug": "senegal",
+  "liga": "Ligue 1",
+  "liga_slug": "ligue1",
+  "caminho": "ligas/senegal/ligue1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

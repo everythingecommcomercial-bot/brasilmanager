@@ -1,0 +1,9 @@
+{
+  "pais": "Zimbabwe",
+  "pais_slug": "zimbabwe",
+  "liga": "Chibuku Super Cup",
+  "liga_slug": "chibukusupercup",
+  "caminho": "ligas/zimbabwe/chibukusupercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

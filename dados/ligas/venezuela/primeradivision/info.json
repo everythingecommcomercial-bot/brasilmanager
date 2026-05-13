@@ -1,0 +1,9 @@
+{
+  "pais": "Venezuela",
+  "pais_slug": "venezuela",
+  "liga": "Primera Division",
+  "liga_slug": "primeradivision",
+  "caminho": "ligas/venezuela/primeradivision",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

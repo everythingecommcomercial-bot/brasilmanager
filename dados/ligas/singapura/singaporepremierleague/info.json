@@ -1,0 +1,9 @@
+{
+  "pais": "Singapura",
+  "pais_slug": "singapura",
+  "liga": "Singapore Premier League",
+  "liga_slug": "singaporepremierleague",
+  "caminho": "ligas/singapura/singaporepremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

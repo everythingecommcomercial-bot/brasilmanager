@@ -1,0 +1,9 @@
+{
+  "pais": "Zambia",
+  "pais_slug": "zambia",
+  "liga": "Super League",
+  "liga_slug": "superleague",
+  "caminho": "ligas/zambia/superleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}
