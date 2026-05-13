@@ -1,0 +1,9 @@
+{
+  "pais": "San Marino",
+  "pais_slug": "sanmarino",
+  "liga": "Campionato Sammarinese",
+  "liga_slug": "campionatosammarinese",
+  "caminho": "ligas/sanmarino/campionatosammarinese",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

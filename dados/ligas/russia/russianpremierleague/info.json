@@ -1,0 +1,9 @@
+{
+  "pais": "Russia",
+  "pais_slug": "russia",
+  "liga": "Russian Premier League",
+  "liga_slug": "russianpremierleague",
+  "caminho": "ligas/russia/russianpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

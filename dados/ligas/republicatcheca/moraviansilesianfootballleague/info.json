@@ -1,0 +1,9 @@
+{
+  "pais": "Republica Tcheca",
+  "pais_slug": "republicatcheca",
+  "liga": "Moravian Silesian Football League",
+  "liga_slug": "moraviansilesianfootballleague",
+  "caminho": "ligas/republicatcheca/moraviansilesianfootballleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

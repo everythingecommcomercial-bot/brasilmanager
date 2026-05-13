@@ -1,0 +1,9 @@
+{
+  "pais": "Russia",
+  "pais_slug": "russia",
+  "liga": "Russian First League",
+  "liga_slug": "russianfirstleague",
+  "caminho": "ligas/russia/russianfirstleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

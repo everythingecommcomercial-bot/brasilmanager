@@ -1,0 +1,9 @@
+{
+  "pais": "Russia",
+  "pais_slug": "russia",
+  "liga": "Russian Cup",
+  "liga_slug": "russiancup",
+  "caminho": "ligas/russia/russiancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

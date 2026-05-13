@@ -1,0 +1,9 @@
+{
+  "pais": "Republica Tcheca",
+  "pais_slug": "republicatcheca",
+  "liga": "Czech National Football League",
+  "liga_slug": "czechnationalfootballleague",
+  "caminho": "ligas/republicatcheca/czechnationalfootballleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

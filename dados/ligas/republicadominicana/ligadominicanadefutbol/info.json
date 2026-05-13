@@ -1,0 +1,9 @@
+{
+  "pais": "Republica Dominicana",
+  "pais_slug": "republicadominicana",
+  "liga": "Liga Dominicana de Futbol",
+  "liga_slug": "ligadominicanadefutbol",
+  "caminho": "ligas/republicadominicana/ligadominicanadefutbol",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

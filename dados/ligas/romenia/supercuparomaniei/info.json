@@ -1,0 +1,9 @@
+{
+  "pais": "Romenia",
+  "pais_slug": "romenia",
+  "liga": "Supercupa Romaniei",
+  "liga_slug": "supercuparomaniei",
+  "caminho": "ligas/romenia/supercuparomaniei",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

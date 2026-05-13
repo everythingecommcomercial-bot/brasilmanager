@@ -1,0 +1,9 @@
+{
+  "pais": "RD Congo",
+  "pais_slug": "rdcongo",
+  "liga": "Linafoot",
+  "liga_slug": "linafoot",
+  "caminho": "ligas/rdcongo/linafoot",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "RD Congo",
+  "pais_slug": "rdcongo",
+  "liga": "Coupe du Congo",
+  "liga_slug": "coupeducongo",
+  "caminho": "ligas/rdcongo/coupeducongo",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

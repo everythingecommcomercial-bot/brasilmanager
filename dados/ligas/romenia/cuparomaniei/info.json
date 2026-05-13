@@ -1,0 +1,9 @@
+{
+  "pais": "Romenia",
+  "pais_slug": "romenia",
+  "liga": "Cupa Romaniei",
+  "liga_slug": "cuparomaniei",
+  "caminho": "ligas/romenia/cuparomaniei",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}
