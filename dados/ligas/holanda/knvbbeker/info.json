@@ -1,0 +1,9 @@
+{
+  "pais": "Holanda",
+  "pais_slug": "holanda",
+  "liga": "KNVB Beker",
+  "liga_slug": "knvbbeker",
+  "caminho": "ligas/holanda/knvbbeker",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

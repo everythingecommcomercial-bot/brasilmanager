@@ -1,0 +1,9 @@
+{
+  "pais": "Honduras",
+  "pais_slug": "honduras",
+  "liga": "Liga de Ascenso",
+  "liga_slug": "ligadeascenso",
+  "caminho": "ligas/honduras/ligadeascenso",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

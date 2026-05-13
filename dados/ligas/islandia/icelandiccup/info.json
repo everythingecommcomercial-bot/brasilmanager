@@ -1,0 +1,9 @@
+{
+  "pais": "Islandia",
+  "pais_slug": "islandia",
+  "liga": "Icelandic Cup",
+  "liga_slug": "icelandiccup",
+  "caminho": "ligas/islandia/icelandiccup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

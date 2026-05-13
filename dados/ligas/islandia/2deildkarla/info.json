@@ -1,0 +1,9 @@
+{
+  "pais": "Islandia",
+  "pais_slug": "islandia",
+  "liga": "2 Deild Karla",
+  "liga_slug": "2deildkarla",
+  "caminho": "ligas/islandia/2deildkarla",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

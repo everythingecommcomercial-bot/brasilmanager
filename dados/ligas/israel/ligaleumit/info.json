@@ -1,0 +1,9 @@
+{
+  "pais": "Israel",
+  "pais_slug": "israel",
+  "liga": "Liga Leumit",
+  "liga_slug": "ligaleumit",
+  "caminho": "ligas/israel/ligaleumit",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

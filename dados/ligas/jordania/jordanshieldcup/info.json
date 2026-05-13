@@ -1,0 +1,9 @@
+{
+  "pais": "Jordania",
+  "pais_slug": "jordania",
+  "liga": "Jordan Shield Cup",
+  "liga_slug": "jordanshieldcup",
+  "caminho": "ligas/jordania/jordanshieldcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

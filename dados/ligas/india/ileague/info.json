@@ -1,0 +1,9 @@
+{
+  "pais": "India",
+  "pais_slug": "india",
+  "liga": "I League",
+  "liga_slug": "ileague",
+  "caminho": "ligas/india/ileague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

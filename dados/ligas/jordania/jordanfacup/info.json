@@ -1,0 +1,9 @@
+{
+  "pais": "Jordania",
+  "pais_slug": "jordania",
+  "liga": "Jordan FA Cup",
+  "liga_slug": "jordanfacup",
+  "caminho": "ligas/jordania/jordanfacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

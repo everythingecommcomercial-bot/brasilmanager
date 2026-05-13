@@ -1,0 +1,9 @@
+{
+  "pais": "Holanda",
+  "pais_slug": "holanda",
+  "liga": "Eredivisie",
+  "liga_slug": "eredivisie",
+  "caminho": "ligas/holanda/eredivisie",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

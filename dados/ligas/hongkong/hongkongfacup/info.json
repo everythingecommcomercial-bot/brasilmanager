@@ -1,0 +1,9 @@
+{
+  "pais": "Hong Kong",
+  "pais_slug": "hongkong",
+  "liga": "Hong Kong FA Cup",
+  "liga_slug": "hongkongfacup",
+  "caminho": "ligas/hongkong/hongkongfacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

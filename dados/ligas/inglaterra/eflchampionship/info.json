@@ -1,0 +1,9 @@
+{
+  "pais": "Inglaterra",
+  "pais_slug": "inglaterra",
+  "liga": "EFL Championship",
+  "liga_slug": "eflchampionship",
+  "caminho": "ligas/inglaterra/eflchampionship",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

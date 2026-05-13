@@ -1,0 +1,9 @@
+{
+  "pais": "Ira",
+  "pais_slug": "ira",
+  "liga": "Iranian Super Cup",
+  "liga_slug": "iraniansupercup",
+  "caminho": "ligas/ira/iraniansupercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

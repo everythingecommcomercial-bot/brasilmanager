@@ -1,0 +1,9 @@
+{
+  "pais": "Inglaterra",
+  "pais_slug": "inglaterra",
+  "liga": "EFL League Two",
+  "liga_slug": "eflleaguetwo",
+  "caminho": "ligas/inglaterra/eflleaguetwo",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

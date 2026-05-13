@@ -1,0 +1,9 @@
+{
+  "pais": "Ira",
+  "pais_slug": "ira",
+  "liga": "Persian Gulf Pro League",
+  "liga_slug": "persiangulfproleague",
+  "caminho": "ligas/ira/persiangulfproleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Italia",
+  "pais_slug": "italia",
+  "liga": "Supercoppa Italiana",
+  "liga_slug": "supercoppaitaliana",
+  "caminho": "ligas/italia/supercoppaitaliana",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

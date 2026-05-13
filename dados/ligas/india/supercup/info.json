@@ -1,0 +1,9 @@
+{
+  "pais": "India",
+  "pais_slug": "india",
+  "liga": "Super Cup",
+  "liga_slug": "supercup",
+  "caminho": "ligas/india/supercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

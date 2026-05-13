@@ -1,0 +1,9 @@
+{
+  "pais": "Holanda",
+  "pais_slug": "holanda",
+  "liga": "Johan Cruijff Schaal",
+  "liga_slug": "johancruijffschaal",
+  "caminho": "ligas/holanda/johancruijffschaal",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

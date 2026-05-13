@@ -1,0 +1,9 @@
+{
+  "pais": "Jamaica",
+  "pais_slug": "jamaica",
+  "liga": "JFF Champions Cup",
+  "liga_slug": "jffchampionscup",
+  "caminho": "ligas/jamaica/jffchampionscup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

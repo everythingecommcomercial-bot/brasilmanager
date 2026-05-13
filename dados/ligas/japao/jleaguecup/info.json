@@ -1,0 +1,9 @@
+{
+  "pais": "Japao",
+  "pais_slug": "japao",
+  "liga": "J League Cup",
+  "liga_slug": "jleaguecup",
+  "caminho": "ligas/japao/jleaguecup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Irlanda",
+  "pais_slug": "irlanda",
+  "liga": "President's Cup",
+  "liga_slug": "presidentscup",
+  "caminho": "ligas/irlanda/presidentscup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

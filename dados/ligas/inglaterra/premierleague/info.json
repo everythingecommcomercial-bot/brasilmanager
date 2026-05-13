@@ -1,0 +1,9 @@
+{
+  "pais": "Inglaterra",
+  "pais_slug": "inglaterra",
+  "liga": "Premier League",
+  "liga_slug": "premierleague",
+  "caminho": "ligas/inglaterra/premierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

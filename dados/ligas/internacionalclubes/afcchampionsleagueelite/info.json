@@ -1,0 +1,9 @@
+{
+  "pais": "Internacional Clubes",
+  "pais_slug": "internacionalclubes",
+  "liga": "AFC Champions League Elite",
+  "liga_slug": "afcchampionsleagueelite",
+  "caminho": "ligas/internacionalclubes/afcchampionsleagueelite",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

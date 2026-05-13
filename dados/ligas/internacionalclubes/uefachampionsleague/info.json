@@ -1,0 +1,9 @@
+{
+  "pais": "Internacional Clubes",
+  "pais_slug": "internacionalclubes",
+  "liga": "UEFA Champions League",
+  "liga_slug": "uefachampionsleague",
+  "caminho": "ligas/internacionalclubes/uefachampionsleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

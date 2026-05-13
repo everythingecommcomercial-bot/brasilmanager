@@ -1,0 +1,9 @@
+{
+  "pais": "Indonesia",
+  "pais_slug": "indonesia",
+  "liga": "Liga 1",
+  "liga_slug": "liga1",
+  "caminho": "ligas/indonesia/liga1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

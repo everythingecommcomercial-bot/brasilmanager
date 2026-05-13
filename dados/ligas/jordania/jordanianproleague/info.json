@@ -1,0 +1,9 @@
+{
+  "pais": "Jordania",
+  "pais_slug": "jordania",
+  "liga": "Jordanian Pro League",
+  "liga_slug": "jordanianproleague",
+  "caminho": "ligas/jordania/jordanianproleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

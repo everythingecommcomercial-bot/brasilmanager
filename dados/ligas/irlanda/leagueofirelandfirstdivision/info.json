@@ -1,0 +1,9 @@
+{
+  "pais": "Irlanda",
+  "pais_slug": "irlanda",
+  "liga": "League of Ireland First Division",
+  "liga_slug": "leagueofirelandfirstdivision",
+  "caminho": "ligas/irlanda/leagueofirelandfirstdivision",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

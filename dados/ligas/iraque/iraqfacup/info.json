@@ -1,0 +1,9 @@
+{
+  "pais": "Iraque",
+  "pais_slug": "iraque",
+  "liga": "Iraq FA Cup",
+  "liga_slug": "iraqfacup",
+  "caminho": "ligas/iraque/iraqfacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

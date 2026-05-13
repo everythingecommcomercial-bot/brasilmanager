@@ -1,0 +1,9 @@
+{
+  "pais": "Italia",
+  "pais_slug": "italia",
+  "liga": "Serie A",
+  "liga_slug": "seriea",
+  "caminho": "ligas/italia/seriea",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

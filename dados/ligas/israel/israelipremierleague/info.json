@@ -1,0 +1,9 @@
+{
+  "pais": "Israel",
+  "pais_slug": "israel",
+  "liga": "Israeli Premier League",
+  "liga_slug": "israelipremierleague",
+  "caminho": "ligas/israel/israelipremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

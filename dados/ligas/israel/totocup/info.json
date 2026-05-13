@@ -1,0 +1,9 @@
+{
+  "pais": "Israel",
+  "pais_slug": "israel",
+  "liga": "Toto Cup",
+  "liga_slug": "totocup",
+  "caminho": "ligas/israel/totocup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

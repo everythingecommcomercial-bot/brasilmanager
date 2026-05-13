@@ -1,0 +1,9 @@
+{
+  "pais": "Iraque",
+  "pais_slug": "iraque",
+  "liga": "Iraq Stars League",
+  "liga_slug": "iraqstarsleague",
+  "caminho": "ligas/iraque/iraqstarsleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

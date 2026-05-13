@@ -1,0 +1,9 @@
+{
+  "pais": "Jamaica",
+  "pais_slug": "jamaica",
+  "liga": "Premier League",
+  "liga_slug": "premierleague",
+  "caminho": "ligas/jamaica/premierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Internacional Clubes",
+  "pais_slug": "internacionalclubes",
+  "liga": "CAF Confederation Cup",
+  "liga_slug": "cafconfederationcup",
+  "caminho": "ligas/internacionalclubes/cafconfederationcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

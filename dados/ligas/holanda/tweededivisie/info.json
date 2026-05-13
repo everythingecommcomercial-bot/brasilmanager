@@ -1,0 +1,9 @@
+{
+  "pais": "Holanda",
+  "pais_slug": "holanda",
+  "liga": "Tweede Divisie",
+  "liga_slug": "tweededivisie",
+  "caminho": "ligas/holanda/tweededivisie",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

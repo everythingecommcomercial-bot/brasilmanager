@@ -1,0 +1,9 @@
+{
+  "pais": "Inglaterra",
+  "pais_slug": "inglaterra",
+  "liga": "National League",
+  "liga_slug": "nationalleague",
+  "caminho": "ligas/inglaterra/nationalleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

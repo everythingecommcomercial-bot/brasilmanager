@@ -1,0 +1,9 @@
+{
+  "pais": "Indonesia",
+  "pais_slug": "indonesia",
+  "liga": "Piala Indonesia",
+  "liga_slug": "pialaindonesia",
+  "caminho": "ligas/indonesia/pialaindonesia",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

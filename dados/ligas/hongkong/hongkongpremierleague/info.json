@@ -1,0 +1,9 @@
+{
+  "pais": "Hong Kong",
+  "pais_slug": "hongkong",
+  "liga": "Hong Kong Premier League",
+  "liga_slug": "hongkongpremierleague",
+  "caminho": "ligas/hongkong/hongkongpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

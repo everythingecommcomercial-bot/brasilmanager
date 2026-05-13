@@ -1,0 +1,9 @@
+{
+  "pais": "Internacional Clubes",
+  "pais_slug": "internacionalclubes",
+  "liga": "Copa Libertadores",
+  "liga_slug": "copalibertadores",
+  "caminho": "ligas/internacionalclubes/copalibertadores",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

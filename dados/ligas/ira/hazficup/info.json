@@ -1,0 +1,9 @@
+{
+  "pais": "Ira",
+  "pais_slug": "ira",
+  "liga": "Hazfi Cup",
+  "liga_slug": "hazficup",
+  "caminho": "ligas/ira/hazficup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

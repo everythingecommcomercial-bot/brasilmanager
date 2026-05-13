@@ -1,0 +1,9 @@
+{
+  "pais": "Irlanda",
+  "pais_slug": "irlanda",
+  "liga": "FAI Cup",
+  "liga_slug": "faicup",
+  "caminho": "ligas/irlanda/faicup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

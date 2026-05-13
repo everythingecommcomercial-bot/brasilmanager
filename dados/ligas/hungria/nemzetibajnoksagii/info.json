@@ -1,0 +1,9 @@
+{
+  "pais": "Hungria",
+  "pais_slug": "hungria",
+  "liga": "Nemzeti Bajnoksag II",
+  "liga_slug": "nemzetibajnoksagii",
+  "caminho": "ligas/hungria/nemzetibajnoksagii",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Italia",
+  "pais_slug": "italia",
+  "liga": "Serie D",
+  "liga_slug": "seried",
+  "caminho": "ligas/italia/seried",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

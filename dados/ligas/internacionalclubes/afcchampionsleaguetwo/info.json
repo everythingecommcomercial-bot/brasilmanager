@@ -1,0 +1,9 @@
+{
+  "pais": "Internacional Clubes",
+  "pais_slug": "internacionalclubes",
+  "liga": "AFC Champions League Two",
+  "liga_slug": "afcchampionsleaguetwo",
+  "caminho": "ligas/internacionalclubes/afcchampionsleaguetwo",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

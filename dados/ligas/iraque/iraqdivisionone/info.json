@@ -1,0 +1,9 @@
+{
+  "pais": "Iraque",
+  "pais_slug": "iraque",
+  "liga": "Iraq Division One",
+  "liga_slug": "iraqdivisionone",
+  "caminho": "ligas/iraque/iraqdivisionone",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

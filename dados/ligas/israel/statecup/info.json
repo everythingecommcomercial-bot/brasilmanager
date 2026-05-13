@@ -1,0 +1,9 @@
+{
+  "pais": "Israel",
+  "pais_slug": "israel",
+  "liga": "State Cup",
+  "liga_slug": "statecup",
+  "caminho": "ligas/israel/statecup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

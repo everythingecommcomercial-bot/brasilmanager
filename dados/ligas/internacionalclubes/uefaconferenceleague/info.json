@@ -1,0 +1,9 @@
+{
+  "pais": "Internacional Clubes",
+  "pais_slug": "internacionalclubes",
+  "liga": "UEFA Conference League",
+  "liga_slug": "uefaconferenceleague",
+  "caminho": "ligas/internacionalclubes/uefaconferenceleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

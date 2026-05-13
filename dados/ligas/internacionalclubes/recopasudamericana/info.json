@@ -1,0 +1,9 @@
+{
+  "pais": "Internacional Clubes",
+  "pais_slug": "internacionalclubes",
+  "liga": "Recopa Sudamericana",
+  "liga_slug": "recopasudamericana",
+  "caminho": "ligas/internacionalclubes/recopasudamericana",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

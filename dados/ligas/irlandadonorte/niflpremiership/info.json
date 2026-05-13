@@ -1,0 +1,9 @@
+{
+  "pais": "Irlanda do Norte",
+  "pais_slug": "irlandadonorte",
+  "liga": "NIFL Premiership",
+  "liga_slug": "niflpremiership",
+  "caminho": "ligas/irlandadonorte/niflpremiership",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

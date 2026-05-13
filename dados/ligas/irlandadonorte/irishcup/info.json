@@ -1,0 +1,9 @@
+{
+  "pais": "Irlanda do Norte",
+  "pais_slug": "irlandadonorte",
+  "liga": "Irish Cup",
+  "liga_slug": "irishcup",
+  "caminho": "ligas/irlandadonorte/irishcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Honduras",
+  "pais_slug": "honduras",
+  "liga": "Liga Nacional",
+  "liga_slug": "liganacional",
+  "caminho": "ligas/honduras/liganacional",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}
