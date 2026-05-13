@@ -1,0 +1,9 @@
+{
+  "pais": "Kuwait",
+  "pais_slug": "kuwait",
+  "liga": "Emir Cup",
+  "liga_slug": "emircup",
+  "caminho": "ligas/kuwait/emircup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

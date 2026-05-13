@@ -1,0 +1,9 @@
+{
+  "pais": "Luxemburgo",
+  "pais_slug": "luxemburgo",
+  "liga": "Division of Honour",
+  "liga_slug": "divisionofhonour",
+  "caminho": "ligas/luxemburgo/divisionofhonour",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

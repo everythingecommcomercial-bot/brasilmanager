@@ -1,0 +1,9 @@
+{
+  "pais": "Lituania",
+  "pais_slug": "lituania",
+  "liga": "A Lyga",
+  "liga_slug": "alyga",
+  "caminho": "ligas/lituania/alyga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

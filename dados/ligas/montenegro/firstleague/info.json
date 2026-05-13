@@ -1,0 +1,9 @@
+{
+  "pais": "Montenegro",
+  "pais_slug": "montenegro",
+  "liga": "First League",
+  "liga_slug": "firstleague",
+  "caminho": "ligas/montenegro/firstleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

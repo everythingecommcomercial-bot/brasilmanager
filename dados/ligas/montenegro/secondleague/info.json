@@ -1,0 +1,9 @@
+{
+  "pais": "Montenegro",
+  "pais_slug": "montenegro",
+  "liga": "Second League",
+  "liga_slug": "secondleague",
+  "caminho": "ligas/montenegro/secondleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

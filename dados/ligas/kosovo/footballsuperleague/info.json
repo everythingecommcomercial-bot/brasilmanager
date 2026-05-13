@@ -1,0 +1,9 @@
+{
+  "pais": "Kosovo",
+  "pais_slug": "kosovo",
+  "liga": "Football Superleague",
+  "liga_slug": "footballsuperleague",
+  "caminho": "ligas/kosovo/footballsuperleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

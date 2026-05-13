@@ -1,0 +1,9 @@
+{
+  "pais": "Moldavia",
+  "pais_slug": "moldavia",
+  "liga": "Super Liga",
+  "liga_slug": "superliga",
+  "caminho": "ligas/moldavia/superliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

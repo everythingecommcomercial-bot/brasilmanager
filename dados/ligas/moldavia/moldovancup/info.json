@@ -1,0 +1,9 @@
+{
+  "pais": "Moldavia",
+  "pais_slug": "moldavia",
+  "liga": "Moldovan Cup",
+  "liga_slug": "moldovancup",
+  "caminho": "ligas/moldavia/moldovancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

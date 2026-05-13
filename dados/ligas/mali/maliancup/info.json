@@ -1,0 +1,9 @@
+{
+  "pais": "Mali",
+  "pais_slug": "mali",
+  "liga": "Malian Cup",
+  "liga_slug": "maliancup",
+  "caminho": "ligas/mali/maliancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

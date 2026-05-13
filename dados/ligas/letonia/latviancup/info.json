@@ -1,0 +1,9 @@
+{
+  "pais": "Letonia",
+  "pais_slug": "letonia",
+  "liga": "Latvian Cup",
+  "liga_slug": "latviancup",
+  "caminho": "ligas/letonia/latviancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Libia",
+  "pais_slug": "libia",
+  "liga": "Libyan Cup",
+  "liga_slug": "libyancup",
+  "caminho": "ligas/libia/libyancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

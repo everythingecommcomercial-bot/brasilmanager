@@ -1,0 +1,9 @@
+{
+  "pais": "Libano",
+  "pais_slug": "libano",
+  "liga": "Lebanese FA Cup",
+  "liga_slug": "lebanesefacup",
+  "caminho": "ligas/libano/lebanesefacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

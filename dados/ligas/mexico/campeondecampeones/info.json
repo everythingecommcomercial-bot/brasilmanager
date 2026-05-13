@@ -1,0 +1,9 @@
+{
+  "pais": "Mexico",
+  "pais_slug": "mexico",
+  "liga": "Campeon de Campeones",
+  "liga_slug": "campeondecampeones",
+  "caminho": "ligas/mexico/campeondecampeones",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

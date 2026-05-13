@@ -1,0 +1,9 @@
+{
+  "pais": "Malta",
+  "pais_slug": "malta",
+  "liga": "FA Trophy",
+  "liga_slug": "fatrophy",
+  "caminho": "ligas/malta/fatrophy",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

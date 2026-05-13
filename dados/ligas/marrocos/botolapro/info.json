@@ -1,0 +1,9 @@
+{
+  "pais": "Marrocos",
+  "pais_slug": "marrocos",
+  "liga": "Botola Pro",
+  "liga_slug": "botolapro",
+  "caminho": "ligas/marrocos/botolapro",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

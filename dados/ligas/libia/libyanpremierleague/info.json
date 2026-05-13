@@ -1,0 +1,9 @@
+{
+  "pais": "Libia",
+  "pais_slug": "libia",
+  "liga": "Libyan Premier League",
+  "liga_slug": "libyanpremierleague",
+  "caminho": "ligas/libia/libyanpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

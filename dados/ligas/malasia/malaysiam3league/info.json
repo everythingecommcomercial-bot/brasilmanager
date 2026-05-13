@@ -1,0 +1,9 @@
+{
+  "pais": "Malasia",
+  "pais_slug": "malasia",
+  "liga": "Malaysia M3 League",
+  "liga_slug": "malaysiam3league",
+  "caminho": "ligas/malasia/malaysiam3league",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

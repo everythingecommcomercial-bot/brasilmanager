@@ -1,0 +1,9 @@
+{
+  "pais": "Mauricio",
+  "pais_slug": "mauricio",
+  "liga": "Mauritian Premier League",
+  "liga_slug": "mauritianpremierleague",
+  "caminho": "ligas/mauricio/mauritianpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

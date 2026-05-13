@@ -1,0 +1,9 @@
+{
+  "pais": "Mongolia",
+  "pais_slug": "mongolia",
+  "liga": "Mongolian Premier League",
+  "liga_slug": "mongolianpremierleague",
+  "caminho": "ligas/mongolia/mongolianpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

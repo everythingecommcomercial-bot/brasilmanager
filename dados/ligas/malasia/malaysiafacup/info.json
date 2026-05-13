@@ -1,0 +1,9 @@
+{
+  "pais": "Malasia",
+  "pais_slug": "malasia",
+  "liga": "Malaysia FA Cup",
+  "liga_slug": "malaysiafacup",
+  "caminho": "ligas/malasia/malaysiafacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

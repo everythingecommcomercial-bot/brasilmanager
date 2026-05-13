@@ -1,0 +1,9 @@
+{
+  "pais": "Luxemburgo",
+  "pais_slug": "luxemburgo",
+  "liga": "Luxembourg Cup",
+  "liga_slug": "luxembourgcup",
+  "caminho": "ligas/luxemburgo/luxembourgcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

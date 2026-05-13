@@ -1,0 +1,9 @@
+{
+  "pais": "Mocambique",
+  "pais_slug": "mocambique",
+  "liga": "Mocambola",
+  "liga_slug": "mocambola",
+  "caminho": "ligas/mocambique/mocambola",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

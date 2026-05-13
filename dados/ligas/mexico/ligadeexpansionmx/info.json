@@ -1,0 +1,9 @@
+{
+  "pais": "Mexico",
+  "pais_slug": "mexico",
+  "liga": "Liga de Expansion MX",
+  "liga_slug": "ligadeexpansionmx",
+  "caminho": "ligas/mexico/ligadeexpansionmx",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

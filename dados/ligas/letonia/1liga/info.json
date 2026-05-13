@@ -1,0 +1,9 @@
+{
+  "pais": "Letonia",
+  "pais_slug": "letonia",
+  "liga": "1 Liga",
+  "liga_slug": "1liga",
+  "caminho": "ligas/letonia/1liga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

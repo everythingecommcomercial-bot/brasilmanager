@@ -1,0 +1,9 @@
+{
+  "pais": "Lituania",
+  "pais_slug": "lituania",
+  "liga": "Lithuanian Cup",
+  "liga_slug": "lithuaniancup",
+  "caminho": "ligas/lituania/lithuaniancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

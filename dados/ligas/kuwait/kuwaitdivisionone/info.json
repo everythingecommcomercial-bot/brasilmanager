@@ -1,0 +1,9 @@
+{
+  "pais": "Kuwait",
+  "pais_slug": "kuwait",
+  "liga": "Kuwait Division One",
+  "liga_slug": "kuwaitdivisionone",
+  "caminho": "ligas/kuwait/kuwaitdivisionone",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

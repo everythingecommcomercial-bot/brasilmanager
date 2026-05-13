@@ -1,0 +1,9 @@
+{
+  "pais": "Kuwait",
+  "pais_slug": "kuwait",
+  "liga": "Kuwait Premier League",
+  "liga_slug": "kuwaitpremierleague",
+  "caminho": "ligas/kuwait/kuwaitpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

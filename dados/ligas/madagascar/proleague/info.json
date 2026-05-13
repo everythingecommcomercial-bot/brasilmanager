@@ -1,0 +1,9 @@
+{
+  "pais": "Madagascar",
+  "pais_slug": "madagascar",
+  "liga": "Pro League",
+  "liga_slug": "proleague",
+  "caminho": "ligas/madagascar/proleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

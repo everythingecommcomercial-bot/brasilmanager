@@ -1,0 +1,9 @@
+{
+  "pais": "Mexico",
+  "pais_slug": "mexico",
+  "liga": "Copa MX",
+  "liga_slug": "copamx",
+  "caminho": "ligas/mexico/copamx",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

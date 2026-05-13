@@ -1,0 +1,9 @@
+{
+  "pais": "Kosovo",
+  "pais_slug": "kosovo",
+  "liga": "Kosovar Cup",
+  "liga_slug": "kosovarcup",
+  "caminho": "ligas/kosovo/kosovarcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

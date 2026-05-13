@@ -1,0 +1,9 @@
+{
+  "pais": "Macedonia do Norte",
+  "pais_slug": "macedoniadonorte",
+  "liga": "Macedonian Cup",
+  "liga_slug": "macedoniancup",
+  "caminho": "ligas/macedoniadonorte/macedoniancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

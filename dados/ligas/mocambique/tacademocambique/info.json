@@ -1,0 +1,9 @@
+{
+  "pais": "Mocambique",
+  "pais_slug": "mocambique",
+  "liga": "Taca de Mocambique",
+  "liga_slug": "tacademocambique",
+  "caminho": "ligas/mocambique/tacademocambique",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

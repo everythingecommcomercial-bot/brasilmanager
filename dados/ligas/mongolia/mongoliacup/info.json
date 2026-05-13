@@ -1,0 +1,9 @@
+{
+  "pais": "Mongolia",
+  "pais_slug": "mongolia",
+  "liga": "Mongolia Cup",
+  "liga_slug": "mongoliacup",
+  "caminho": "ligas/mongolia/mongoliacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}
