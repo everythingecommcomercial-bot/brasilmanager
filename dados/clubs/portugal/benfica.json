@@ -1,0 +1,8 @@
+{
+  "nome": "Benfica",
+  "nome_slug": "benfica",
+  "pais": "Portugal",
+  "pais_slug": "portugal",
+  "caminho": "clubes/portugal/benfica.json",
+  "observacao": "Base gerada automaticamente; validar dados atuais antes de uso oficial."
+}
