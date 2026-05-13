@@ -1,0 +1,9 @@
+{
+  "pais": "Etiopia",
+  "pais_slug": "etiopia",
+  "liga": "Ethiopian Premier League",
+  "liga_slug": "ethiopianpremierleague",
+  "caminho": "ligas/etiopia/ethiopianpremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

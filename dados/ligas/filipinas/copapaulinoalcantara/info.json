@@ -1,0 +1,9 @@
+{
+  "pais": "Filipinas",
+  "pais_slug": "filipinas",
+  "liga": "Copa Paulino Alcantara",
+  "liga_slug": "copapaulinoalcantara",
+  "caminho": "ligas/filipinas/copapaulinoalcantara",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

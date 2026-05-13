@@ -1,0 +1,9 @@
+{
+  "pais": "Estados Unidos",
+  "pais_slug": "estadosunidos",
+  "liga": "USL League One",
+  "liga_slug": "uslleagueone",
+  "caminho": "ligas/estadosunidos/uslleagueone",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

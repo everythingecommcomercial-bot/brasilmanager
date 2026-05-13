@@ -1,0 +1,9 @@
+{
+  "pais": "Equador",
+  "pais_slug": "equador",
+  "liga": "Supercopa Ecuador",
+  "liga_slug": "supercopaecuador",
+  "caminho": "ligas/equador/supercopaecuador",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

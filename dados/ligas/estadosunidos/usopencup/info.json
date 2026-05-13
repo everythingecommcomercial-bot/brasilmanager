@@ -1,0 +1,9 @@
+{
+  "pais": "Estados Unidos",
+  "pais_slug": "estadosunidos",
+  "liga": "US Open Cup",
+  "liga_slug": "usopencup",
+  "caminho": "ligas/estadosunidos/usopencup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

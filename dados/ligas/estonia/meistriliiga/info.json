@@ -1,0 +1,9 @@
+{
+  "pais": "Estonia",
+  "pais_slug": "estonia",
+  "liga": "Meistriliiga",
+  "liga_slug": "meistriliiga",
+  "caminho": "ligas/estonia/meistriliiga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

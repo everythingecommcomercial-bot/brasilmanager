@@ -1,0 +1,9 @@
+{
+  "pais": "Finlandia",
+  "pais_slug": "finlandia",
+  "liga": "Veikkausliiga",
+  "liga_slug": "veikkausliiga",
+  "caminho": "ligas/finlandia/veikkausliiga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

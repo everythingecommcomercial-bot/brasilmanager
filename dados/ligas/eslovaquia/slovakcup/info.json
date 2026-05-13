@@ -1,0 +1,9 @@
+{
+  "pais": "Eslovaquia",
+  "pais_slug": "eslovaquia",
+  "liga": "Slovak Cup",
+  "liga_slug": "slovakcup",
+  "caminho": "ligas/eslovaquia/slovakcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

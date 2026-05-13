@@ -1,0 +1,9 @@
+{
+  "pais": "Gibraltar",
+  "pais_slug": "gibraltar",
+  "liga": "Rock Cup",
+  "liga_slug": "rockcup",
+  "caminho": "ligas/gibraltar/rockcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

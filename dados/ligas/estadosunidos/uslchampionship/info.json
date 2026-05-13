@@ -1,0 +1,9 @@
+{
+  "pais": "Estados Unidos",
+  "pais_slug": "estadosunidos",
+  "liga": "USL Championship",
+  "liga_slug": "uslchampionship",
+  "caminho": "ligas/estadosunidos/uslchampionship",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

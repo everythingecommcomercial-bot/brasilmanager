@@ -1,0 +1,9 @@
+{
+  "pais": "Emirados Arabes Unidos",
+  "pais_slug": "emiradosarabesunidos",
+  "liga": "UAE President's Cup",
+  "liga_slug": "uaepresidentscup",
+  "caminho": "ligas/emiradosarabesunidos/uaepresidentscup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

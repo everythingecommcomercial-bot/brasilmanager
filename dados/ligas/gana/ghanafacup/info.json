@@ -1,0 +1,9 @@
+{
+  "pais": "Gana",
+  "pais_slug": "gana",
+  "liga": "Ghana FA Cup",
+  "liga_slug": "ghanafacup",
+  "caminho": "ligas/gana/ghanafacup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

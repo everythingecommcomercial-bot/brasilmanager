@@ -1,0 +1,9 @@
+{
+  "pais": "Emirados Arabes Unidos",
+  "pais_slug": "emiradosarabesunidos",
+  "liga": "UAE Super Cup",
+  "liga_slug": "uaesupercup",
+  "caminho": "ligas/emiradosarabesunidos/uaesupercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

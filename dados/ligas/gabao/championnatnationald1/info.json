@@ -1,0 +1,9 @@
+{
+  "pais": "Gabao",
+  "pais_slug": "gabao",
+  "liga": "Championnat National D1",
+  "liga_slug": "championnatnationald1",
+  "caminho": "ligas/gabao/championnatnationald1",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

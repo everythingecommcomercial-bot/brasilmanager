@@ -1,0 +1,9 @@
+{
+  "pais": "Gibraltar",
+  "pais_slug": "gibraltar",
+  "liga": "Gibraltar Football League",
+  "liga_slug": "gibraltarfootballleague",
+  "caminho": "ligas/gibraltar/gibraltarfootballleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

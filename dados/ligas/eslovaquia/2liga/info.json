@@ -1,0 +1,9 @@
+{
+  "pais": "Eslovaquia",
+  "pais_slug": "eslovaquia",
+  "liga": "2 Liga",
+  "liga_slug": "2liga",
+  "caminho": "ligas/eslovaquia/2liga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

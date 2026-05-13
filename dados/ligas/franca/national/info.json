@@ -1,0 +1,9 @@
+{
+  "pais": "Franca",
+  "pais_slug": "franca",
+  "liga": "National",
+  "liga_slug": "national",
+  "caminho": "ligas/franca/national",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Equador",
+  "pais_slug": "equador",
+  "liga": "Serie B",
+  "liga_slug": "serieb",
+  "caminho": "ligas/equador/serieb",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

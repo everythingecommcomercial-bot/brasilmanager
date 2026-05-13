@@ -1,0 +1,9 @@
+{
+  "pais": "Grecia",
+  "pais_slug": "grecia",
+  "liga": "Greek Cup",
+  "liga_slug": "greekcup",
+  "caminho": "ligas/grecia/greekcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

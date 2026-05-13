@@ -1,0 +1,9 @@
+{
+  "pais": "Finlandia",
+  "pais_slug": "finlandia",
+  "liga": "Ykkonen",
+  "liga_slug": "ykkonen",
+  "caminho": "ligas/finlandia/ykkonen",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

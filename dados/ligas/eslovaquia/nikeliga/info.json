@@ -1,0 +1,9 @@
+{
+  "pais": "Eslovaquia",
+  "pais_slug": "eslovaquia",
+  "liga": "Niké Liga",
+  "liga_slug": "nikeliga",
+  "caminho": "ligas/eslovaquia/nikeliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

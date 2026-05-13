@@ -1,0 +1,9 @@
+{
+  "pais": "Grecia",
+  "pais_slug": "grecia",
+  "liga": "Super League Greece",
+  "liga_slug": "superleaguegreece",
+  "caminho": "ligas/grecia/superleaguegreece",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

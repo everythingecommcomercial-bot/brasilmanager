@@ -1,0 +1,9 @@
+{
+  "pais": "Georgia",
+  "pais_slug": "georgia",
+  "liga": "Erovnuli Liga 2",
+  "liga_slug": "erovnuliliga2",
+  "caminho": "ligas/georgia/erovnuliliga2",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

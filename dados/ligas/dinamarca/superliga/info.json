@@ -1,0 +1,9 @@
+{
+  "pais": "Dinamarca",
+  "pais_slug": "dinamarca",
+  "liga": "Superliga",
+  "liga_slug": "superliga",
+  "caminho": "ligas/dinamarca/superliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

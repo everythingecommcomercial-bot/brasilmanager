@@ -1,0 +1,9 @@
+{
+  "pais": "Gana",
+  "pais_slug": "gana",
+  "liga": "Ghana Premier League",
+  "liga_slug": "ghanapremierleague",
+  "caminho": "ligas/gana/ghanapremierleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

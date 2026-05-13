@@ -1,0 +1,9 @@
+{
+  "pais": "Franca",
+  "pais_slug": "franca",
+  "liga": "Coupe de France",
+  "liga_slug": "coupedefrance",
+  "caminho": "ligas/franca/coupedefrance",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

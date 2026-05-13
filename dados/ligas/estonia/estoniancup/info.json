@@ -1,0 +1,9 @@
+{
+  "pais": "Estonia",
+  "pais_slug": "estonia",
+  "liga": "Estonian Cup",
+  "liga_slug": "estoniancup",
+  "caminho": "ligas/estonia/estoniancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

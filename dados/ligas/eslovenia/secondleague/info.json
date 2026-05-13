@@ -1,0 +1,9 @@
+{
+  "pais": "Eslovenia",
+  "pais_slug": "eslovenia",
+  "liga": "Second League",
+  "liga_slug": "secondleague",
+  "caminho": "ligas/eslovenia/secondleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

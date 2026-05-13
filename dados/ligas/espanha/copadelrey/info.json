@@ -1,0 +1,9 @@
+{
+  "pais": "Espanha",
+  "pais_slug": "espanha",
+  "liga": "Copa del Rey",
+  "liga_slug": "copadelrey",
+  "caminho": "ligas/espanha/copadelrey",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

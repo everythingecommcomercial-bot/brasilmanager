@@ -1,0 +1,9 @@
+{
+  "pais": "Espanha",
+  "pais_slug": "espanha",
+  "liga": "Segunda Federacion",
+  "liga_slug": "segundafederacion",
+  "caminho": "ligas/espanha/segundafederacion",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

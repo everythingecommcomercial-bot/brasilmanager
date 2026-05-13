@@ -1,0 +1,9 @@
+{
+  "pais": "Guine",
+  "pais_slug": "guine",
+  "liga": "Ligue 1 Pro",
+  "liga_slug": "ligue1pro",
+  "caminho": "ligas/guine/ligue1pro",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Eslovenia",
+  "pais_slug": "eslovenia",
+  "liga": "PrvaLiga",
+  "liga_slug": "prvaliga",
+  "caminho": "ligas/eslovenia/prvaliga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

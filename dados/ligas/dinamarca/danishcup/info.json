@@ -1,0 +1,9 @@
+{
+  "pais": "Dinamarca",
+  "pais_slug": "dinamarca",
+  "liga": "Danish Cup",
+  "liga_slug": "danishcup",
+  "caminho": "ligas/dinamarca/danishcup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

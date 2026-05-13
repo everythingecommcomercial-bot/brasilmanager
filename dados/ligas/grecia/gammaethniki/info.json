@@ -1,0 +1,9 @@
+{
+  "pais": "Grecia",
+  "pais_slug": "grecia",
+  "liga": "Gamma Ethniki",
+  "liga_slug": "gammaethniki",
+  "caminho": "ligas/grecia/gammaethniki",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

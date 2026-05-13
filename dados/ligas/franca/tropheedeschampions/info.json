@@ -1,0 +1,9 @@
+{
+  "pais": "Franca",
+  "pais_slug": "franca",
+  "liga": "Trophee des Champions",
+  "liga_slug": "tropheedeschampions",
+  "caminho": "ligas/franca/tropheedeschampions",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

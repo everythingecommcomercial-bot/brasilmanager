@@ -1,0 +1,9 @@
+{
+  "pais": "Guatemala",
+  "pais_slug": "guatemala",
+  "liga": "Primera Division",
+  "liga_slug": "primeradivision",
+  "caminho": "ligas/guatemala/primeradivision",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

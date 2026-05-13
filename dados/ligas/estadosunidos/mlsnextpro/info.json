@@ -1,0 +1,9 @@
+{
+  "pais": "Estados Unidos",
+  "pais_slug": "estadosunidos",
+  "liga": "MLS Next Pro",
+  "liga_slug": "mlsnextpro",
+  "caminho": "ligas/estadosunidos/mlsnextpro",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Estados Unidos",
+  "pais_slug": "estadosunidos",
+  "liga": "Major League Soccer",
+  "liga_slug": "majorleaguesoccer",
+  "caminho": "ligas/estadosunidos/majorleaguesoccer",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

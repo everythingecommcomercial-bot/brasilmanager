@@ -1,0 +1,9 @@
+{
+  "pais": "Filipinas",
+  "pais_slug": "filipinas",
+  "liga": "Philippines Football League",
+  "liga_slug": "philippinesfootballleague",
+  "caminho": "ligas/filipinas/philippinesfootballleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

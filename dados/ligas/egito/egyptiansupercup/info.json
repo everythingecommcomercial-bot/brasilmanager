@@ -1,0 +1,9 @@
+{
+  "pais": "Egito",
+  "pais_slug": "egito",
+  "liga": "Egyptian Super Cup",
+  "liga_slug": "egyptiansupercup",
+  "caminho": "ligas/egito/egyptiansupercup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Gana",
+  "pais_slug": "gana",
+  "liga": "Division One League",
+  "liga_slug": "divisiononeleague",
+  "caminho": "ligas/gana/divisiononeleague",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

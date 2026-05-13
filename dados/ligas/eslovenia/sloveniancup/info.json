@@ -1,0 +1,9 @@
+{
+  "pais": "Eslovenia",
+  "pais_slug": "eslovenia",
+  "liga": "Slovenian Cup",
+  "liga_slug": "sloveniancup",
+  "caminho": "ligas/eslovenia/sloveniancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Franca",
+  "pais_slug": "franca",
+  "liga": "Ligue 2",
+  "liga_slug": "ligue2",
+  "caminho": "ligas/franca/ligue2",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

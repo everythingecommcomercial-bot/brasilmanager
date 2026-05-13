@@ -1,0 +1,9 @@
+{
+  "pais": "Dinamarca",
+  "pais_slug": "dinamarca",
+  "liga": "2 Division",
+  "liga_slug": "2division",
+  "caminho": "ligas/dinamarca/2division",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

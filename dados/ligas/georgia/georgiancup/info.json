@@ -1,0 +1,9 @@
+{
+  "pais": "Georgia",
+  "pais_slug": "georgia",
+  "liga": "Georgian Cup",
+  "liga_slug": "georgiancup",
+  "caminho": "ligas/georgia/georgiancup",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

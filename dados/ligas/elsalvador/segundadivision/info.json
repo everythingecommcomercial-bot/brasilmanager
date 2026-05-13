@@ -1,0 +1,9 @@
+{
+  "pais": "El Salvador",
+  "pais_slug": "elsalvador",
+  "liga": "Segunda Division",
+  "liga_slug": "segundadivision",
+  "caminho": "ligas/elsalvador/segundadivision",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Guine",
+  "pais_slug": "guine",
+  "liga": "Coupe Nationale",
+  "liga_slug": "coupenationale",
+  "caminho": "ligas/guine/coupenationale",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

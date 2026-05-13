@@ -1,0 +1,9 @@
+{
+  "pais": "Finlandia",
+  "pais_slug": "finlandia",
+  "liga": "Ykkosliiga",
+  "liga_slug": "ykkosliiga",
+  "caminho": "ligas/finlandia/ykkosliiga",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

@@ -1,0 +1,9 @@
+{
+  "pais": "Escocia",
+  "pais_slug": "escocia",
+  "liga": "Scottish Premiership",
+  "liga_slug": "scottishpremiership",
+  "caminho": "ligas/escocia/scottishpremiership",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}

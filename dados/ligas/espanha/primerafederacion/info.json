@@ -1,0 +1,9 @@
+{
+  "pais": "Espanha",
+  "pais_slug": "espanha",
+  "liga": "Primera Federacion",
+  "liga_slug": "primerafederacion",
+  "caminho": "ligas/espanha/primerafederacion",
+  "tipo": "liga/copa",
+  "observacao": "Base gerada automaticamente; recomenda-se validar dados atuais antes de uso oficial."
+}
