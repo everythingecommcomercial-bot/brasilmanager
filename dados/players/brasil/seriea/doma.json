@@ -1,0 +1,18 @@
+{
+  "id": "doma",
+  "nome": "Doma",
+  "clubeAtual": "chapecoense",
+  "numero": "3",
+  "posicao": "Centre-Back",
+  "idade": "29/08/1998 (27)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€900k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

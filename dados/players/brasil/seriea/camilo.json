@@ -1,0 +1,19 @@
+{
+  "id": "camilo",
+  "nome": "Camilo",
+  "clubeAtual": "chapecoense",
+  "numero": "27",
+  "posicao": "Defensive Midfield",
+  "idade": "23/02/1999 (27)",
+  "nacionalidade": [
+    "Brazil",
+    "Netherlands"
+  ],
+  "valorMercado": "€1.20m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "jean-carlos",
+  "nome": "Jean Carlos",
+  "clubeAtual": "chapecoense",
+  "numero": "20",
+  "posicao": "Attacking Midfield",
+  "idade": "15/02/1992 (34)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€400k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

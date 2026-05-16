@@ -1,0 +1,19 @@
+{
+  "id": "everton",
+  "nome": "Everton",
+  "clubeAtual": "chapecoense",
+  "numero": "26",
+  "posicao": "Right-Back",
+  "idade": "10/04/1995 (31)",
+  "nacionalidade": [
+    "Brazil",
+    "Portugal"
+  ],
+  "valorMercado": "€300k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

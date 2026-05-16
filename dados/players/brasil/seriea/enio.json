@@ -1,0 +1,18 @@
+{
+  "id": "enio",
+  "nome": "Ênio",
+  "clubeAtual": "chapecoense",
+  "numero": "97",
+  "posicao": "Left Winger",
+  "idade": "03/03/2001 (25)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€800k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

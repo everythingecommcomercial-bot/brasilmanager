@@ -1,0 +1,18 @@
+{
+  "id": "marcinho",
+  "nome": "Marcinho",
+  "clubeAtual": "chapecoense",
+  "numero": "7",
+  "posicao": "Right Winger",
+  "idade": "08/06/1995 (30)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€750k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}
