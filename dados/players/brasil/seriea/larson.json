@@ -1,0 +1,18 @@
+{
+  "id": "larson",
+  "nome": "Larson",
+  "clubeAtual": "palmeiras",
+  "numero": "48",
+  "posicao": "Central Midfield",
+  "idade": "10/07/2005 (20)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€400k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

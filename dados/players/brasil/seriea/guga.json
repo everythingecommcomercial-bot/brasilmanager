@@ -1,0 +1,19 @@
+{
+  "id": "guga",
+  "nome": "Guga",
+  "clubeAtual": "fluminense",
+  "numero": "23",
+  "posicao": "Right-Back",
+  "idade": "29/08/1998 (27)",
+  "nacionalidade": [
+    "Brazil",
+    "Portugal"
+  ],
+  "valorMercado": "€2.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

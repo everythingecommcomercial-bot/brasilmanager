@@ -1,0 +1,18 @@
+{
+  "id": "lucca",
+  "nome": "Lucca",
+  "clubeAtual": "sao-paulo",
+  "numero": "45",
+  "posicao": "Left Winger",
+  "idade": "14/06/2007 (18)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€3.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

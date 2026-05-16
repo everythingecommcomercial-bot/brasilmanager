@@ -1,0 +1,19 @@
+{
+  "id": "fabio",
+  "nome": "Fábio",
+  "clubeAtual": "fluminense",
+  "numero": "1",
+  "posicao": "Goalkeeper",
+  "idade": "30/09/1980 (45)",
+  "nacionalidade": [
+    "Brazil",
+    "Italy"
+  ],
+  "valorMercado": "€75k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

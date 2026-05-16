@@ -1,0 +1,18 @@
+{
+  "id": "bruno-fuchs",
+  "nome": "Bruno Fuchs",
+  "clubeAtual": "palmeiras",
+  "numero": "3",
+  "posicao": "Centre-Back",
+  "idade": "01/04/1999 (27)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€5.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

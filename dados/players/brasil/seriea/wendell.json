@@ -1,0 +1,18 @@
+{
+  "id": "wendell",
+  "nome": "Wendell",
+  "clubeAtual": "sao-paulo",
+  "numero": "18",
+  "posicao": "Left-Back",
+  "idade": "20/07/1993 (32)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€2.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

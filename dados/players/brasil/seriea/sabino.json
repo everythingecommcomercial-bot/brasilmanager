@@ -1,0 +1,18 @@
+{
+  "id": "sabino",
+  "nome": "Sabino",
+  "clubeAtual": "sao-paulo",
+  "numero": "35",
+  "posicao": "Centre-Back",
+  "idade": "25/10/1996 (29)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€1.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

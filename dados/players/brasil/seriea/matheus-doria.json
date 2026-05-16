@@ -1,0 +1,19 @@
+{
+  "id": "matheus-doria",
+  "nome": "Matheus Dória",
+  "clubeAtual": "sao-paulo",
+  "numero": "4",
+  "posicao": "Centre-Back",
+  "idade": "08/11/1994 (31)",
+  "nacionalidade": [
+    "Brazil",
+    "Mexico"
+  ],
+  "valorMercado": "€1.50m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

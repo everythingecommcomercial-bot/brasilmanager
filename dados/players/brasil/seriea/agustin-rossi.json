@@ -1,0 +1,19 @@
+{
+  "id": "agustin-rossi",
+  "nome": "Agustín Rossi",
+  "clubeAtual": "flamengo",
+  "numero": "1",
+  "posicao": "Goalkeeper",
+  "idade": "21/08/1995 (30)",
+  "nacionalidade": [
+    "Argentina",
+    "Italy"
+  ],
+  "valorMercado": "€10.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}
