@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "jefferson-savarino",
+    "nome": "Jefferson Savarino",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jefferson-savarino.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "venezuela",
+      "italia"
+    ],
+    "dataNascimento": "11/11/1996",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€8.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 74,
+    "reputacao": 74,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 68,
+    "passeCurto": 78,
+    "passeLongo": 68,
+    "visao": 82,
+    "cruzamento": 68,
+    "drible": 76,
+    "controleBola": 81,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 72,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 70,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 59,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 63,
+    "pressao": 63,
+    "cobertura": 63,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 83,
+    "decisao": 72,
+    "visaoJogo": 78,
+    "compostura": 71,
+    "frieza": 76,
+    "concentracao": 73,
+    "regularidade": 75,
+    "ansiedade": 22,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 75,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 65,
+    "profissionalismo": 75,
+    "lealdade": 63,
+    "catimba": 63,
+    "violencia": 24,
+    "disciplina": 60,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 48,
+    "momentoHeroico": 45,
+    "supersub": 46,
+    "decisivo": 52,
+    "provocador": 58,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 72,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 76,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 80,
+    "tendenciaMarcacao": 63,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 66,
+    "participacaoJogo": 72,
+    "intensidade": 66,
+    "riscoCriativo": 80
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jefferson-savarino/profil/spieler/309193",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/venezuela.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/jefferson-savarino.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

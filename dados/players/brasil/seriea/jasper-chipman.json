@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jasper-chipman",
+    "nome": "Jasper Chipman",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jasper-chipman.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "",
+    "idade": "(-)",
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "33"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 62,
+    "reputacao": 58,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 61,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 58,
+    "drible": 60,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 64,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 65,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 60,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 61,
+    "pressao": 57,
+    "cobertura": 57,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 57,
+    "frieza": 56,
+    "concentracao": 60,
+    "regularidade": 57,
+    "ansiedade": 40,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 55,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 70,
+    "profissionalismo": 60,
+    "lealdade": 63,
+    "catimba": 48,
+    "violencia": 48,
+    "disciplina": 73,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 49,
+    "momentoHeroico": 39,
+    "supersub": 44,
+    "decisivo": 49,
+    "provocador": 49,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 53
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 4,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 52,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 56,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 62,
+    "participacaoJogo": 61,
+    "intensidade": 61,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jasper-chipman/profil/spieler/1373012",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/jasper-chipman.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

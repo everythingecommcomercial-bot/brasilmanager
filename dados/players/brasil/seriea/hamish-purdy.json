@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "hamish-purdy",
+    "nome": "Hamish Purdy",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/hamish-purdy.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "22/05/2006",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "37"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 61,
+    "chuteLongo": 52,
+    "passeCurto": 52,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 62,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 63,
+    "cabecamento": 60,
+    "voleio": 56,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 54,
+    "explosao": 57,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 57,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 39,
+    "desarme": 41,
+    "interceptacao": 39,
+    "posicionamentoDefensivo": 39,
+    "pressao": 39,
+    "cobertura": 37,
+    "empenhoTatico": 42
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 59,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 59,
+    "concentracao": 57,
+    "regularidade": 59,
+    "ansiedade": 40,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 54,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 84,
+    "profissionalismo": 72,
+    "lealdade": 63,
+    "catimba": 65,
+    "violencia": 22,
+    "disciplina": 67,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 52,
+    "momentoHeroico": 39,
+    "supersub": 61,
+    "decisivo": 47,
+    "provocador": 56,
+    "batedorPenaltis": 63,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 50
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 52,
+    "tendenciaMarcacao": 39,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 48,
+    "participacaoJogo": 58,
+    "intensidade": 46,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/hamish-purdy/profil/spieler/1276560",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/hamish-purdy.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

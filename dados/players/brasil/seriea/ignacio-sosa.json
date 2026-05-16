@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ignacio-sosa",
+    "nome": "Ignacio Sosa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ignacio-sosa.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "uruguai"
+    ],
+    "dataNascimento": "31/08/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "15"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 79,
+    "reputacao": 73,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 78,
+    "passeLongo": 77,
+    "visao": 78,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 73,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 75,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 65,
+    "desarme": 65,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 65,
+    "pressao": 75,
+    "cobertura": 65,
+    "empenhoTatico": 78
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 70,
+    "decisao": 70,
+    "visaoJogo": 70,
+    "compostura": 74,
+    "frieza": 69,
+    "concentracao": 70,
+    "regularidade": 70,
+    "ansiedade": 30,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 68,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 70,
+    "profissionalismo": 64,
+    "lealdade": 50,
+    "catimba": 64,
+    "violencia": 44,
+    "disciplina": 74,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 43,
+    "momentoHeroico": 46,
+    "supersub": 61,
+    "decisivo": 52,
+    "provocador": 36,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 78,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 76,
+    "participacaoJogo": 73,
+    "intensidade": 75,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ignacio-sosa/profil/spieler/881645",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json"
+    ],
+    "foto": "dados/images/players/brasil/ignacio-sosa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

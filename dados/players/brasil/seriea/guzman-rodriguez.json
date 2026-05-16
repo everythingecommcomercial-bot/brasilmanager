@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "guzman-rodriguez",
+    "nome": "Guzmán Rodríguez",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/guzman-rodriguez.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "uruguai",
+      "italia"
+    ],
+    "dataNascimento": "08/02/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "2"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 44,
+    "chuteLongo": 65,
+    "passeCurto": 67,
+    "passeLongo": 68,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 77,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 73,
+    "impulsao": 77,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 75,
+    "desarme": 75,
+    "interceptacao": 73,
+    "posicionamentoDefensivo": 72,
+    "pressao": 76,
+    "cobertura": 73,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 68,
+    "decisao": 74,
+    "visaoJogo": 68,
+    "compostura": 72,
+    "frieza": 72,
+    "concentracao": 74,
+    "regularidade": 72,
+    "ansiedade": 30,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 64,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 66,
+    "profissionalismo": 68,
+    "lealdade": 61,
+    "catimba": 57,
+    "violencia": 31,
+    "disciplina": 76,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 44,
+    "momentoHeroico": 39,
+    "supersub": 49,
+    "decisivo": 53,
+    "provocador": 48,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 71,
+    "participacaoJogo": 69,
+    "intensidade": 72,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/guzman-rodriguez/profil/spieler/732899",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/guzman-rodriguez.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

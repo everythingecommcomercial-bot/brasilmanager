@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gustavo-gomez",
+    "nome": "Gustavo Gómez",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gustavo-gomez.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "paraguai"
+    ],
+    "dataNascimento": "06/05/1993",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "15"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 78,
+    "potencial": 78,
+    "reputacao": 78,
+    "potencialMidia": 78
+  },
+  "tecnicos": {
+    "finalizacao": 41,
+    "chuteLongo": 72,
+    "passeCurto": 79,
+    "passeLongo": 79,
+    "visao": 72,
+    "cruzamento": 72,
+    "drible": 72,
+    "controleBola": 72,
+    "dominio": 72,
+    "curva": 72,
+    "cobrancaFalta": 72,
+    "penalti": 72,
+    "cabecamento": 81,
+    "voleio": 72,
+    "acrobacia": 72
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 74,
+    "explosao": 74,
+    "agilidade": 74,
+    "equilibrio": 74,
+    "resistencia": 74,
+    "forca": 84,
+    "impulsao": 81,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 85,
+    "desarme": 81,
+    "interceptacao": 81,
+    "posicionamentoDefensivo": 79,
+    "pressao": 82,
+    "cobertura": 80,
+    "empenhoTatico": 83
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 75,
+    "decisao": 80,
+    "visaoJogo": 75,
+    "compostura": 81,
+    "frieza": 74,
+    "concentracao": 77,
+    "regularidade": 77,
+    "ansiedade": 24,
+    "agressividade": 75,
+    "coragem": 75,
+    "lideranca": 75,
+    "trabalhoEquipe": 78
+  },
+  "personalidade": {
+    "ego": 66,
+    "ambicao": 59,
+    "profissionalismo": 62,
+    "lealdade": 64,
+    "catimba": 67,
+    "violencia": 21,
+    "disciplina": 61,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 65,
+    "jogoGrande": 67,
+    "momentoHeroico": 58,
+    "supersub": 59,
+    "decisivo": 56,
+    "provocador": 57,
+    "batedorPenaltis": 72,
+    "cobradorFalta": 72,
+    "especialistaEscanteio": 75
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 58,
+    "confianca": 63,
+    "formaAtual": 63,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 78,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 64,
+    "tendenciaPasse": 76,
+    "tendenciaMarcacao": 84,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 78,
+    "participacaoJogo": 77,
+    "intensidade": 78,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gustavo-gomez/profil/spieler/215390",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/paraguai.json"
+    ],
+    "foto": "dados/images/players/brasil/gustavo-gomez.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

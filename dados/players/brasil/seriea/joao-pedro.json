@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "joao-pedro",
+    "nome": "João Pedro",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/joao-pedro.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "15/11/1996",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "18"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 68,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 72,
+    "drible": 65,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 73,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 70,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 73
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 68,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 70,
+    "pressao": 71,
+    "cobertura": 70,
+    "empenhoTatico": 66
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 65,
+    "decisao": 67,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 69,
+    "concentracao": 65,
+    "regularidade": 68,
+    "ansiedade": 29,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 66,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 59,
+    "profissionalismo": 72,
+    "lealdade": 57,
+    "catimba": 51,
+    "violencia": 20,
+    "disciplina": 66,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 49,
+    "momentoHeroico": 47,
+    "supersub": 50,
+    "decisivo": 47,
+    "provocador": 55,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 70,
+    "participacaoJogo": 69,
+    "intensidade": 70,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/joao-pedro/profil/spieler/342024",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/joao-pedro.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

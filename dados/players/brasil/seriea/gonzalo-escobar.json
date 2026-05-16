@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gonzalo-escobar",
+    "nome": "Gonzalo Escobar",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gonzalo-escobar.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "16/03/1997",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "31"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 70,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 70,
+    "drible": 70,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 74,
+    "aceleracao": 75,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 73,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 68,
+    "desarme": 72,
+    "interceptacao": 71,
+    "posicionamentoDefensivo": 71,
+    "pressao": 69,
+    "cobertura": 67,
+    "empenhoTatico": 67
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 65,
+    "decisao": 66,
+    "visaoJogo": 65,
+    "compostura": 69,
+    "frieza": 64,
+    "concentracao": 67,
+    "regularidade": 65,
+    "ansiedade": 27,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 65,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 60,
+    "profissionalismo": 75,
+    "lealdade": 63,
+    "catimba": 58,
+    "violencia": 34,
+    "disciplina": 71,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 47,
+    "momentoHeroico": 44,
+    "supersub": 57,
+    "decisivo": 43,
+    "provocador": 40,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 62,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 70,
+    "participacaoJogo": 71,
+    "intensidade": 71,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gonzalo-escobar/profil/spieler/440377",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/gonzalo-escobar.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

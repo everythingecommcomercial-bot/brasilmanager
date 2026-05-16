@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "joaquin-piquerez",
+    "nome": "Joaquín Piquerez",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/joaquin-piquerez.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "uruguai",
+      "italia"
+    ],
+    "dataNascimento": "24/08/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€12.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 76,
+    "reputacao": 80,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 69,
+    "chuteLongo": 69,
+    "passeCurto": 72,
+    "passeLongo": 69,
+    "visao": 69,
+    "cruzamento": 80,
+    "drible": 74,
+    "controleBola": 69,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 69,
+    "penalti": 69,
+    "cabecamento": 69,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 79,
+    "aceleracao": 81,
+    "explosao": 71,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 76,
+    "forca": 71,
+    "impulsao": 71,
+    "stamina": 81
+  },
+  "defensivos": {
+    "marcacao": 74,
+    "desarme": 74,
+    "interceptacao": 75,
+    "posicionamentoDefensivo": 79,
+    "pressao": 77,
+    "cobertura": 78,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 79,
+    "criatividade": 72,
+    "decisao": 76,
+    "visaoJogo": 72,
+    "compostura": 74,
+    "frieza": 77,
+    "concentracao": 77,
+    "regularidade": 76,
+    "ansiedade": 26,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 70,
+    "trabalhoEquipe": 76
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 62,
+    "profissionalismo": 71,
+    "lealdade": 68,
+    "catimba": 67,
+    "violencia": 32,
+    "disciplina": 73,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 54,
+    "momentoHeroico": 41,
+    "supersub": 47,
+    "decisivo": 58,
+    "provocador": 36,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 76
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 66,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 78,
+    "participacaoJogo": 76,
+    "intensidade": 76,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/joaquin-piquerez/profil/spieler/496268",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/joaquin-piquerez.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

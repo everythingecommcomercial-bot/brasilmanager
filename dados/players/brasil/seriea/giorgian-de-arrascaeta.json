@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "giorgian-de-arrascaeta",
+    "nome": "Giorgian de Arrascaeta",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/giorgian-de-arrascaeta.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "uruguai",
+      "italia"
+    ],
+    "dataNascimento": "01/06/1994",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€15.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 82,
+    "potencial": 82,
+    "reputacao": 87,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 79,
+    "chuteLongo": 76,
+    "passeCurto": 85,
+    "passeLongo": 76,
+    "visao": 88,
+    "cruzamento": 76,
+    "drible": 85,
+    "controleBola": 86,
+    "dominio": 76,
+    "curva": 76,
+    "cobrancaFalta": 79,
+    "penalti": 76,
+    "cabecamento": 76,
+    "voleio": 76,
+    "acrobacia": 76
+  },
+  "fisicos": {
+    "velocidade": 78,
+    "aceleracao": 78,
+    "explosao": 78,
+    "agilidade": 78,
+    "equilibrio": 78,
+    "resistencia": 78,
+    "forca": 78,
+    "impulsao": 78,
+    "stamina": 78
+  },
+  "defensivos": {
+    "marcacao": 73,
+    "desarme": 70,
+    "interceptacao": 69,
+    "posicionamentoDefensivo": 71,
+    "pressao": 73,
+    "cobertura": 70,
+    "empenhoTatico": 70
+  },
+  "mentais": {
+    "inteligencia": 86,
+    "criatividade": 88,
+    "decisao": 79,
+    "visaoJogo": 86,
+    "compostura": 80,
+    "frieza": 85,
+    "concentracao": 81,
+    "regularidade": 81,
+    "ansiedade": 21,
+    "agressividade": 79,
+    "coragem": 79,
+    "lideranca": 81,
+    "trabalhoEquipe": 85
+  },
+  "personalidade": {
+    "ego": 64,
+    "ambicao": 60,
+    "profissionalismo": 61,
+    "lealdade": 53,
+    "catimba": 56,
+    "violencia": 20,
+    "disciplina": 75,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 86,
+    "jogoGrande": 84,
+    "momentoHeroico": 82,
+    "supersub": 46,
+    "decisivo": 86,
+    "provocador": 52,
+    "batedorPenaltis": 76,
+    "cobradorFalta": 79,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 62,
+    "confianca": 67,
+    "formaAtual": 67,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 82,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 85,
+    "tendenciaChute": 79,
+    "tendenciaPasse": 86,
+    "tendenciaMarcacao": 73,
+    "movimentacaoOfensiva": 82,
+    "recomposicao": 74,
+    "participacaoJogo": 82,
+    "intensidade": 76,
+    "riscoCriativo": 87
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/giorgian-de-arrascaeta/profil/spieler/248410",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/giorgian-de-arrascaeta.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

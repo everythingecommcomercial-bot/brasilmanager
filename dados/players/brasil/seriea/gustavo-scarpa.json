@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "gustavo-scarpa",
+    "nome": "Gustavo Scarpa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gustavo-scarpa.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "05/01/1994",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 73,
+    "reputacao": 73,
+    "potencialMidia": 73
+  },
+  "tecnicos": {
+    "finalizacao": 75,
+    "chuteLongo": 67,
+    "passeCurto": 76,
+    "passeLongo": 67,
+    "visao": 80,
+    "cruzamento": 67,
+    "drible": 77,
+    "controleBola": 80,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 76,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 58,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 62,
+    "pressao": 62,
+    "cobertura": 64,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 80,
+    "decisao": 71,
+    "visaoJogo": 81,
+    "compostura": 71,
+    "frieza": 69,
+    "concentracao": 75,
+    "regularidade": 74,
+    "ansiedade": 22,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 73,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 57,
+    "profissionalismo": 76,
+    "lealdade": 62,
+    "catimba": 45,
+    "violencia": 34,
+    "disciplina": 74,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 48,
+    "momentoHeroico": 39,
+    "supersub": 56,
+    "decisivo": 56,
+    "provocador": 54,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 76,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 77,
+    "tendenciaChute": 75,
+    "tendenciaPasse": 78,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 66,
+    "participacaoJogo": 72,
+    "intensidade": 66,
+    "riscoCriativo": 79
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gustavo-scarpa/profil/spieler/330085",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/gustavo-scarpa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

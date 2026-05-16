@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "hugo-leonardo",
+    "nome": "Hugo Leonardo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/hugo-leonardo.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "19/01/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "38"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 59,
+    "passeLongo": 62,
+    "visao": 60,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 64,
+    "forca": 57,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 58,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 58,
+    "pressao": 59,
+    "cobertura": 63,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 58,
+    "frieza": 58,
+    "concentracao": 60,
+    "regularidade": 55,
+    "ansiedade": 45,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 76,
+    "profissionalismo": 61,
+    "lealdade": 52,
+    "catimba": 66,
+    "violencia": 43,
+    "disciplina": 60,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 52,
+    "momentoHeroico": 52,
+    "supersub": 43,
+    "decisivo": 44,
+    "provocador": 44,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 49
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 59,
+    "participacaoJogo": 59,
+    "intensidade": 62,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/hugo-leonardo/profil/spieler/1094501",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/hugo-leonardo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

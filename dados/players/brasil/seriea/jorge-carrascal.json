@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jorge-carrascal",
+    "nome": "Jorge Carrascal",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jorge-carrascal.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "25/05/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "15"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€11.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 76,
+    "reputacao": 80,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 72,
+    "chuteLongo": 69,
+    "passeCurto": 76,
+    "passeLongo": 69,
+    "visao": 82,
+    "cruzamento": 69,
+    "drible": 78,
+    "controleBola": 79,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 73,
+    "penalti": 69,
+    "cabecamento": 69,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 71,
+    "explosao": 71,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 71,
+    "forca": 71,
+    "impulsao": 71,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 61,
+    "interceptacao": 61,
+    "posicionamentoDefensivo": 60,
+    "pressao": 66,
+    "cobertura": 60,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 78,
+    "decisao": 75,
+    "visaoJogo": 79,
+    "compostura": 73,
+    "frieza": 74,
+    "concentracao": 77,
+    "regularidade": 73,
+    "ansiedade": 30,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 69,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 59,
+    "profissionalismo": 70,
+    "lealdade": 48,
+    "catimba": 57,
+    "violencia": 41,
+    "disciplina": 60,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 48,
+    "momentoHeroico": 50,
+    "supersub": 56,
+    "decisivo": 57,
+    "provocador": 48,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 73,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 78,
+    "tendenciaChute": 72,
+    "tendenciaPasse": 79,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 77,
+    "recomposicao": 68,
+    "participacaoJogo": 73,
+    "intensidade": 68,
+    "riscoCriativo": 79
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jorge-carrascal/profil/spieler/354145",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/jorge-carrascal.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

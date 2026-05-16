@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jordan-barrera",
+    "nome": "Jordan Barrera",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jordan-barrera.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "11/04/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "14"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 67,
+    "potencial": 76,
+    "reputacao": 67,
+    "potencialMidia": 81
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 61,
+    "passeCurto": 72,
+    "passeLongo": 61,
+    "visao": 74,
+    "cruzamento": 61,
+    "drible": 74,
+    "controleBola": 72,
+    "dominio": 61,
+    "curva": 61,
+    "cobrancaFalta": 68,
+    "penalti": 61,
+    "cabecamento": 61,
+    "voleio": 61,
+    "acrobacia": 61
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 63,
+    "explosao": 63,
+    "agilidade": 63,
+    "equilibrio": 63,
+    "resistencia": 63,
+    "forca": 63,
+    "impulsao": 63,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 54,
+    "desarme": 57,
+    "interceptacao": 54,
+    "posicionamentoDefensivo": 52,
+    "pressao": 56,
+    "cobertura": 58,
+    "empenhoTatico": 54
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 74,
+    "decisao": 67,
+    "visaoJogo": 73,
+    "compostura": 70,
+    "frieza": 68,
+    "concentracao": 66,
+    "regularidade": 68,
+    "ansiedade": 39,
+    "agressividade": 64,
+    "coragem": 64,
+    "lideranca": 59,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 75,
+    "profissionalismo": 75,
+    "lealdade": 58,
+    "catimba": 50,
+    "violencia": 28,
+    "disciplina": 61,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 49,
+    "momentoHeroico": 42,
+    "supersub": 43,
+    "decisivo": 47,
+    "provocador": 54,
+    "batedorPenaltis": 61,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 47,
+    "confianca": 52,
+    "formaAtual": 52,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 65,
+    "tendenciaPasse": 73,
+    "tendenciaMarcacao": 55,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 58,
+    "participacaoJogo": 66,
+    "intensidade": 60,
+    "riscoCriativo": 74
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jordan-barrera/profil/spieler/1087334",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/jordan-barrera.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

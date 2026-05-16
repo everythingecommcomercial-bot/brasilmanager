@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "hugo-souza",
+    "nome": "Hugo Souza",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/hugo-souza.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "31/01/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€11.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 76,
+    "potencial": 77,
+    "reputacao": 81,
+    "potencialMidia": 77
+  },
+  "tecnicos": {
+    "finalizacao": 22,
+    "chuteLongo": 30,
+    "passeCurto": 61,
+    "passeLongo": 65,
+    "visao": 28,
+    "cruzamento": 31,
+    "drible": 24,
+    "controleBola": 19,
+    "dominio": 31,
+    "curva": 19,
+    "cobrancaFalta": 20,
+    "penalti": 22,
+    "cabecamento": 27,
+    "voleio": 28,
+    "acrobacia": 25
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 72,
+    "explosao": 72,
+    "agilidade": 80,
+    "equilibrio": 72,
+    "resistencia": 72,
+    "forca": 77,
+    "impulsao": 77,
+    "stamina": 72
+  },
+  "defensivos": {
+    "marcacao": 25,
+    "desarme": 18,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 25,
+    "pressao": 18,
+    "cobertura": 21,
+    "empenhoTatico": 20
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 73,
+    "decisao": 74,
+    "visaoJogo": 73,
+    "compostura": 75,
+    "frieza": 73,
+    "concentracao": 75,
+    "regularidade": 72,
+    "ansiedade": 25,
+    "agressividade": 73,
+    "coragem": 73,
+    "lideranca": 71,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 62,
+    "profissionalismo": 73,
+    "lealdade": 56,
+    "catimba": 63,
+    "violencia": 42,
+    "disciplina": 73,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 57,
+    "momentoHeroico": 39,
+    "supersub": 55,
+    "decisivo": 55,
+    "provocador": 33,
+    "batedorPenaltis": 22,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 27
+  },
+  "goleiro": {
+    "reflexos": 77,
+    "defesa": 79,
+    "posicionamentoGol": 81,
+    "saidaGol": 78,
+    "jogoPes": 69,
+    "reposicao": 74,
+    "pegadorPenaltis": 79
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 56,
+    "confianca": 61,
+    "formaAtual": 61,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 16,
+    "tendenciaChute": 22,
+    "tendenciaPasse": 44,
+    "tendenciaMarcacao": 22,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 46,
+    "participacaoJogo": 74,
+    "intensidade": 45,
+    "riscoCriativo": 42
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/hugo-souza/profil/spieler/574901",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/hugo-souza.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

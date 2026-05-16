@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "hulk",
+    "nome": "Hulk",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/hulk.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "25/07/1986",
+    "idade": 39,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 79,
+    "potencial": 79,
+    "reputacao": 79,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 86,
+    "chuteLongo": 73,
+    "passeCurto": 73,
+    "passeLongo": 73,
+    "visao": 73,
+    "cruzamento": 73,
+    "drible": 73,
+    "controleBola": 82,
+    "dominio": 73,
+    "curva": 73,
+    "cobrancaFalta": 73,
+    "penalti": 83,
+    "cabecamento": 81,
+    "voleio": 76,
+    "acrobacia": 73
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 75,
+    "explosao": 82,
+    "agilidade": 75,
+    "equilibrio": 75,
+    "resistencia": 75,
+    "forca": 77,
+    "impulsao": 75,
+    "stamina": 75
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 61,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 59,
+    "pressao": 61,
+    "cobertura": 59,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 81,
+    "criatividade": 76,
+    "decisao": 82,
+    "visaoJogo": 76,
+    "compostura": 76,
+    "frieza": 79,
+    "concentracao": 76,
+    "regularidade": 75,
+    "ansiedade": 22,
+    "agressividade": 76,
+    "coragem": 76,
+    "lideranca": 79,
+    "trabalhoEquipe": 77
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 59,
+    "profissionalismo": 69,
+    "lealdade": 65,
+    "catimba": 51,
+    "violencia": 30,
+    "disciplina": 68,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 69,
+    "jogoGrande": 64,
+    "momentoHeroico": 61,
+    "supersub": 57,
+    "decisivo": 78,
+    "provocador": 38,
+    "batedorPenaltis": 83,
+    "cobradorFalta": 73,
+    "especialistaEscanteio": 76
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 59,
+    "confianca": 64,
+    "formaAtual": 64,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 10,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 86,
+    "tendenciaPasse": 73,
+    "tendenciaMarcacao": 61,
+    "movimentacaoOfensiva": 82,
+    "recomposicao": 67,
+    "participacaoJogo": 77,
+    "intensidade": 68,
+    "riscoCriativo": 74
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/hulk/profil/spieler/80562",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/hulk.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

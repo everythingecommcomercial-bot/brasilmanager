@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "joao-neto",
+    "nome": "João Neto",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/joao-neto.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "21/05/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "80"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 61,
+    "passeLongo": 58,
+    "visao": 57,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 61,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 59,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 50,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 50,
+    "pressao": 60,
+    "cobertura": 50,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 55,
+    "decisao": 55,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 56,
+    "concentracao": 57,
+    "regularidade": 53,
+    "ansiedade": 41,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 71,
+    "profissionalismo": 69,
+    "lealdade": 59,
+    "catimba": 52,
+    "violencia": 35,
+    "disciplina": 69,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 46,
+    "momentoHeroico": 41,
+    "supersub": 60,
+    "decisivo": 47,
+    "provocador": 58,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 55
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 59,
+    "tendenciaMarcacao": 55,
+    "movimentacaoOfensiva": 58,
+    "recomposicao": 60,
+    "participacaoJogo": 59,
+    "intensidade": 60,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/joao-neto/profil/spieler/564919",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/joao-neto.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

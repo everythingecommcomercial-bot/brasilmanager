@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "hugo",
+    "nome": "Hugo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/hugo.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "29/08/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "46"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 67,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 72,
+    "drible": 65,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 74,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 74,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 72
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 68,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 71,
+    "pressao": 67,
+    "cobertura": 69,
+    "empenhoTatico": 66
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 65,
+    "decisao": 71,
+    "visaoJogo": 65,
+    "compostura": 68,
+    "frieza": 65,
+    "concentracao": 69,
+    "regularidade": 68,
+    "ansiedade": 30,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 66,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 62,
+    "profissionalismo": 70,
+    "lealdade": 61,
+    "catimba": 51,
+    "violencia": 20,
+    "disciplina": 65,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 42,
+    "momentoHeroico": 48,
+    "supersub": 58,
+    "decisivo": 48,
+    "provocador": 41,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 69,
+    "participacaoJogo": 70,
+    "intensidade": 70,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/hugo/profil/spieler/730708",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/hugo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

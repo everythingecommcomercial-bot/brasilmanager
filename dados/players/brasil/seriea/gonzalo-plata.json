@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gonzalo-plata",
+    "nome": "Gonzalo Plata",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gonzalo-plata.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "equador"
+    ],
+    "dataNascimento": "01/11/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "19"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€8.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 77,
+    "reputacao": 74,
+    "potencialMidia": 77
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 68,
+    "passeCurto": 68,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 73,
+    "drible": 76,
+    "controleBola": 74,
+    "dominio": 68,
+    "curva": 78,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 78,
+    "aceleracao": 82,
+    "explosao": 79,
+    "agilidade": 80,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 61,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 62,
+    "pressao": 63,
+    "cobertura": 65,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 71,
+    "decisao": 76,
+    "visaoJogo": 71,
+    "compostura": 76,
+    "frieza": 75,
+    "concentracao": 71,
+    "regularidade": 73,
+    "ansiedade": 24,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 68,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 62,
+    "profissionalismo": 76,
+    "lealdade": 56,
+    "catimba": 47,
+    "violencia": 32,
+    "disciplina": 72,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 45,
+    "momentoHeroico": 48,
+    "supersub": 58,
+    "decisivo": 58,
+    "provocador": 51,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 78
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 76,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 63,
+    "movimentacaoOfensiva": 75,
+    "recomposicao": 66,
+    "participacaoJogo": 72,
+    "intensidade": 66,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gonzalo-plata/profil/spieler/592735",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/equador.json"
+    ],
+    "foto": "dados/images/players/brasil/gonzalo-plata.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

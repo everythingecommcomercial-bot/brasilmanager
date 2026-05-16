@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jemmes",
+    "nome": "Jemmes",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jemmes.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "09/04/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "3"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 44,
+    "chuteLongo": 65,
+    "passeCurto": 69,
+    "passeLongo": 70,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 78,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 76,
+    "impulsao": 72,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 73,
+    "desarme": 72,
+    "interceptacao": 73,
+    "posicionamentoDefensivo": 74,
+    "pressao": 74,
+    "cobertura": 77,
+    "empenhoTatico": 76
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 68,
+    "decisao": 74,
+    "visaoJogo": 68,
+    "compostura": 73,
+    "frieza": 73,
+    "concentracao": 74,
+    "regularidade": 69,
+    "ansiedade": 35,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 63,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 59,
+    "profissionalismo": 60,
+    "lealdade": 65,
+    "catimba": 66,
+    "violencia": 36,
+    "disciplina": 69,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 54,
+    "momentoHeroico": 44,
+    "supersub": 52,
+    "decisivo": 54,
+    "provocador": 39,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 72,
+    "participacaoJogo": 71,
+    "intensidade": 70,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jemmes/profil/spieler/1141364",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/jemmes.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

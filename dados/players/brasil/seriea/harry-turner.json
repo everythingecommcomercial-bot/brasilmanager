@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "harry-turner",
+    "nome": "Harry Turner",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/harry-turner.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "",
+    "idade": "(-)",
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "21"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 62,
+    "reputacao": 58,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 27,
+    "chuteLongo": 24,
+    "passeCurto": 45,
+    "passeLongo": 43,
+    "visao": 27,
+    "cruzamento": 22,
+    "drible": 23,
+    "controleBola": 27,
+    "dominio": 26,
+    "curva": 21,
+    "cobrancaFalta": 21,
+    "penalti": 31,
+    "cabecamento": 26,
+    "voleio": 19,
+    "acrobacia": 29
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 58,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 58,
+    "impulsao": 62,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 16,
+    "desarme": 19,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 17,
+    "pressao": 20,
+    "cobertura": 22,
+    "empenhoTatico": 17
+  },
+  "mentais": {
+    "inteligencia": 56,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 56,
+    "frieza": 58,
+    "concentracao": 58,
+    "regularidade": 56,
+    "ansiedade": 38,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 64,
+    "profissionalismo": 71,
+    "lealdade": 67,
+    "catimba": 65,
+    "violencia": 32,
+    "disciplina": 64,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 52,
+    "momentoHeroico": 42,
+    "supersub": 62,
+    "decisivo": 47,
+    "provocador": 41,
+    "batedorPenaltis": 31,
+    "cobradorFalta": 21,
+    "especialistaEscanteio": 20
+  },
+  "goleiro": {
+    "reflexos": 60,
+    "defesa": 64,
+    "posicionamentoGol": 57,
+    "saidaGol": 59,
+    "jogoPes": 52,
+    "reposicao": 58,
+    "pegadorPenaltis": 58
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 4,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 15,
+    "tendenciaChute": 16,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 18,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 36,
+    "participacaoJogo": 58,
+    "intensidade": 37,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/harry-turner/profil/spieler/1512003",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/harry-turner.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

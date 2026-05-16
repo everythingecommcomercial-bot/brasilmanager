@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gilberto",
+    "nome": "Gilberto",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gilberto.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "07/03/1993",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "2"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 70,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 74,
+    "drible": 66,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 74,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 71,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 71,
+    "desarme": 72,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 72,
+    "pressao": 70,
+    "cobertura": 68,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 68,
+    "visaoJogo": 65,
+    "compostura": 69,
+    "frieza": 66,
+    "concentracao": 66,
+    "regularidade": 63,
+    "ansiedade": 36,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 70,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 59,
+    "profissionalismo": 61,
+    "lealdade": 67,
+    "catimba": 61,
+    "violencia": 49,
+    "disciplina": 63,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 54,
+    "momentoHeroico": 46,
+    "supersub": 44,
+    "decisivo": 43,
+    "provocador": 50,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 58,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 65,
+    "recomposicao": 70,
+    "participacaoJogo": 70,
+    "intensidade": 70,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gilberto/profil/spieler/231614",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gilberto.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

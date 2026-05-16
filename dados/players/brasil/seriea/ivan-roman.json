@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ivan-roman",
+    "nome": "Iván Román",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ivan-roman.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "chile"
+    ],
+    "dataNascimento": "12/07/2006",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "3"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 67,
+    "potencial": 79,
+    "reputacao": 67,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 47,
+    "chuteLongo": 61,
+    "passeCurto": 66,
+    "passeLongo": 66,
+    "visao": 61,
+    "cruzamento": 61,
+    "drible": 61,
+    "controleBola": 61,
+    "dominio": 61,
+    "curva": 61,
+    "cobrancaFalta": 61,
+    "penalti": 61,
+    "cabecamento": 69,
+    "voleio": 61,
+    "acrobacia": 61
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 63,
+    "explosao": 63,
+    "agilidade": 63,
+    "equilibrio": 63,
+    "resistencia": 63,
+    "forca": 75,
+    "impulsao": 67,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 74,
+    "desarme": 72,
+    "interceptacao": 71,
+    "posicionamentoDefensivo": 72,
+    "pressao": 69,
+    "cobertura": 71,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 64,
+    "decisao": 69,
+    "visaoJogo": 64,
+    "compostura": 70,
+    "frieza": 65,
+    "concentracao": 65,
+    "regularidade": 65,
+    "ansiedade": 37,
+    "agressividade": 64,
+    "coragem": 64,
+    "lideranca": 61,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 84,
+    "profissionalismo": 75,
+    "lealdade": 50,
+    "catimba": 58,
+    "violencia": 29,
+    "disciplina": 60,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 53,
+    "momentoHeroico": 50,
+    "supersub": 53,
+    "decisivo": 48,
+    "provocador": 52,
+    "batedorPenaltis": 61,
+    "cobradorFalta": 61,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 47,
+    "confianca": 52,
+    "formaAtual": 52,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 53,
+    "tendenciaChute": 53,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 72,
+    "movimentacaoOfensiva": 65,
+    "recomposicao": 68,
+    "participacaoJogo": 65,
+    "intensidade": 66,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ivan-roman/profil/spieler/1101447",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/chile.json"
+    ],
+    "foto": "dados/images/players/brasil/ivan-roman.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

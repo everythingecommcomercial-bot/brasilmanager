@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jared-muir",
+    "nome": "Jared Muir",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jared-muir.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "",
+    "idade": "(-)",
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "34"
+  },
+  "posicao": {
+    "principal": "Midfielder",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 62,
+    "reputacao": 58,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 62,
+    "passeLongo": 61,
+    "visao": 57,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 57,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 57,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 50,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 50,
+    "pressao": 56,
+    "cobertura": 50,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 57,
+    "visaoJogo": 55,
+    "compostura": 56,
+    "frieza": 58,
+    "concentracao": 55,
+    "regularidade": 54,
+    "ansiedade": 41,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 64,
+    "profissionalismo": 69,
+    "lealdade": 64,
+    "catimba": 56,
+    "violencia": 22,
+    "disciplina": 68,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 43,
+    "momentoHeroico": 47,
+    "supersub": 48,
+    "decisivo": 46,
+    "provocador": 37,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 53
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 4,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 53,
+    "movimentacaoOfensiva": 57,
+    "recomposicao": 59,
+    "participacaoJogo": 57,
+    "intensidade": 56,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jared-muir/profil/spieler/1435604",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/jared-muir.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

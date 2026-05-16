@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "jorginho",
+    "nome": "Jorginho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jorginho.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "italia",
+      "brasil"
+    ],
+    "dataNascimento": "20/12/1991",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "21"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 71,
+    "reputacao": 71,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 73,
+    "passeLongo": 75,
+    "visao": 74,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 75,
+    "forca": 73,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 75,
+    "desarme": 76,
+    "interceptacao": 74,
+    "posicionamentoDefensivo": 74,
+    "pressao": 73,
+    "cobertura": 74,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 68,
+    "decisao": 72,
+    "visaoJogo": 68,
+    "compostura": 74,
+    "frieza": 72,
+    "concentracao": 73,
+    "regularidade": 68,
+    "ansiedade": 32,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 74,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 58,
+    "profissionalismo": 64,
+    "lealdade": 55,
+    "catimba": 47,
+    "violencia": 27,
+    "disciplina": 71,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 49,
+    "momentoHeroico": 51,
+    "supersub": 42,
+    "decisivo": 50,
+    "provocador": 33,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 74,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 69,
+    "participacaoJogo": 73,
+    "intensidade": 74,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jorginho/profil/spieler/102017",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/italia.json",
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/jorginho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

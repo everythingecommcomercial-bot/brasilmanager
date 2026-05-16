@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "joaquin-lavega",
+    "nome": "Joaquín Lavega",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/joaquin-lavega.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "uruguai"
+    ],
+    "dataNascimento": "03/02/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 80,
+    "reputacao": 71,
+    "potencialMidia": 85
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 75,
+    "drible": 77,
+    "controleBola": 76,
+    "dominio": 65,
+    "curva": 72,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 74,
+    "aceleracao": 79,
+    "explosao": 77,
+    "agilidade": 73,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 62,
+    "desarme": 57,
+    "interceptacao": 61,
+    "posicionamentoDefensivo": 61,
+    "pressao": 57,
+    "cobertura": 59,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 68,
+    "decisao": 71,
+    "visaoJogo": 68,
+    "compostura": 71,
+    "frieza": 67,
+    "concentracao": 71,
+    "regularidade": 69,
+    "ansiedade": 29,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 66,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 73,
+    "profissionalismo": 61,
+    "lealdade": 54,
+    "catimba": 51,
+    "violencia": 44,
+    "disciplina": 72,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 42,
+    "momentoHeroico": 44,
+    "supersub": 49,
+    "decisivo": 53,
+    "provocador": 36,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 80,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 77,
+    "tendenciaChute": 68,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 62,
+    "participacaoJogo": 69,
+    "intensidade": 62,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/joaquin-lavega/profil/spieler/895926",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json"
+    ],
+    "foto": "dados/images/players/brasil/joaquin-lavega.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

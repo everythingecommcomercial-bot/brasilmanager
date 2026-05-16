@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "hercules",
+    "nome": "Hércules",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/hercules.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "20/10/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "35"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€12.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 78,
+    "reputacao": 80,
+    "potencialMidia": 78
+  },
+  "tecnicos": {
+    "finalizacao": 69,
+    "chuteLongo": 69,
+    "passeCurto": 82,
+    "passeLongo": 74,
+    "visao": 80,
+    "cruzamento": 69,
+    "drible": 69,
+    "controleBola": 77,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 69,
+    "penalti": 69,
+    "cabecamento": 69,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 71,
+    "explosao": 71,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 77,
+    "forca": 71,
+    "impulsao": 71,
+    "stamina": 75
+  },
+  "defensivos": {
+    "marcacao": 67,
+    "desarme": 67,
+    "interceptacao": 67,
+    "posicionamentoDefensivo": 67,
+    "pressao": 77,
+    "cobertura": 67,
+    "empenhoTatico": 77
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 72,
+    "decisao": 75,
+    "visaoJogo": 72,
+    "compostura": 75,
+    "frieza": 72,
+    "concentracao": 75,
+    "regularidade": 76,
+    "ansiedade": 19,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 68,
+    "trabalhoEquipe": 77
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 64,
+    "profissionalismo": 73,
+    "lealdade": 67,
+    "catimba": 54,
+    "violencia": 49,
+    "disciplina": 74,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 52,
+    "momentoHeroico": 47,
+    "supersub": 42,
+    "decisivo": 55,
+    "provocador": 54,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 78,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 61,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 81,
+    "tendenciaMarcacao": 72,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 76,
+    "participacaoJogo": 76,
+    "intensidade": 77,
+    "riscoCriativo": 74
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/hercules/profil/spieler/982617",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/hercules.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

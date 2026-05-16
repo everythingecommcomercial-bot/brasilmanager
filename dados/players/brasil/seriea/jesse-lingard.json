@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "jesse-lingard",
+    "nome": "Jesse Lingard",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jesse-lingard.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "inglaterra",
+      "st-vincent-grenadinen"
+    ],
+    "dataNascimento": "15/12/1992",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "77"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 69,
+    "chuteLongo": 62,
+    "passeCurto": 72,
+    "passeLongo": 62,
+    "visao": 74,
+    "cruzamento": 62,
+    "drible": 71,
+    "controleBola": 73,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 71,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 53,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 59,
+    "pressao": 53,
+    "cobertura": 54,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 71,
+    "decisao": 70,
+    "visaoJogo": 74,
+    "compostura": 67,
+    "frieza": 68,
+    "concentracao": 71,
+    "regularidade": 63,
+    "ansiedade": 34,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 67,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 60,
+    "profissionalismo": 75,
+    "lealdade": 63,
+    "catimba": 50,
+    "violencia": 36,
+    "disciplina": 72,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 45,
+    "momentoHeroico": 52,
+    "supersub": 52,
+    "decisivo": 44,
+    "provocador": 44,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 71,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 71,
+    "tendenciaChute": 69,
+    "tendenciaPasse": 73,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 60,
+    "participacaoJogo": 67,
+    "intensidade": 58,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jesse-lingard/profil/spieler/141660",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/inglaterra.json",
+      "dados/selecoes/paises/st-vincent-grenadinen.json"
+    ],
+    "foto": "dados/images/players/brasil/jesse-lingard.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

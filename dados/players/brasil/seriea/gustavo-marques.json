@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gustavo-marques",
+    "nome": "Gustavo Marques",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gustavo-marques.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "09/10/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "16"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 50,
+    "chuteLongo": 65,
+    "passeCurto": 70,
+    "passeLongo": 72,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 79,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 74,
+    "impulsao": 71,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 72,
+    "desarme": 78,
+    "interceptacao": 78,
+    "posicionamentoDefensivo": 72,
+    "pressao": 77,
+    "cobertura": 77,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 68,
+    "decisao": 72,
+    "visaoJogo": 68,
+    "compostura": 69,
+    "frieza": 72,
+    "concentracao": 73,
+    "regularidade": 70,
+    "ansiedade": 24,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 65,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 62,
+    "profissionalismo": 64,
+    "lealdade": 55,
+    "catimba": 45,
+    "violencia": 31,
+    "disciplina": 75,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 48,
+    "momentoHeroico": 44,
+    "supersub": 58,
+    "decisivo": 48,
+    "provocador": 53,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 71,
+    "participacaoJogo": 69,
+    "intensidade": 72,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gustavo-marques/profil/spieler/977465",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gustavo-marques.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "henry-mosquera",
+    "nome": "Henry Mosquera",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/henry-mosquera.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "15/11/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "30"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 71,
+    "drible": 76,
+    "controleBola": 75,
+    "dominio": 65,
+    "curva": 73,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 78,
+    "explosao": 75,
+    "agilidade": 76,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 62,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 57,
+    "pressao": 57,
+    "cobertura": 57,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 68,
+    "decisao": 71,
+    "visaoJogo": 68,
+    "compostura": 73,
+    "frieza": 70,
+    "concentracao": 73,
+    "regularidade": 66,
+    "ansiedade": 35,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 69,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 61,
+    "profissionalismo": 69,
+    "lealdade": 64,
+    "catimba": 47,
+    "violencia": 48,
+    "disciplina": 70,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 51,
+    "momentoHeroico": 50,
+    "supersub": 43,
+    "decisivo": 49,
+    "provocador": 45,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 72
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 76,
+    "tendenciaChute": 71,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 73,
+    "recomposicao": 64,
+    "participacaoJogo": 70,
+    "intensidade": 62,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/henry-mosquera/profil/spieler/975191",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/henry-mosquera.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

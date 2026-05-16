@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gonzalo-tapia",
+    "nome": "Gonzalo Tapia",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gonzalo-tapia.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "chile"
+    ],
+    "dataNascimento": "18/02/2002",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "14"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 75,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 74,
+    "cabecamento": 74,
+    "voleio": 72,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 67,
+    "explosao": 75,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 72,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 53,
+    "desarme": 53,
+    "interceptacao": 54,
+    "posicionamentoDefensivo": 54,
+    "pressao": 55,
+    "cobertura": 51,
+    "empenhoTatico": 54
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 74,
+    "frieza": 73,
+    "concentracao": 71,
+    "regularidade": 72,
+    "ansiedade": 28,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 68,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 68,
+    "profissionalismo": 67,
+    "lealdade": 58,
+    "catimba": 66,
+    "violencia": 22,
+    "disciplina": 64,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 45,
+    "momentoHeroico": 50,
+    "supersub": 55,
+    "decisivo": 59,
+    "provocador": 38,
+    "batedorPenaltis": 74,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 60,
+    "participacaoJogo": 71,
+    "intensidade": 61,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gonzalo-tapia/profil/spieler/662739",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/chile.json"
+    ],
+    "foto": "dados/images/players/brasil/gonzalo-tapia.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

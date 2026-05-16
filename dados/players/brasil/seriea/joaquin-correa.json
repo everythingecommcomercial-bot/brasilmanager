@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "joaquin-correa",
+    "nome": "Joaquín Correa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/joaquin-correa.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "13/08/1994",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "30"
+  },
+  "posicao": {
+    "principal": "Segundo Atacante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 75,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 68,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 69,
+    "cabecamento": 65,
+    "voleio": 71,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 64,
+    "explosao": 73,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 71,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 51,
+    "desarme": 53,
+    "interceptacao": 51,
+    "posicionamentoDefensivo": 52,
+    "pressao": 48,
+    "cobertura": 48,
+    "empenhoTatico": 47
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 65,
+    "decisao": 68,
+    "visaoJogo": 65,
+    "compostura": 66,
+    "frieza": 68,
+    "concentracao": 71,
+    "regularidade": 68,
+    "ansiedade": 36,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 68,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 61,
+    "profissionalismo": 73,
+    "lealdade": 62,
+    "catimba": 60,
+    "violencia": 38,
+    "disciplina": 75,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 47,
+    "momentoHeroico": 39,
+    "supersub": 42,
+    "decisivo": 51,
+    "provocador": 48,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 62,
+    "tendenciaChute": 75,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 50,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 56,
+    "participacaoJogo": 66,
+    "intensidade": 56,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/joaquin-correa/profil/spieler/227081",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/joaquin-correa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

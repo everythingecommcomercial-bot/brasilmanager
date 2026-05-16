@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jordan-devries",
+    "nome": "Jordan Devries",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jordan-devries.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "11/11/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 63,
+    "passeLongo": 57,
+    "visao": 60,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 62,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 58,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 59
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 50,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 50,
+    "pressao": 59,
+    "cobertura": 50,
+    "empenhoTatico": 57
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 56,
+    "frieza": 56,
+    "concentracao": 60,
+    "regularidade": 56,
+    "ansiedade": 37,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 55,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 70,
+    "profissionalismo": 63,
+    "lealdade": 52,
+    "catimba": 62,
+    "violencia": 50,
+    "disciplina": 74,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 54,
+    "momentoHeroico": 45,
+    "supersub": 51,
+    "decisivo": 44,
+    "provocador": 35,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 61,
+    "recomposicao": 58,
+    "participacaoJogo": 58,
+    "intensidade": 58,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jordan-devries/profil/spieler/867741",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/jordan-devries.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

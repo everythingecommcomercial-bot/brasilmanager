@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "higor-meritao",
+    "nome": "Higor Meritão",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/higor-meritao.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "23/06/1994",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€900k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 68,
+    "passeLongo": 67,
+    "visao": 64,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 65,
+    "forca": 68,
+    "impulsao": 61,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 71,
+    "desarme": 65,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 68,
+    "pressao": 70,
+    "cobertura": 65,
+    "empenhoTatico": 70
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 62,
+    "decisao": 66,
+    "visaoJogo": 62,
+    "compostura": 64,
+    "frieza": 67,
+    "concentracao": 66,
+    "regularidade": 64,
+    "ansiedade": 31,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 68,
+    "trabalhoEquipe": 63
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 55,
+    "profissionalismo": 72,
+    "lealdade": 60,
+    "catimba": 62,
+    "violencia": 47,
+    "disciplina": 72,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 44,
+    "momentoHeroico": 49,
+    "supersub": 60,
+    "decisivo": 53,
+    "provocador": 53,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 61
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 66,
+    "participacaoJogo": 64,
+    "intensidade": 68,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/higor-meritao/profil/spieler/646432",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/higor-meritao.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gustavo-reis",
+    "nome": "Gustavo Reis",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gustavo-reis.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/06/2005",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "56"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 26,
+    "chuteLongo": 30,
+    "passeCurto": 41,
+    "passeLongo": 47,
+    "visao": 21,
+    "cruzamento": 25,
+    "drible": 23,
+    "controleBola": 25,
+    "dominio": 29,
+    "curva": 29,
+    "cobrancaFalta": 25,
+    "penalti": 29,
+    "cabecamento": 21,
+    "voleio": 19,
+    "acrobacia": 21
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 60,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 56,
+    "impulsao": 61,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 20,
+    "interceptacao": 24,
+    "posicionamentoDefensivo": 19,
+    "pressao": 22,
+    "cobertura": 18,
+    "empenhoTatico": 19
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 57,
+    "visaoJogo": 55,
+    "compostura": 58,
+    "frieza": 60,
+    "concentracao": 60,
+    "regularidade": 54,
+    "ansiedade": 36,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 50,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 83,
+    "profissionalismo": 65,
+    "lealdade": 59,
+    "catimba": 49,
+    "violencia": 32,
+    "disciplina": 69,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 42,
+    "momentoHeroico": 42,
+    "supersub": 43,
+    "decisivo": 49,
+    "provocador": 42,
+    "batedorPenaltis": 29,
+    "cobradorFalta": 25,
+    "especialistaEscanteio": 25
+  },
+  "goleiro": {
+    "reflexos": 59,
+    "defesa": 62,
+    "posicionamentoGol": 58,
+    "saidaGol": 59,
+    "jogoPes": 56,
+    "reposicao": 52,
+    "pegadorPenaltis": 56
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 15,
+    "tendenciaChute": 22,
+    "tendenciaPasse": 31,
+    "tendenciaMarcacao": 23,
+    "movimentacaoOfensiva": 41,
+    "recomposicao": 36,
+    "participacaoJogo": 57,
+    "intensidade": 38,
+    "riscoCriativo": 33
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gustavo-reis/profil/spieler/1084069",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gustavo-reis.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

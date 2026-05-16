@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ganso",
+    "nome": "Ganso",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ganso.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "12/10/1989",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€350k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 56,
+    "chuteLongo": 53,
+    "passeCurto": 61,
+    "passeLongo": 53,
+    "visao": 62,
+    "cruzamento": 53,
+    "drible": 62,
+    "controleBola": 62,
+    "dominio": 53,
+    "curva": 53,
+    "cobrancaFalta": 60,
+    "penalti": 53,
+    "cabecamento": 53,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 55,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 55,
+    "impulsao": 55,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 49,
+    "desarme": 47,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 49,
+    "pressao": 50,
+    "cobertura": 48,
+    "empenhoTatico": 48
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 65,
+    "decisao": 62,
+    "visaoJogo": 66,
+    "compostura": 58,
+    "frieza": 60,
+    "concentracao": 57,
+    "regularidade": 59,
+    "ansiedade": 35,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 62,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 56,
+    "profissionalismo": 64,
+    "lealdade": 65,
+    "catimba": 66,
+    "violencia": 40,
+    "disciplina": 75,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 48,
+    "momentoHeroico": 39,
+    "supersub": 49,
+    "decisivo": 43,
+    "provocador": 50,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 54
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 7,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 62,
+    "tendenciaChute": 56,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 50,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 52,
+    "participacaoJogo": 57,
+    "intensidade": 52,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ganso/profil/spieler/67920",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/ganso.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

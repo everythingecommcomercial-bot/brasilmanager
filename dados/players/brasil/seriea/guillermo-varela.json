@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "guillermo-varela",
+    "nome": "Guillermo Varela",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/guillermo-varela.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "uruguai",
+      "italia"
+    ],
+    "dataNascimento": "24/03/1993",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "2"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 65,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 69,
+    "drible": 71,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 74,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 70,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 66,
+    "interceptacao": 69,
+    "posicionamentoDefensivo": 71,
+    "pressao": 69,
+    "cobertura": 67,
+    "empenhoTatico": 72
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 65,
+    "decisao": 67,
+    "visaoJogo": 65,
+    "compostura": 66,
+    "frieza": 69,
+    "concentracao": 71,
+    "regularidade": 69,
+    "ansiedade": 34,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 70,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 64,
+    "profissionalismo": 64,
+    "lealdade": 56,
+    "catimba": 45,
+    "violencia": 34,
+    "disciplina": 75,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 47,
+    "momentoHeroico": 43,
+    "supersub": 45,
+    "decisivo": 50,
+    "provocador": 51,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 63,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 72,
+    "participacaoJogo": 70,
+    "intensidade": 70,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/guillermo-varela/profil/spieler/188862",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/guillermo-varela.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

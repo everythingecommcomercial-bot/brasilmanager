@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "johan-carbonero",
+    "nome": "Johan Carbonero",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/johan-carbonero.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "20/07/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 74,
+    "drible": 76,
+    "controleBola": 71,
+    "dominio": 65,
+    "curva": 75,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 75,
+    "explosao": 77,
+    "agilidade": 77,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 57,
+    "interceptacao": 56,
+    "posicionamentoDefensivo": 59,
+    "pressao": 59,
+    "cobertura": 60,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 68,
+    "decisao": 72,
+    "visaoJogo": 68,
+    "compostura": 70,
+    "frieza": 71,
+    "concentracao": 73,
+    "regularidade": 67,
+    "ansiedade": 24,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 69,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 61,
+    "profissionalismo": 68,
+    "lealdade": 68,
+    "catimba": 66,
+    "violencia": 38,
+    "disciplina": 60,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 44,
+    "momentoHeroico": 51,
+    "supersub": 44,
+    "decisivo": 51,
+    "provocador": 58,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 78
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 76,
+    "tendenciaChute": 68,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 63,
+    "participacaoJogo": 70,
+    "intensidade": 63,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/johan-carbonero/profil/spieler/572042",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/johan-carbonero.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

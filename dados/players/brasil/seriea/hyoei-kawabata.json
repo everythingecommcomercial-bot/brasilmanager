@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "hyoei-kawabata",
+    "nome": "Hyoei Kawabata",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/hyoei-kawabata.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "04/04/2008",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 63,
+    "chuteLongo": 52,
+    "passeCurto": 52,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 56,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 63,
+    "cabecamento": 60,
+    "voleio": 56,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 54,
+    "explosao": 59,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 62,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 42,
+    "desarme": 38,
+    "interceptacao": 37,
+    "posicionamentoDefensivo": 43,
+    "pressao": 43,
+    "cobertura": 41,
+    "empenhoTatico": 39
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 60,
+    "concentracao": 61,
+    "regularidade": 57,
+    "ansiedade": 45,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 89,
+    "profissionalismo": 63,
+    "lealdade": 55,
+    "catimba": 57,
+    "violencia": 48,
+    "disciplina": 68,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 53,
+    "momentoHeroico": 45,
+    "supersub": 59,
+    "decisivo": 52,
+    "provocador": 42,
+    "batedorPenaltis": 63,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 51
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 63,
+    "tendenciaPasse": 52,
+    "tendenciaMarcacao": 42,
+    "movimentacaoOfensiva": 58,
+    "recomposicao": 46,
+    "participacaoJogo": 57,
+    "intensidade": 48,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/hyoei-kawabata/profil/spieler/1251082",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/hyoei-kawabata.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

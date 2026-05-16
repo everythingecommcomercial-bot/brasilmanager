@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jose-andres-hurtado",
+    "nome": "José Andrés Hurtado",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jose-andres-hurtado.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "equador"
+    ],
+    "dataNascimento": "23/12/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "34"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 74,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 77,
+    "drible": 68,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 78,
+    "aceleracao": 75,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 78,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 73
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 73,
+    "interceptacao": 72,
+    "posicionamentoDefensivo": 69,
+    "pressao": 71,
+    "cobertura": 70,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 68,
+    "frieza": 67,
+    "concentracao": 71,
+    "regularidade": 69,
+    "ansiedade": 28,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 67,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 70,
+    "profissionalismo": 75,
+    "lealdade": 68,
+    "catimba": 67,
+    "violencia": 21,
+    "disciplina": 68,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 54,
+    "momentoHeroico": 47,
+    "supersub": 47,
+    "decisivo": 50,
+    "provocador": 47,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 73
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 67,
+    "recomposicao": 72,
+    "participacaoJogo": 73,
+    "intensidade": 74,
+    "riscoCriativo": 67
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jose-andres-hurtado/profil/spieler/680506",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/equador.json"
+    ],
+    "foto": "dados/images/players/brasil/jose-andres-hurtado.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gustavo-talles",
+    "nome": "Gustavo Talles",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gustavo-talles.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "14/07/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 55,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 62,
+    "drible": 59,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 65,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 62,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 65
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 61,
+    "interceptacao": 61,
+    "posicionamentoDefensivo": 60,
+    "pressao": 56,
+    "cobertura": 59,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 56,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 59,
+    "concentracao": 60,
+    "regularidade": 55,
+    "ansiedade": 45,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 50,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 73,
+    "profissionalismo": 70,
+    "lealdade": 64,
+    "catimba": 45,
+    "violencia": 43,
+    "disciplina": 63,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 53,
+    "momentoHeroico": 49,
+    "supersub": 45,
+    "decisivo": 49,
+    "provocador": 52,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 54
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 54,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 54,
+    "recomposicao": 62,
+    "participacaoJogo": 59,
+    "intensidade": 59,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gustavo-talles/profil/spieler/1093749",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gustavo-talles.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

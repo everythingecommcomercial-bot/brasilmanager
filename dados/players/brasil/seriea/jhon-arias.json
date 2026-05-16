@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jhon-arias",
+    "nome": "Jhon Arias",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jhon-arias.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "21/09/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€15.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 80,
+    "potencial": 81,
+    "reputacao": 85,
+    "potencialMidia": 81
+  },
+  "tecnicos": {
+    "finalizacao": 83,
+    "chuteLongo": 74,
+    "passeCurto": 74,
+    "passeLongo": 74,
+    "visao": 74,
+    "cruzamento": 82,
+    "drible": 82,
+    "controleBola": 83,
+    "dominio": 74,
+    "curva": 78,
+    "cobrancaFalta": 74,
+    "penalti": 74,
+    "cabecamento": 74,
+    "voleio": 74,
+    "acrobacia": 74
+  },
+  "fisicos": {
+    "velocidade": 87,
+    "aceleracao": 85,
+    "explosao": 81,
+    "agilidade": 88,
+    "equilibrio": 76,
+    "resistencia": 76,
+    "forca": 76,
+    "impulsao": 76,
+    "stamina": 76
+  },
+  "defensivos": {
+    "marcacao": 65,
+    "desarme": 71,
+    "interceptacao": 69,
+    "posicionamentoDefensivo": 67,
+    "pressao": 70,
+    "cobertura": 68,
+    "empenhoTatico": 68
+  },
+  "mentais": {
+    "inteligencia": 82,
+    "criatividade": 77,
+    "decisao": 78,
+    "visaoJogo": 77,
+    "compostura": 82,
+    "frieza": 80,
+    "concentracao": 82,
+    "regularidade": 80,
+    "ansiedade": 25,
+    "agressividade": 77,
+    "coragem": 77,
+    "lideranca": 72,
+    "trabalhoEquipe": 79
+  },
+  "personalidade": {
+    "ego": 71,
+    "ambicao": 67,
+    "profissionalismo": 64,
+    "lealdade": 68,
+    "catimba": 44,
+    "violencia": 44,
+    "disciplina": 61,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 73,
+    "jogoGrande": 68,
+    "momentoHeroico": 72,
+    "supersub": 56,
+    "decisivo": 70,
+    "provocador": 43,
+    "batedorPenaltis": 74,
+    "cobradorFalta": 74,
+    "especialistaEscanteio": 79
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 60,
+    "confianca": 65,
+    "formaAtual": 65,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 81,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 82,
+    "tendenciaChute": 83,
+    "tendenciaPasse": 74,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 80,
+    "recomposicao": 72,
+    "participacaoJogo": 78,
+    "intensidade": 73,
+    "riscoCriativo": 78
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jhon-arias/profil/spieler/588989",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/jhon-arias.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

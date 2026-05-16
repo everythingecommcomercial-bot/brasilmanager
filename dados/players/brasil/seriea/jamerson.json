@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jamerson",
+    "nome": "Jamerson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jamerson.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "09/09/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "83"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€800k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 66,
+    "reputacao": 65,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 63,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 66,
+    "drible": 63,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 67,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 72
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 69,
+    "interceptacao": 69,
+    "posicionamentoDefensivo": 65,
+    "pressao": 69,
+    "cobertura": 67,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 62,
+    "decisao": 65,
+    "visaoJogo": 62,
+    "compostura": 64,
+    "frieza": 62,
+    "concentracao": 68,
+    "regularidade": 61,
+    "ansiedade": 31,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 58,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 57,
+    "profissionalismo": 63,
+    "lealdade": 55,
+    "catimba": 55,
+    "violencia": 46,
+    "disciplina": 73,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 50,
+    "momentoHeroico": 45,
+    "supersub": 52,
+    "decisivo": 49,
+    "provocador": 55,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 55,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 61,
+    "tendenciaMarcacao": 69,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 70,
+    "participacaoJogo": 65,
+    "intensidade": 68,
+    "riscoCriativo": 61
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jamerson/profil/spieler/613641",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/jamerson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

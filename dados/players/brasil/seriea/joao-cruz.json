@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "joao-cruz",
+    "nome": "João Cruz",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/joao-cruz.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "12/05/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "8"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 67,
+    "potencial": 76,
+    "reputacao": 67,
+    "potencialMidia": 81
+  },
+  "tecnicos": {
+    "finalizacao": 61,
+    "chuteLongo": 61,
+    "passeCurto": 71,
+    "passeLongo": 70,
+    "visao": 69,
+    "cruzamento": 61,
+    "drible": 61,
+    "controleBola": 70,
+    "dominio": 61,
+    "curva": 61,
+    "cobrancaFalta": 61,
+    "penalti": 61,
+    "cabecamento": 61,
+    "voleio": 61,
+    "acrobacia": 61
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 63,
+    "explosao": 63,
+    "agilidade": 63,
+    "equilibrio": 63,
+    "resistencia": 69,
+    "forca": 63,
+    "impulsao": 63,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 59,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 59,
+    "pressao": 69,
+    "cobertura": 59,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 64,
+    "decisao": 69,
+    "visaoJogo": 64,
+    "compostura": 67,
+    "frieza": 66,
+    "concentracao": 66,
+    "regularidade": 63,
+    "ansiedade": 28,
+    "agressividade": 64,
+    "coragem": 64,
+    "lideranca": 59,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 79,
+    "profissionalismo": 75,
+    "lealdade": 58,
+    "catimba": 44,
+    "violencia": 30,
+    "disciplina": 69,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 54,
+    "momentoHeroico": 44,
+    "supersub": 45,
+    "decisivo": 47,
+    "provocador": 37,
+    "batedorPenaltis": 61,
+    "cobradorFalta": 61,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 47,
+    "confianca": 52,
+    "formaAtual": 52,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 53,
+    "tendenciaChute": 53,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 68,
+    "participacaoJogo": 68,
+    "intensidade": 69,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/joao-cruz/profil/spieler/1004738",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/joao-cruz.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}
