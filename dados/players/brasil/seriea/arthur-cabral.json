@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "arthur-cabral",
+    "nome": "Arthur Cabral",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/arthur-cabral.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "25/04/1998",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "19"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€8.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 75,
+    "reputacao": 74,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 68,
+    "passeCurto": 68,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 68,
+    "drible": 68,
+    "controleBola": 76,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 73,
+    "cabecamento": 72,
+    "voleio": 75,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 76,
+    "aceleracao": 70,
+    "explosao": 75,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 77,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 59,
+    "interceptacao": 54,
+    "posicionamentoDefensivo": 54,
+    "pressao": 54,
+    "cobertura": 54,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 71,
+    "decisao": 74,
+    "visaoJogo": 71,
+    "compostura": 71,
+    "frieza": 74,
+    "concentracao": 74,
+    "regularidade": 71,
+    "ansiedade": 23,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 71,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 62,
+    "profissionalismo": 76,
+    "lealdade": 67,
+    "catimba": 52,
+    "violencia": 36,
+    "disciplina": 62,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 48,
+    "momentoHeroico": 45,
+    "supersub": 53,
+    "decisivo": 55,
+    "provocador": 37,
+    "batedorPenaltis": 73,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 75,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 75,
+    "recomposicao": 64,
+    "participacaoJogo": 72,
+    "intensidade": 62,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/arthur-cabral/profil/spieler/390638",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/arthur-cabral.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

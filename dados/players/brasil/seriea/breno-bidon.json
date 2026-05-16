@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "breno-bidon",
+    "nome": "Breno Bidon",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/breno-bidon.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "20/02/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€22.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 78,
+    "potencial": 86,
+    "reputacao": 83,
+    "potencialMidia": 91
+  },
+  "tecnicos": {
+    "finalizacao": 72,
+    "chuteLongo": 72,
+    "passeCurto": 79,
+    "passeLongo": 79,
+    "visao": 82,
+    "cruzamento": 72,
+    "drible": 72,
+    "controleBola": 77,
+    "dominio": 72,
+    "curva": 72,
+    "cobrancaFalta": 72,
+    "penalti": 72,
+    "cabecamento": 72,
+    "voleio": 72,
+    "acrobacia": 72
+  },
+  "fisicos": {
+    "velocidade": 74,
+    "aceleracao": 74,
+    "explosao": 74,
+    "agilidade": 74,
+    "equilibrio": 74,
+    "resistencia": 82,
+    "forca": 74,
+    "impulsao": 74,
+    "stamina": 81
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 70,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 70,
+    "pressao": 78,
+    "cobertura": 70,
+    "empenhoTatico": 78
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 75,
+    "decisao": 76,
+    "visaoJogo": 75,
+    "compostura": 75,
+    "frieza": 76,
+    "concentracao": 77,
+    "regularidade": 73,
+    "ansiedade": 23,
+    "agressividade": 75,
+    "coragem": 75,
+    "lideranca": 75,
+    "trabalhoEquipe": 75
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 78,
+    "profissionalismo": 66,
+    "lealdade": 66,
+    "catimba": 50,
+    "violencia": 48,
+    "disciplina": 60,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 60,
+    "jogoGrande": 69,
+    "momentoHeroico": 57,
+    "supersub": 47,
+    "decisivo": 55,
+    "provocador": 32,
+    "batedorPenaltis": 72,
+    "cobradorFalta": 72,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 58,
+    "confianca": 63,
+    "formaAtual": 63,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 8,
+    "tetoEvolucao": 86,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 64,
+    "tendenciaPasse": 80,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 80,
+    "participacaoJogo": 78,
+    "intensidade": 80,
+    "riscoCriativo": 76
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/breno-bidon/profil/spieler/1029227",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/breno-bidon.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

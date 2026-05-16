@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "aaron-o-driscoll",
+    "nome": "Aaron O'Driscoll",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/aaron-o-driscoll.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "ireland",
+      "inglaterra"
+    ],
+    "dataNascimento": "04/04/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "5"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 59,
+    "reputacao": 58,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 46,
+    "chuteLongo": 52,
+    "passeCurto": 55,
+    "passeLongo": 58,
+    "visao": 52,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 60,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 66,
+    "impulsao": 62,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 63,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 64,
+    "pressao": 64,
+    "cobertura": 64,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 55,
+    "decisao": 56,
+    "visaoJogo": 55,
+    "compostura": 61,
+    "frieza": 58,
+    "concentracao": 61,
+    "regularidade": 53,
+    "ansiedade": 46,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 54,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 64,
+    "profissionalismo": 66,
+    "lealdade": 55,
+    "catimba": 64,
+    "violencia": 38,
+    "disciplina": 61,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 48,
+    "momentoHeroico": 45,
+    "supersub": 42,
+    "decisivo": 48,
+    "provocador": 36,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 54,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 54,
+    "recomposicao": 58,
+    "participacaoJogo": 57,
+    "intensidade": 59,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/aaron-odriscoll/profil/spieler/325213",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/ireland.json",
+      "dados/selecoes/paises/inglaterra.json"
+    ],
+    "foto": "dados/images/players/brasil/aaron-o-driscoll.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

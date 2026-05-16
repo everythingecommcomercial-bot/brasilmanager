@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "allex",
+    "nome": "Allex",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/allex.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "04/05/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "31"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 67,
+    "potencial": 76,
+    "reputacao": 67,
+    "potencialMidia": 81
+  },
+  "tecnicos": {
+    "finalizacao": 64,
+    "chuteLongo": 61,
+    "passeCurto": 68,
+    "passeLongo": 61,
+    "visao": 73,
+    "cruzamento": 61,
+    "drible": 73,
+    "controleBola": 69,
+    "dominio": 61,
+    "curva": 61,
+    "cobrancaFalta": 69,
+    "penalti": 61,
+    "cabecamento": 61,
+    "voleio": 61,
+    "acrobacia": 61
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 63,
+    "explosao": 63,
+    "agilidade": 63,
+    "equilibrio": 63,
+    "resistencia": 63,
+    "forca": 63,
+    "impulsao": 63,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 53,
+    "desarme": 53,
+    "interceptacao": 56,
+    "posicionamentoDefensivo": 52,
+    "pressao": 57,
+    "cobertura": 56,
+    "empenhoTatico": 57
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 71,
+    "decisao": 67,
+    "visaoJogo": 70,
+    "compostura": 65,
+    "frieza": 67,
+    "concentracao": 68,
+    "regularidade": 62,
+    "ansiedade": 36,
+    "agressividade": 64,
+    "coragem": 64,
+    "lideranca": 63,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 75,
+    "profissionalismo": 65,
+    "lealdade": 62,
+    "catimba": 51,
+    "violencia": 35,
+    "disciplina": 74,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 52,
+    "momentoHeroico": 38,
+    "supersub": 50,
+    "decisivo": 49,
+    "provocador": 45,
+    "batedorPenaltis": 61,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 47,
+    "confianca": 52,
+    "formaAtual": 52,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 73,
+    "tendenciaChute": 64,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 55,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 60,
+    "participacaoJogo": 65,
+    "intensidade": 60,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/allex/profil/spieler/1220008",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/allex.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

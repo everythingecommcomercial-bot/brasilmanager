@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "alex-santana",
+    "nome": "Alex Santana",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alex-santana.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil",
+      "bulgaria"
+    ],
+    "dataNascimento": "13/05/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "80"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 69,
+    "passeLongo": 69,
+    "visao": 72,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 73,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 73,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 60,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 60,
+    "pressao": 65,
+    "cobertura": 60,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 66,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 66,
+    "concentracao": 70,
+    "regularidade": 63,
+    "ansiedade": 26,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 70,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 64,
+    "profissionalismo": 65,
+    "lealdade": 49,
+    "catimba": 61,
+    "violencia": 22,
+    "disciplina": 71,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 50,
+    "momentoHeroico": 48,
+    "supersub": 45,
+    "decisivo": 49,
+    "provocador": 39,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 71,
+    "participacaoJogo": 69,
+    "intensidade": 69,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alex-santana/profil/spieler/219835",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/bulgaria.json"
+    ],
+    "foto": "dados/images/players/brasil/alex-santana.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

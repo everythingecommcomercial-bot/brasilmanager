@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "bernard",
+    "nome": "Bernard",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/bernard.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "08/09/1992",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€750k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 64,
+    "chuteLongo": 59,
+    "passeCurto": 59,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 69,
+    "drible": 68,
+    "controleBola": 65,
+    "dominio": 59,
+    "curva": 65,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 73,
+    "explosao": 68,
+    "agilidade": 67,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 55,
+    "interceptacao": 53,
+    "posicionamentoDefensivo": 51,
+    "pressao": 54,
+    "cobertura": 55,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 62,
+    "decisao": 66,
+    "visaoJogo": 62,
+    "compostura": 65,
+    "frieza": 63,
+    "concentracao": 68,
+    "regularidade": 63,
+    "ansiedade": 33,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 62,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 61,
+    "profissionalismo": 70,
+    "lealdade": 62,
+    "catimba": 67,
+    "violencia": 32,
+    "disciplina": 64,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 48,
+    "momentoHeroico": 46,
+    "supersub": 58,
+    "decisivo": 45,
+    "provocador": 43,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 68,
+    "tendenciaChute": 64,
+    "tendenciaPasse": 59,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 58,
+    "participacaoJogo": 63,
+    "intensidade": 58,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/bernard/profil/spieler/175169",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/bernard.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

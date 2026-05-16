@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "angelo-preciado",
+    "nome": "Angelo Preciado",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/angelo-preciado.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "equador"
+    ],
+    "dataNascimento": "18/02/1998",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.80m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 68,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 75,
+    "drible": 72,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 76,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 74,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 72
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 73,
+    "interceptacao": 69,
+    "posicionamentoDefensivo": 75,
+    "pressao": 71,
+    "cobertura": 72,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 68,
+    "decisao": 68,
+    "visaoJogo": 68,
+    "compostura": 74,
+    "frieza": 71,
+    "concentracao": 72,
+    "regularidade": 70,
+    "ansiedade": 33,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 66,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 59,
+    "profissionalismo": 62,
+    "lealdade": 49,
+    "catimba": 45,
+    "violencia": 28,
+    "disciplina": 64,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 44,
+    "momentoHeroico": 42,
+    "supersub": 62,
+    "decisivo": 45,
+    "provocador": 39,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 70,
+    "participacaoJogo": 72,
+    "intensidade": 72,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/angelo-preciado/profil/spieler/450241",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/equador.json"
+    ],
+    "foto": "dados/images/players/brasil/angelo-preciado.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

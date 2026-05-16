@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "anthoni",
+    "nome": "Anthoni",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/anthoni.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "23/01/2002",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "24"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 30,
+    "passeCurto": 60,
+    "passeLongo": 59,
+    "visao": 20,
+    "cruzamento": 22,
+    "drible": 24,
+    "controleBola": 25,
+    "dominio": 21,
+    "curva": 21,
+    "cobrancaFalta": 21,
+    "penalti": 22,
+    "cabecamento": 22,
+    "voleio": 24,
+    "acrobacia": 29
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 70,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 69,
+    "impulsao": 74,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 15,
+    "desarme": 23,
+    "interceptacao": 20,
+    "posicionamentoDefensivo": 17,
+    "pressao": 16,
+    "cobertura": 20,
+    "empenhoTatico": 25
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 68,
+    "decisao": 71,
+    "visaoJogo": 68,
+    "compostura": 72,
+    "frieza": 71,
+    "concentracao": 71,
+    "regularidade": 67,
+    "ansiedade": 23,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 65,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 66,
+    "profissionalismo": 74,
+    "lealdade": 55,
+    "catimba": 65,
+    "violencia": 47,
+    "disciplina": 75,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 52,
+    "momentoHeroico": 52,
+    "supersub": 49,
+    "decisivo": 47,
+    "provocador": 57,
+    "batedorPenaltis": 22,
+    "cobradorFalta": 21,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 77,
+    "defesa": 74,
+    "posicionamentoGol": 72,
+    "saidaGol": 73,
+    "jogoPes": 66,
+    "reposicao": 65,
+    "pegadorPenaltis": 68
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 16,
+    "tendenciaChute": 22,
+    "tendenciaPasse": 40,
+    "tendenciaMarcacao": 16,
+    "movimentacaoOfensiva": 48,
+    "recomposicao": 46,
+    "participacaoJogo": 70,
+    "intensidade": 42,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/anthoni/profil/spieler/869437",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/anthoni.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

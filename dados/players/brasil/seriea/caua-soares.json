@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "caua-soares",
+    "nome": "Cauã Soares",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/caua-soares.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "30/06/2008",
+    "idade": 17,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "29"
+  },
+  "posicao": {
+    "principal": "Segundo Atacante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 52,
+    "passeCurto": 52,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 60,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 61,
+    "cabecamento": 61,
+    "voleio": 61,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 60,
+    "aceleracao": 54,
+    "explosao": 58,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 62,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 43,
+    "desarme": 43,
+    "interceptacao": 37,
+    "posicionamentoDefensivo": 40,
+    "pressao": 41,
+    "cobertura": 42,
+    "empenhoTatico": 41
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 57,
+    "concentracao": 56,
+    "regularidade": 57,
+    "ansiedade": 48,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 81,
+    "profissionalismo": 66,
+    "lealdade": 63,
+    "catimba": 64,
+    "violencia": 34,
+    "disciplina": 64,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 44,
+    "momentoHeroico": 38,
+    "supersub": 48,
+    "decisivo": 43,
+    "provocador": 32,
+    "batedorPenaltis": 61,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 55
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 52,
+    "tendenciaChute": 62,
+    "tendenciaPasse": 52,
+    "tendenciaMarcacao": 42,
+    "movimentacaoOfensiva": 59,
+    "recomposicao": 48,
+    "participacaoJogo": 56,
+    "intensidade": 48,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/caua-soares/profil/spieler/1365061",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/caua-soares.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

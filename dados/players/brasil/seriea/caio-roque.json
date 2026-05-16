@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "caio-roque",
+    "nome": "Caio Roque",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/caio-roque.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "09/01/2002",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "27"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 61,
+    "reputacao": 58,
+    "potencialMidia": 61
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 60,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 60,
+    "drible": 57,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 66,
+    "aceleracao": 64,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 64,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 56,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 58,
+    "pressao": 61,
+    "cobertura": 59,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 59,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 57,
+    "concentracao": 57,
+    "regularidade": 55,
+    "ansiedade": 41,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 64,
+    "profissionalismo": 64,
+    "lealdade": 60,
+    "catimba": 50,
+    "violencia": 35,
+    "disciplina": 75,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 54,
+    "momentoHeroico": 48,
+    "supersub": 62,
+    "decisivo": 43,
+    "provocador": 39,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 61,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 49,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 56,
+    "tendenciaMarcacao": 59,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 62,
+    "participacaoJogo": 59,
+    "intensidade": 62,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/caio-roque/profil/spieler/789856",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/caio-roque.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

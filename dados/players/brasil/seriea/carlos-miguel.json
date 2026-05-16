@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "carlos-miguel",
+    "nome": "Carlos Miguel",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/carlos-miguel.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "09/10/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 30,
+    "passeCurto": 62,
+    "passeLongo": 61,
+    "visao": 24,
+    "cruzamento": 22,
+    "drible": 20,
+    "controleBola": 19,
+    "dominio": 19,
+    "curva": 26,
+    "cobrancaFalta": 22,
+    "penalti": 28,
+    "cabecamento": 30,
+    "voleio": 25,
+    "acrobacia": 31
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 75,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 75,
+    "impulsao": 73,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 25,
+    "desarme": 15,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 17,
+    "pressao": 24,
+    "cobertura": 18,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 70,
+    "decisao": 72,
+    "visaoJogo": 70,
+    "compostura": 75,
+    "frieza": 74,
+    "concentracao": 74,
+    "regularidade": 74,
+    "ansiedade": 30,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 66,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 66,
+    "profissionalismo": 66,
+    "lealdade": 67,
+    "catimba": 56,
+    "violencia": 37,
+    "disciplina": 76,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 47,
+    "momentoHeroico": 41,
+    "supersub": 55,
+    "decisivo": 48,
+    "provocador": 56,
+    "batedorPenaltis": 28,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 27
+  },
+  "goleiro": {
+    "reflexos": 75,
+    "defesa": 75,
+    "posicionamentoGol": 73,
+    "saidaGol": 70,
+    "jogoPes": 67,
+    "reposicao": 69,
+    "pegadorPenaltis": 71
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 12,
+    "tendenciaChute": 22,
+    "tendenciaPasse": 43,
+    "tendenciaMarcacao": 24,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 46,
+    "participacaoJogo": 72,
+    "intensidade": 46,
+    "riscoCriativo": 38
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/carlos-miguel/profil/spieler/641458",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/carlos-miguel.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

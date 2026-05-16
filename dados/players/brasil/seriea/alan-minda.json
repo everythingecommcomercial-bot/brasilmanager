@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "alan-minda",
+    "nome": "Alan Minda",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alan-minda.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "equador"
+    ],
+    "dataNascimento": "14/05/2003",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "27"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 77,
+    "reputacao": 71,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 70,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 72,
+    "drible": 73,
+    "controleBola": 74,
+    "dominio": 65,
+    "curva": 71,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 76,
+    "explosao": 75,
+    "agilidade": 74,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 60,
+    "interceptacao": 56,
+    "posicionamentoDefensivo": 62,
+    "pressao": 61,
+    "cobertura": 62,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 68,
+    "decisao": 68,
+    "visaoJogo": 68,
+    "compostura": 73,
+    "frieza": 71,
+    "concentracao": 70,
+    "regularidade": 71,
+    "ansiedade": 27,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 64,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 72,
+    "profissionalismo": 62,
+    "lealdade": 63,
+    "catimba": 54,
+    "violencia": 49,
+    "disciplina": 62,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 54,
+    "momentoHeroico": 41,
+    "supersub": 48,
+    "decisivo": 44,
+    "provocador": 46,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 73,
+    "tendenciaChute": 70,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 59,
+    "movimentacaoOfensiva": 71,
+    "recomposicao": 64,
+    "participacaoJogo": 70,
+    "intensidade": 64,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alan-minda/profil/spieler/897051",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/equador.json"
+    ],
+    "foto": "dados/images/players/brasil/alan-minda.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "andre-henrique",
+    "nome": "André Henrique",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/andre-henrique.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "17/12/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "77"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 69,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 75,
+    "cabecamento": 74,
+    "voleio": 69,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 67,
+    "explosao": 71,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 71,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 55,
+    "interceptacao": 54,
+    "posicionamentoDefensivo": 54,
+    "pressao": 56,
+    "cobertura": 54,
+    "empenhoTatico": 53
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 68,
+    "decisao": 73,
+    "visaoJogo": 68,
+    "compostura": 69,
+    "frieza": 70,
+    "concentracao": 71,
+    "regularidade": 68,
+    "ansiedade": 24,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 64,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 66,
+    "profissionalismo": 66,
+    "lealdade": 62,
+    "catimba": 65,
+    "violencia": 26,
+    "disciplina": 63,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 42,
+    "momentoHeroico": 38,
+    "supersub": 56,
+    "decisivo": 50,
+    "provocador": 38,
+    "batedorPenaltis": 75,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 71,
+    "recomposicao": 60,
+    "participacaoJogo": 69,
+    "intensidade": 62,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/andre-henrique/profil/spieler/1024605",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/andre-henrique.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "alan-franco",
+    "nome": "Alan Franco",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alan-franco.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "equador"
+    ],
+    "dataNascimento": "21/08/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "21"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 76,
+    "passeLongo": 71,
+    "visao": 72,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 71,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 71,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 63,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 63,
+    "pressao": 71,
+    "cobertura": 63,
+    "empenhoTatico": 72
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 73,
+    "frieza": 69,
+    "concentracao": 74,
+    "regularidade": 66,
+    "ansiedade": 26,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 66,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 61,
+    "profissionalismo": 60,
+    "lealdade": 64,
+    "catimba": 67,
+    "violencia": 50,
+    "disciplina": 70,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 48,
+    "momentoHeroico": 40,
+    "supersub": 56,
+    "decisivo": 49,
+    "provocador": 45,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 74,
+    "tendenciaMarcacao": 67,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 73,
+    "participacaoJogo": 71,
+    "intensidade": 71,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alan-franco/profil/spieler/400960",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/equador.json"
+    ],
+    "foto": "dados/images/players/brasil/alan-franco.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

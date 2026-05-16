@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "bruno-henrique",
+    "nome": "Bruno Henrique",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/bruno-henrique.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "21/10/1989",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "8"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€350k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 77,
+    "potencial": 77,
+    "reputacao": 77,
+    "potencialMidia": 77
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 71,
+    "passeCurto": 84,
+    "passeLongo": 77,
+    "visao": 81,
+    "cruzamento": 71,
+    "drible": 71,
+    "controleBola": 81,
+    "dominio": 71,
+    "curva": 71,
+    "cobrancaFalta": 71,
+    "penalti": 71,
+    "cabecamento": 71,
+    "voleio": 71,
+    "acrobacia": 71
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 73,
+    "explosao": 73,
+    "agilidade": 73,
+    "equilibrio": 73,
+    "resistencia": 78,
+    "forca": 73,
+    "impulsao": 73,
+    "stamina": 80
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 69,
+    "interceptacao": 69,
+    "posicionamentoDefensivo": 69,
+    "pressao": 80,
+    "cobertura": 69,
+    "empenhoTatico": 80
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 74,
+    "decisao": 77,
+    "visaoJogo": 74,
+    "compostura": 78,
+    "frieza": 74,
+    "concentracao": 75,
+    "regularidade": 76,
+    "ansiedade": 24,
+    "agressividade": 74,
+    "coragem": 74,
+    "lideranca": 75,
+    "trabalhoEquipe": 78
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 61,
+    "profissionalismo": 72,
+    "lealdade": 66,
+    "catimba": 47,
+    "violencia": 21,
+    "disciplina": 63,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 55,
+    "jogoGrande": 54,
+    "momentoHeroico": 46,
+    "supersub": 45,
+    "decisivo": 56,
+    "provocador": 55,
+    "batedorPenaltis": 71,
+    "cobradorFalta": 71,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 57,
+    "confianca": 62,
+    "formaAtual": 62,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 7,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 63,
+    "tendenciaChute": 63,
+    "tendenciaPasse": 82,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 79,
+    "recomposicao": 80,
+    "participacaoJogo": 78,
+    "intensidade": 79,
+    "riscoCriativo": 75
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/bruno-henrique/profil/spieler/277335",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/bruno-henrique.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

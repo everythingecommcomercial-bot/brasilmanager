@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "caique-goncalves",
+    "nome": "Caíque Gonçalves",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/caique-goncalves.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/10/1995",
+    "idade": 30,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "95"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€500k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 66,
+    "passeLongo": 68,
+    "visao": 64,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 67,
+    "forca": 64,
+    "impulsao": 61,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 67,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 65,
+    "pressao": 67,
+    "cobertura": 71,
+    "empenhoTatico": 68
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 62,
+    "decisao": 65,
+    "visaoJogo": 62,
+    "compostura": 62,
+    "frieza": 65,
+    "concentracao": 67,
+    "regularidade": 65,
+    "ansiedade": 31,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 62,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 56,
+    "profissionalismo": 64,
+    "lealdade": 63,
+    "catimba": 52,
+    "violencia": 29,
+    "disciplina": 74,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 44,
+    "momentoHeroico": 41,
+    "supersub": 60,
+    "decisivo": 45,
+    "provocador": 41,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 1,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 64,
+    "participacaoJogo": 66,
+    "intensidade": 67,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/caique-goncalves/profil/spieler/555310",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/caique-goncalves.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

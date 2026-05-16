@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "cassio",
+    "nome": "Cássio",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/cassio.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "06/06/1987",
+    "idade": 38,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€300k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 24,
+    "chuteLongo": 25,
+    "passeCurto": 47,
+    "passeLongo": 44,
+    "visao": 26,
+    "cruzamento": 20,
+    "drible": 24,
+    "controleBola": 30,
+    "dominio": 22,
+    "curva": 31,
+    "cobrancaFalta": 23,
+    "penalti": 25,
+    "cabecamento": 19,
+    "voleio": 24,
+    "acrobacia": 24
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 58,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 59,
+    "impulsao": 58,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 18,
+    "desarme": 24,
+    "interceptacao": 24,
+    "posicionamentoDefensivo": 23,
+    "pressao": 15,
+    "cobertura": 22,
+    "empenhoTatico": 17
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 56,
+    "decisao": 56,
+    "visaoJogo": 56,
+    "compostura": 58,
+    "frieza": 59,
+    "concentracao": 60,
+    "regularidade": 55,
+    "ansiedade": 39,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 62,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 57,
+    "profissionalismo": 67,
+    "lealdade": 56,
+    "catimba": 61,
+    "violencia": 32,
+    "disciplina": 75,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 45,
+    "momentoHeroico": 50,
+    "supersub": 56,
+    "decisivo": 49,
+    "provocador": 52,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 23,
+    "especialistaEscanteio": 28
+  },
+  "goleiro": {
+    "reflexos": 64,
+    "defesa": 60,
+    "posicionamentoGol": 64,
+    "saidaGol": 62,
+    "jogoPes": 52,
+    "reposicao": 59,
+    "pegadorPenaltis": 60
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 9,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 16,
+    "tendenciaChute": 17,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 16,
+    "movimentacaoOfensiva": 43,
+    "recomposicao": 36,
+    "participacaoJogo": 57,
+    "intensidade": 35,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/cassio/profil/spieler/50144",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/cassio.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

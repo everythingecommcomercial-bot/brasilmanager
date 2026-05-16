@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "agustin-canobbio",
+    "nome": "Agustín Canobbio",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/agustin-canobbio.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "uruguai",
+      "italia"
+    ],
+    "dataNascimento": "01/10/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "17"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 72,
+    "drible": 79,
+    "controleBola": 75,
+    "dominio": 67,
+    "curva": 76,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 79,
+    "aceleracao": 81,
+    "explosao": 79,
+    "agilidade": 75,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 62,
+    "interceptacao": 61,
+    "posicionamentoDefensivo": 61,
+    "pressao": 61,
+    "cobertura": 64,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 70,
+    "frieza": 75,
+    "concentracao": 75,
+    "regularidade": 71,
+    "ansiedade": 23,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 65,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 62,
+    "profissionalismo": 63,
+    "lealdade": 62,
+    "catimba": 55,
+    "violencia": 42,
+    "disciplina": 70,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 54,
+    "momentoHeroico": 38,
+    "supersub": 58,
+    "decisivo": 55,
+    "provocador": 50,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 73
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 79,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 73,
+    "recomposicao": 66,
+    "participacaoJogo": 72,
+    "intensidade": 65,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/agustin-canobbio/profil/spieler/457533",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/agustin-canobbio.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "andre",
+    "nome": "André",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/andre.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "20/06/2006",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "49"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€16.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 76,
+    "potencial": 86,
+    "reputacao": 81,
+    "potencialMidia": 91
+  },
+  "tecnicos": {
+    "finalizacao": 70,
+    "chuteLongo": 70,
+    "passeCurto": 80,
+    "passeLongo": 79,
+    "visao": 80,
+    "cruzamento": 70,
+    "drible": 70,
+    "controleBola": 80,
+    "dominio": 70,
+    "curva": 70,
+    "cobrancaFalta": 70,
+    "penalti": 70,
+    "cabecamento": 70,
+    "voleio": 70,
+    "acrobacia": 70
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 72,
+    "explosao": 72,
+    "agilidade": 72,
+    "equilibrio": 72,
+    "resistencia": 76,
+    "forca": 72,
+    "impulsao": 72,
+    "stamina": 78
+  },
+  "defensivos": {
+    "marcacao": 68,
+    "desarme": 68,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 68,
+    "pressao": 79,
+    "cobertura": 68,
+    "empenhoTatico": 79
+  },
+  "mentais": {
+    "inteligencia": 79,
+    "criatividade": 73,
+    "decisao": 73,
+    "visaoJogo": 73,
+    "compostura": 74,
+    "frieza": 73,
+    "concentracao": 75,
+    "regularidade": 71,
+    "ansiedade": 24,
+    "agressividade": 73,
+    "coragem": 73,
+    "lideranca": 71,
+    "trabalhoEquipe": 79
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 84,
+    "profissionalismo": 71,
+    "lealdade": 68,
+    "catimba": 43,
+    "violencia": 25,
+    "disciplina": 67,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 56,
+    "momentoHeroico": 52,
+    "supersub": 53,
+    "decisivo": 51,
+    "provocador": 47,
+    "batedorPenaltis": 70,
+    "cobradorFalta": 70,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 56,
+    "confianca": 61,
+    "formaAtual": 61,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 10,
+    "tetoEvolucao": 86,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 62,
+    "tendenciaChute": 62,
+    "tendenciaPasse": 80,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 78,
+    "participacaoJogo": 77,
+    "intensidade": 78,
+    "riscoCriativo": 74
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/andre/profil/spieler/1221818",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/andre.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "agustin-giay",
+    "nome": "Agustín Giay",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/agustin-giay.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "16/01/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "4"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€10.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 81,
+    "reputacao": 80,
+    "potencialMidia": 86
+  },
+  "tecnicos": {
+    "finalizacao": 69,
+    "chuteLongo": 69,
+    "passeCurto": 73,
+    "passeLongo": 69,
+    "visao": 69,
+    "cruzamento": 81,
+    "drible": 77,
+    "controleBola": 69,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 69,
+    "penalti": 69,
+    "cabecamento": 69,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 80,
+    "aceleracao": 80,
+    "explosao": 71,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 76,
+    "forca": 71,
+    "impulsao": 71,
+    "stamina": 78
+  },
+  "defensivos": {
+    "marcacao": 79,
+    "desarme": 78,
+    "interceptacao": 78,
+    "posicionamentoDefensivo": 79,
+    "pressao": 77,
+    "cobertura": 79,
+    "empenhoTatico": 76
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 72,
+    "decisao": 78,
+    "visaoJogo": 72,
+    "compostura": 74,
+    "frieza": 73,
+    "concentracao": 75,
+    "regularidade": 70,
+    "ansiedade": 24,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 73,
+    "trabalhoEquipe": 75
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 76,
+    "profissionalismo": 67,
+    "lealdade": 56,
+    "catimba": 65,
+    "violencia": 23,
+    "disciplina": 71,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 58,
+    "momentoHeroico": 48,
+    "supersub": 52,
+    "decisivo": 51,
+    "provocador": 35,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 81,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 69,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 71,
+    "tendenciaMarcacao": 78,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 77,
+    "participacaoJogo": 75,
+    "intensidade": 76,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/agustin-giay/profil/spieler/849582",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/agustin-giay.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

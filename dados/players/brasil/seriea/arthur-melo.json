@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "arthur-melo",
+    "nome": "Arthur Melo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/arthur-melo.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "12/08/1996",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "8"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 71,
+    "reputacao": 71,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 78,
+    "passeLongo": 72,
+    "visao": 70,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 75,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 71,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 75
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 63,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 63,
+    "pressao": 71,
+    "cobertura": 63,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 73,
+    "frieza": 67,
+    "concentracao": 68,
+    "regularidade": 70,
+    "ansiedade": 26,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 73,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 55,
+    "profissionalismo": 72,
+    "lealdade": 62,
+    "catimba": 62,
+    "violencia": 37,
+    "disciplina": 67,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 52,
+    "momentoHeroico": 48,
+    "supersub": 44,
+    "decisivo": 44,
+    "provocador": 49,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 74,
+    "tendenciaMarcacao": 67,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 74,
+    "participacaoJogo": 71,
+    "intensidade": 71,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/arthur-melo/profil/spieler/362842",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/arthur-melo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

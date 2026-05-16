@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "allan",
+    "nome": "Allan",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/allan.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "03/03/1997",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "29"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 77,
+    "potencial": 77,
+    "reputacao": 77,
+    "potencialMidia": 77
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 71,
+    "passeCurto": 79,
+    "passeLongo": 76,
+    "visao": 78,
+    "cruzamento": 71,
+    "drible": 71,
+    "controleBola": 71,
+    "dominio": 71,
+    "curva": 71,
+    "cobrancaFalta": 71,
+    "penalti": 71,
+    "cabecamento": 71,
+    "voleio": 71,
+    "acrobacia": 71
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 73,
+    "explosao": 73,
+    "agilidade": 73,
+    "equilibrio": 73,
+    "resistencia": 78,
+    "forca": 77,
+    "impulsao": 73,
+    "stamina": 73
+  },
+  "defensivos": {
+    "marcacao": 82,
+    "desarme": 83,
+    "interceptacao": 80,
+    "posicionamentoDefensivo": 82,
+    "pressao": 82,
+    "cobertura": 77,
+    "empenhoTatico": 81
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 74,
+    "decisao": 78,
+    "visaoJogo": 74,
+    "compostura": 78,
+    "frieza": 76,
+    "concentracao": 80,
+    "regularidade": 74,
+    "ansiedade": 22,
+    "agressividade": 74,
+    "coragem": 74,
+    "lideranca": 77,
+    "trabalhoEquipe": 80
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 55,
+    "profissionalismo": 67,
+    "lealdade": 52,
+    "catimba": 55,
+    "violencia": 20,
+    "disciplina": 66,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 58,
+    "jogoGrande": 57,
+    "momentoHeroico": 43,
+    "supersub": 47,
+    "decisivo": 53,
+    "provocador": 38,
+    "batedorPenaltis": 71,
+    "cobradorFalta": 71,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 57,
+    "confianca": 62,
+    "formaAtual": 62,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 63,
+    "tendenciaChute": 63,
+    "tendenciaPasse": 78,
+    "tendenciaMarcacao": 82,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 77,
+    "participacaoJogo": 78,
+    "intensidade": 80,
+    "riscoCriativo": 74
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/allan/profil/spieler/385271",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/allan.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

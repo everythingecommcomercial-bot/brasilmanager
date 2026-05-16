@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "aranha",
+    "nome": "Aranha",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/aranha.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "07/02/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "24"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 19,
+    "passeCurto": 46,
+    "passeLongo": 45,
+    "visao": 31,
+    "cruzamento": 21,
+    "drible": 23,
+    "controleBola": 31,
+    "dominio": 29,
+    "curva": 22,
+    "cobrancaFalta": 28,
+    "penalti": 25,
+    "cabecamento": 27,
+    "voleio": 25,
+    "acrobacia": 27
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 60,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 58,
+    "impulsao": 62,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 21,
+    "desarme": 19,
+    "interceptacao": 21,
+    "posicionamentoDefensivo": 20,
+    "pressao": 20,
+    "cobertura": 22,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 55,
+    "decisao": 56,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 60,
+    "concentracao": 58,
+    "regularidade": 59,
+    "ansiedade": 47,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 76,
+    "profissionalismo": 65,
+    "lealdade": 67,
+    "catimba": 50,
+    "violencia": 23,
+    "disciplina": 61,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 47,
+    "momentoHeroico": 46,
+    "supersub": 45,
+    "decisivo": 45,
+    "provocador": 41,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 61,
+    "defesa": 63,
+    "posicionamentoGol": 57,
+    "saidaGol": 59,
+    "jogoPes": 52,
+    "reposicao": 58,
+    "pegadorPenaltis": 61
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 15,
+    "tendenciaChute": 11,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 34,
+    "participacaoJogo": 58,
+    "intensidade": 37,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/aranha/profil/spieler/1093863",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/aranha.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

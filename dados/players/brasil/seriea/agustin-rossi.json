@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "agustin-rossi",
+    "nome": "Agustín Rossi",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/agustin-rossi.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "21/08/1995",
+    "idade": 30,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€10.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 78,
+    "potencial": 78,
+    "reputacao": 83,
+    "potencialMidia": 78
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 23,
+    "passeCurto": 61,
+    "passeLongo": 65,
+    "visao": 21,
+    "cruzamento": 25,
+    "drible": 20,
+    "controleBola": 25,
+    "dominio": 30,
+    "curva": 31,
+    "cobrancaFalta": 26,
+    "penalti": 25,
+    "cabecamento": 23,
+    "voleio": 19,
+    "acrobacia": 25
+  },
+  "fisicos": {
+    "velocidade": 74,
+    "aceleracao": 74,
+    "explosao": 74,
+    "agilidade": 78,
+    "equilibrio": 74,
+    "resistencia": 74,
+    "forca": 76,
+    "impulsao": 83,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 23,
+    "desarme": 17,
+    "interceptacao": 23,
+    "posicionamentoDefensivo": 17,
+    "pressao": 15,
+    "cobertura": 21,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 82,
+    "criatividade": 75,
+    "decisao": 77,
+    "visaoJogo": 75,
+    "compostura": 79,
+    "frieza": 80,
+    "concentracao": 80,
+    "regularidade": 78,
+    "ansiedade": 25,
+    "agressividade": 75,
+    "coragem": 75,
+    "lideranca": 77,
+    "trabalhoEquipe": 81
+  },
+  "personalidade": {
+    "ego": 64,
+    "ambicao": 60,
+    "profissionalismo": 71,
+    "lealdade": 59,
+    "catimba": 67,
+    "violencia": 20,
+    "disciplina": 75,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 63,
+    "jogoGrande": 60,
+    "momentoHeroico": 50,
+    "supersub": 51,
+    "decisivo": 53,
+    "provocador": 47,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 26,
+    "especialistaEscanteio": 30
+  },
+  "goleiro": {
+    "reflexos": 79,
+    "defesa": 83,
+    "posicionamentoGol": 78,
+    "saidaGol": 78,
+    "jogoPes": 76,
+    "reposicao": 78,
+    "pegadorPenaltis": 75
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 58,
+    "confianca": 63,
+    "formaAtual": 63,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 78,
+    "decadenciaFisica": 1,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 12,
+    "tendenciaChute": 15,
+    "tendenciaPasse": 41,
+    "tendenciaMarcacao": 19,
+    "movimentacaoOfensiva": 51,
+    "recomposicao": 44,
+    "participacaoJogo": 78,
+    "intensidade": 44,
+    "riscoCriativo": 39
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/agustin-rossi/profil/spieler/352324",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/agustin-rossi.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

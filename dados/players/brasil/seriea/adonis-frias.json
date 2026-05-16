@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "adonis-frias",
+    "nome": "Adonis Frías",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/adonis-frias.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "17/03/1998",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "98"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 45,
+    "chuteLongo": 65,
+    "passeCurto": 68,
+    "passeLongo": 66,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 76,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 74,
+    "impulsao": 74,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 73,
+    "desarme": 78,
+    "interceptacao": 77,
+    "posicionamentoDefensivo": 74,
+    "pressao": 78,
+    "cobertura": 75,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 73,
+    "frieza": 73,
+    "concentracao": 73,
+    "regularidade": 69,
+    "ansiedade": 33,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 64,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 59,
+    "profissionalismo": 67,
+    "lealdade": 48,
+    "catimba": 56,
+    "violencia": 36,
+    "disciplina": 65,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 44,
+    "momentoHeroico": 41,
+    "supersub": 51,
+    "decisivo": 49,
+    "provocador": 40,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 67
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 67,
+    "recomposicao": 70,
+    "participacaoJogo": 70,
+    "intensidade": 72,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/adonis-frias/profil/spieler/598838",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/adonis-frias.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

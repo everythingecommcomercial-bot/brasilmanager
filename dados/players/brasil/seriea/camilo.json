@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "camilo",
+    "nome": "Camilo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/camilo.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil",
+      "holanda"
+    ],
+    "dataNascimento": "23/02/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "27"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 72,
+    "passeLongo": 71,
+    "visao": 65,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 68,
+    "forca": 73,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 68,
+    "desarme": 74,
+    "interceptacao": 73,
+    "posicionamentoDefensivo": 73,
+    "pressao": 74,
+    "cobertura": 74,
+    "empenhoTatico": 72
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 65,
+    "decisao": 71,
+    "visaoJogo": 65,
+    "compostura": 68,
+    "frieza": 64,
+    "concentracao": 67,
+    "regularidade": 63,
+    "ansiedade": 32,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 60,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 64,
+    "profissionalismo": 74,
+    "lealdade": 53,
+    "catimba": 67,
+    "violencia": 35,
+    "disciplina": 73,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 47,
+    "momentoHeroico": 41,
+    "supersub": 44,
+    "decisivo": 51,
+    "provocador": 51,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 71,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 68,
+    "participacaoJogo": 67,
+    "intensidade": 71,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/camilo/profil/spieler/672202",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/holanda.json"
+    ],
+    "foto": "dados/images/players/brasil/camilo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "andre-ramalho",
+    "nome": "André Ramalho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/andre-ramalho.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "16/02/1992",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "5"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 45,
+    "chuteLongo": 60,
+    "passeCurto": 62,
+    "passeLongo": 66,
+    "visao": 60,
+    "cruzamento": 60,
+    "drible": 60,
+    "controleBola": 60,
+    "dominio": 60,
+    "curva": 60,
+    "cobrancaFalta": 60,
+    "penalti": 60,
+    "cabecamento": 72,
+    "voleio": 60,
+    "acrobacia": 60
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 62,
+    "explosao": 62,
+    "agilidade": 62,
+    "equilibrio": 62,
+    "resistencia": 62,
+    "forca": 72,
+    "impulsao": 69,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 72,
+    "desarme": 67,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 70,
+    "pressao": 69,
+    "cobertura": 68,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 63,
+    "decisao": 65,
+    "visaoJogo": 63,
+    "compostura": 66,
+    "frieza": 64,
+    "concentracao": 63,
+    "regularidade": 66,
+    "ansiedade": 37,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 63,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 57,
+    "profissionalismo": 63,
+    "lealdade": 49,
+    "catimba": 43,
+    "violencia": 34,
+    "disciplina": 64,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 50,
+    "momentoHeroico": 40,
+    "supersub": 62,
+    "decisivo": 50,
+    "provocador": 33,
+    "batedorPenaltis": 60,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 59
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 52,
+    "tendenciaChute": 52,
+    "tendenciaPasse": 61,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 68,
+    "participacaoJogo": 65,
+    "intensidade": 66,
+    "riscoCriativo": 61
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/andre-ramalho/profil/spieler/175792",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/andre-ramalho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

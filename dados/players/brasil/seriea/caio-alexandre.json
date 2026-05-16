@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "caio-alexandre",
+    "nome": "Caio Alexandre",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/caio-alexandre.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "24/02/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "8"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 75,
+    "reputacao": 74,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 68,
+    "passeCurto": 79,
+    "passeLongo": 74,
+    "visao": 74,
+    "cruzamento": 68,
+    "drible": 68,
+    "controleBola": 68,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 70,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 79,
+    "forca": 77,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 74,
+    "desarme": 78,
+    "interceptacao": 78,
+    "posicionamentoDefensivo": 76,
+    "pressao": 80,
+    "cobertura": 79,
+    "empenhoTatico": 78
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 71,
+    "decisao": 73,
+    "visaoJogo": 71,
+    "compostura": 73,
+    "frieza": 76,
+    "concentracao": 74,
+    "regularidade": 73,
+    "ansiedade": 30,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 69,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 65,
+    "profissionalismo": 74,
+    "lealdade": 67,
+    "catimba": 60,
+    "violencia": 27,
+    "disciplina": 75,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 43,
+    "momentoHeroico": 48,
+    "supersub": 53,
+    "decisivo": 59,
+    "provocador": 50,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 75,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 76,
+    "tendenciaMarcacao": 77,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 74,
+    "participacaoJogo": 75,
+    "intensidade": 80,
+    "riscoCriativo": 71
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/caio-alexandre/profil/spieler/727751",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/caio-alexandre.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

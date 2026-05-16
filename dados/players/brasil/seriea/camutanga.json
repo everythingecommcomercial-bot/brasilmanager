@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "camutanga",
+    "nome": "Camutanga",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/camutanga.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "27/09/1993",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "4"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€300k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 61,
+    "reputacao": 61,
+    "potencialMidia": 61
+  },
+  "tecnicos": {
+    "finalizacao": 45,
+    "chuteLongo": 55,
+    "passeCurto": 57,
+    "passeLongo": 61,
+    "visao": 55,
+    "cruzamento": 55,
+    "drible": 55,
+    "controleBola": 55,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 63,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 53,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 65,
+    "impulsao": 65,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 62,
+    "desarme": 62,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 66,
+    "pressao": 63,
+    "cobertura": 62,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 58,
+    "decisao": 58,
+    "visaoJogo": 58,
+    "compostura": 63,
+    "frieza": 62,
+    "concentracao": 61,
+    "regularidade": 61,
+    "ansiedade": 35,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 59,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 57,
+    "profissionalismo": 74,
+    "lealdade": 54,
+    "catimba": 57,
+    "violencia": 30,
+    "disciplina": 74,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 43,
+    "momentoHeroico": 46,
+    "supersub": 61,
+    "decisivo": 50,
+    "provocador": 53,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 61,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 47,
+    "tendenciaChute": 47,
+    "tendenciaPasse": 56,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 60,
+    "participacaoJogo": 61,
+    "intensidade": 60,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/camutanga/profil/spieler/607817",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/camutanga.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

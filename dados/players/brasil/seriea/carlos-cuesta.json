@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "carlos-cuesta",
+    "nome": "Carlos Cuesta",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/carlos-cuesta.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "09/03/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "46"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 75,
+    "reputacao": 74,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 40,
+    "chuteLongo": 68,
+    "passeCurto": 73,
+    "passeLongo": 73,
+    "visao": 68,
+    "cruzamento": 68,
+    "drible": 68,
+    "controleBola": 68,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 77,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 70,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 81,
+    "impulsao": 76,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 76,
+    "desarme": 76,
+    "interceptacao": 79,
+    "posicionamentoDefensivo": 78,
+    "pressao": 80,
+    "cobertura": 76,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 71,
+    "decisao": 71,
+    "visaoJogo": 71,
+    "compostura": 73,
+    "frieza": 72,
+    "concentracao": 76,
+    "regularidade": 72,
+    "ansiedade": 30,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 66,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 67,
+    "profissionalismo": 61,
+    "lealdade": 57,
+    "catimba": 65,
+    "violencia": 24,
+    "disciplina": 71,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 49,
+    "momentoHeroico": 44,
+    "supersub": 50,
+    "decisivo": 48,
+    "provocador": 45,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 75,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 78,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 72,
+    "participacaoJogo": 73,
+    "intensidade": 75,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/carlos-cuesta/profil/spieler/474589",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/carlos-cuesta.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

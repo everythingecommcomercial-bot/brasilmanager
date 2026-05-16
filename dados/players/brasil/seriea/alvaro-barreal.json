@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "alvaro-barreal",
+    "nome": "Álvaro Barreal",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alvaro-barreal.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "17/08/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 77,
+    "reputacao": 74,
+    "potencialMidia": 77
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 68,
+    "passeCurto": 68,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 76,
+    "drible": 81,
+    "controleBola": 74,
+    "dominio": 68,
+    "curva": 74,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 82,
+    "aceleracao": 79,
+    "explosao": 78,
+    "agilidade": 78,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 62,
+    "desarme": 64,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 60,
+    "pressao": 60,
+    "cobertura": 65,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 71,
+    "decisao": 71,
+    "visaoJogo": 71,
+    "compostura": 72,
+    "frieza": 70,
+    "concentracao": 72,
+    "regularidade": 75,
+    "ansiedade": 32,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 68,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 70,
+    "profissionalismo": 65,
+    "lealdade": 61,
+    "catimba": 43,
+    "violencia": 45,
+    "disciplina": 62,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 53,
+    "momentoHeroico": 49,
+    "supersub": 49,
+    "decisivo": 49,
+    "provocador": 32,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 75
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 81,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 61,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 65,
+    "participacaoJogo": 72,
+    "intensidade": 65,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alvaro-barreal/profil/spieler/613873",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/alvaro-barreal.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "andres-gomez",
+    "nome": "Andrés Gómez",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/andres-gomez.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "12/09/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€8.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 80,
+    "reputacao": 74,
+    "potencialMidia": 85
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 68,
+    "passeCurto": 68,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 78,
+    "drible": 81,
+    "controleBola": 79,
+    "dominio": 68,
+    "curva": 73,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 82,
+    "aceleracao": 78,
+    "explosao": 80,
+    "agilidade": 77,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 60,
+    "interceptacao": 64,
+    "posicionamentoDefensivo": 65,
+    "pressao": 62,
+    "cobertura": 59,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 71,
+    "decisao": 77,
+    "visaoJogo": 71,
+    "compostura": 76,
+    "frieza": 71,
+    "concentracao": 72,
+    "regularidade": 70,
+    "ansiedade": 25,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 66,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 71,
+    "profissionalismo": 69,
+    "lealdade": 64,
+    "catimba": 46,
+    "violencia": 29,
+    "disciplina": 60,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 48,
+    "momentoHeroico": 39,
+    "supersub": 59,
+    "decisivo": 56,
+    "provocador": 47,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 80,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 81,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 78,
+    "recomposicao": 67,
+    "participacaoJogo": 72,
+    "intensidade": 66,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/andres-gomez/profil/spieler/957461",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/andres-gomez.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

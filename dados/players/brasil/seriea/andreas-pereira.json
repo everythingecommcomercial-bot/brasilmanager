@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "andreas-pereira",
+    "nome": "Andreas Pereira",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/andreas-pereira.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil",
+      "belgica"
+    ],
+    "dataNascimento": "01/01/1996",
+    "idade": 30,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "8"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€15.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 79,
+    "potencial": 79,
+    "reputacao": 84,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 73,
+    "passeCurto": 85,
+    "passeLongo": 79,
+    "visao": 81,
+    "cruzamento": 73,
+    "drible": 73,
+    "controleBola": 78,
+    "dominio": 73,
+    "curva": 73,
+    "cobrancaFalta": 73,
+    "penalti": 73,
+    "cabecamento": 73,
+    "voleio": 73,
+    "acrobacia": 73
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 75,
+    "explosao": 75,
+    "agilidade": 75,
+    "equilibrio": 75,
+    "resistencia": 78,
+    "forca": 75,
+    "impulsao": 75,
+    "stamina": 81
+  },
+  "defensivos": {
+    "marcacao": 71,
+    "desarme": 71,
+    "interceptacao": 71,
+    "posicionamentoDefensivo": 71,
+    "pressao": 79,
+    "cobertura": 71,
+    "empenhoTatico": 82
+  },
+  "mentais": {
+    "inteligencia": 83,
+    "criatividade": 76,
+    "decisao": 79,
+    "visaoJogo": 76,
+    "compostura": 78,
+    "frieza": 78,
+    "concentracao": 76,
+    "regularidade": 78,
+    "ansiedade": 18,
+    "agressividade": 76,
+    "coragem": 76,
+    "lideranca": 80,
+    "trabalhoEquipe": 82
+  },
+  "personalidade": {
+    "ego": 71,
+    "ambicao": 60,
+    "profissionalismo": 70,
+    "lealdade": 49,
+    "catimba": 50,
+    "violencia": 47,
+    "disciplina": 71,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 64,
+    "jogoGrande": 72,
+    "momentoHeroico": 60,
+    "supersub": 60,
+    "decisivo": 58,
+    "provocador": 36,
+    "batedorPenaltis": 73,
+    "cobradorFalta": 73,
+    "especialistaEscanteio": 75
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 59,
+    "confianca": 64,
+    "formaAtual": 64,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 1,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 65,
+    "tendenciaPasse": 83,
+    "tendenciaMarcacao": 75,
+    "movimentacaoOfensiva": 78,
+    "recomposicao": 82,
+    "participacaoJogo": 80,
+    "intensidade": 78,
+    "riscoCriativo": 77
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/andreas-pereira/profil/spieler/203394",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/belgica.json"
+    ],
+    "foto": "dados/images/players/brasil/andreas-pereira.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

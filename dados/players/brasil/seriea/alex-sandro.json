@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "alex-sandro",
+    "nome": "Alex Sandro",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alex-sandro.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "26/01/1991",
+    "idade": 35,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "26"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 60,
+    "chuteLongo": 60,
+    "passeCurto": 67,
+    "passeLongo": 60,
+    "visao": 60,
+    "cruzamento": 70,
+    "drible": 64,
+    "controleBola": 60,
+    "dominio": 60,
+    "curva": 60,
+    "cobrancaFalta": 60,
+    "penalti": 60,
+    "cabecamento": 60,
+    "voleio": 60,
+    "acrobacia": 60
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 73,
+    "explosao": 62,
+    "agilidade": 62,
+    "equilibrio": 62,
+    "resistencia": 67,
+    "forca": 62,
+    "impulsao": 62,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 67,
+    "desarme": 67,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 64,
+    "pressao": 65,
+    "cobertura": 65,
+    "empenhoTatico": 70
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 63,
+    "decisao": 63,
+    "visaoJogo": 63,
+    "compostura": 65,
+    "frieza": 63,
+    "concentracao": 66,
+    "regularidade": 62,
+    "ansiedade": 33,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 65,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 62,
+    "profissionalismo": 64,
+    "lealdade": 61,
+    "catimba": 59,
+    "violencia": 42,
+    "disciplina": 61,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 54,
+    "momentoHeroico": 49,
+    "supersub": 42,
+    "decisivo": 49,
+    "provocador": 49,
+    "batedorPenaltis": 60,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 6,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 56,
+    "tendenciaChute": 52,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 68,
+    "participacaoJogo": 67,
+    "intensidade": 66,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alex-sandro/profil/spieler/79960",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/alex-sandro.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

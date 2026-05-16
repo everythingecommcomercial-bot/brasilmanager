@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "caue-nascimento",
+    "nome": "Cauê Nascimento",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/caue-nascimento.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "13/12/2006",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "51"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 61,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 58,
+    "drible": 56,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 66,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 62,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 57,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 59,
+    "pressao": 58,
+    "cobertura": 60,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 55,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 59,
+    "concentracao": 57,
+    "regularidade": 57,
+    "ansiedade": 41,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 80,
+    "profissionalismo": 68,
+    "lealdade": 54,
+    "catimba": 60,
+    "violencia": 49,
+    "disciplina": 61,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 48,
+    "momentoHeroico": 41,
+    "supersub": 55,
+    "decisivo": 46,
+    "provocador": 55,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 48,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 56,
+    "tendenciaMarcacao": 59,
+    "movimentacaoOfensiva": 54,
+    "recomposicao": 62,
+    "participacaoJogo": 59,
+    "intensidade": 60,
+    "riscoCriativo": 54
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/caue-nascimento/profil/spieler/1223728",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/caue-nascimento.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "blake-bamgbose",
+    "nome": "Blake Bamgbose",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/blake-bamgbose.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "inglaterra",
+      "australia"
+    ],
+    "dataNascimento": "21/02/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 52,
+    "passeCurto": 52,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 62,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 58,
+    "cabecamento": 57,
+    "voleio": 55,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 54,
+    "explosao": 60,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 60,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 41,
+    "desarme": 42,
+    "interceptacao": 41,
+    "posicionamentoDefensivo": 42,
+    "pressao": 39,
+    "cobertura": 41,
+    "empenhoTatico": 43
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 57,
+    "visaoJogo": 55,
+    "compostura": 56,
+    "frieza": 56,
+    "concentracao": 55,
+    "regularidade": 58,
+    "ansiedade": 40,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 71,
+    "profissionalismo": 64,
+    "lealdade": 55,
+    "catimba": 47,
+    "violencia": 30,
+    "disciplina": 64,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 44,
+    "momentoHeroico": 42,
+    "supersub": 46,
+    "decisivo": 46,
+    "provocador": 42,
+    "batedorPenaltis": 58,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 49
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 65,
+    "tendenciaPasse": 52,
+    "tendenciaMarcacao": 40,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 48,
+    "participacaoJogo": 57,
+    "intensidade": 46,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/blake-bamgbose/profil/spieler/1017887",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/inglaterra.json",
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/blake-bamgbose.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "anderson",
+    "nome": "Anderson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/anderson.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "05/03/1998",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "98"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€450k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 62,
+    "reputacao": 61,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 21,
+    "chuteLongo": 30,
+    "passeCurto": 45,
+    "passeLongo": 50,
+    "visao": 23,
+    "cruzamento": 23,
+    "drible": 30,
+    "controleBola": 28,
+    "dominio": 25,
+    "curva": 29,
+    "cobrancaFalta": 20,
+    "penalti": 22,
+    "cabecamento": 30,
+    "voleio": 19,
+    "acrobacia": 27
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 61,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 62,
+    "impulsao": 64,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 19,
+    "desarme": 23,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 15,
+    "pressao": 15,
+    "cobertura": 24,
+    "empenhoTatico": 21
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 58,
+    "decisao": 60,
+    "visaoJogo": 58,
+    "compostura": 59,
+    "frieza": 58,
+    "concentracao": 58,
+    "regularidade": 62,
+    "ansiedade": 41,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 57,
+    "trabalhoEquipe": 63
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 65,
+    "profissionalismo": 63,
+    "lealdade": 49,
+    "catimba": 52,
+    "violencia": 38,
+    "disciplina": 75,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 45,
+    "momentoHeroico": 49,
+    "supersub": 54,
+    "decisivo": 43,
+    "provocador": 54,
+    "batedorPenaltis": 22,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 67,
+    "defesa": 67,
+    "posicionamentoGol": 66,
+    "saidaGol": 63,
+    "jogoPes": 58,
+    "reposicao": 55,
+    "pegadorPenaltis": 59
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 22,
+    "tendenciaChute": 22,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 17,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 39,
+    "participacaoJogo": 60,
+    "intensidade": 36,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/anderson/profil/spieler/598974",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/anderson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "alexandro-bernabei",
+    "nome": "Alexandro Bernabei",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alexandro-bernabei.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "24/09/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "26"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 76,
+    "reputacao": 73,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 74,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 74,
+    "drible": 72,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 80,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 79,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 76
+  },
+  "defensivos": {
+    "marcacao": 75,
+    "desarme": 76,
+    "interceptacao": 75,
+    "posicionamentoDefensivo": 75,
+    "pressao": 76,
+    "cobertura": 74,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 74,
+    "frieza": 73,
+    "concentracao": 70,
+    "regularidade": 68,
+    "ansiedade": 25,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 65,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 67,
+    "profissionalismo": 62,
+    "lealdade": 57,
+    "catimba": 52,
+    "violencia": 28,
+    "disciplina": 62,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 46,
+    "momentoHeroico": 42,
+    "supersub": 55,
+    "decisivo": 49,
+    "provocador": 34,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 72
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 74,
+    "participacaoJogo": 74,
+    "intensidade": 78,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alexandro-bernabei/profil/spieler/719635",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/alexandro-bernabei.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

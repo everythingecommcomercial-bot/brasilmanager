@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "alan-patrick",
+    "nome": "Alan Patrick",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alan-patrick.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "13/05/1991",
+    "idade": 35,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 79,
+    "potencial": 79,
+    "reputacao": 79,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 78,
+    "chuteLongo": 73,
+    "passeCurto": 80,
+    "passeLongo": 73,
+    "visao": 85,
+    "cruzamento": 73,
+    "drible": 83,
+    "controleBola": 85,
+    "dominio": 73,
+    "curva": 73,
+    "cobrancaFalta": 80,
+    "penalti": 73,
+    "cabecamento": 73,
+    "voleio": 73,
+    "acrobacia": 73
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 75,
+    "explosao": 75,
+    "agilidade": 75,
+    "equilibrio": 75,
+    "resistencia": 75,
+    "forca": 75,
+    "impulsao": 75,
+    "stamina": 75
+  },
+  "defensivos": {
+    "marcacao": 64,
+    "desarme": 70,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 70,
+    "pressao": 69,
+    "cobertura": 67,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 82,
+    "criatividade": 87,
+    "decisao": 79,
+    "visaoJogo": 86,
+    "compostura": 82,
+    "frieza": 78,
+    "concentracao": 82,
+    "regularidade": 78,
+    "ansiedade": 22,
+    "agressividade": 76,
+    "coragem": 76,
+    "lideranca": 76,
+    "trabalhoEquipe": 81
+  },
+  "personalidade": {
+    "ego": 64,
+    "ambicao": 56,
+    "profissionalismo": 72,
+    "lealdade": 50,
+    "catimba": 65,
+    "violencia": 26,
+    "disciplina": 75,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 60,
+    "jogoGrande": 71,
+    "momentoHeroico": 67,
+    "supersub": 52,
+    "decisivo": 61,
+    "provocador": 45,
+    "batedorPenaltis": 73,
+    "cobradorFalta": 80,
+    "especialistaEscanteio": 76
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 59,
+    "confianca": 64,
+    "formaAtual": 64,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 6,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 83,
+    "tendenciaChute": 78,
+    "tendenciaPasse": 82,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 82,
+    "recomposicao": 72,
+    "participacaoJogo": 78,
+    "intensidade": 72,
+    "riscoCriativo": 85
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alan-patrick/profil/spieler/104505",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/alan-patrick.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

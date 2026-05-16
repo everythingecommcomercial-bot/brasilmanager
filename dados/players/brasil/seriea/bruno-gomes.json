@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "bruno-gomes",
+    "nome": "Bruno Gomes",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/bruno-gomes.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "04/04/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "15"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 76,
+    "reputacao": 73,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 74,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 75,
+    "drible": 73,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 76,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 80,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 78
+  },
+  "defensivos": {
+    "marcacao": 77,
+    "desarme": 74,
+    "interceptacao": 74,
+    "posicionamentoDefensivo": 75,
+    "pressao": 73,
+    "cobertura": 74,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 72,
+    "frieza": 74,
+    "concentracao": 74,
+    "regularidade": 71,
+    "ansiedade": 26,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 65,
+    "trabalhoEquipe": 76
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 65,
+    "profissionalismo": 74,
+    "lealdade": 52,
+    "catimba": 62,
+    "violencia": 25,
+    "disciplina": 74,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 44,
+    "momentoHeroico": 43,
+    "supersub": 50,
+    "decisivo": 53,
+    "provocador": 46,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 73
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 75,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 76,
+    "participacaoJogo": 76,
+    "intensidade": 76,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/bruno-gomes/profil/spieler/703322",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/bruno-gomes.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

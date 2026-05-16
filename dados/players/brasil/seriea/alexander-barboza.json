@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "alexander-barboza",
+    "nome": "Alexander Barboza",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alexander-barboza.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "argentina",
+      "uruguai"
+    ],
+    "dataNascimento": "16/03/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "20"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 73,
+    "reputacao": 73,
+    "potencialMidia": 73
+  },
+  "tecnicos": {
+    "finalizacao": 46,
+    "chuteLongo": 67,
+    "passeCurto": 69,
+    "passeLongo": 70,
+    "visao": 67,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 80,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 75,
+    "impulsao": 73,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 75,
+    "desarme": 74,
+    "interceptacao": 77,
+    "posicionamentoDefensivo": 74,
+    "pressao": 77,
+    "cobertura": 79,
+    "empenhoTatico": 76
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 70,
+    "decisao": 76,
+    "visaoJogo": 70,
+    "compostura": 72,
+    "frieza": 74,
+    "concentracao": 71,
+    "regularidade": 69,
+    "ansiedade": 22,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 72,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 58,
+    "profissionalismo": 69,
+    "lealdade": 62,
+    "catimba": 57,
+    "violencia": 44,
+    "disciplina": 62,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 47,
+    "momentoHeroico": 51,
+    "supersub": 49,
+    "decisivo": 51,
+    "provocador": 35,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 67
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 72,
+    "participacaoJogo": 71,
+    "intensidade": 73,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alexander-barboza/profil/spieler/379752",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/uruguai.json"
+    ],
+    "foto": "dados/images/players/brasil/alexander-barboza.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

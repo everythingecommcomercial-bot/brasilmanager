@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "bruno-alves",
+    "nome": "Bruno Alves",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/bruno-alves.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "04/08/2005",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "44"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€250k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 70,
+    "reputacao": 61,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 48,
+    "chuteLongo": 55,
+    "passeCurto": 60,
+    "passeLongo": 56,
+    "visao": 55,
+    "cruzamento": 55,
+    "drible": 55,
+    "controleBola": 55,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 65,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 56,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 64,
+    "impulsao": 67,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 67,
+    "desarme": 64,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 63,
+    "pressao": 62,
+    "cobertura": 66,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 58,
+    "decisao": 58,
+    "visaoJogo": 58,
+    "compostura": 59,
+    "frieza": 61,
+    "concentracao": 63,
+    "regularidade": 61,
+    "ansiedade": 36,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 55,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 82,
+    "profissionalismo": 64,
+    "lealdade": 60,
+    "catimba": 64,
+    "violencia": 34,
+    "disciplina": 66,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 46,
+    "momentoHeroico": 52,
+    "supersub": 54,
+    "decisivo": 51,
+    "provocador": 47,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 47,
+    "tendenciaChute": 47,
+    "tendenciaPasse": 58,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 60,
+    "participacaoJogo": 60,
+    "intensidade": 60,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/bruno-alves/profil/spieler/1083247",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/bruno-alves.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

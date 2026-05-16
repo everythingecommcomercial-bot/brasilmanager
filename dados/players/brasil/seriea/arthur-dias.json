@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "arthur-dias",
+    "nome": "Arthur Dias",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/arthur-dias.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/04/2007",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "4"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€600k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 77,
+    "reputacao": 65,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 47,
+    "chuteLongo": 59,
+    "passeCurto": 67,
+    "passeLongo": 65,
+    "visao": 59,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 70,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 67,
+    "impulsao": 66,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 67,
+    "desarme": 67,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 67,
+    "pressao": 67,
+    "cobertura": 71,
+    "empenhoTatico": 68
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 62,
+    "decisao": 62,
+    "visaoJogo": 62,
+    "compostura": 68,
+    "frieza": 64,
+    "concentracao": 62,
+    "regularidade": 64,
+    "ansiedade": 33,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 63,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 85,
+    "profissionalismo": 64,
+    "lealdade": 58,
+    "catimba": 45,
+    "violencia": 28,
+    "disciplina": 65,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 53,
+    "momentoHeroico": 43,
+    "supersub": 46,
+    "decisivo": 45,
+    "provocador": 49,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 61
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 63,
+    "tendenciaMarcacao": 67,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 64,
+    "participacaoJogo": 63,
+    "intensidade": 64,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/arthur-dias/profil/spieler/1233473",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/arthur-dias.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

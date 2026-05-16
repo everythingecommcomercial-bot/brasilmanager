@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "agustin-sant-anna",
+    "nome": "Agustín Sant'Anna",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/agustin-sant-anna.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "uruguai"
+    ],
+    "dataNascimento": "27/09/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 69,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 71,
+    "drible": 73,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 76,
+    "aceleracao": 76,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 75,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 77
+  },
+  "defensivos": {
+    "marcacao": 71,
+    "desarme": 69,
+    "interceptacao": 74,
+    "posicionamentoDefensivo": 72,
+    "pressao": 69,
+    "cobertura": 71,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 68,
+    "decisao": 72,
+    "visaoJogo": 68,
+    "compostura": 72,
+    "frieza": 71,
+    "concentracao": 68,
+    "regularidade": 66,
+    "ansiedade": 34,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 67,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 67,
+    "profissionalismo": 63,
+    "lealdade": 59,
+    "catimba": 47,
+    "violencia": 47,
+    "disciplina": 64,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 50,
+    "momentoHeroico": 47,
+    "supersub": 46,
+    "decisivo": 48,
+    "provocador": 44,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 74,
+    "participacaoJogo": 72,
+    "intensidade": 72,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/agustin-santanna/profil/spieler/400661",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json"
+    ],
+    "foto": "dados/images/players/brasil/agustin-sant-anna.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "carlos-vinicius",
+    "nome": "Carlos Vinícius",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/carlos-vinicius.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "25/03/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "95"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 74,
+    "reputacao": 74,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 82,
+    "chuteLongo": 68,
+    "passeCurto": 68,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 68,
+    "drible": 68,
+    "controleBola": 75,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 74,
+    "cabecamento": 76,
+    "voleio": 72,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 70,
+    "explosao": 79,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 72,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 53,
+    "desarme": 56,
+    "interceptacao": 55,
+    "posicionamentoDefensivo": 56,
+    "pressao": 57,
+    "cobertura": 59,
+    "empenhoTatico": 54
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 71,
+    "decisao": 75,
+    "visaoJogo": 71,
+    "compostura": 73,
+    "frieza": 73,
+    "concentracao": 75,
+    "regularidade": 72,
+    "ansiedade": 25,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 75,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 63,
+    "profissionalismo": 60,
+    "lealdade": 54,
+    "catimba": 60,
+    "violencia": 21,
+    "disciplina": 72,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 44,
+    "momentoHeroico": 42,
+    "supersub": 43,
+    "decisivo": 58,
+    "provocador": 35,
+    "batedorPenaltis": 74,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 82,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 55,
+    "movimentacaoOfensiva": 75,
+    "recomposicao": 62,
+    "participacaoJogo": 72,
+    "intensidade": 64,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/carlos-vinicius/profil/spieler/525287",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/carlos-vinicius.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

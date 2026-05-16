@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "alejandro-garcia",
+    "nome": "Alejandro García",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alejandro-garcia.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "28/02/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "17"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€700k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 68,
+    "reputacao": 65,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 69,
+    "passeLongo": 66,
+    "visao": 69,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 69,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 65,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 57,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 57,
+    "pressao": 67,
+    "cobertura": 57,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 62,
+    "decisao": 63,
+    "visaoJogo": 62,
+    "compostura": 64,
+    "frieza": 66,
+    "concentracao": 66,
+    "regularidade": 64,
+    "ansiedade": 29,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 63,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 64,
+    "profissionalismo": 63,
+    "lealdade": 55,
+    "catimba": 57,
+    "violencia": 44,
+    "disciplina": 69,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 50,
+    "momentoHeroico": 52,
+    "supersub": 47,
+    "decisivo": 49,
+    "provocador": 50,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 69,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 67,
+    "participacaoJogo": 65,
+    "intensidade": 66,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alejandro-garcia/profil/spieler/632246",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/alejandro-garcia.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

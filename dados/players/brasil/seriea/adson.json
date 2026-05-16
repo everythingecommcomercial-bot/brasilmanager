@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "adson",
+    "nome": "Adson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/adson.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "06/10/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "28"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 71,
+    "reputacao": 68,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 67,
+    "drible": 74,
+    "controleBola": 71,
+    "dominio": 62,
+    "curva": 68,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 74,
+    "explosao": 69,
+    "agilidade": 74,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 59,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 59,
+    "pressao": 53,
+    "cobertura": 59,
+    "empenhoTatico": 54
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 65,
+    "decisao": 65,
+    "visaoJogo": 65,
+    "compostura": 68,
+    "frieza": 70,
+    "concentracao": 69,
+    "regularidade": 68,
+    "ansiedade": 33,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 62,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 61,
+    "profissionalismo": 63,
+    "lealdade": 50,
+    "catimba": 60,
+    "violencia": 46,
+    "disciplina": 71,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 50,
+    "momentoHeroico": 41,
+    "supersub": 44,
+    "decisivo": 52,
+    "provocador": 50,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 65,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 59,
+    "participacaoJogo": 67,
+    "intensidade": 58,
+    "riscoCriativo": 67
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/adson/profil/spieler/868891",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/adson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

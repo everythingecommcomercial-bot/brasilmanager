@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "alvaro-montoro",
+    "nome": "Álvaro Montoro",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alvaro-montoro.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "17/04/2007",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€10.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 86,
+    "reputacao": 79,
+    "potencialMidia": 91
+  },
+  "tecnicos": {
+    "finalizacao": 72,
+    "chuteLongo": 68,
+    "passeCurto": 68,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 77,
+    "drible": 81,
+    "controleBola": 74,
+    "dominio": 68,
+    "curva": 74,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 83,
+    "aceleracao": 81,
+    "explosao": 81,
+    "agilidade": 80,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 62,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 60,
+    "pressao": 61,
+    "cobertura": 59,
+    "empenhoTatico": 65
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 71,
+    "decisao": 71,
+    "visaoJogo": 71,
+    "compostura": 76,
+    "frieza": 71,
+    "concentracao": 74,
+    "regularidade": 73,
+    "ansiedade": 27,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 71,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 86,
+    "profissionalismo": 76,
+    "lealdade": 51,
+    "catimba": 60,
+    "violencia": 50,
+    "disciplina": 66,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 45,
+    "momentoHeroico": 41,
+    "supersub": 44,
+    "decisivo": 53,
+    "provocador": 49,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 76
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 86,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 81,
+    "tendenciaChute": 72,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 68,
+    "participacaoJogo": 73,
+    "intensidade": 66,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alvaro-montoro/profil/spieler/1228194",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/alvaro-montoro.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

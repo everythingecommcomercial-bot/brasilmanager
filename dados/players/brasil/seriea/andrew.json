@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "andrew",
+    "nome": "Andrew",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/andrew.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "01/07/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "42"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 78,
+    "reputacao": 75,
+    "potencialMidia": 78
+  },
+  "tecnicos": {
+    "finalizacao": 29,
+    "chuteLongo": 23,
+    "passeCurto": 60,
+    "passeLongo": 61,
+    "visao": 24,
+    "cruzamento": 21,
+    "drible": 30,
+    "controleBola": 29,
+    "dominio": 29,
+    "curva": 24,
+    "cobrancaFalta": 27,
+    "penalti": 30,
+    "cabecamento": 26,
+    "voleio": 28,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 71,
+    "explosao": 71,
+    "agilidade": 78,
+    "equilibrio": 71,
+    "resistencia": 71,
+    "forca": 77,
+    "impulsao": 74,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 19,
+    "desarme": 25,
+    "interceptacao": 18,
+    "posicionamentoDefensivo": 23,
+    "pressao": 25,
+    "cobertura": 21,
+    "empenhoTatico": 19
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 72,
+    "decisao": 76,
+    "visaoJogo": 72,
+    "compostura": 78,
+    "frieza": 75,
+    "concentracao": 75,
+    "regularidade": 71,
+    "ansiedade": 27,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 72,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 64,
+    "profissionalismo": 70,
+    "lealdade": 48,
+    "catimba": 64,
+    "violencia": 25,
+    "disciplina": 64,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 55,
+    "momentoHeroico": 49,
+    "supersub": 61,
+    "decisivo": 49,
+    "provocador": 36,
+    "batedorPenaltis": 30,
+    "cobradorFalta": 27,
+    "especialistaEscanteio": 20
+  },
+  "goleiro": {
+    "reflexos": 77,
+    "defesa": 80,
+    "posicionamentoGol": 76,
+    "saidaGol": 72,
+    "jogoPes": 70,
+    "reposicao": 69,
+    "pegadorPenaltis": 73
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 78,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 22,
+    "tendenciaChute": 15,
+    "tendenciaPasse": 42,
+    "tendenciaMarcacao": 22,
+    "movimentacaoOfensiva": 52,
+    "recomposicao": 45,
+    "participacaoJogo": 73,
+    "intensidade": 48,
+    "riscoCriativo": 42
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/andrew/profil/spieler/610417",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/andrew.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

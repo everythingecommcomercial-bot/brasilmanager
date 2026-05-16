@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "alerrandro",
+    "nome": "Alerrandro",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/alerrandro.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "12/01/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "9"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 74,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 71,
+    "cabecamento": 70,
+    "voleio": 74,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 67,
+    "explosao": 76,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 72,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 51,
+    "desarme": 55,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 55,
+    "pressao": 54,
+    "cobertura": 54,
+    "empenhoTatico": 54
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 68,
+    "decisao": 68,
+    "visaoJogo": 68,
+    "compostura": 74,
+    "frieza": 70,
+    "concentracao": 72,
+    "regularidade": 70,
+    "ansiedade": 35,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 68,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 59,
+    "profissionalismo": 62,
+    "lealdade": 51,
+    "catimba": 64,
+    "violencia": 22,
+    "disciplina": 69,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 47,
+    "momentoHeroico": 39,
+    "supersub": 53,
+    "decisivo": 52,
+    "provocador": 51,
+    "batedorPenaltis": 71,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 52,
+    "movimentacaoOfensiva": 71,
+    "recomposicao": 60,
+    "participacaoJogo": 69,
+    "intensidade": 60,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/alerrandro/profil/spieler/371996",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/alerrandro.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

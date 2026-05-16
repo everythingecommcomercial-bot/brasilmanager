@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "carlos-coronel",
+    "nome": "Carlos Coronel",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/carlos-coronel.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "paraguai",
+      "brasil"
+    ],
+    "dataNascimento": "29/12/1996",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "31"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 19,
+    "chuteLongo": 30,
+    "passeCurto": 57,
+    "passeLongo": 59,
+    "visao": 28,
+    "cruzamento": 20,
+    "drible": 27,
+    "controleBola": 22,
+    "dominio": 25,
+    "curva": 27,
+    "cobrancaFalta": 25,
+    "penalti": 26,
+    "cabecamento": 24,
+    "voleio": 24,
+    "acrobacia": 22
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 69,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 66,
+    "impulsao": 69,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 15,
+    "desarme": 21,
+    "interceptacao": 15,
+    "posicionamentoDefensivo": 16,
+    "pressao": 18,
+    "cobertura": 23,
+    "empenhoTatico": 16
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 69,
+    "concentracao": 67,
+    "regularidade": 67,
+    "ansiedade": 36,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 70,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 63,
+    "profissionalismo": 61,
+    "lealdade": 51,
+    "catimba": 51,
+    "violencia": 29,
+    "disciplina": 60,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 54,
+    "momentoHeroico": 45,
+    "supersub": 62,
+    "decisivo": 51,
+    "provocador": 53,
+    "batedorPenaltis": 26,
+    "cobradorFalta": 25,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 72,
+    "defesa": 69,
+    "posicionamentoGol": 69,
+    "saidaGol": 70,
+    "jogoPes": 61,
+    "reposicao": 68,
+    "pegadorPenaltis": 69
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 19,
+    "tendenciaChute": 22,
+    "tendenciaPasse": 42,
+    "tendenciaMarcacao": 16,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 40,
+    "participacaoJogo": 68,
+    "intensidade": 41,
+    "riscoCriativo": 40
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/carlos-coronel/profil/spieler/378871",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/paraguai.json",
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/carlos-coronel.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}
