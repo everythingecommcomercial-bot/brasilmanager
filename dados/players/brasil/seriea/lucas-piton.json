@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "lucas-piton",
+    "nome": "Lucas Piton",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucas-piton.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "italia",
+      "brasil"
+    ],
+    "dataNascimento": "09/10/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "6"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 77,
+    "reputacao": 74,
+    "potencialMidia": 77
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 68,
+    "passeCurto": 77,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 78,
+    "drible": 71,
+    "controleBola": 68,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 82,
+    "aceleracao": 78,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 81,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 78
+  },
+  "defensivos": {
+    "marcacao": 76,
+    "desarme": 75,
+    "interceptacao": 77,
+    "posicionamentoDefensivo": 72,
+    "pressao": 75,
+    "cobertura": 73,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 71,
+    "decisao": 76,
+    "visaoJogo": 71,
+    "compostura": 75,
+    "frieza": 71,
+    "concentracao": 75,
+    "regularidade": 70,
+    "ansiedade": 29,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 72,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 70,
+    "profissionalismo": 75,
+    "lealdade": 53,
+    "catimba": 50,
+    "violencia": 21,
+    "disciplina": 74,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 48,
+    "momentoHeroico": 51,
+    "supersub": 62,
+    "decisivo": 48,
+    "provocador": 52,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 63,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 76,
+    "participacaoJogo": 75,
+    "intensidade": 78,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucas-piton/profil/spieler/670201",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/italia.json",
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/lucas-piton.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

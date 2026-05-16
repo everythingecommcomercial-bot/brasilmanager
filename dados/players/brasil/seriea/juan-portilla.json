@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "juan-portilla",
+    "nome": "Juan Portilla",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/juan-portilla.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "12/09/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "27"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 72,
+    "passeLongo": 72,
+    "visao": 74,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 70,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 72,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 76
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 63,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 63,
+    "pressao": 69,
+    "cobertura": 63,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 68,
+    "frieza": 67,
+    "concentracao": 71,
+    "regularidade": 72,
+    "ansiedade": 25,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 65,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 63,
+    "profissionalismo": 75,
+    "lealdade": 62,
+    "catimba": 60,
+    "violencia": 27,
+    "disciplina": 72,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 44,
+    "momentoHeroico": 52,
+    "supersub": 54,
+    "decisivo": 49,
+    "provocador": 54,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 73,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 75,
+    "participacaoJogo": 72,
+    "intensidade": 70,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/juan-portilla/profil/spieler/585747",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/juan-portilla.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

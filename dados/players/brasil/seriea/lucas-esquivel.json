@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "lucas-esquivel",
+    "nome": "Lucas Esquivel",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucas-esquivel.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "14/10/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "37"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 73,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 73,
+    "drible": 73,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 75,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 73,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 73
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 71,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 72,
+    "pressao": 71,
+    "cobertura": 69,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 68,
+    "decisao": 72,
+    "visaoJogo": 68,
+    "compostura": 72,
+    "frieza": 72,
+    "concentracao": 70,
+    "regularidade": 66,
+    "ansiedade": 27,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 68,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 70,
+    "profissionalismo": 64,
+    "lealdade": 50,
+    "catimba": 52,
+    "violencia": 20,
+    "disciplina": 69,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 51,
+    "momentoHeroico": 48,
+    "supersub": 49,
+    "decisivo": 48,
+    "provocador": 49,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 69,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 74,
+    "participacaoJogo": 71,
+    "intensidade": 72,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucas-esquivel/profil/spieler/829969",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/lucas-esquivel.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

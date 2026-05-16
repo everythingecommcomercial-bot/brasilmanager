@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "lucas-ramon",
+    "nome": "Lucas Ramon",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucas-ramon.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "07/03/1994",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "19"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€750k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 68,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 68,
+    "drible": 67,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 70,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 67,
+    "interceptacao": 67,
+    "posicionamentoDefensivo": 69,
+    "pressao": 67,
+    "cobertura": 64,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 62,
+    "decisao": 64,
+    "visaoJogo": 62,
+    "compostura": 64,
+    "frieza": 62,
+    "concentracao": 63,
+    "regularidade": 61,
+    "ansiedade": 34,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 64,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 59,
+    "profissionalismo": 63,
+    "lealdade": 49,
+    "catimba": 54,
+    "violencia": 47,
+    "disciplina": 72,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 47,
+    "momentoHeroico": 45,
+    "supersub": 62,
+    "decisivo": 44,
+    "provocador": 54,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 67,
+    "participacaoJogo": 67,
+    "intensidade": 68,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucas-ramon/profil/spieler/378189",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/lucas-ramon.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

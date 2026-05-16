@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "julian-millan",
+    "nome": "Julián Millán",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/julian-millan.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "27/03/1998",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "29"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 48,
+    "chuteLongo": 65,
+    "passeCurto": 68,
+    "passeLongo": 71,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 79,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 79,
+    "impulsao": 72,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 72,
+    "desarme": 72,
+    "interceptacao": 78,
+    "posicionamentoDefensivo": 72,
+    "pressao": 77,
+    "cobertura": 76,
+    "empenhoTatico": 78
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 68,
+    "decisao": 68,
+    "visaoJogo": 68,
+    "compostura": 72,
+    "frieza": 72,
+    "concentracao": 73,
+    "regularidade": 67,
+    "ansiedade": 24,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 69,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 62,
+    "profissionalismo": 75,
+    "lealdade": 61,
+    "catimba": 50,
+    "violencia": 39,
+    "disciplina": 69,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 43,
+    "momentoHeroico": 41,
+    "supersub": 47,
+    "decisivo": 52,
+    "provocador": 37,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 72,
+    "participacaoJogo": 70,
+    "intensidade": 72,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/julian-millan/profil/spieler/495689",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/julian-millan.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

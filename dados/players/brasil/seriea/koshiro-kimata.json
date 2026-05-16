@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "koshiro-kimata",
+    "nome": "Koshiro Kimata",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/koshiro-kimata.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "11/03/2010",
+    "idade": 16,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "21"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 28,
+    "passeCurto": 47,
+    "passeLongo": 44,
+    "visao": 25,
+    "cruzamento": 24,
+    "drible": 25,
+    "controleBola": 20,
+    "dominio": 22,
+    "curva": 23,
+    "cobrancaFalta": 30,
+    "penalti": 24,
+    "cabecamento": 22,
+    "voleio": 26,
+    "acrobacia": 31
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 58,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 55,
+    "impulsao": 60,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 16,
+    "desarme": 21,
+    "interceptacao": 24,
+    "posicionamentoDefensivo": 16,
+    "pressao": 25,
+    "cobertura": 25,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 56,
+    "frieza": 60,
+    "concentracao": 57,
+    "regularidade": 53,
+    "ansiedade": 38,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 52,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 80,
+    "profissionalismo": 68,
+    "lealdade": 63,
+    "catimba": 64,
+    "violencia": 29,
+    "disciplina": 72,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 53,
+    "momentoHeroico": 46,
+    "supersub": 50,
+    "decisivo": 48,
+    "provocador": 47,
+    "batedorPenaltis": 24,
+    "cobradorFalta": 30,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 65,
+    "defesa": 64,
+    "posicionamentoGol": 57,
+    "saidaGol": 61,
+    "jogoPes": 52,
+    "reposicao": 55,
+    "pegadorPenaltis": 56
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 17,
+    "tendenciaChute": 20,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 39,
+    "recomposicao": 34,
+    "participacaoJogo": 56,
+    "intensidade": 40,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/koshiro-kimata/profil/spieler/1541597",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/koshiro-kimata.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

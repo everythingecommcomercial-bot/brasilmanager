@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "kayke",
+    "nome": "Kayke",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kayke.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "28/04/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "31"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 74,
+    "reputacao": 68,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 66,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 70,
+    "drible": 75,
+    "controleBola": 69,
+    "dominio": 62,
+    "curva": 71,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 76,
+    "explosao": 71,
+    "agilidade": 73,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 55,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 55,
+    "pressao": 58,
+    "cobertura": 53,
+    "empenhoTatico": 57
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 69,
+    "frieza": 64,
+    "concentracao": 69,
+    "regularidade": 63,
+    "ansiedade": 37,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 64,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 69,
+    "profissionalismo": 62,
+    "lealdade": 64,
+    "catimba": 47,
+    "violencia": 20,
+    "disciplina": 67,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 52,
+    "momentoHeroico": 51,
+    "supersub": 47,
+    "decisivo": 52,
+    "provocador": 39,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 75,
+    "tendenciaChute": 66,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 60,
+    "participacaoJogo": 66,
+    "intensidade": 61,
+    "riscoCriativo": 67
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kayke/profil/spieler/1082700",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/kayke.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

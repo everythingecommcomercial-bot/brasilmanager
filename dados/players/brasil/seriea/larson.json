@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "larson",
+    "nome": "Larson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/larson.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/07/2005",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "48"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 70,
+    "reputacao": 61,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 55,
+    "chuteLongo": 55,
+    "passeCurto": 67,
+    "passeLongo": 60,
+    "visao": 65,
+    "cruzamento": 55,
+    "drible": 55,
+    "controleBola": 66,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 55,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 66,
+    "forca": 57,
+    "impulsao": 57,
+    "stamina": 60
+  },
+  "defensivos": {
+    "marcacao": 53,
+    "desarme": 53,
+    "interceptacao": 53,
+    "posicionamentoDefensivo": 53,
+    "pressao": 59,
+    "cobertura": 53,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 58,
+    "decisao": 62,
+    "visaoJogo": 58,
+    "compostura": 58,
+    "frieza": 58,
+    "concentracao": 64,
+    "regularidade": 59,
+    "ansiedade": 44,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 55,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 77,
+    "profissionalismo": 73,
+    "lealdade": 65,
+    "catimba": 56,
+    "violencia": 22,
+    "disciplina": 73,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 48,
+    "momentoHeroico": 41,
+    "supersub": 55,
+    "decisivo": 47,
+    "provocador": 46,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 47,
+    "tendenciaChute": 47,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 60,
+    "participacaoJogo": 62,
+    "intensidade": 62,
+    "riscoCriativo": 59
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/larson/profil/spieler/1116605",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/larson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

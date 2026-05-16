@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "jp-chermont",
+    "nome": "JP Chermont",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/jp-chermont.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "18/01/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "44"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 70,
+    "potencial": 79,
+    "reputacao": 70,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 64,
+    "chuteLongo": 64,
+    "passeCurto": 67,
+    "passeLongo": 64,
+    "visao": 64,
+    "cruzamento": 72,
+    "drible": 67,
+    "controleBola": 64,
+    "dominio": 64,
+    "curva": 64,
+    "cobrancaFalta": 64,
+    "penalti": 64,
+    "cabecamento": 64,
+    "voleio": 64,
+    "acrobacia": 64
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 72,
+    "explosao": 66,
+    "agilidade": 66,
+    "equilibrio": 66,
+    "resistencia": 77,
+    "forca": 66,
+    "impulsao": 66,
+    "stamina": 73
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 72,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 74,
+    "pressao": 69,
+    "cobertura": 69,
+    "empenhoTatico": 68
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 67,
+    "decisao": 70,
+    "visaoJogo": 67,
+    "compostura": 72,
+    "frieza": 72,
+    "concentracao": 70,
+    "regularidade": 69,
+    "ansiedade": 24,
+    "agressividade": 67,
+    "coragem": 67,
+    "lideranca": 67,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 82,
+    "profissionalismo": 63,
+    "lealdade": 63,
+    "catimba": 54,
+    "violencia": 46,
+    "disciplina": 69,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 42,
+    "momentoHeroico": 51,
+    "supersub": 60,
+    "decisivo": 53,
+    "provocador": 46,
+    "batedorPenaltis": 64,
+    "cobradorFalta": 64,
+    "especialistaEscanteio": 67
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 50,
+    "confianca": 55,
+    "formaAtual": 55,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 56,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 69,
+    "movimentacaoOfensiva": 67,
+    "recomposicao": 70,
+    "participacaoJogo": 73,
+    "intensidade": 73,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/jp-chermont/profil/spieler/1089955",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/jp-chermont.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "kevin-viveros",
+    "nome": "Kevin Viveros",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kevin-viveros.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "26/04/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "9"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 75,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 74,
+    "cabecamento": 72,
+    "voleio": 71,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 68,
+    "aceleracao": 67,
+    "explosao": 72,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 75,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 56,
+    "desarme": 55,
+    "interceptacao": 52,
+    "posicionamentoDefensivo": 53,
+    "pressao": 56,
+    "cobertura": 54,
+    "empenhoTatico": 54
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 68,
+    "decisao": 74,
+    "visaoJogo": 68,
+    "compostura": 71,
+    "frieza": 69,
+    "concentracao": 69,
+    "regularidade": 69,
+    "ansiedade": 32,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 64,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 58,
+    "profissionalismo": 62,
+    "lealdade": 49,
+    "catimba": 62,
+    "violencia": 32,
+    "disciplina": 75,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 52,
+    "momentoHeroico": 44,
+    "supersub": 57,
+    "decisivo": 51,
+    "provocador": 37,
+    "batedorPenaltis": 74,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 60,
+    "participacaoJogo": 69,
+    "intensidade": 62,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kevin-viveros/profil/spieler/580461",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/kevin-viveros.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

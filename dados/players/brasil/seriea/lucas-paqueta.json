@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "lucas-paqueta",
+    "nome": "Lucas Paquetá",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucas-paqueta.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "brasil",
+      "portugal"
+    ],
+    "dataNascimento": "27/08/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "20"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€35.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 79,
+    "potencial": 80,
+    "reputacao": 84,
+    "potencialMidia": 80
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 73,
+    "passeCurto": 81,
+    "passeLongo": 73,
+    "visao": 86,
+    "cruzamento": 73,
+    "drible": 86,
+    "controleBola": 87,
+    "dominio": 73,
+    "curva": 73,
+    "cobrancaFalta": 79,
+    "penalti": 73,
+    "cabecamento": 73,
+    "voleio": 73,
+    "acrobacia": 73
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 75,
+    "explosao": 75,
+    "agilidade": 75,
+    "equilibrio": 75,
+    "resistencia": 75,
+    "forca": 75,
+    "impulsao": 75,
+    "stamina": 75
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 68,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 64,
+    "pressao": 64,
+    "cobertura": 69,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 81,
+    "criatividade": 88,
+    "decisao": 82,
+    "visaoJogo": 84,
+    "compostura": 80,
+    "frieza": 78,
+    "concentracao": 77,
+    "regularidade": 79,
+    "ansiedade": 21,
+    "agressividade": 76,
+    "coragem": 76,
+    "lideranca": 71,
+    "trabalhoEquipe": 78
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 57,
+    "profissionalismo": 73,
+    "lealdade": 49,
+    "catimba": 48,
+    "violencia": 26,
+    "disciplina": 66,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 62,
+    "jogoGrande": 69,
+    "momentoHeroico": 66,
+    "supersub": 55,
+    "decisivo": 64,
+    "provocador": 46,
+    "batedorPenaltis": 73,
+    "cobradorFalta": 79,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 59,
+    "confianca": 64,
+    "formaAtual": 64,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 80,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 86,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 84,
+    "tendenciaMarcacao": 65,
+    "movimentacaoOfensiva": 84,
+    "recomposicao": 72,
+    "participacaoJogo": 77,
+    "intensidade": 70,
+    "riscoCriativo": 87
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucas-paqueta/profil/spieler/444523",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/portugal.json"
+    ],
+    "foto": "dados/images/players/brasil/lucas-paqueta.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

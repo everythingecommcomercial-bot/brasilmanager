@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "lucas-moura",
+    "nome": "Lucas Moura",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucas-moura.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "13/08/1992",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 78,
+    "potencial": 78,
+    "reputacao": 78,
+    "potencialMidia": 78
+  },
+  "tecnicos": {
+    "finalizacao": 81,
+    "chuteLongo": 72,
+    "passeCurto": 72,
+    "passeLongo": 72,
+    "visao": 72,
+    "cruzamento": 78,
+    "drible": 86,
+    "controleBola": 80,
+    "dominio": 72,
+    "curva": 79,
+    "cobrancaFalta": 72,
+    "penalti": 72,
+    "cabecamento": 72,
+    "voleio": 72,
+    "acrobacia": 72
+  },
+  "fisicos": {
+    "velocidade": 83,
+    "aceleracao": 87,
+    "explosao": 80,
+    "agilidade": 81,
+    "equilibrio": 74,
+    "resistencia": 74,
+    "forca": 74,
+    "impulsao": 74,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 65,
+    "desarme": 66,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 69,
+    "pressao": 66,
+    "cobertura": 67,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 79,
+    "criatividade": 75,
+    "decisao": 77,
+    "visaoJogo": 75,
+    "compostura": 81,
+    "frieza": 80,
+    "concentracao": 80,
+    "regularidade": 75,
+    "ansiedade": 27,
+    "agressividade": 75,
+    "coragem": 75,
+    "lideranca": 78,
+    "trabalhoEquipe": 81
+  },
+  "personalidade": {
+    "ego": 69,
+    "ambicao": 62,
+    "profissionalismo": 69,
+    "lealdade": 55,
+    "catimba": 50,
+    "violencia": 21,
+    "disciplina": 60,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 61,
+    "jogoGrande": 66,
+    "momentoHeroico": 50,
+    "supersub": 49,
+    "decisivo": 68,
+    "provocador": 39,
+    "batedorPenaltis": 72,
+    "cobradorFalta": 72,
+    "especialistaEscanteio": 78
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 58,
+    "confianca": 63,
+    "formaAtual": 63,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 78,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 86,
+    "tendenciaChute": 81,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 78,
+    "recomposicao": 68,
+    "participacaoJogo": 78,
+    "intensidade": 70,
+    "riscoCriativo": 78
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucas-moura/profil/spieler/77100",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/lucas-moura.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

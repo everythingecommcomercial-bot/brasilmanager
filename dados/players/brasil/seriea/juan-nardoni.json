@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "juan-nardoni",
+    "nome": "Juan Nardoni",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/juan-nardoni.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "14/07/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "5"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€10.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 81,
+    "reputacao": 80,
+    "potencialMidia": 86
+  },
+  "tecnicos": {
+    "finalizacao": 69,
+    "chuteLongo": 69,
+    "passeCurto": 77,
+    "passeLongo": 78,
+    "visao": 74,
+    "cruzamento": 69,
+    "drible": 69,
+    "controleBola": 79,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 69,
+    "penalti": 69,
+    "cabecamento": 69,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 71,
+    "explosao": 71,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 76,
+    "forca": 71,
+    "impulsao": 71,
+    "stamina": 79
+  },
+  "defensivos": {
+    "marcacao": 67,
+    "desarme": 67,
+    "interceptacao": 67,
+    "posicionamentoDefensivo": 67,
+    "pressao": 76,
+    "cobertura": 67,
+    "empenhoTatico": 76
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 72,
+    "decisao": 74,
+    "visaoJogo": 72,
+    "compostura": 76,
+    "frieza": 72,
+    "concentracao": 77,
+    "regularidade": 73,
+    "ansiedade": 19,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 70,
+    "trabalhoEquipe": 77
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 77,
+    "profissionalismo": 64,
+    "lealdade": 59,
+    "catimba": 63,
+    "violencia": 22,
+    "disciplina": 60,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 47,
+    "momentoHeroico": 49,
+    "supersub": 47,
+    "decisivo": 48,
+    "provocador": 50,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 81,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 61,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 76,
+    "tendenciaMarcacao": 72,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 78,
+    "participacaoJogo": 76,
+    "intensidade": 76,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/juan-nardoni/profil/spieler/689211",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/juan-nardoni.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

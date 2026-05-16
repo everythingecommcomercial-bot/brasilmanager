@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "kakeru-nishida",
+    "nome": "Kakeru Nishida",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kakeru-nishida.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "04/07/2008",
+    "idade": 17,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "13"
+  },
+  "posicao": {
+    "principal": "Striker",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 65,
+    "passeLongo": 57,
+    "visao": 57,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 58,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 60,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 50,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 50,
+    "pressao": 58,
+    "cobertura": 50,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 56,
+    "concentracao": 61,
+    "regularidade": 57,
+    "ansiedade": 48,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 52,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 79,
+    "profissionalismo": 72,
+    "lealdade": 59,
+    "catimba": 52,
+    "violencia": 46,
+    "disciplina": 75,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 46,
+    "momentoHeroico": 48,
+    "supersub": 58,
+    "decisivo": 47,
+    "provocador": 46,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 61,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 58,
+    "recomposicao": 62,
+    "participacaoJogo": 59,
+    "intensidade": 59,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kakeru-nishida/profil/spieler/1401709",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/kakeru-nishida.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

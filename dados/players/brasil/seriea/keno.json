@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "keno",
+    "nome": "Keno",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/keno.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/09/1989",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "20"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 58,
+    "chuteLongo": 53,
+    "passeCurto": 53,
+    "passeLongo": 53,
+    "visao": 53,
+    "cruzamento": 60,
+    "drible": 62,
+    "controleBola": 63,
+    "dominio": 53,
+    "curva": 62,
+    "cobrancaFalta": 53,
+    "penalti": 53,
+    "cabecamento": 53,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 65,
+    "explosao": 65,
+    "agilidade": 64,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 55,
+    "impulsao": 55,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 48,
+    "desarme": 44,
+    "interceptacao": 46,
+    "posicionamentoDefensivo": 50,
+    "pressao": 46,
+    "cobertura": 47,
+    "empenhoTatico": 50
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 56,
+    "decisao": 59,
+    "visaoJogo": 56,
+    "compostura": 57,
+    "frieza": 55,
+    "concentracao": 61,
+    "regularidade": 54,
+    "ansiedade": 40,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 62,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 63,
+    "profissionalismo": 66,
+    "lealdade": 66,
+    "catimba": 43,
+    "violencia": 22,
+    "disciplina": 65,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 47,
+    "momentoHeroico": 48,
+    "supersub": 55,
+    "decisivo": 48,
+    "provocador": 33,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 61
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 7,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 62,
+    "tendenciaChute": 58,
+    "tendenciaPasse": 53,
+    "tendenciaMarcacao": 47,
+    "movimentacaoOfensiva": 61,
+    "recomposicao": 52,
+    "participacaoJogo": 59,
+    "intensidade": 50,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/keno/profil/spieler/346065",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/keno.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

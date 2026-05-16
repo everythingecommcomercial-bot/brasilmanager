@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "kaue",
+    "nome": "Kauê",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kaue.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "08/02/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "51"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 29,
+    "chuteLongo": 31,
+    "passeCurto": 47,
+    "passeLongo": 45,
+    "visao": 23,
+    "cruzamento": 21,
+    "drible": 21,
+    "controleBola": 28,
+    "dominio": 27,
+    "curva": 24,
+    "cobrancaFalta": 24,
+    "penalti": 31,
+    "cabecamento": 31,
+    "voleio": 22,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 60,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 56,
+    "impulsao": 57,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 24,
+    "interceptacao": 21,
+    "posicionamentoDefensivo": 23,
+    "pressao": 15,
+    "cobertura": 17,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 57,
+    "visaoJogo": 55,
+    "compostura": 59,
+    "frieza": 55,
+    "concentracao": 61,
+    "regularidade": 53,
+    "ansiedade": 46,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 71,
+    "profissionalismo": 71,
+    "lealdade": 62,
+    "catimba": 59,
+    "violencia": 20,
+    "disciplina": 72,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 54,
+    "momentoHeroico": 45,
+    "supersub": 55,
+    "decisivo": 46,
+    "provocador": 58,
+    "batedorPenaltis": 31,
+    "cobradorFalta": 24,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 65,
+    "defesa": 62,
+    "posicionamentoGol": 59,
+    "saidaGol": 60,
+    "jogoPes": 52,
+    "reposicao": 57,
+    "pegadorPenaltis": 58
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 13,
+    "tendenciaChute": 23,
+    "tendenciaPasse": 35,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 34,
+    "participacaoJogo": 56,
+    "intensidade": 34,
+    "riscoCriativo": 33
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kaue/profil/spieler/1005653",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/kaue.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

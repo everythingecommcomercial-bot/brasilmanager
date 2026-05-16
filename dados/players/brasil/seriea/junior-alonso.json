@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "junior-alonso",
+    "nome": "Júnior Alonso",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/junior-alonso.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "paraguai"
+    ],
+    "dataNascimento": "09/02/1993",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "6"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 44,
+    "chuteLongo": 62,
+    "passeCurto": 64,
+    "passeLongo": 68,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 72,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 72,
+    "impulsao": 71,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 71,
+    "desarme": 75,
+    "interceptacao": 69,
+    "posicionamentoDefensivo": 69,
+    "pressao": 73,
+    "cobertura": 74,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 65,
+    "decisao": 66,
+    "visaoJogo": 65,
+    "compostura": 67,
+    "frieza": 64,
+    "concentracao": 71,
+    "regularidade": 64,
+    "ansiedade": 35,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 67,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 57,
+    "profissionalismo": 68,
+    "lealdade": 65,
+    "catimba": 56,
+    "violencia": 41,
+    "disciplina": 72,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 53,
+    "momentoHeroico": 45,
+    "supersub": 57,
+    "decisivo": 51,
+    "provocador": 49,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 63,
+    "tendenciaMarcacao": 72,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 70,
+    "participacaoJogo": 66,
+    "intensidade": 68,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/junior-alonso/profil/spieler/273000",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/paraguai.json"
+    ],
+    "foto": "dados/images/players/brasil/junior-alonso.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

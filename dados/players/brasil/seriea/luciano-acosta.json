@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "luciano-acosta",
+    "nome": "Luciano Acosta",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/luciano-acosta.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "31/05/1994",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "32"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 73,
+    "reputacao": 73,
+    "potencialMidia": 73
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 67,
+    "passeCurto": 80,
+    "passeLongo": 67,
+    "visao": 79,
+    "cruzamento": 67,
+    "drible": 74,
+    "controleBola": 77,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 71,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 62,
+    "interceptacao": 61,
+    "posicionamentoDefensivo": 59,
+    "pressao": 63,
+    "cobertura": 63,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 76,
+    "decisao": 76,
+    "visaoJogo": 79,
+    "compostura": 70,
+    "frieza": 71,
+    "concentracao": 76,
+    "regularidade": 71,
+    "ansiedade": 28,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 75,
+    "trabalhoEquipe": 76
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 63,
+    "profissionalismo": 60,
+    "lealdade": 64,
+    "catimba": 66,
+    "violencia": 42,
+    "disciplina": 67,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 46,
+    "momentoHeroico": 45,
+    "supersub": 49,
+    "decisivo": 48,
+    "provocador": 43,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 71,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 71,
+    "tendenciaPasse": 80,
+    "tendenciaMarcacao": 61,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 66,
+    "participacaoJogo": 73,
+    "intensidade": 66,
+    "riscoCriativo": 76
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/luciano-acosta/profil/spieler/315169",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/luciano-acosta.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

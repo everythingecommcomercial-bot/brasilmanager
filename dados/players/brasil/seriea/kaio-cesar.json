@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "kaio-cesar",
+    "nome": "Kaio César",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kaio-cesar.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "15/02/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "37"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 77,
+    "reputacao": 71,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 72,
+    "drible": 74,
+    "controleBola": 71,
+    "dominio": 65,
+    "curva": 74,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 78,
+    "aceleracao": 78,
+    "explosao": 72,
+    "agilidade": 75,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 56,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 59,
+    "pressao": 62,
+    "cobertura": 58,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 68,
+    "decisao": 70,
+    "visaoJogo": 68,
+    "compostura": 72,
+    "frieza": 67,
+    "concentracao": 71,
+    "regularidade": 67,
+    "ansiedade": 35,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 67,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 74,
+    "profissionalismo": 60,
+    "lealdade": 68,
+    "catimba": 47,
+    "violencia": 27,
+    "disciplina": 71,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 44,
+    "momentoHeroico": 39,
+    "supersub": 43,
+    "decisivo": 50,
+    "provocador": 38,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 64,
+    "participacaoJogo": 70,
+    "intensidade": 64,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kaio-cesar/profil/spieler/766258",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/kaio-cesar.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "lautaro-diaz",
+    "nome": "Lautaro Díaz",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lautaro-diaz.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "21/05/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "19"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 70,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 72,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 73,
+    "cabecamento": 70,
+    "voleio": 69,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 65,
+    "aceleracao": 64,
+    "explosao": 69,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 66,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 51,
+    "interceptacao": 47,
+    "posicionamentoDefensivo": 53,
+    "pressao": 50,
+    "cobertura": 47,
+    "empenhoTatico": 48
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 68,
+    "visaoJogo": 65,
+    "compostura": 67,
+    "frieza": 70,
+    "concentracao": 71,
+    "regularidade": 64,
+    "ansiedade": 30,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 61,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 60,
+    "profissionalismo": 61,
+    "lealdade": 57,
+    "catimba": 46,
+    "violencia": 40,
+    "disciplina": 66,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 47,
+    "momentoHeroico": 46,
+    "supersub": 47,
+    "decisivo": 47,
+    "provocador": 53,
+    "batedorPenaltis": 73,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 70,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 50,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 56,
+    "participacaoJogo": 66,
+    "intensidade": 57,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lautaro-diaz/profil/spieler/720294",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/lautaro-diaz.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

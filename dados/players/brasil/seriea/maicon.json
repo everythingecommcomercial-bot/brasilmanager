@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "maicon",
+    "nome": "Maicon",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/maicon.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil",
+      "portugal"
+    ],
+    "dataNascimento": "14/09/1988",
+    "idade": 37,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "3"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€100k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 44,
+    "chuteLongo": 53,
+    "passeCurto": 60,
+    "passeLongo": 56,
+    "visao": 53,
+    "cruzamento": 53,
+    "drible": 53,
+    "controleBola": 53,
+    "dominio": 53,
+    "curva": 53,
+    "cobrancaFalta": 53,
+    "penalti": 53,
+    "cabecamento": 67,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 55,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 64,
+    "impulsao": 60,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 63,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 64,
+    "pressao": 66,
+    "cobertura": 61,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 56,
+    "decisao": 61,
+    "visaoJogo": 56,
+    "compostura": 61,
+    "frieza": 59,
+    "concentracao": 59,
+    "regularidade": 54,
+    "ansiedade": 37,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 56,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 61,
+    "profissionalismo": 64,
+    "lealdade": 55,
+    "catimba": 49,
+    "violencia": 37,
+    "disciplina": 62,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 42,
+    "momentoHeroico": 42,
+    "supersub": 46,
+    "decisivo": 50,
+    "provocador": 45,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 53
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 8,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 45,
+    "tendenciaChute": 45,
+    "tendenciaPasse": 56,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 57,
+    "recomposicao": 59,
+    "participacaoJogo": 59,
+    "intensidade": 60,
+    "riscoCriativo": 54
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/maicon/profil/spieler/84695",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/portugal.json"
+    ],
+    "foto": "dados/images/players/brasil/maicon.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

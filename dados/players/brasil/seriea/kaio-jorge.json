@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "kaio-jorge",
+    "nome": "Kaio Jorge",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kaio-jorge.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "24/01/2002",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "19"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€26.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 78,
+    "potencial": 81,
+    "reputacao": 83,
+    "potencialMidia": 81
+  },
+  "tecnicos": {
+    "finalizacao": 86,
+    "chuteLongo": 72,
+    "passeCurto": 72,
+    "passeLongo": 72,
+    "visao": 72,
+    "cruzamento": 72,
+    "drible": 72,
+    "controleBola": 81,
+    "dominio": 72,
+    "curva": 72,
+    "cobrancaFalta": 72,
+    "penalti": 83,
+    "cabecamento": 77,
+    "voleio": 78,
+    "acrobacia": 72
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 74,
+    "explosao": 79,
+    "agilidade": 74,
+    "equilibrio": 74,
+    "resistencia": 74,
+    "forca": 79,
+    "impulsao": 74,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 63,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 57,
+    "pressao": 62,
+    "cobertura": 62,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 81,
+    "criatividade": 75,
+    "decisao": 76,
+    "visaoJogo": 75,
+    "compostura": 80,
+    "frieza": 76,
+    "concentracao": 77,
+    "regularidade": 74,
+    "ansiedade": 22,
+    "agressividade": 75,
+    "coragem": 75,
+    "lideranca": 75,
+    "trabalhoEquipe": 77
+  },
+  "personalidade": {
+    "ego": 64,
+    "ambicao": 66,
+    "profissionalismo": 63,
+    "lealdade": 63,
+    "catimba": 48,
+    "violencia": 23,
+    "disciplina": 60,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 63,
+    "jogoGrande": 64,
+    "momentoHeroico": 50,
+    "supersub": 60,
+    "decisivo": 69,
+    "provocador": 41,
+    "batedorPenaltis": 83,
+    "cobradorFalta": 72,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 58,
+    "confianca": 63,
+    "formaAtual": 63,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 81,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 86,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 78,
+    "recomposicao": 66,
+    "participacaoJogo": 76,
+    "intensidade": 68,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kaio-jorge/profil/spieler/620477",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/kaio-jorge.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "lucas-barbosa",
+    "nome": "Lucas Barbosa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucas-barbosa.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "22/02/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "21"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 76,
+    "reputacao": 73,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 78,
+    "drible": 79,
+    "controleBola": 73,
+    "dominio": 67,
+    "curva": 76,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 82,
+    "aceleracao": 79,
+    "explosao": 78,
+    "agilidade": 79,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 62,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 60,
+    "pressao": 63,
+    "cobertura": 63,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 70,
+    "decisao": 75,
+    "visaoJogo": 70,
+    "compostura": 75,
+    "frieza": 72,
+    "concentracao": 74,
+    "regularidade": 68,
+    "ansiedade": 33,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 65,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 62,
+    "profissionalismo": 63,
+    "lealdade": 49,
+    "catimba": 67,
+    "violencia": 20,
+    "disciplina": 76,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 51,
+    "momentoHeroico": 44,
+    "supersub": 52,
+    "decisivo": 53,
+    "provocador": 49,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 79,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 64,
+    "participacaoJogo": 71,
+    "intensidade": 66,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucas-barbosa/profil/spieler/816144",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/lucas-barbosa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "kauan",
+    "nome": "Kauan",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kauan.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "27/04/2003",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 22,
+    "chuteLongo": 29,
+    "passeCurto": 46,
+    "passeLongo": 46,
+    "visao": 30,
+    "cruzamento": 20,
+    "drible": 28,
+    "controleBola": 25,
+    "dominio": 26,
+    "curva": 28,
+    "cobrancaFalta": 22,
+    "penalti": 24,
+    "cabecamento": 30,
+    "voleio": 29,
+    "acrobacia": 22
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 60,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 55,
+    "impulsao": 58,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 23,
+    "desarme": 23,
+    "interceptacao": 19,
+    "posicionamentoDefensivo": 16,
+    "pressao": 24,
+    "cobertura": 21,
+    "empenhoTatico": 20
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 60,
+    "concentracao": 55,
+    "regularidade": 54,
+    "ansiedade": 44,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 74,
+    "profissionalismo": 70,
+    "lealdade": 66,
+    "catimba": 61,
+    "violencia": 34,
+    "disciplina": 75,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 46,
+    "momentoHeroico": 50,
+    "supersub": 50,
+    "decisivo": 51,
+    "provocador": 53,
+    "batedorPenaltis": 24,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 64,
+    "defesa": 64,
+    "posicionamentoGol": 62,
+    "saidaGol": 58,
+    "jogoPes": 51,
+    "reposicao": 56,
+    "pegadorPenaltis": 56
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 20,
+    "tendenciaChute": 21,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 24,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 37,
+    "participacaoJogo": 57,
+    "intensidade": 39,
+    "riscoCriativo": 38
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kauan/profil/spieler/1094530",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/kauan.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

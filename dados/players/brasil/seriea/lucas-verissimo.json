@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "lucas-verissimo",
+    "nome": "Lucas Veríssimo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucas-verissimo.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "02/07/1995",
+    "idade": 30,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "4"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 73,
+    "reputacao": 73,
+    "potencialMidia": 73
+  },
+  "tecnicos": {
+    "finalizacao": 42,
+    "chuteLongo": 67,
+    "passeCurto": 73,
+    "passeLongo": 68,
+    "visao": 67,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 80,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 81,
+    "impulsao": 77,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 80,
+    "desarme": 77,
+    "interceptacao": 80,
+    "posicionamentoDefensivo": 76,
+    "pressao": 75,
+    "cobertura": 80,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 70,
+    "decisao": 74,
+    "visaoJogo": 70,
+    "compostura": 70,
+    "frieza": 70,
+    "concentracao": 72,
+    "regularidade": 71,
+    "ansiedade": 27,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 74,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 64,
+    "profissionalismo": 71,
+    "lealdade": 52,
+    "catimba": 50,
+    "violencia": 29,
+    "disciplina": 67,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 44,
+    "momentoHeroico": 49,
+    "supersub": 56,
+    "decisivo": 49,
+    "provocador": 47,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 1,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 78,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 72,
+    "participacaoJogo": 71,
+    "intensidade": 72,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucas-verissimo/profil/spieler/411662",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/lucas-verissimo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

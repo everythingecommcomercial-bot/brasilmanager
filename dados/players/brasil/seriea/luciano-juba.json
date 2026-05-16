@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "luciano-juba",
+    "nome": "Luciano Juba",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/luciano-juba.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "29/08/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "46"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€11.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 76,
+    "reputacao": 80,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 69,
+    "chuteLongo": 69,
+    "passeCurto": 76,
+    "passeLongo": 69,
+    "visao": 69,
+    "cruzamento": 80,
+    "drible": 75,
+    "controleBola": 69,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 69,
+    "penalti": 69,
+    "cabecamento": 69,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 83,
+    "aceleracao": 80,
+    "explosao": 71,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 79,
+    "forca": 71,
+    "impulsao": 71,
+    "stamina": 76
+  },
+  "defensivos": {
+    "marcacao": 74,
+    "desarme": 77,
+    "interceptacao": 74,
+    "posicionamentoDefensivo": 76,
+    "pressao": 79,
+    "cobertura": 74,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 72,
+    "decisao": 74,
+    "visaoJogo": 72,
+    "compostura": 74,
+    "frieza": 71,
+    "concentracao": 75,
+    "regularidade": 76,
+    "ansiedade": 21,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 68,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 62,
+    "profissionalismo": 62,
+    "lealdade": 63,
+    "catimba": 62,
+    "violencia": 46,
+    "disciplina": 75,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 50,
+    "momentoHeroico": 48,
+    "supersub": 56,
+    "decisivo": 46,
+    "provocador": 38,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 76
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 67,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 74,
+    "participacaoJogo": 75,
+    "intensidade": 79,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/luciano-juba/profil/spieler/676035",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/luciano-juba.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

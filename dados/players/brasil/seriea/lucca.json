@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "lucca",
+    "nome": "Lucca",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucca.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "14/06/2007",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "45"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 70,
+    "potencial": 82,
+    "reputacao": 70,
+    "potencialMidia": 87
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 64,
+    "passeCurto": 64,
+    "passeLongo": 64,
+    "visao": 64,
+    "cruzamento": 70,
+    "drible": 74,
+    "controleBola": 76,
+    "dominio": 64,
+    "curva": 71,
+    "cobrancaFalta": 64,
+    "penalti": 64,
+    "cabecamento": 64,
+    "voleio": 64,
+    "acrobacia": 64
+  },
+  "fisicos": {
+    "velocidade": 78,
+    "aceleracao": 73,
+    "explosao": 74,
+    "agilidade": 73,
+    "equilibrio": 66,
+    "resistencia": 66,
+    "forca": 66,
+    "impulsao": 66,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 58,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 57,
+    "pressao": 59,
+    "cobertura": 58,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 67,
+    "decisao": 70,
+    "visaoJogo": 67,
+    "compostura": 71,
+    "frieza": 67,
+    "concentracao": 70,
+    "regularidade": 68,
+    "ansiedade": 32,
+    "agressividade": 67,
+    "coragem": 67,
+    "lideranca": 68,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 86,
+    "profissionalismo": 69,
+    "lealdade": 59,
+    "catimba": 54,
+    "violencia": 48,
+    "disciplina": 67,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 50,
+    "momentoHeroico": 47,
+    "supersub": 42,
+    "decisivo": 51,
+    "provocador": 57,
+    "batedorPenaltis": 64,
+    "cobradorFalta": 64,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 50,
+    "confianca": 55,
+    "formaAtual": 55,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 82,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 67,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 59,
+    "movimentacaoOfensiva": 73,
+    "recomposicao": 61,
+    "participacaoJogo": 69,
+    "intensidade": 62,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucca/profil/spieler/1269378",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/lucca.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "juninho-capixaba",
+    "nome": "Juninho Capixaba",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/juninho-capixaba.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "06/07/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "29"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 75,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 79,
+    "drible": 73,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 79,
+    "aceleracao": 75,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 79,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 74,
+    "desarme": 77,
+    "interceptacao": 74,
+    "posicionamentoDefensivo": 74,
+    "pressao": 74,
+    "cobertura": 73,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 70,
+    "decisao": 75,
+    "visaoJogo": 70,
+    "compostura": 75,
+    "frieza": 74,
+    "concentracao": 72,
+    "regularidade": 70,
+    "ansiedade": 21,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 65,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 62,
+    "profissionalismo": 64,
+    "lealdade": 62,
+    "catimba": 55,
+    "violencia": 36,
+    "disciplina": 64,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 53,
+    "momentoHeroico": 45,
+    "supersub": 46,
+    "decisivo": 55,
+    "provocador": 55,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 72
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 71,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 71,
+    "recomposicao": 74,
+    "participacaoJogo": 74,
+    "intensidade": 76,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/juninho-capixaba/profil/spieler/406676",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/juninho-capixaba.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

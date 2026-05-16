@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "leo-pereira",
+    "nome": "Léo Pereira",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/leo-pereira.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "31/01/1996",
+    "idade": 30,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "4"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€10.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 75,
+    "reputacao": 80,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 47,
+    "chuteLongo": 69,
+    "passeCurto": 75,
+    "passeLongo": 75,
+    "visao": 69,
+    "cruzamento": 69,
+    "drible": 69,
+    "controleBola": 69,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 69,
+    "penalti": 69,
+    "cabecamento": 81,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 71,
+    "explosao": 71,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 71,
+    "forca": 82,
+    "impulsao": 76,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 82,
+    "desarme": 80,
+    "interceptacao": 78,
+    "posicionamentoDefensivo": 80,
+    "pressao": 80,
+    "cobertura": 77,
+    "empenhoTatico": 80
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 72,
+    "decisao": 75,
+    "visaoJogo": 72,
+    "compostura": 75,
+    "frieza": 74,
+    "concentracao": 74,
+    "regularidade": 71,
+    "ansiedade": 25,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 76,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 61,
+    "profissionalismo": 76,
+    "lealdade": 58,
+    "catimba": 54,
+    "violencia": 40,
+    "disciplina": 63,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 55,
+    "momentoHeroico": 42,
+    "supersub": 57,
+    "decisivo": 57,
+    "provocador": 47,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 67
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 75,
+    "decadenciaFisica": 1,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 61,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 81,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 76,
+    "participacaoJogo": 73,
+    "intensidade": 76,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/leo-pereira/profil/spieler/288431",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/leo-pereira.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

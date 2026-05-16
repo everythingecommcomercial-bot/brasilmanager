@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "juan-pablo-freytes",
+    "nome": "Juan Pablo Freytes",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/juan-pablo-freytes.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "11/01/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 41,
+    "chuteLongo": 67,
+    "passeCurto": 70,
+    "passeLongo": 68,
+    "visao": 67,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 77,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 75,
+    "impulsao": 76,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 74,
+    "desarme": 78,
+    "interceptacao": 78,
+    "posicionamentoDefensivo": 76,
+    "pressao": 80,
+    "cobertura": 76,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 72,
+    "frieza": 69,
+    "concentracao": 70,
+    "regularidade": 72,
+    "ansiedade": 27,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 67,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 63,
+    "profissionalismo": 75,
+    "lealdade": 67,
+    "catimba": 53,
+    "violencia": 50,
+    "disciplina": 69,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 49,
+    "momentoHeroico": 45,
+    "supersub": 56,
+    "decisivo": 53,
+    "provocador": 49,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 69
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 77,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 72,
+    "participacaoJogo": 71,
+    "intensidade": 74,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/juan-pablo-freytes/profil/spieler/628750",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/juan-pablo-freytes.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

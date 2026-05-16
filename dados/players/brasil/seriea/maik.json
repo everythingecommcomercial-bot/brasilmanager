@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "maik",
+    "nome": "Maik",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/maik.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "03/01/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "42"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 77,
+    "reputacao": 68,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 66,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 71,
+    "drible": 66,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 73,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 72,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 72
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 69,
+    "interceptacao": 71,
+    "posicionamentoDefensivo": 72,
+    "pressao": 72,
+    "cobertura": 72,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 65,
+    "decisao": 66,
+    "visaoJogo": 65,
+    "compostura": 68,
+    "frieza": 69,
+    "concentracao": 71,
+    "regularidade": 66,
+    "ansiedade": 33,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 64,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 74,
+    "profissionalismo": 74,
+    "lealdade": 48,
+    "catimba": 66,
+    "violencia": 41,
+    "disciplina": 72,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 52,
+    "momentoHeroico": 44,
+    "supersub": 45,
+    "decisivo": 51,
+    "provocador": 53,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 58,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 69,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 72,
+    "participacaoJogo": 69,
+    "intensidade": 72,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/maik/profil/spieler/1027026",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/maik.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

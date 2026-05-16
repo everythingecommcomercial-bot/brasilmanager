@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "leo-linck",
+    "nome": "Léo Linck",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/leo-linck.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "03/03/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "24"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 24,
+    "passeCurto": 54,
+    "passeLongo": 57,
+    "visao": 30,
+    "cruzamento": 22,
+    "drible": 28,
+    "controleBola": 19,
+    "dominio": 23,
+    "curva": 27,
+    "cobrancaFalta": 22,
+    "penalti": 26,
+    "cabecamento": 24,
+    "voleio": 24,
+    "acrobacia": 19
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 75,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 71,
+    "impulsao": 72,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 20,
+    "desarme": 25,
+    "interceptacao": 15,
+    "posicionamentoDefensivo": 24,
+    "pressao": 25,
+    "cobertura": 23,
+    "empenhoTatico": 25
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 68,
+    "decisao": 70,
+    "visaoJogo": 68,
+    "compostura": 69,
+    "frieza": 73,
+    "concentracao": 69,
+    "regularidade": 72,
+    "ansiedade": 26,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 64,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 61,
+    "profissionalismo": 65,
+    "lealdade": 65,
+    "catimba": 47,
+    "violencia": 20,
+    "disciplina": 73,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 54,
+    "momentoHeroico": 43,
+    "supersub": 58,
+    "decisivo": 51,
+    "provocador": 48,
+    "batedorPenaltis": 26,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 75,
+    "defesa": 75,
+    "posicionamentoGol": 72,
+    "saidaGol": 68,
+    "jogoPes": 65,
+    "reposicao": 68,
+    "pegadorPenaltis": 70
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 20,
+    "tendenciaChute": 16,
+    "tendenciaPasse": 42,
+    "tendenciaMarcacao": 22,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 46,
+    "participacaoJogo": 69,
+    "intensidade": 46,
+    "riscoCriativo": 42
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/leo-linck/profil/spieler/742034",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/leo-linck.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

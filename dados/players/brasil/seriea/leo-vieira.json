@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "leo-vieira",
+    "nome": "Léo Vieira",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/leo-vieira.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "22/09/1990",
+    "idade": 35,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€200k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 24,
+    "chuteLongo": 25,
+    "passeCurto": 48,
+    "passeLongo": 49,
+    "visao": 29,
+    "cruzamento": 22,
+    "drible": 21,
+    "controleBola": 19,
+    "dominio": 26,
+    "curva": 24,
+    "cobrancaFalta": 22,
+    "penalti": 27,
+    "cabecamento": 24,
+    "voleio": 20,
+    "acrobacia": 27
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 58,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 59,
+    "impulsao": 63,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 22,
+    "desarme": 15,
+    "interceptacao": 23,
+    "posicionamentoDefensivo": 21,
+    "pressao": 20,
+    "cobertura": 17,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 56,
+    "decisao": 58,
+    "visaoJogo": 56,
+    "compostura": 57,
+    "frieza": 55,
+    "concentracao": 61,
+    "regularidade": 57,
+    "ansiedade": 42,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 58,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 56,
+    "profissionalismo": 60,
+    "lealdade": 57,
+    "catimba": 54,
+    "violencia": 26,
+    "disciplina": 74,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 43,
+    "momentoHeroico": 40,
+    "supersub": 57,
+    "decisivo": 53,
+    "provocador": 45,
+    "batedorPenaltis": 27,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 64,
+    "defesa": 59,
+    "posicionamentoGol": 63,
+    "saidaGol": 57,
+    "jogoPes": 56,
+    "reposicao": 55,
+    "pegadorPenaltis": 62
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 6,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 13,
+    "tendenciaChute": 17,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 21,
+    "movimentacaoOfensiva": 38,
+    "recomposicao": 40,
+    "participacaoJogo": 57,
+    "intensidade": 38,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/leo-vieira/profil/spieler/67144",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/leo-vieira.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

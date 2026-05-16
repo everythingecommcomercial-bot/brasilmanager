@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "leo-ortiz",
+    "nome": "Léo Ortiz",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/leo-ortiz.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "03/01/1996",
+    "idade": 30,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "3"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€14.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 78,
+    "potencial": 78,
+    "reputacao": 83,
+    "potencialMidia": 78
+  },
+  "tecnicos": {
+    "finalizacao": 45,
+    "chuteLongo": 72,
+    "passeCurto": 74,
+    "passeLongo": 73,
+    "visao": 72,
+    "cruzamento": 72,
+    "drible": 72,
+    "controleBola": 72,
+    "dominio": 72,
+    "curva": 72,
+    "cobrancaFalta": 72,
+    "penalti": 72,
+    "cabecamento": 83,
+    "voleio": 72,
+    "acrobacia": 72
+  },
+  "fisicos": {
+    "velocidade": 76,
+    "aceleracao": 74,
+    "explosao": 74,
+    "agilidade": 74,
+    "equilibrio": 74,
+    "resistencia": 74,
+    "forca": 85,
+    "impulsao": 78,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 83,
+    "desarme": 81,
+    "interceptacao": 83,
+    "posicionamentoDefensivo": 85,
+    "pressao": 81,
+    "cobertura": 82,
+    "empenhoTatico": 79
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 75,
+    "decisao": 76,
+    "visaoJogo": 75,
+    "compostura": 80,
+    "frieza": 74,
+    "concentracao": 79,
+    "regularidade": 73,
+    "ansiedade": 25,
+    "agressividade": 75,
+    "coragem": 75,
+    "lideranca": 76,
+    "trabalhoEquipe": 79
+  },
+  "personalidade": {
+    "ego": 64,
+    "ambicao": 57,
+    "profissionalismo": 75,
+    "lealdade": 68,
+    "catimba": 57,
+    "violencia": 27,
+    "disciplina": 60,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 58,
+    "jogoGrande": 64,
+    "momentoHeroico": 55,
+    "supersub": 61,
+    "decisivo": 57,
+    "provocador": 37,
+    "batedorPenaltis": 72,
+    "cobradorFalta": 72,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 58,
+    "confianca": 63,
+    "formaAtual": 63,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 78,
+    "decadenciaFisica": 1,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 64,
+    "tendenciaPasse": 73,
+    "tendenciaMarcacao": 82,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 76,
+    "participacaoJogo": 77,
+    "intensidade": 78,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/leo-ortiz/profil/spieler/374136",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/leo-ortiz.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

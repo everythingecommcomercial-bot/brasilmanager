@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "kaique-kenji",
+    "nome": "Kaique Kenji",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kaique-kenji.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil",
+      "japao"
+    ],
+    "dataNascimento": "29/01/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "70"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 70,
+    "potencial": 79,
+    "reputacao": 70,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 69,
+    "chuteLongo": 64,
+    "passeCurto": 64,
+    "passeLongo": 64,
+    "visao": 64,
+    "cruzamento": 73,
+    "drible": 74,
+    "controleBola": 74,
+    "dominio": 64,
+    "curva": 70,
+    "cobrancaFalta": 64,
+    "penalti": 64,
+    "cabecamento": 64,
+    "voleio": 64,
+    "acrobacia": 64
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 77,
+    "explosao": 73,
+    "agilidade": 73,
+    "equilibrio": 66,
+    "resistencia": 66,
+    "forca": 66,
+    "impulsao": 66,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 58,
+    "desarme": 61,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 55,
+    "pressao": 56,
+    "cobertura": 56,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 67,
+    "decisao": 70,
+    "visaoJogo": 67,
+    "compostura": 70,
+    "frieza": 71,
+    "concentracao": 68,
+    "regularidade": 69,
+    "ansiedade": 30,
+    "agressividade": 67,
+    "coragem": 67,
+    "lideranca": 67,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 76,
+    "profissionalismo": 76,
+    "lealdade": 54,
+    "catimba": 54,
+    "violencia": 41,
+    "disciplina": 68,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 52,
+    "momentoHeroico": 52,
+    "supersub": 49,
+    "decisivo": 49,
+    "provocador": 38,
+    "batedorPenaltis": 64,
+    "cobradorFalta": 64,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 50,
+    "confianca": 55,
+    "formaAtual": 55,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 69,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 57,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 64,
+    "participacaoJogo": 68,
+    "intensidade": 61,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kaique-kenji/profil/spieler/1253814",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/kaique-kenji.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

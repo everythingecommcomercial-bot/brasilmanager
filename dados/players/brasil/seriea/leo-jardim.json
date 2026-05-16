@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "leo-jardim",
+    "nome": "Léo Jardim",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/leo-jardim.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "20/03/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 75,
+    "reputacao": 75,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 30,
+    "chuteLongo": 31,
+    "passeCurto": 59,
+    "passeLongo": 63,
+    "visao": 27,
+    "cruzamento": 19,
+    "drible": 21,
+    "controleBola": 22,
+    "dominio": 22,
+    "curva": 27,
+    "cobrancaFalta": 28,
+    "penalti": 20,
+    "cabecamento": 30,
+    "voleio": 27,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 71,
+    "explosao": 71,
+    "agilidade": 75,
+    "equilibrio": 71,
+    "resistencia": 71,
+    "forca": 77,
+    "impulsao": 78,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 15,
+    "desarme": 19,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 20,
+    "pressao": 22,
+    "cobertura": 18,
+    "empenhoTatico": 17
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 72,
+    "decisao": 77,
+    "visaoJogo": 72,
+    "compostura": 74,
+    "frieza": 73,
+    "concentracao": 72,
+    "regularidade": 73,
+    "ansiedade": 31,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 76,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 57,
+    "profissionalismo": 60,
+    "lealdade": 48,
+    "catimba": 53,
+    "violencia": 40,
+    "disciplina": 67,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 58,
+    "momentoHeroico": 49,
+    "supersub": 46,
+    "decisivo": 50,
+    "provocador": 37,
+    "batedorPenaltis": 20,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 82,
+    "defesa": 78,
+    "posicionamentoGol": 74,
+    "saidaGol": 73,
+    "jogoPes": 70,
+    "reposicao": 69,
+    "pegadorPenaltis": 72
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 75,
+    "decadenciaFisica": 2,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 13,
+    "tendenciaChute": 23,
+    "tendenciaPasse": 43,
+    "tendenciaMarcacao": 18,
+    "movimentacaoOfensiva": 50,
+    "recomposicao": 44,
+    "participacaoJogo": 73,
+    "intensidade": 46,
+    "riscoCriativo": 40
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/leo-jardim/profil/spieler/288415",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/leo-jardim.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "keny-arroyo",
+    "nome": "Keny Arroyo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/keny-arroyo.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "equador"
+    ],
+    "dataNascimento": "14/02/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "99"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€9.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 82,
+    "reputacao": 73,
+    "potencialMidia": 87
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 72,
+    "drible": 79,
+    "controleBola": 78,
+    "dominio": 67,
+    "curva": 71,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 80,
+    "aceleracao": 77,
+    "explosao": 75,
+    "agilidade": 78,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 62,
+    "desarme": 61,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 58,
+    "pressao": 63,
+    "cobertura": 59,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 70,
+    "decisao": 73,
+    "visaoJogo": 70,
+    "compostura": 73,
+    "frieza": 72,
+    "concentracao": 70,
+    "regularidade": 72,
+    "ansiedade": 27,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 68,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 76,
+    "profissionalismo": 64,
+    "lealdade": 66,
+    "catimba": 53,
+    "violencia": 27,
+    "disciplina": 61,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 44,
+    "momentoHeroico": 42,
+    "supersub": 49,
+    "decisivo": 52,
+    "provocador": 48,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 82,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 79,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 65,
+    "participacaoJogo": 72,
+    "intensidade": 66,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/keny-arroyo/profil/spieler/1074584",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/equador.json"
+    ],
+    "foto": "dados/images/players/brasil/keny-arroyo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

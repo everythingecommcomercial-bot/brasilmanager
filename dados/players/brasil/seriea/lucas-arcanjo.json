@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "lucas-arcanjo",
+    "nome": "Lucas Arcanjo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/lucas-arcanjo.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "08/08/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 19,
+    "chuteLongo": 24,
+    "passeCurto": 56,
+    "passeLongo": 54,
+    "visao": 22,
+    "cruzamento": 24,
+    "drible": 26,
+    "controleBola": 24,
+    "dominio": 26,
+    "curva": 25,
+    "cobrancaFalta": 23,
+    "penalti": 25,
+    "cabecamento": 20,
+    "voleio": 19,
+    "acrobacia": 19
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 68,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 69,
+    "impulsao": 73,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 23,
+    "desarme": 25,
+    "interceptacao": 21,
+    "posicionamentoDefensivo": 15,
+    "pressao": 18,
+    "cobertura": 24,
+    "empenhoTatico": 16
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 65,
+    "decisao": 67,
+    "visaoJogo": 65,
+    "compostura": 68,
+    "frieza": 64,
+    "concentracao": 70,
+    "regularidade": 67,
+    "ansiedade": 27,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 61,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 61,
+    "profissionalismo": 71,
+    "lealdade": 56,
+    "catimba": 47,
+    "violencia": 43,
+    "disciplina": 76,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 47,
+    "momentoHeroico": 43,
+    "supersub": 61,
+    "decisivo": 47,
+    "provocador": 38,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 23,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 70,
+    "defesa": 69,
+    "posicionamentoGol": 72,
+    "saidaGol": 69,
+    "jogoPes": 64,
+    "reposicao": 64,
+    "pegadorPenaltis": 66
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 18,
+    "tendenciaChute": 16,
+    "tendenciaPasse": 39,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 40,
+    "participacaoJogo": 66,
+    "intensidade": 41,
+    "riscoCriativo": 38
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/lucas-arcanjo/profil/spieler/645602",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/lucas-arcanjo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

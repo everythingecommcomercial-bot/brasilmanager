@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "kadir-barria",
+    "nome": "Kadir Barría",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kadir-barria.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "panama"
+    ],
+    "dataNascimento": "18/07/2007",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "37"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 67,
+    "potencial": 79,
+    "reputacao": 67,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 61,
+    "passeCurto": 61,
+    "passeLongo": 61,
+    "visao": 61,
+    "cruzamento": 61,
+    "drible": 61,
+    "controleBola": 66,
+    "dominio": 61,
+    "curva": 61,
+    "cobrancaFalta": 61,
+    "penalti": 66,
+    "cabecamento": 70,
+    "voleio": 64,
+    "acrobacia": 61
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 63,
+    "explosao": 67,
+    "agilidade": 63,
+    "equilibrio": 63,
+    "resistencia": 63,
+    "forca": 65,
+    "impulsao": 63,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 50,
+    "interceptacao": 46,
+    "posicionamentoDefensivo": 50,
+    "pressao": 47,
+    "cobertura": 51,
+    "empenhoTatico": 48
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 64,
+    "decisao": 67,
+    "visaoJogo": 64,
+    "compostura": 65,
+    "frieza": 65,
+    "concentracao": 64,
+    "regularidade": 64,
+    "ansiedade": 34,
+    "agressividade": 64,
+    "coragem": 64,
+    "lideranca": 61,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 83,
+    "profissionalismo": 72,
+    "lealdade": 60,
+    "catimba": 64,
+    "violencia": 43,
+    "disciplina": 62,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 43,
+    "momentoHeroico": 43,
+    "supersub": 54,
+    "decisivo": 52,
+    "provocador": 33,
+    "batedorPenaltis": 66,
+    "cobradorFalta": 61,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 47,
+    "confianca": 52,
+    "formaAtual": 52,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 53,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 61,
+    "tendenciaMarcacao": 48,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 56,
+    "participacaoJogo": 66,
+    "intensidade": 55,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kadir-barria/profil/spieler/1464878",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/panama.json"
+    ],
+    "foto": "dados/images/players/brasil/kadir-barria.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

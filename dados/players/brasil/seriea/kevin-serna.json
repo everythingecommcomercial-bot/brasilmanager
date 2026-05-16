@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "kevin-serna",
+    "nome": "Kevin Serna",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/kevin-serna.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "colombia",
+      "peru"
+    ],
+    "dataNascimento": "17/12/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "90"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 73,
+    "drible": 81,
+    "controleBola": 78,
+    "dominio": 67,
+    "curva": 75,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 78,
+    "aceleracao": 79,
+    "explosao": 76,
+    "agilidade": 79,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 64,
+    "desarme": 59,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 58,
+    "pressao": 61,
+    "cobertura": 63,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 70,
+    "decisao": 76,
+    "visaoJogo": 70,
+    "compostura": 70,
+    "frieza": 73,
+    "concentracao": 70,
+    "regularidade": 68,
+    "ansiedade": 32,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 65,
+    "trabalhoEquipe": 75
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 66,
+    "profissionalismo": 72,
+    "lealdade": 60,
+    "catimba": 62,
+    "violencia": 46,
+    "disciplina": 60,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 53,
+    "momentoHeroico": 47,
+    "supersub": 49,
+    "decisivo": 49,
+    "provocador": 44,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 81,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 77,
+    "recomposicao": 64,
+    "participacaoJogo": 72,
+    "intensidade": 65,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/kevin-serna/profil/spieler/745927",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json",
+      "dados/selecoes/paises/peru.json"
+    ],
+    "foto": "dados/images/players/brasil/kevin-serna.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}
