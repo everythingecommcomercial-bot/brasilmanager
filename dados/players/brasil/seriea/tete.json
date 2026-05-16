@@ -1,0 +1,18 @@
+{
+  "id": "tete",
+  "nome": "Tetê",
+  "clubeAtual": "gremio",
+  "numero": "21",
+  "posicao": "Right Winger",
+  "idade": "15/02/2000 (26)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€11.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}
