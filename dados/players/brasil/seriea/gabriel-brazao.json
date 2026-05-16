@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel-brazao",
+    "nome": "Gabriel Brazão",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-brazao.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "05/10/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "77"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€12.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 76,
+    "potencial": 79,
+    "reputacao": 81,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 28,
+    "chuteLongo": 24,
+    "passeCurto": 63,
+    "passeLongo": 63,
+    "visao": 19,
+    "cruzamento": 21,
+    "drible": 19,
+    "controleBola": 27,
+    "dominio": 26,
+    "curva": 20,
+    "cobrancaFalta": 23,
+    "penalti": 21,
+    "cabecamento": 26,
+    "voleio": 25,
+    "acrobacia": 20
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 72,
+    "explosao": 72,
+    "agilidade": 75,
+    "equilibrio": 72,
+    "resistencia": 72,
+    "forca": 74,
+    "impulsao": 81,
+    "stamina": 72
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 24,
+    "interceptacao": 18,
+    "posicionamentoDefensivo": 15,
+    "pressao": 15,
+    "cobertura": 16,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 73,
+    "decisao": 77,
+    "visaoJogo": 73,
+    "compostura": 74,
+    "frieza": 73,
+    "concentracao": 73,
+    "regularidade": 72,
+    "ansiedade": 20,
+    "agressividade": 73,
+    "coragem": 73,
+    "lideranca": 72,
+    "trabalhoEquipe": 76
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 67,
+    "profissionalismo": 72,
+    "lealdade": 64,
+    "catimba": 51,
+    "violencia": 39,
+    "disciplina": 63,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 51,
+    "jogoGrande": 51,
+    "momentoHeroico": 50,
+    "supersub": 43,
+    "decisivo": 48,
+    "provocador": 36,
+    "batedorPenaltis": 21,
+    "cobradorFalta": 23,
+    "especialistaEscanteio": 18
+  },
+  "goleiro": {
+    "reflexos": 81,
+    "defesa": 78,
+    "posicionamentoGol": 81,
+    "saidaGol": 77,
+    "jogoPes": 70,
+    "reposicao": 71,
+    "pegadorPenaltis": 75
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 56,
+    "confianca": 61,
+    "formaAtual": 61,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 11,
+    "tendenciaChute": 16,
+    "tendenciaPasse": 41,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 52,
+    "recomposicao": 44,
+    "participacaoJogo": 75,
+    "intensidade": 44,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-brazao/profil/spieler/371247",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-brazao.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "erick-bele",
+    "nome": "Erick Belé",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/erick-bele.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "21/01/2007",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "33"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 67,
+    "potencial": 79,
+    "reputacao": 67,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 61,
+    "passeCurto": 68,
+    "passeLongo": 61,
+    "visao": 74,
+    "cruzamento": 61,
+    "drible": 68,
+    "controleBola": 74,
+    "dominio": 61,
+    "curva": 61,
+    "cobrancaFalta": 70,
+    "penalti": 61,
+    "cabecamento": 61,
+    "voleio": 61,
+    "acrobacia": 61
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 63,
+    "explosao": 63,
+    "agilidade": 63,
+    "equilibrio": 63,
+    "resistencia": 63,
+    "forca": 63,
+    "impulsao": 63,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 52,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 53,
+    "pressao": 58,
+    "cobertura": 56,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 75,
+    "decisao": 67,
+    "visaoJogo": 73,
+    "compostura": 64,
+    "frieza": 64,
+    "concentracao": 66,
+    "regularidade": 68,
+    "ansiedade": 33,
+    "agressividade": 64,
+    "coragem": 64,
+    "lideranca": 65,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 81,
+    "profissionalismo": 75,
+    "lealdade": 68,
+    "catimba": 45,
+    "violencia": 24,
+    "disciplina": 65,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 50,
+    "momentoHeroico": 40,
+    "supersub": 61,
+    "decisivo": 45,
+    "provocador": 36,
+    "batedorPenaltis": 61,
+    "cobradorFalta": 70,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 47,
+    "confianca": 52,
+    "formaAtual": 52,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 68,
+    "tendenciaChute": 65,
+    "tendenciaPasse": 71,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 60,
+    "participacaoJogo": 66,
+    "intensidade": 60,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/erick-bele/profil/spieler/1180021",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/erick-bele.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

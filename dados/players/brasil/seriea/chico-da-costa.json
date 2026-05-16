@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "chico-da-costa",
+    "nome": "Chico da Costa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/chico-da-costa.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "05/05/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "91"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 71,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 69,
+    "cabecamento": 65,
+    "voleio": 66,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 64,
+    "explosao": 70,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 67,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 49,
+    "desarme": 50,
+    "interceptacao": 52,
+    "posicionamentoDefensivo": 53,
+    "pressao": 47,
+    "cobertura": 49,
+    "empenhoTatico": 52
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 65,
+    "decisao": 67,
+    "visaoJogo": 65,
+    "compostura": 67,
+    "frieza": 68,
+    "concentracao": 70,
+    "regularidade": 68,
+    "ansiedade": 36,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 71,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 62,
+    "profissionalismo": 76,
+    "lealdade": 53,
+    "catimba": 56,
+    "violencia": 26,
+    "disciplina": 63,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 45,
+    "momentoHeroico": 49,
+    "supersub": 42,
+    "decisivo": 53,
+    "provocador": 55,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 48,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 58,
+    "participacaoJogo": 66,
+    "intensidade": 56,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/chico-da-costa/profil/spieler/559602",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/chico-da-costa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

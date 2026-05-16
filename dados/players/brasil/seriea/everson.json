@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "everson",
+    "nome": "Everson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/everson.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "22/07/1990",
+    "idade": 35,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 29,
+    "passeCurto": 55,
+    "passeLongo": 52,
+    "visao": 23,
+    "cruzamento": 24,
+    "drible": 31,
+    "controleBola": 29,
+    "dominio": 23,
+    "curva": 27,
+    "cobrancaFalta": 20,
+    "penalti": 26,
+    "cabecamento": 24,
+    "voleio": 31,
+    "acrobacia": 29
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 62,
+    "explosao": 62,
+    "agilidade": 69,
+    "equilibrio": 62,
+    "resistencia": 62,
+    "forca": 69,
+    "impulsao": 67,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 16,
+    "desarme": 20,
+    "interceptacao": 23,
+    "posicionamentoDefensivo": 16,
+    "pressao": 19,
+    "cobertura": 15,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 63,
+    "decisao": 63,
+    "visaoJogo": 63,
+    "compostura": 65,
+    "frieza": 67,
+    "concentracao": 69,
+    "regularidade": 61,
+    "ansiedade": 31,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 69,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 57,
+    "profissionalismo": 66,
+    "lealdade": 61,
+    "catimba": 44,
+    "violencia": 24,
+    "disciplina": 67,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 42,
+    "momentoHeroico": 47,
+    "supersub": 57,
+    "decisivo": 44,
+    "provocador": 53,
+    "batedorPenaltis": 26,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 71,
+    "defesa": 72,
+    "posicionamentoGol": 65,
+    "saidaGol": 67,
+    "jogoPes": 58,
+    "reposicao": 62,
+    "pegadorPenaltis": 64
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 6,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 23,
+    "tendenciaChute": 21,
+    "tendenciaPasse": 39,
+    "tendenciaMarcacao": 18,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 38,
+    "participacaoJogo": 65,
+    "intensidade": 40,
+    "riscoCriativo": 39
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/everson/profil/spieler/106032",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/everson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "felipe-preis",
+    "nome": "Felipe Preis",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/felipe-preis.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "19/11/2005",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "52"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 27,
+    "passeCurto": 47,
+    "passeLongo": 49,
+    "visao": 21,
+    "cruzamento": 25,
+    "drible": 27,
+    "controleBola": 23,
+    "dominio": 30,
+    "curva": 27,
+    "cobrancaFalta": 22,
+    "penalti": 28,
+    "cabecamento": 28,
+    "voleio": 25,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 61,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 56,
+    "impulsao": 63,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 20,
+    "desarme": 24,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 18,
+    "pressao": 16,
+    "cobertura": 22,
+    "empenhoTatico": 22
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 55,
+    "frieza": 56,
+    "concentracao": 57,
+    "regularidade": 54,
+    "ansiedade": 39,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 52,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 77,
+    "profissionalismo": 71,
+    "lealdade": 48,
+    "catimba": 50,
+    "violencia": 46,
+    "disciplina": 61,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 42,
+    "momentoHeroico": 42,
+    "supersub": 60,
+    "decisivo": 49,
+    "provocador": 56,
+    "batedorPenaltis": 28,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 29
+  },
+  "goleiro": {
+    "reflexos": 63,
+    "defesa": 64,
+    "posicionamentoGol": 62,
+    "saidaGol": 57,
+    "jogoPes": 55,
+    "reposicao": 54,
+    "pegadorPenaltis": 57
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 19,
+    "tendenciaChute": 19,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 18,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 38,
+    "participacaoJogo": 56,
+    "intensidade": 35,
+    "riscoCriativo": 34
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/felipe-preis/profil/spieler/1202381",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/felipe-preis.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

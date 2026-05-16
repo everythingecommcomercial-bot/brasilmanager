@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "fabio",
+    "nome": "Fábio",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/fabio.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "30/09/1980",
+    "idade": 45,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€75k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 56,
+    "potencial": 56,
+    "reputacao": 56,
+    "potencialMidia": 56
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 23,
+    "passeCurto": 44,
+    "passeLongo": 46,
+    "visao": 24,
+    "cruzamento": 19,
+    "drible": 19,
+    "controleBola": 19,
+    "dominio": 19,
+    "curva": 20,
+    "cobrancaFalta": 29,
+    "penalti": 19,
+    "cabecamento": 21,
+    "voleio": 26,
+    "acrobacia": 30
+  },
+  "fisicos": {
+    "velocidade": 52,
+    "aceleracao": 52,
+    "explosao": 52,
+    "agilidade": 56,
+    "equilibrio": 52,
+    "resistencia": 52,
+    "forca": 59,
+    "impulsao": 58,
+    "stamina": 52
+  },
+  "defensivos": {
+    "marcacao": 16,
+    "desarme": 23,
+    "interceptacao": 15,
+    "posicionamentoDefensivo": 20,
+    "pressao": 15,
+    "cobertura": 23,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 53,
+    "decisao": 53,
+    "visaoJogo": 53,
+    "compostura": 54,
+    "frieza": 52,
+    "concentracao": 53,
+    "regularidade": 55,
+    "ansiedade": 45,
+    "agressividade": 53,
+    "coragem": 53,
+    "lideranca": 59,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 65,
+    "profissionalismo": 72,
+    "lealdade": 54,
+    "catimba": 63,
+    "violencia": 40,
+    "disciplina": 61,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 44,
+    "momentoHeroico": 44,
+    "supersub": 59,
+    "decisivo": 51,
+    "provocador": 35,
+    "batedorPenaltis": 19,
+    "cobradorFalta": 29,
+    "especialistaEscanteio": 18
+  },
+  "goleiro": {
+    "reflexos": 58,
+    "defesa": 57,
+    "posicionamentoGol": 55,
+    "saidaGol": 59,
+    "jogoPes": 48,
+    "reposicao": 52,
+    "pegadorPenaltis": 57
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 56,
+    "decadenciaFisica": 12,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 11,
+    "tendenciaChute": 15,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 16,
+    "movimentacaoOfensiva": 36,
+    "recomposicao": 34,
+    "participacaoJogo": 55,
+    "intensidade": 34,
+    "riscoCriativo": 32
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/fabio/profil/spieler/22415",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/fabio.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

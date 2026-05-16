@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "dylan-mitchell",
+    "nome": "Dylan Mitchell",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/dylan-mitchell.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "19/12/1991",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 56,
+    "potencial": 56,
+    "reputacao": 56,
+    "potencialMidia": 56
+  },
+  "tecnicos": {
+    "finalizacao": 30,
+    "chuteLongo": 19,
+    "passeCurto": 42,
+    "passeLongo": 45,
+    "visao": 26,
+    "cruzamento": 25,
+    "drible": 28,
+    "controleBola": 30,
+    "dominio": 20,
+    "curva": 19,
+    "cobrancaFalta": 23,
+    "penalti": 25,
+    "cabecamento": 29,
+    "voleio": 21,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 52,
+    "aceleracao": 52,
+    "explosao": 52,
+    "agilidade": 56,
+    "equilibrio": 52,
+    "resistencia": 52,
+    "forca": 59,
+    "impulsao": 58,
+    "stamina": 52
+  },
+  "defensivos": {
+    "marcacao": 23,
+    "desarme": 22,
+    "interceptacao": 22,
+    "posicionamentoDefensivo": 21,
+    "pressao": 23,
+    "cobertura": 15,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 53,
+    "decisao": 55,
+    "visaoJogo": 53,
+    "compostura": 59,
+    "frieza": 55,
+    "concentracao": 58,
+    "regularidade": 54,
+    "ansiedade": 47,
+    "agressividade": 53,
+    "coragem": 53,
+    "lideranca": 58,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 61,
+    "profissionalismo": 62,
+    "lealdade": 49,
+    "catimba": 61,
+    "violencia": 21,
+    "disciplina": 73,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 43,
+    "momentoHeroico": 51,
+    "supersub": 45,
+    "decisivo": 51,
+    "provocador": 43,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 23,
+    "especialistaEscanteio": 21
+  },
+  "goleiro": {
+    "reflexos": 58,
+    "defesa": 59,
+    "posicionamentoGol": 58,
+    "saidaGol": 57,
+    "jogoPes": 48,
+    "reposicao": 56,
+    "pegadorPenaltis": 59
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 56,
+    "decadenciaFisica": 5,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 20,
+    "tendenciaChute": 11,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 23,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 34,
+    "participacaoJogo": 54,
+    "intensidade": 38,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/dylan-mitchell/profil/spieler/176486",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/dylan-mitchell.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

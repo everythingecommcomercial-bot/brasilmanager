@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "da-silva",
+    "nome": "Da Silva",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/da-silva.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/11/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 59,
+    "reputacao": 58,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 56,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 60,
+    "drible": 56,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 61,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 63,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 56,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 59,
+    "pressao": 59,
+    "cobertura": 58,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 58,
+    "frieza": 58,
+    "concentracao": 60,
+    "regularidade": 56,
+    "ansiedade": 45,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 62,
+    "profissionalismo": 64,
+    "lealdade": 53,
+    "catimba": 43,
+    "violencia": 47,
+    "disciplina": 70,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 42,
+    "momentoHeroico": 42,
+    "supersub": 46,
+    "decisivo": 53,
+    "provocador": 46,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 54
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 48,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 54,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 55,
+    "recomposicao": 60,
+    "participacaoJogo": 60,
+    "intensidade": 61,
+    "riscoCriativo": 54
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/da-silva/profil/spieler/1090425",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/da-silva.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

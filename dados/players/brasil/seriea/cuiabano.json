@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "cuiabano",
+    "nome": "Cuiabano",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/cuiabano.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/02/2003",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "66"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€8.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 80,
+    "reputacao": 74,
+    "potencialMidia": 85
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 68,
+    "passeCurto": 73,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 79,
+    "drible": 76,
+    "controleBola": 68,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 81,
+    "aceleracao": 81,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 76,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 80
+  },
+  "defensivos": {
+    "marcacao": 77,
+    "desarme": 73,
+    "interceptacao": 72,
+    "posicionamentoDefensivo": 75,
+    "pressao": 74,
+    "cobertura": 78,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 71,
+    "decisao": 77,
+    "visaoJogo": 71,
+    "compostura": 73,
+    "frieza": 76,
+    "concentracao": 71,
+    "regularidade": 70,
+    "ansiedade": 25,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 67,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 69,
+    "profissionalismo": 67,
+    "lealdade": 51,
+    "catimba": 67,
+    "violencia": 20,
+    "disciplina": 62,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 49,
+    "momentoHeroico": 43,
+    "supersub": 56,
+    "decisivo": 50,
+    "provocador": 44,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 80,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 68,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 78,
+    "participacaoJogo": 74,
+    "intensidade": 75,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/cuiabano/profil/spieler/891353",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/cuiabano.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

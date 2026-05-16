@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "facundo-bernal",
+    "nome": "Facundo Bernal",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/facundo-bernal.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "uruguai",
+      "italia"
+    ],
+    "dataNascimento": "21/08/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "5"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 79,
+    "reputacao": 73,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 73,
+    "passeLongo": 73,
+    "visao": 72,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 76,
+    "forca": 72,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 77,
+    "desarme": 74,
+    "interceptacao": 74,
+    "posicionamentoDefensivo": 79,
+    "pressao": 78,
+    "cobertura": 78,
+    "empenhoTatico": 77
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 70,
+    "decisao": 74,
+    "visaoJogo": 70,
+    "compostura": 74,
+    "frieza": 70,
+    "concentracao": 73,
+    "regularidade": 71,
+    "ansiedade": 22,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 70,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 77,
+    "profissionalismo": 68,
+    "lealdade": 48,
+    "catimba": 55,
+    "violencia": 41,
+    "disciplina": 70,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 54,
+    "momentoHeroico": 39,
+    "supersub": 49,
+    "decisivo": 48,
+    "provocador": 58,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 67
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 78,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 73,
+    "participacaoJogo": 73,
+    "intensidade": 77,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/facundo-bernal/profil/spieler/898350",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/facundo-bernal.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

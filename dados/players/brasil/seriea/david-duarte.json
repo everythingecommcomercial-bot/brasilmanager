@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "david-duarte",
+    "nome": "David Duarte",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/david-duarte.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "24/01/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "33"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 50,
+    "chuteLongo": 62,
+    "passeCurto": 69,
+    "passeLongo": 68,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 76,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 66,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 74,
+    "impulsao": 73,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 72,
+    "desarme": 69,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 72,
+    "pressao": 69,
+    "cobertura": 71,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 67,
+    "visaoJogo": 65,
+    "compostura": 66,
+    "frieza": 70,
+    "concentracao": 66,
+    "regularidade": 66,
+    "ansiedade": 31,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 69,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 55,
+    "profissionalismo": 67,
+    "lealdade": 50,
+    "catimba": 56,
+    "violencia": 45,
+    "disciplina": 73,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 42,
+    "momentoHeroico": 39,
+    "supersub": 55,
+    "decisivo": 47,
+    "provocador": 34,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 70,
+    "participacaoJogo": 68,
+    "intensidade": 66,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/david-duarte/profil/spieler/373446",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/david-duarte.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

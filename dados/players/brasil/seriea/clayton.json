@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "clayton",
+    "nome": "Clayton",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/clayton.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "04/04/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "20"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€800k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 66,
+    "reputacao": 65,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 46,
+    "chuteLongo": 59,
+    "passeCurto": 67,
+    "passeLongo": 60,
+    "visao": 59,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 71,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 68,
+    "impulsao": 68,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 66,
+    "interceptacao": 71,
+    "posicionamentoDefensivo": 71,
+    "pressao": 67,
+    "cobertura": 72,
+    "empenhoTatico": 68
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 62,
+    "decisao": 68,
+    "visaoJogo": 62,
+    "compostura": 68,
+    "frieza": 61,
+    "concentracao": 62,
+    "regularidade": 65,
+    "ansiedade": 31,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 61,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 60,
+    "profissionalismo": 61,
+    "lealdade": 48,
+    "catimba": 45,
+    "violencia": 23,
+    "disciplina": 66,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 47,
+    "momentoHeroico": 45,
+    "supersub": 61,
+    "decisivo": 46,
+    "provocador": 49,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 63,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 64,
+    "participacaoJogo": 64,
+    "intensidade": 64,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/clayton/profil/spieler/371968",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/clayton.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel-menino",
+    "nome": "Gabriel Menino",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-menino.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "29/09/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "25"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 77,
+    "reputacao": 74,
+    "potencialMidia": 77
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 68,
+    "passeCurto": 75,
+    "passeLongo": 77,
+    "visao": 77,
+    "cruzamento": 68,
+    "drible": 68,
+    "controleBola": 77,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 70,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 79,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 78
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 66,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 66,
+    "pressao": 72,
+    "cobertura": 66,
+    "empenhoTatico": 76
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 71,
+    "decisao": 77,
+    "visaoJogo": 71,
+    "compostura": 76,
+    "frieza": 76,
+    "concentracao": 71,
+    "regularidade": 75,
+    "ansiedade": 27,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 70,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 67,
+    "profissionalismo": 73,
+    "lealdade": 66,
+    "catimba": 46,
+    "violencia": 36,
+    "disciplina": 72,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 53,
+    "momentoHeroico": 41,
+    "supersub": 57,
+    "decisivo": 58,
+    "provocador": 36,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 69
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 76,
+    "tendenciaMarcacao": 69,
+    "movimentacaoOfensiva": 77,
+    "recomposicao": 77,
+    "participacaoJogo": 75,
+    "intensidade": 76,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-menino/profil/spieler/608216",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-menino.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

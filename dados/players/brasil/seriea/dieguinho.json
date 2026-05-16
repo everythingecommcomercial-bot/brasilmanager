@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "dieguinho",
+    "nome": "Dieguinho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/dieguinho.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/09/2007",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "61"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 70,
+    "potencial": 82,
+    "reputacao": 70,
+    "potencialMidia": 87
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 64,
+    "passeCurto": 64,
+    "passeLongo": 64,
+    "visao": 64,
+    "cruzamento": 72,
+    "drible": 73,
+    "controleBola": 74,
+    "dominio": 64,
+    "curva": 69,
+    "cobrancaFalta": 64,
+    "penalti": 64,
+    "cabecamento": 64,
+    "voleio": 64,
+    "acrobacia": 64
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 77,
+    "explosao": 74,
+    "agilidade": 74,
+    "equilibrio": 66,
+    "resistencia": 66,
+    "forca": 66,
+    "impulsao": 66,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 55,
+    "interceptacao": 55,
+    "posicionamentoDefensivo": 59,
+    "pressao": 56,
+    "cobertura": 58,
+    "empenhoTatico": 55
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 67,
+    "decisao": 73,
+    "visaoJogo": 67,
+    "compostura": 69,
+    "frieza": 67,
+    "concentracao": 73,
+    "regularidade": 66,
+    "ansiedade": 27,
+    "agressividade": 67,
+    "coragem": 67,
+    "lideranca": 65,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 86,
+    "profissionalismo": 76,
+    "lealdade": 68,
+    "catimba": 49,
+    "violencia": 35,
+    "disciplina": 76,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 54,
+    "momentoHeroico": 47,
+    "supersub": 62,
+    "decisivo": 53,
+    "provocador": 51,
+    "batedorPenaltis": 64,
+    "cobradorFalta": 64,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 50,
+    "confianca": 55,
+    "formaAtual": 55,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 82,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 73,
+    "tendenciaChute": 68,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 60,
+    "participacaoJogo": 69,
+    "intensidade": 61,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/dieguinho/profil/spieler/1257132",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/dieguinho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

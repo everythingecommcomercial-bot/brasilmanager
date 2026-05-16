@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel-menegon",
+    "nome": "Gabriel Menegon",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-menegon.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "14/10/2008",
+    "idade": 17,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "31"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 23,
+    "chuteLongo": 21,
+    "passeCurto": 46,
+    "passeLongo": 48,
+    "visao": 22,
+    "cruzamento": 25,
+    "drible": 30,
+    "controleBola": 26,
+    "dominio": 25,
+    "curva": 21,
+    "cobrancaFalta": 22,
+    "penalti": 23,
+    "cabecamento": 21,
+    "voleio": 19,
+    "acrobacia": 20
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 61,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 59,
+    "impulsao": 63,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 22,
+    "desarme": 19,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 17,
+    "pressao": 24,
+    "cobertura": 17,
+    "empenhoTatico": 21
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 54,
+    "concentracao": 58,
+    "regularidade": 56,
+    "ansiedade": 37,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 50,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 88,
+    "profissionalismo": 76,
+    "lealdade": 66,
+    "catimba": 45,
+    "violencia": 33,
+    "disciplina": 68,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 49,
+    "momentoHeroico": 46,
+    "supersub": 42,
+    "decisivo": 50,
+    "provocador": 51,
+    "batedorPenaltis": 23,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 59,
+    "defesa": 63,
+    "posicionamentoGol": 60,
+    "saidaGol": 57,
+    "jogoPes": 54,
+    "reposicao": 57,
+    "pegadorPenaltis": 58
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 22,
+    "tendenciaChute": 13,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 23,
+    "movimentacaoOfensiva": 43,
+    "recomposicao": 38,
+    "participacaoJogo": 57,
+    "intensidade": 39,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-menegon/profil/spieler/1446971",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-menegon.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

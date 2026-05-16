@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel-novaes",
+    "nome": "Gabriel Novaes",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-novaes.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "05/04/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€700k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 66,
+    "reputacao": 65,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 59,
+    "passeCurto": 59,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 68,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 66,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 61,
+    "explosao": 67,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 64,
+    "impulsao": 61,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 45,
+    "desarme": 48,
+    "interceptacao": 45,
+    "posicionamentoDefensivo": 47,
+    "pressao": 44,
+    "cobertura": 46,
+    "empenhoTatico": 48
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 62,
+    "decisao": 65,
+    "visaoJogo": 62,
+    "compostura": 66,
+    "frieza": 66,
+    "concentracao": 64,
+    "regularidade": 64,
+    "ansiedade": 37,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 60,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 61,
+    "profissionalismo": 65,
+    "lealdade": 53,
+    "catimba": 50,
+    "violencia": 29,
+    "disciplina": 66,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 50,
+    "momentoHeroico": 47,
+    "supersub": 61,
+    "decisivo": 56,
+    "provocador": 48,
+    "batedorPenaltis": 66,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 59,
+    "tendenciaMarcacao": 44,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 54,
+    "participacaoJogo": 63,
+    "intensidade": 52,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-novaes/profil/spieler/649055",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-novaes.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

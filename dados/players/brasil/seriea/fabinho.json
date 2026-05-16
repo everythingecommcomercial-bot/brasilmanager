@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "fabinho",
+    "nome": "Fabinho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/fabinho.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "18/11/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "28"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 68,
+    "drible": 70,
+    "controleBola": 70,
+    "dominio": 62,
+    "curva": 68,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 72,
+    "explosao": 71,
+    "agilidade": 72,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 53,
+    "interceptacao": 53,
+    "posicionamentoDefensivo": 58,
+    "pressao": 58,
+    "cobertura": 59,
+    "empenhoTatico": 55
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 64,
+    "concentracao": 66,
+    "regularidade": 67,
+    "ansiedade": 33,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 63,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 60,
+    "profissionalismo": 62,
+    "lealdade": 51,
+    "catimba": 57,
+    "violencia": 41,
+    "disciplina": 65,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 52,
+    "momentoHeroico": 46,
+    "supersub": 51,
+    "decisivo": 43,
+    "provocador": 49,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 70,
+    "tendenciaChute": 67,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 60,
+    "participacaoJogo": 66,
+    "intensidade": 61,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/fabinho/profil/spieler/704558",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/fabinho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

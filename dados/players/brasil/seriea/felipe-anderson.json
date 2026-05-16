@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "felipe-anderson",
+    "nome": "Felipe Anderson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/felipe-anderson.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "15/04/1993",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 67,
+    "drible": 73,
+    "controleBola": 68,
+    "dominio": 62,
+    "curva": 67,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 76,
+    "explosao": 71,
+    "agilidade": 73,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 54,
+    "interceptacao": 56,
+    "posicionamentoDefensivo": 56,
+    "pressao": 53,
+    "cobertura": 59,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 65,
+    "decisao": 65,
+    "visaoJogo": 65,
+    "compostura": 67,
+    "frieza": 66,
+    "concentracao": 66,
+    "regularidade": 67,
+    "ansiedade": 37,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 71,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 59,
+    "profissionalismo": 61,
+    "lealdade": 61,
+    "catimba": 58,
+    "violencia": 29,
+    "disciplina": 73,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 51,
+    "momentoHeroico": 40,
+    "supersub": 61,
+    "decisivo": 52,
+    "provocador": 58,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 73,
+    "tendenciaChute": 68,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 60,
+    "participacaoJogo": 68,
+    "intensidade": 58,
+    "riscoCriativo": 67
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/felipe-anderson/profil/spieler/159372",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/felipe-anderson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

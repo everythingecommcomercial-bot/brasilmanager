@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "gabriel-paulista",
+    "nome": "Gabriel Paulista",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-paulista.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil",
+      "espanha"
+    ],
+    "dataNascimento": "26/11/1990",
+    "idade": 35,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "3"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€700k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 63,
+    "potencial": 63,
+    "reputacao": 63,
+    "potencialMidia": 63
+  },
+  "tecnicos": {
+    "finalizacao": 50,
+    "chuteLongo": 57,
+    "passeCurto": 64,
+    "passeLongo": 64,
+    "visao": 57,
+    "cruzamento": 57,
+    "drible": 57,
+    "controleBola": 57,
+    "dominio": 57,
+    "curva": 57,
+    "cobrancaFalta": 57,
+    "penalti": 57,
+    "cabecamento": 70,
+    "voleio": 57,
+    "acrobacia": 57
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 59,
+    "explosao": 59,
+    "agilidade": 59,
+    "equilibrio": 59,
+    "resistencia": 59,
+    "forca": 67,
+    "impulsao": 63,
+    "stamina": 59
+  },
+  "defensivos": {
+    "marcacao": 64,
+    "desarme": 70,
+    "interceptacao": 69,
+    "posicionamentoDefensivo": 68,
+    "pressao": 65,
+    "cobertura": 70,
+    "empenhoTatico": 67
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 60,
+    "decisao": 61,
+    "visaoJogo": 60,
+    "compostura": 63,
+    "frieza": 65,
+    "concentracao": 60,
+    "regularidade": 60,
+    "ansiedade": 41,
+    "agressividade": 60,
+    "coragem": 60,
+    "lideranca": 65,
+    "trabalhoEquipe": 63
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 58,
+    "profissionalismo": 69,
+    "lealdade": 62,
+    "catimba": 46,
+    "violencia": 38,
+    "disciplina": 72,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 49,
+    "momentoHeroico": 51,
+    "supersub": 53,
+    "decisivo": 52,
+    "provocador": 34,
+    "batedorPenaltis": 57,
+    "cobradorFalta": 57,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 63,
+    "decadenciaFisica": 6,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 49,
+    "tendenciaChute": 49,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 59,
+    "recomposicao": 63,
+    "participacaoJogo": 62,
+    "intensidade": 62,
+    "riscoCriativo": 58
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-paulista/profil/spieler/149498",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/espanha.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-paulista.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

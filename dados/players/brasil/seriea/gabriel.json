@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel",
+    "nome": "Gabriel",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "27/09/1992",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€500k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 21,
+    "chuteLongo": 30,
+    "passeCurto": 54,
+    "passeLongo": 51,
+    "visao": 26,
+    "cruzamento": 31,
+    "drible": 21,
+    "controleBola": 22,
+    "dominio": 20,
+    "curva": 21,
+    "cobrancaFalta": 20,
+    "penalti": 25,
+    "cabecamento": 24,
+    "voleio": 30,
+    "acrobacia": 30
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 68,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 66,
+    "impulsao": 65,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 17,
+    "interceptacao": 23,
+    "posicionamentoDefensivo": 15,
+    "pressao": 17,
+    "cobertura": 25,
+    "empenhoTatico": 18
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 62,
+    "decisao": 66,
+    "visaoJogo": 62,
+    "compostura": 65,
+    "frieza": 63,
+    "concentracao": 64,
+    "regularidade": 66,
+    "ansiedade": 32,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 64,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 56,
+    "profissionalismo": 76,
+    "lealdade": 49,
+    "catimba": 49,
+    "violencia": 30,
+    "disciplina": 73,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 54,
+    "momentoHeroico": 52,
+    "supersub": 44,
+    "decisivo": 46,
+    "provocador": 38,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 70,
+    "defesa": 66,
+    "posicionamentoGol": 65,
+    "saidaGol": 65,
+    "jogoPes": 59,
+    "reposicao": 65,
+    "pegadorPenaltis": 64
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 4,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 13,
+    "tendenciaChute": 22,
+    "tendenciaPasse": 40,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 40,
+    "participacaoJogo": 63,
+    "intensidade": 39,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel/profil/spieler/79242",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

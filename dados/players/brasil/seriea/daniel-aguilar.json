@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "daniel-aguilar",
+    "nome": "Daniel Aguilar",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/daniel-aguilar.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "12/12/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 56,
+    "chuteLongo": 52,
+    "passeCurto": 52,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 60,
+    "drible": 62,
+    "controleBola": 61,
+    "dominio": 52,
+    "curva": 59,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 63,
+    "explosao": 59,
+    "agilidade": 61,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 49,
+    "desarme": 47,
+    "interceptacao": 47,
+    "posicionamentoDefensivo": 49,
+    "pressao": 48,
+    "cobertura": 47,
+    "empenhoTatico": 45
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 61,
+    "frieza": 56,
+    "concentracao": 58,
+    "regularidade": 55,
+    "ansiedade": 37,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 67,
+    "profissionalismo": 73,
+    "lealdade": 56,
+    "catimba": 57,
+    "violencia": 45,
+    "disciplina": 71,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 46,
+    "momentoHeroico": 48,
+    "supersub": 58,
+    "decisivo": 52,
+    "provocador": 57,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 62,
+    "tendenciaChute": 56,
+    "tendenciaPasse": 52,
+    "tendenciaMarcacao": 48,
+    "movimentacaoOfensiva": 61,
+    "recomposicao": 50,
+    "participacaoJogo": 58,
+    "intensidade": 51,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/daniel-aguilar/profil/spieler/1105524",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/daniel-aguilar.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "fabri",
+    "nome": "Fabri",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/fabri.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil",
+      "espanha"
+    ],
+    "dataNascimento": "08/10/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€900k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 68,
+    "reputacao": 65,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 59,
+    "passeCurto": 59,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 64,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 65,
+    "cabecamento": 64,
+    "voleio": 67,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 61,
+    "explosao": 65,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 63,
+    "impulsao": 61,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 45,
+    "desarme": 49,
+    "interceptacao": 49,
+    "posicionamentoDefensivo": 50,
+    "pressao": 49,
+    "cobertura": 49,
+    "empenhoTatico": 46
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 62,
+    "decisao": 67,
+    "visaoJogo": 62,
+    "compostura": 67,
+    "frieza": 63,
+    "concentracao": 65,
+    "regularidade": 66,
+    "ansiedade": 40,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 63,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 71,
+    "profissionalismo": 61,
+    "lealdade": 48,
+    "catimba": 54,
+    "violencia": 47,
+    "disciplina": 65,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 52,
+    "momentoHeroico": 45,
+    "supersub": 57,
+    "decisivo": 53,
+    "provocador": 47,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 67,
+    "tendenciaPasse": 59,
+    "tendenciaMarcacao": 47,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 54,
+    "participacaoJogo": 64,
+    "intensidade": 55,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/fabri/profil/spieler/642589",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/espanha.json"
+    ],
+    "foto": "dados/images/players/brasil/fabri.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "claudio-spinelli",
+    "nome": "Claudio Spinelli",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/claudio-spinelli.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "21/01/1997",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "77"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 72,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 69,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 67,
+    "cabecamento": 71,
+    "voleio": 66,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 64,
+    "explosao": 71,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 67,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 52,
+    "desarme": 47,
+    "interceptacao": 47,
+    "posicionamentoDefensivo": 51,
+    "pressao": 53,
+    "cobertura": 51,
+    "empenhoTatico": 47
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 65,
+    "visaoJogo": 65,
+    "compostura": 66,
+    "frieza": 68,
+    "concentracao": 65,
+    "regularidade": 67,
+    "ansiedade": 30,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 71,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 55,
+    "profissionalismo": 75,
+    "lealdade": 50,
+    "catimba": 58,
+    "violencia": 22,
+    "disciplina": 69,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 48,
+    "momentoHeroico": 40,
+    "supersub": 57,
+    "decisivo": 47,
+    "provocador": 33,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 72,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 52,
+    "movimentacaoOfensiva": 67,
+    "recomposicao": 56,
+    "participacaoJogo": 67,
+    "intensidade": 58,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/claudio-spinelli/profil/spieler/504882",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/claudio-spinelli.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

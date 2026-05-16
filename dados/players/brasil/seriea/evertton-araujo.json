@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "evertton-araujo",
+    "nome": "Evertton Araújo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/evertton-araujo.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "28/02/2003",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "52"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 79,
+    "reputacao": 73,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 74,
+    "passeLongo": 76,
+    "visao": 74,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 75,
+    "forca": 78,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 74,
+    "desarme": 77,
+    "interceptacao": 74,
+    "posicionamentoDefensivo": 75,
+    "pressao": 75,
+    "cobertura": 78,
+    "empenhoTatico": 77
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 70,
+    "decisao": 74,
+    "visaoJogo": 70,
+    "compostura": 75,
+    "frieza": 73,
+    "concentracao": 72,
+    "regularidade": 72,
+    "ansiedade": 26,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 71,
+    "trabalhoEquipe": 75
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 68,
+    "profissionalismo": 67,
+    "lealdade": 61,
+    "catimba": 64,
+    "violencia": 33,
+    "disciplina": 76,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 47,
+    "momentoHeroico": 46,
+    "supersub": 43,
+    "decisivo": 50,
+    "provocador": 56,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 74,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 73,
+    "participacaoJogo": 74,
+    "intensidade": 75,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/evertton-araujo/profil/spieler/931007",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/evertton-araujo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

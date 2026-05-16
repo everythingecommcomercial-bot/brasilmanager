@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "fernando",
+    "nome": "Fernando",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/fernando.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "01/03/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 68,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 67,
+    "cabecamento": 71,
+    "voleio": 68,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 64,
+    "explosao": 68,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 69,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 51,
+    "desarme": 49,
+    "interceptacao": 48,
+    "posicionamentoDefensivo": 53,
+    "pressao": 52,
+    "cobertura": 50,
+    "empenhoTatico": 51
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 65,
+    "decisao": 67,
+    "visaoJogo": 65,
+    "compostura": 67,
+    "frieza": 70,
+    "concentracao": 68,
+    "regularidade": 68,
+    "ansiedade": 27,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 65,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 67,
+    "profissionalismo": 60,
+    "lealdade": 59,
+    "catimba": 50,
+    "violencia": 24,
+    "disciplina": 66,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 52,
+    "momentoHeroico": 48,
+    "supersub": 62,
+    "decisivo": 57,
+    "provocador": 34,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 52,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 58,
+    "participacaoJogo": 66,
+    "intensidade": 58,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/fernando/profil/spieler/550495",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/fernando.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

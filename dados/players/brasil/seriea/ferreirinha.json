@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ferreirinha",
+    "nome": "Ferreirinha",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ferreirinha.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "31/12/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 76,
+    "drible": 81,
+    "controleBola": 78,
+    "dominio": 67,
+    "curva": 74,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 76,
+    "aceleracao": 76,
+    "explosao": 76,
+    "agilidade": 80,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 62,
+    "desarme": 58,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 62,
+    "pressao": 58,
+    "cobertura": 58,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 70,
+    "decisao": 75,
+    "visaoJogo": 70,
+    "compostura": 71,
+    "frieza": 73,
+    "concentracao": 73,
+    "regularidade": 74,
+    "ansiedade": 30,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 67,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 64,
+    "profissionalismo": 65,
+    "lealdade": 60,
+    "catimba": 53,
+    "violencia": 37,
+    "disciplina": 67,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 51,
+    "momentoHeroico": 52,
+    "supersub": 44,
+    "decisivo": 56,
+    "provocador": 42,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 81,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 66,
+    "participacaoJogo": 71,
+    "intensidade": 64,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ferreirinha/profil/spieler/689017",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/ferreirinha.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

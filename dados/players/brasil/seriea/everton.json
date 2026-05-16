@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "everton",
+    "nome": "Everton",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/everton.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil",
+      "portugal"
+    ],
+    "dataNascimento": "10/04/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "26"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€300k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 61,
+    "reputacao": 61,
+    "potencialMidia": 61
+  },
+  "tecnicos": {
+    "finalizacao": 55,
+    "chuteLongo": 55,
+    "passeCurto": 61,
+    "passeLongo": 55,
+    "visao": 55,
+    "cruzamento": 66,
+    "drible": 58,
+    "controleBola": 55,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 55,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 68,
+    "aceleracao": 66,
+    "explosao": 57,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 64,
+    "forca": 57,
+    "impulsao": 57,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 64,
+    "desarme": 63,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 61,
+    "pressao": 65,
+    "cobertura": 63,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 58,
+    "decisao": 63,
+    "visaoJogo": 58,
+    "compostura": 61,
+    "frieza": 58,
+    "concentracao": 62,
+    "regularidade": 62,
+    "ansiedade": 43,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 59,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 65,
+    "profissionalismo": 65,
+    "lealdade": 54,
+    "catimba": 50,
+    "violencia": 35,
+    "disciplina": 71,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 47,
+    "momentoHeroico": 52,
+    "supersub": 54,
+    "decisivo": 52,
+    "provocador": 54,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 61,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 50,
+    "tendenciaChute": 47,
+    "tendenciaPasse": 58,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 59,
+    "recomposicao": 61,
+    "participacaoJogo": 62,
+    "intensidade": 64,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/everton/profil/spieler/856990",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/portugal.json"
+    ],
+    "foto": "dados/images/players/brasil/everton.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "cristian-pavon",
+    "nome": "Cristian Pavón",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/cristian-pavon.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "21/01/1996",
+    "idade": 30,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.70m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 68,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 69,
+    "drible": 67,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 72,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 70,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 73
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 68,
+    "interceptacao": 72,
+    "posicionamentoDefensivo": 71,
+    "pressao": 68,
+    "cobertura": 69,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 65,
+    "decisao": 70,
+    "visaoJogo": 65,
+    "compostura": 68,
+    "frieza": 64,
+    "concentracao": 69,
+    "regularidade": 68,
+    "ansiedade": 36,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 69,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 58,
+    "profissionalismo": 68,
+    "lealdade": 64,
+    "catimba": 59,
+    "violencia": 45,
+    "disciplina": 69,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 50,
+    "momentoHeroico": 49,
+    "supersub": 53,
+    "decisivo": 50,
+    "provocador": 49,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 1,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 69,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 72,
+    "participacaoJogo": 68,
+    "intensidade": 69,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/cristian-pavon/profil/spieler/373170",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/cristian-pavon.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

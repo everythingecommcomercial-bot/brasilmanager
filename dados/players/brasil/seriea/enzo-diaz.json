@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "enzo-diaz",
+    "nome": "Enzo Díaz",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/enzo-diaz.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "07/12/1995",
+    "idade": 30,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "13"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 71,
+    "reputacao": 71,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 69,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 72,
+    "drible": 70,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 77,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 76,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 77
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 74,
+    "interceptacao": 73,
+    "posicionamentoDefensivo": 75,
+    "pressao": 70,
+    "cobertura": 73,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 70,
+    "frieza": 69,
+    "concentracao": 74,
+    "regularidade": 69,
+    "ansiedade": 25,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 73,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 64,
+    "profissionalismo": 74,
+    "lealdade": 52,
+    "catimba": 57,
+    "violencia": 21,
+    "disciplina": 74,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 42,
+    "momentoHeroico": 40,
+    "supersub": 46,
+    "decisivo": 45,
+    "provocador": 38,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 72
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 1,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 62,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 67,
+    "recomposicao": 74,
+    "participacaoJogo": 73,
+    "intensidade": 73,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/enzo-diaz/profil/spieler/540458",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/enzo-diaz.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "cristian-olivera",
+    "nome": "Cristian Olivera",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/cristian-olivera.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "uruguai"
+    ],
+    "dataNascimento": "17/04/2002",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "99"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 76,
+    "reputacao": 73,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 74,
+    "drible": 81,
+    "controleBola": 79,
+    "dominio": 67,
+    "curva": 76,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 76,
+    "aceleracao": 80,
+    "explosao": 78,
+    "agilidade": 81,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 64,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 61,
+    "pressao": 60,
+    "cobertura": 64,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 73,
+    "frieza": 72,
+    "concentracao": 74,
+    "regularidade": 70,
+    "ansiedade": 28,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 68,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 69,
+    "profissionalismo": 62,
+    "lealdade": 65,
+    "catimba": 57,
+    "violencia": 21,
+    "disciplina": 61,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 52,
+    "momentoHeroico": 39,
+    "supersub": 61,
+    "decisivo": 61,
+    "provocador": 38,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 78
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 81,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 75,
+    "recomposicao": 64,
+    "participacaoJogo": 72,
+    "intensidade": 64,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/cristian-olivera/profil/spieler/657746",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json"
+    ],
+    "foto": "dados/images/players/brasil/cristian-olivera.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

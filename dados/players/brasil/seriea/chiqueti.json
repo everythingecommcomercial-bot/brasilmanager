@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "chiqueti",
+    "nome": "Chiqueti",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/chiqueti.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "02/09/2005",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "47"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 70,
+    "potencial": 79,
+    "reputacao": 70,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 64,
+    "passeCurto": 76,
+    "passeLongo": 64,
+    "visao": 75,
+    "cruzamento": 64,
+    "drible": 75,
+    "controleBola": 75,
+    "dominio": 64,
+    "curva": 64,
+    "cobrancaFalta": 73,
+    "penalti": 64,
+    "cabecamento": 64,
+    "voleio": 64,
+    "acrobacia": 64
+  },
+  "fisicos": {
+    "velocidade": 66,
+    "aceleracao": 66,
+    "explosao": 66,
+    "agilidade": 66,
+    "equilibrio": 66,
+    "resistencia": 66,
+    "forca": 66,
+    "impulsao": 66,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 56,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 59,
+    "pressao": 55,
+    "cobertura": 57,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 74,
+    "decisao": 69,
+    "visaoJogo": 73,
+    "compostura": 69,
+    "frieza": 71,
+    "concentracao": 67,
+    "regularidade": 67,
+    "ansiedade": 24,
+    "agressividade": 67,
+    "coragem": 67,
+    "lideranca": 68,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 74,
+    "profissionalismo": 63,
+    "lealdade": 53,
+    "catimba": 55,
+    "violencia": 22,
+    "disciplina": 72,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 49,
+    "momentoHeroico": 41,
+    "supersub": 46,
+    "decisivo": 45,
+    "provocador": 42,
+    "batedorPenaltis": 64,
+    "cobradorFalta": 73,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 50,
+    "confianca": 55,
+    "formaAtual": 55,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 75,
+    "tendenciaChute": 68,
+    "tendenciaPasse": 76,
+    "tendenciaMarcacao": 57,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 62,
+    "participacaoJogo": 68,
+    "intensidade": 60,
+    "riscoCriativo": 75
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/chiqueti/profil/spieler/1094387",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/chiqueti.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel-leite",
+    "nome": "Gabriel Leite",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-leite.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "28/12/1987",
+    "idade": 38,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "87"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 56,
+    "potencial": 56,
+    "reputacao": 56,
+    "potencialMidia": 56
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 19,
+    "passeCurto": 43,
+    "passeLongo": 41,
+    "visao": 24,
+    "cruzamento": 19,
+    "drible": 19,
+    "controleBola": 25,
+    "dominio": 30,
+    "curva": 28,
+    "cobrancaFalta": 21,
+    "penalti": 20,
+    "cabecamento": 23,
+    "voleio": 21,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 52,
+    "aceleracao": 52,
+    "explosao": 52,
+    "agilidade": 60,
+    "equilibrio": 52,
+    "resistencia": 52,
+    "forca": 58,
+    "impulsao": 55,
+    "stamina": 52
+  },
+  "defensivos": {
+    "marcacao": 15,
+    "desarme": 19,
+    "interceptacao": 20,
+    "posicionamentoDefensivo": 17,
+    "pressao": 22,
+    "cobertura": 17,
+    "empenhoTatico": 21
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 53,
+    "decisao": 59,
+    "visaoJogo": 53,
+    "compostura": 53,
+    "frieza": 53,
+    "concentracao": 58,
+    "regularidade": 55,
+    "ansiedade": 38,
+    "agressividade": 53,
+    "coragem": 53,
+    "lideranca": 55,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 62,
+    "profissionalismo": 75,
+    "lealdade": 54,
+    "catimba": 49,
+    "violencia": 45,
+    "disciplina": 74,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 47,
+    "momentoHeroico": 43,
+    "supersub": 54,
+    "decisivo": 47,
+    "provocador": 57,
+    "batedorPenaltis": 20,
+    "cobradorFalta": 21,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 63,
+    "defesa": 60,
+    "posicionamentoGol": 56,
+    "saidaGol": 58,
+    "jogoPes": 53,
+    "reposicao": 50,
+    "pegadorPenaltis": 55
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 56,
+    "decadenciaFisica": 9,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 11,
+    "tendenciaChute": 11,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 18,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 36,
+    "participacaoJogo": 54,
+    "intensidade": 37,
+    "riscoCriativo": 32
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-leite/profil/spieler/54336",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-leite.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

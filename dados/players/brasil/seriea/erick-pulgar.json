@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "erick-pulgar",
+    "nome": "Erick Pulgar",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/erick-pulgar.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "chile"
+    ],
+    "dataNascimento": "15/01/1994",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "5"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 73,
+    "reputacao": 73,
+    "potencialMidia": 73
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 74,
+    "passeLongo": 77,
+    "visao": 71,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 79,
+    "forca": 75,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 74,
+    "desarme": 74,
+    "interceptacao": 73,
+    "posicionamentoDefensivo": 75,
+    "pressao": 74,
+    "cobertura": 77,
+    "empenhoTatico": 77
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 75,
+    "frieza": 75,
+    "concentracao": 72,
+    "regularidade": 68,
+    "ansiedade": 26,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 73,
+    "trabalhoEquipe": 75
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 60,
+    "profissionalismo": 65,
+    "lealdade": 65,
+    "catimba": 50,
+    "violencia": 31,
+    "disciplina": 61,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 45,
+    "momentoHeroico": 39,
+    "supersub": 46,
+    "decisivo": 58,
+    "provocador": 41,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 73,
+    "participacaoJogo": 76,
+    "intensidade": 76,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/erick-pulgar/profil/spieler/215616",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/chile.json"
+    ],
+    "foto": "dados/images/players/brasil/erick-pulgar.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

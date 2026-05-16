@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "dell",
+    "nome": "Dell",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/dell.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "09/06/2008",
+    "idade": 17,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "89"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 70,
+    "potencial": 82,
+    "reputacao": 70,
+    "potencialMidia": 87
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 64,
+    "passeCurto": 64,
+    "passeLongo": 64,
+    "visao": 64,
+    "cruzamento": 64,
+    "drible": 64,
+    "controleBola": 71,
+    "dominio": 64,
+    "curva": 64,
+    "cobrancaFalta": 64,
+    "penalti": 72,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 64
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 66,
+    "explosao": 74,
+    "agilidade": 66,
+    "equilibrio": 66,
+    "resistencia": 66,
+    "forca": 74,
+    "impulsao": 66,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 50,
+    "interceptacao": 52,
+    "posicionamentoDefensivo": 51,
+    "pressao": 54,
+    "cobertura": 52,
+    "empenhoTatico": 51
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 67,
+    "decisao": 68,
+    "visaoJogo": 67,
+    "compostura": 72,
+    "frieza": 70,
+    "concentracao": 72,
+    "regularidade": 71,
+    "ansiedade": 32,
+    "agressividade": 67,
+    "coragem": 67,
+    "lideranca": 68,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 80,
+    "profissionalismo": 71,
+    "lealdade": 68,
+    "catimba": 52,
+    "violencia": 35,
+    "disciplina": 75,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 47,
+    "momentoHeroico": 52,
+    "supersub": 60,
+    "decisivo": 50,
+    "provocador": 35,
+    "batedorPenaltis": 72,
+    "cobradorFalta": 64,
+    "especialistaEscanteio": 67
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 50,
+    "confianca": 55,
+    "formaAtual": 55,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 82,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 56,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 58,
+    "participacaoJogo": 69,
+    "intensidade": 60,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/dell/profil/spieler/1328021",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/dell.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

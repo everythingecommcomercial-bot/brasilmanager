@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "david-terans",
+    "nome": "David Terans",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/david-terans.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "uruguai"
+    ],
+    "dataNascimento": "11/08/1994",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 62,
+    "passeCurto": 73,
+    "passeLongo": 62,
+    "visao": 70,
+    "cruzamento": 62,
+    "drible": 73,
+    "controleBola": 74,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 65,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 56,
+    "desarme": 53,
+    "interceptacao": 53,
+    "posicionamentoDefensivo": 56,
+    "pressao": 55,
+    "cobertura": 54,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 76,
+    "decisao": 71,
+    "visaoJogo": 71,
+    "compostura": 67,
+    "frieza": 69,
+    "concentracao": 67,
+    "regularidade": 66,
+    "ansiedade": 27,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 66,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 62,
+    "profissionalismo": 74,
+    "lealdade": 50,
+    "catimba": 53,
+    "violencia": 34,
+    "disciplina": 76,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 43,
+    "momentoHeroico": 41,
+    "supersub": 44,
+    "decisivo": 52,
+    "provocador": 51,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 73,
+    "tendenciaChute": 67,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 62,
+    "participacaoJogo": 67,
+    "intensidade": 60,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/david-terans/profil/spieler/261309",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json"
+    ],
+    "foto": "dados/images/players/brasil/david-terans.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

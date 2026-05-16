@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "fabrizio-angileri",
+    "nome": "Fabrizio Angileri",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/fabrizio-angileri.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "argentina",
+      "italia"
+    ],
+    "dataNascimento": "15/03/1994",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "26"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€500k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 65,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 65,
+    "drible": 67,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 68,
+    "aceleracao": 73,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 67,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 64,
+    "interceptacao": 64,
+    "posicionamentoDefensivo": 64,
+    "pressao": 63,
+    "cobertura": 66,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 62,
+    "decisao": 66,
+    "visaoJogo": 62,
+    "compostura": 63,
+    "frieza": 63,
+    "concentracao": 62,
+    "regularidade": 62,
+    "ansiedade": 30,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 65,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 59,
+    "profissionalismo": 75,
+    "lealdade": 64,
+    "catimba": 54,
+    "violencia": 39,
+    "disciplina": 61,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 47,
+    "momentoHeroico": 46,
+    "supersub": 62,
+    "decisivo": 50,
+    "provocador": 33,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 65,
+    "participacaoJogo": 65,
+    "intensidade": 65,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/fabrizio-angileri/profil/spieler/268506",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/fabrizio-angileri.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

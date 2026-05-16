@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "erick-pulga",
+    "nome": "Erick Pulga",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/erick-pulga.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "02/10/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "16"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€11.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 78,
+    "reputacao": 80,
+    "potencialMidia": 78
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 69,
+    "passeCurto": 69,
+    "passeLongo": 69,
+    "visao": 69,
+    "cruzamento": 76,
+    "drible": 83,
+    "controleBola": 80,
+    "dominio": 69,
+    "curva": 77,
+    "cobrancaFalta": 69,
+    "penalti": 69,
+    "cabecamento": 69,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 79,
+    "aceleracao": 80,
+    "explosao": 81,
+    "agilidade": 78,
+    "equilibrio": 71,
+    "resistencia": 71,
+    "forca": 71,
+    "impulsao": 71,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 60,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 64,
+    "pressao": 66,
+    "cobertura": 66,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 72,
+    "decisao": 75,
+    "visaoJogo": 72,
+    "compostura": 74,
+    "frieza": 72,
+    "concentracao": 76,
+    "regularidade": 76,
+    "ansiedade": 21,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 70,
+    "trabalhoEquipe": 76
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 68,
+    "profissionalismo": 68,
+    "lealdade": 51,
+    "catimba": 49,
+    "violencia": 21,
+    "disciplina": 71,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 46,
+    "momentoHeroico": 51,
+    "supersub": 58,
+    "decisivo": 53,
+    "provocador": 34,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 80
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 78,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 83,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 69,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 78,
+    "recomposicao": 68,
+    "participacaoJogo": 74,
+    "intensidade": 68,
+    "riscoCriativo": 75
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/erick-pulga/profil/spieler/936544",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/erick-pulga.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

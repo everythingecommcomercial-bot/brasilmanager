@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "erick-noriega",
+    "nome": "Erick Noriega",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/erick-noriega.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "peru"
+    ],
+    "dataNascimento": "22/10/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "19"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 71,
+    "passeLongo": 73,
+    "visao": 71,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 71,
+    "forca": 70,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 77,
+    "desarme": 76,
+    "interceptacao": 71,
+    "posicionamentoDefensivo": 71,
+    "pressao": 74,
+    "cobertura": 77,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 68,
+    "decisao": 73,
+    "visaoJogo": 68,
+    "compostura": 69,
+    "frieza": 71,
+    "concentracao": 69,
+    "regularidade": 70,
+    "ansiedade": 24,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 66,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 70,
+    "profissionalismo": 76,
+    "lealdade": 64,
+    "catimba": 56,
+    "violencia": 30,
+    "disciplina": 69,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 44,
+    "momentoHeroico": 45,
+    "supersub": 61,
+    "decisivo": 50,
+    "provocador": 58,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 71,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 69,
+    "participacaoJogo": 72,
+    "intensidade": 72,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/erick-noriega/profil/spieler/723853",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/peru.json"
+    ],
+    "foto": "dados/images/players/brasil/erick-noriega.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel-delfim",
+    "nome": "Gabriel Delfim",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-delfim.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/07/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€300k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 67,
+    "reputacao": 61,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 31,
+    "passeCurto": 44,
+    "passeLongo": 46,
+    "visao": 31,
+    "cruzamento": 22,
+    "drible": 26,
+    "controleBola": 25,
+    "dominio": 25,
+    "curva": 28,
+    "cobrancaFalta": 20,
+    "penalti": 29,
+    "cabecamento": 25,
+    "voleio": 20,
+    "acrobacia": 25
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 65,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 59,
+    "impulsao": 64,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 22,
+    "desarme": 20,
+    "interceptacao": 15,
+    "posicionamentoDefensivo": 22,
+    "pressao": 17,
+    "cobertura": 25,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 58,
+    "decisao": 58,
+    "visaoJogo": 58,
+    "compostura": 62,
+    "frieza": 61,
+    "concentracao": 61,
+    "regularidade": 61,
+    "ansiedade": 43,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 56,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 76,
+    "profissionalismo": 60,
+    "lealdade": 60,
+    "catimba": 63,
+    "violencia": 48,
+    "disciplina": 72,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 52,
+    "momentoHeroico": 52,
+    "supersub": 60,
+    "decisivo": 43,
+    "provocador": 36,
+    "batedorPenaltis": 29,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 64,
+    "defesa": 65,
+    "posicionamentoGol": 64,
+    "saidaGol": 58,
+    "jogoPes": 55,
+    "reposicao": 57,
+    "pegadorPenaltis": 58
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 18,
+    "tendenciaChute": 23,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 40,
+    "participacaoJogo": 59,
+    "intensidade": 37,
+    "riscoCriativo": 38
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-delfim/profil/spieler/978121",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-delfim.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

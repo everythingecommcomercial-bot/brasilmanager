@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "francis-amuzu",
+    "nome": "Francis Amuzu",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/francis-amuzu.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "gana",
+      "belgica"
+    ],
+    "dataNascimento": "23/08/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "9"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 75,
+    "reputacao": 74,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 68,
+    "passeCurto": 68,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 77,
+    "drible": 78,
+    "controleBola": 80,
+    "dominio": 68,
+    "curva": 72,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 81,
+    "aceleracao": 83,
+    "explosao": 76,
+    "agilidade": 82,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 60,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 63,
+    "pressao": 63,
+    "cobertura": 62,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 71,
+    "decisao": 72,
+    "visaoJogo": 71,
+    "compostura": 71,
+    "frieza": 72,
+    "concentracao": 77,
+    "regularidade": 69,
+    "ansiedade": 20,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 72,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 58,
+    "profissionalismo": 60,
+    "lealdade": 62,
+    "catimba": 44,
+    "violencia": 47,
+    "disciplina": 64,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 49,
+    "momentoHeroico": 50,
+    "supersub": 43,
+    "decisivo": 55,
+    "provocador": 45,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 72
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 75,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 78,
+    "tendenciaChute": 71,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 66,
+    "participacaoJogo": 73,
+    "intensidade": 66,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/francis-amuzu/profil/spieler/423604",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/gana.json",
+      "dados/selecoes/paises/belgica.json"
+    ],
+    "foto": "dados/images/players/brasil/francis-amuzu.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

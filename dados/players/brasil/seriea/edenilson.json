@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "edenilson",
+    "nome": "Edenilson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/edenilson.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "18/12/1989",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "88"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€300k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 53,
+    "chuteLongo": 53,
+    "passeCurto": 60,
+    "passeLongo": 60,
+    "visao": 62,
+    "cruzamento": 53,
+    "drible": 53,
+    "controleBola": 62,
+    "dominio": 53,
+    "curva": 53,
+    "cobrancaFalta": 53,
+    "penalti": 53,
+    "cabecamento": 53,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 55,
+    "equilibrio": 55,
+    "resistencia": 64,
+    "forca": 55,
+    "impulsao": 55,
+    "stamina": 58
+  },
+  "defensivos": {
+    "marcacao": 51,
+    "desarme": 51,
+    "interceptacao": 51,
+    "posicionamentoDefensivo": 51,
+    "pressao": 61,
+    "cobertura": 51,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 56,
+    "decisao": 59,
+    "visaoJogo": 56,
+    "compostura": 62,
+    "frieza": 57,
+    "concentracao": 60,
+    "regularidade": 58,
+    "ansiedade": 42,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 57,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 55,
+    "profissionalismo": 62,
+    "lealdade": 66,
+    "catimba": 66,
+    "violencia": 33,
+    "disciplina": 64,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 47,
+    "momentoHeroico": 41,
+    "supersub": 52,
+    "decisivo": 50,
+    "provocador": 37,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 7,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 45,
+    "tendenciaChute": 45,
+    "tendenciaPasse": 61,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 60,
+    "participacaoJogo": 62,
+    "intensidade": 62,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/edenilson/profil/spieler/169052",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/edenilson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

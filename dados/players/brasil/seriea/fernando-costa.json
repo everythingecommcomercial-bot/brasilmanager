@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "fernando-costa",
+    "nome": "Fernando Costa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/fernando-costa.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil",
+      "portugal"
+    ],
+    "dataNascimento": "01/02/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "24"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 26,
+    "chuteLongo": 19,
+    "passeCurto": 44,
+    "passeLongo": 45,
+    "visao": 19,
+    "cruzamento": 23,
+    "drible": 27,
+    "controleBola": 22,
+    "dominio": 28,
+    "curva": 20,
+    "cobrancaFalta": 26,
+    "penalti": 22,
+    "cabecamento": 19,
+    "voleio": 28,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 62,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 59,
+    "impulsao": 62,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 21,
+    "desarme": 15,
+    "interceptacao": 23,
+    "posicionamentoDefensivo": 20,
+    "pressao": 20,
+    "cobertura": 19,
+    "empenhoTatico": 16
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 58,
+    "frieza": 55,
+    "concentracao": 59,
+    "regularidade": 57,
+    "ansiedade": 46,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 69,
+    "profissionalismo": 66,
+    "lealdade": 48,
+    "catimba": 52,
+    "violencia": 37,
+    "disciplina": 68,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 42,
+    "momentoHeroico": 40,
+    "supersub": 50,
+    "decisivo": 50,
+    "provocador": 54,
+    "batedorPenaltis": 22,
+    "cobradorFalta": 26,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 64,
+    "defesa": 59,
+    "posicionamentoGol": 59,
+    "saidaGol": 57,
+    "jogoPes": 55,
+    "reposicao": 54,
+    "pegadorPenaltis": 59
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 19,
+    "tendenciaChute": 11,
+    "tendenciaPasse": 32,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 35,
+    "participacaoJogo": 56,
+    "intensidade": 37,
+    "riscoCriativo": 34
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/fernando-costa/profil/spieler/1084076",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/portugal.json"
+    ],
+    "foto": "dados/images/players/brasil/fernando-costa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

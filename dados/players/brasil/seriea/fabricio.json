@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "fabricio",
+    "nome": "Fabrício",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/fabricio.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "15/06/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "37"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€100k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 64,
+    "reputacao": 61,
+    "potencialMidia": 64
+  },
+  "tecnicos": {
+    "finalizacao": 21,
+    "chuteLongo": 28,
+    "passeCurto": 45,
+    "passeLongo": 52,
+    "visao": 26,
+    "cruzamento": 31,
+    "drible": 31,
+    "controleBola": 25,
+    "dominio": 31,
+    "curva": 23,
+    "cobrancaFalta": 27,
+    "penalti": 21,
+    "cabecamento": 27,
+    "voleio": 19,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 64,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 62,
+    "impulsao": 61,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 20,
+    "desarme": 23,
+    "interceptacao": 20,
+    "posicionamentoDefensivo": 15,
+    "pressao": 15,
+    "cobertura": 18,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 58,
+    "decisao": 58,
+    "visaoJogo": 58,
+    "compostura": 59,
+    "frieza": 61,
+    "concentracao": 59,
+    "regularidade": 57,
+    "ansiedade": 37,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 58,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 71,
+    "profissionalismo": 63,
+    "lealdade": 64,
+    "catimba": 57,
+    "violencia": 36,
+    "disciplina": 66,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 50,
+    "momentoHeroico": 43,
+    "supersub": 57,
+    "decisivo": 50,
+    "provocador": 53,
+    "batedorPenaltis": 21,
+    "cobradorFalta": 27,
+    "especialistaEscanteio": 27
+  },
+  "goleiro": {
+    "reflexos": 62,
+    "defesa": 67,
+    "posicionamentoGol": 63,
+    "saidaGol": 60,
+    "jogoPes": 53,
+    "reposicao": 58,
+    "pegadorPenaltis": 64
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 23,
+    "tendenciaChute": 20,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 18,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 36,
+    "participacaoJogo": 59,
+    "intensidade": 36,
+    "riscoCriativo": 38
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/fabricio/profil/spieler/722457",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/fabricio.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

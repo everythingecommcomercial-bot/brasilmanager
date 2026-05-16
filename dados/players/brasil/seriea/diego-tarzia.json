@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "diego-tarzia",
+    "nome": "Diego Tarzia",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/diego-tarzia.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "26/04/2003",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "12"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 74,
+    "reputacao": 68,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 73,
+    "drible": 74,
+    "controleBola": 71,
+    "dominio": 62,
+    "curva": 70,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 74,
+    "explosao": 73,
+    "agilidade": 76,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 58,
+    "desarme": 58,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 57,
+    "pressao": 57,
+    "cobertura": 58,
+    "empenhoTatico": 57
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 65,
+    "decisao": 65,
+    "visaoJogo": 65,
+    "compostura": 70,
+    "frieza": 70,
+    "concentracao": 69,
+    "regularidade": 65,
+    "ansiedade": 33,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 65,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 69,
+    "profissionalismo": 66,
+    "lealdade": 66,
+    "catimba": 44,
+    "violencia": 37,
+    "disciplina": 60,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 52,
+    "momentoHeroico": 51,
+    "supersub": 54,
+    "decisivo": 46,
+    "provocador": 38,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 71,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 60,
+    "participacaoJogo": 66,
+    "intensidade": 60,
+    "riscoCriativo": 67
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/diego-tarzia/profil/spieler/1225755",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/diego-tarzia.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

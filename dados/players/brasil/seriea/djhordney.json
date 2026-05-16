@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "djhordney",
+    "nome": "Djhordney",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/djhordney.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "17/06/2007",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "48"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 59,
+    "passeLongo": 60,
+    "visao": 63,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 59,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 57,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 59
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 50,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 50,
+    "pressao": 61,
+    "cobertura": 50,
+    "empenhoTatico": 57
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 57,
+    "concentracao": 58,
+    "regularidade": 53,
+    "ansiedade": 47,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 54,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 79,
+    "profissionalismo": 69,
+    "lealdade": 62,
+    "catimba": 65,
+    "violencia": 31,
+    "disciplina": 72,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 51,
+    "momentoHeroico": 47,
+    "supersub": 50,
+    "decisivo": 51,
+    "provocador": 49,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 53
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 61,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 58,
+    "recomposicao": 58,
+    "participacaoJogo": 57,
+    "intensidade": 59,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/djhordney/profil/spieler/1383716",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/djhordney.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

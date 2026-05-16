@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel-grando",
+    "nome": "Gabriel Grando",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-grando.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "29/03/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "12"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 19,
+    "passeCurto": 56,
+    "passeLongo": 58,
+    "visao": 20,
+    "cruzamento": 28,
+    "drible": 21,
+    "controleBola": 19,
+    "dominio": 30,
+    "curva": 19,
+    "cobrancaFalta": 27,
+    "penalti": 22,
+    "cabecamento": 23,
+    "voleio": 21,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 70,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 69,
+    "impulsao": 73,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 18,
+    "desarme": 20,
+    "interceptacao": 18,
+    "posicionamentoDefensivo": 24,
+    "pressao": 19,
+    "cobertura": 17,
+    "empenhoTatico": 19
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 65,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 66,
+    "concentracao": 71,
+    "regularidade": 63,
+    "ansiedade": 35,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 60,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 67,
+    "profissionalismo": 69,
+    "lealdade": 49,
+    "catimba": 56,
+    "violencia": 38,
+    "disciplina": 66,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 46,
+    "momentoHeroico": 51,
+    "supersub": 52,
+    "decisivo": 53,
+    "provocador": 39,
+    "batedorPenaltis": 22,
+    "cobradorFalta": 27,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 70,
+    "defesa": 72,
+    "posicionamentoGol": 69,
+    "saidaGol": 66,
+    "jogoPes": 66,
+    "reposicao": 63,
+    "pegadorPenaltis": 66
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 13,
+    "tendenciaChute": 11,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 18,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 42,
+    "participacaoJogo": 68,
+    "intensidade": 42,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-grando/profil/spieler/878037",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-grando.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "dudu",
+    "nome": "Dudu",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/dudu.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "07/01/1992",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "92"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 64,
+    "chuteLongo": 60,
+    "passeCurto": 60,
+    "passeLongo": 60,
+    "visao": 60,
+    "cruzamento": 65,
+    "drible": 74,
+    "controleBola": 67,
+    "dominio": 60,
+    "curva": 65,
+    "cobrancaFalta": 60,
+    "penalti": 60,
+    "cabecamento": 60,
+    "voleio": 60,
+    "acrobacia": 60
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 74,
+    "explosao": 70,
+    "agilidade": 71,
+    "equilibrio": 62,
+    "resistencia": 62,
+    "forca": 62,
+    "impulsao": 62,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 56,
+    "desarme": 57,
+    "interceptacao": 54,
+    "posicionamentoDefensivo": 52,
+    "pressao": 54,
+    "cobertura": 57,
+    "empenhoTatico": 51
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 63,
+    "decisao": 69,
+    "visaoJogo": 63,
+    "compostura": 68,
+    "frieza": 65,
+    "concentracao": 68,
+    "regularidade": 65,
+    "ansiedade": 30,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 66,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 62,
+    "profissionalismo": 67,
+    "lealdade": 50,
+    "catimba": 63,
+    "violencia": 49,
+    "disciplina": 74,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 51,
+    "momentoHeroico": 50,
+    "supersub": 45,
+    "decisivo": 45,
+    "provocador": 58,
+    "batedorPenaltis": 60,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 64,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 55,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 56,
+    "participacaoJogo": 64,
+    "intensidade": 58,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/dudu/profil/spieler/114937",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/dudu.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

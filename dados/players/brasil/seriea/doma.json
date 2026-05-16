@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "doma",
+    "nome": "Doma",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/doma.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "29/08/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "3"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€900k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 66,
+    "reputacao": 65,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 40,
+    "chuteLongo": 59,
+    "passeCurto": 61,
+    "passeLongo": 64,
+    "visao": 59,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 68,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 58,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 71,
+    "impulsao": 68,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 68,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 68,
+    "pressao": 67,
+    "cobertura": 68,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 62,
+    "decisao": 68,
+    "visaoJogo": 62,
+    "compostura": 67,
+    "frieza": 64,
+    "concentracao": 64,
+    "regularidade": 63,
+    "ansiedade": 40,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 59,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 60,
+    "profissionalismo": 67,
+    "lealdade": 61,
+    "catimba": 62,
+    "violencia": 23,
+    "disciplina": 71,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 45,
+    "momentoHeroico": 43,
+    "supersub": 58,
+    "decisivo": 43,
+    "provocador": 53,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 57
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 65,
+    "participacaoJogo": 65,
+    "intensidade": 64,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/doma/profil/spieler/698784",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/doma.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

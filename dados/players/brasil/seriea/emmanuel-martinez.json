@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "emmanuel-martinez",
+    "nome": "Emmanuel Martínez",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/emmanuel-martinez.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "04/06/1994",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "6"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 62,
+    "passeCurto": 73,
+    "passeLongo": 62,
+    "visao": 70,
+    "cruzamento": 62,
+    "drible": 71,
+    "controleBola": 70,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 71,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 53,
+    "desarme": 54,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 53,
+    "pressao": 58,
+    "cobertura": 53,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 72,
+    "decisao": 66,
+    "visaoJogo": 74,
+    "compostura": 69,
+    "frieza": 67,
+    "concentracao": 71,
+    "regularidade": 66,
+    "ansiedade": 27,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 68,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 64,
+    "profissionalismo": 62,
+    "lealdade": 63,
+    "catimba": 54,
+    "violencia": 32,
+    "disciplina": 73,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 51,
+    "momentoHeroico": 49,
+    "supersub": 51,
+    "decisivo": 53,
+    "provocador": 54,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 71,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 71,
+    "tendenciaChute": 71,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 61,
+    "participacaoJogo": 67,
+    "intensidade": 61,
+    "riscoCriativo": 71
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/emmanuel-martinez/profil/spieler/360526",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/emmanuel-martinez.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

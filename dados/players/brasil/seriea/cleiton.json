@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "cleiton",
+    "nome": "Cleiton",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/cleiton.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "19/08/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 25,
+    "chuteLongo": 29,
+    "passeCurto": 56,
+    "passeLongo": 64,
+    "visao": 20,
+    "cruzamento": 31,
+    "drible": 22,
+    "controleBola": 27,
+    "dominio": 28,
+    "curva": 28,
+    "cobrancaFalta": 28,
+    "penalti": 28,
+    "cabecamento": 19,
+    "voleio": 29,
+    "acrobacia": 19
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 74,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 74,
+    "impulsao": 73,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 23,
+    "desarme": 15,
+    "interceptacao": 19,
+    "posicionamentoDefensivo": 21,
+    "pressao": 22,
+    "cobertura": 20,
+    "empenhoTatico": 21
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 70,
+    "decisao": 75,
+    "visaoJogo": 70,
+    "compostura": 74,
+    "frieza": 72,
+    "concentracao": 72,
+    "regularidade": 72,
+    "ansiedade": 22,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 67,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 59,
+    "profissionalismo": 63,
+    "lealdade": 60,
+    "catimba": 56,
+    "violencia": 38,
+    "disciplina": 73,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 51,
+    "momentoHeroico": 38,
+    "supersub": 59,
+    "decisivo": 45,
+    "provocador": 33,
+    "batedorPenaltis": 28,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 79,
+    "defesa": 73,
+    "posicionamentoGol": 76,
+    "saidaGol": 70,
+    "jogoPes": 65,
+    "reposicao": 70,
+    "pegadorPenaltis": 74
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 14,
+    "tendenciaChute": 21,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 22,
+    "movimentacaoOfensiva": 51,
+    "recomposicao": 45,
+    "participacaoJogo": 71,
+    "intensidade": 46,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/cleiton/profil/spieler/468247",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/cleiton.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

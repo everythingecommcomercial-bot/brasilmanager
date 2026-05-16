@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "edu-ribeiro",
+    "nome": "Edu Ribeiro",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/edu-ribeiro.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/06/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "43"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€800k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 68,
+    "reputacao": 65,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 42,
+    "chuteLongo": 59,
+    "passeCurto": 61,
+    "passeLongo": 66,
+    "visao": 59,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 72,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 58,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 67,
+    "impulsao": 71,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 68,
+    "interceptacao": 72,
+    "posicionamentoDefensivo": 71,
+    "pressao": 66,
+    "cobertura": 68,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 62,
+    "decisao": 66,
+    "visaoJogo": 62,
+    "compostura": 68,
+    "frieza": 62,
+    "concentracao": 68,
+    "regularidade": 61,
+    "ansiedade": 31,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 61,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 67,
+    "profissionalismo": 64,
+    "lealdade": 65,
+    "catimba": 62,
+    "violencia": 34,
+    "disciplina": 75,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 46,
+    "momentoHeroico": 41,
+    "supersub": 46,
+    "decisivo": 47,
+    "provocador": 49,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 65,
+    "participacaoJogo": 64,
+    "intensidade": 64,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/edu-ribeiro/profil/spieler/371250",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/edu-ribeiro.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

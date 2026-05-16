@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "cristhian-loor",
+    "nome": "Cristhian Loor",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/cristhian-loor.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "equador"
+    ],
+    "dataNascimento": "09/03/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "40"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€350k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 70,
+    "reputacao": 61,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 21,
+    "chuteLongo": 22,
+    "passeCurto": 50,
+    "passeLongo": 52,
+    "visao": 22,
+    "cruzamento": 20,
+    "drible": 29,
+    "controleBola": 20,
+    "dominio": 19,
+    "curva": 22,
+    "cobrancaFalta": 22,
+    "penalti": 23,
+    "cabecamento": 26,
+    "voleio": 29,
+    "acrobacia": 27
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 60,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 58,
+    "impulsao": 65,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 16,
+    "desarme": 25,
+    "interceptacao": 20,
+    "posicionamentoDefensivo": 21,
+    "pressao": 22,
+    "cobertura": 20,
+    "empenhoTatico": 23
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 58,
+    "decisao": 59,
+    "visaoJogo": 58,
+    "compostura": 58,
+    "frieza": 57,
+    "concentracao": 60,
+    "regularidade": 59,
+    "ansiedade": 37,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 53,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 74,
+    "profissionalismo": 76,
+    "lealdade": 50,
+    "catimba": 47,
+    "violencia": 42,
+    "disciplina": 73,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 46,
+    "momentoHeroico": 46,
+    "supersub": 45,
+    "decisivo": 50,
+    "provocador": 36,
+    "batedorPenaltis": 23,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 66,
+    "defesa": 65,
+    "posicionamentoGol": 66,
+    "saidaGol": 59,
+    "jogoPes": 56,
+    "reposicao": 55,
+    "pegadorPenaltis": 60
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 21,
+    "tendenciaChute": 14,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 19,
+    "movimentacaoOfensiva": 40,
+    "recomposicao": 40,
+    "participacaoJogo": 61,
+    "intensidade": 40,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/cristhian-loor/profil/spieler/1074501",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/equador.json"
+    ],
+    "foto": "dados/images/players/brasil/cristhian-loor.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

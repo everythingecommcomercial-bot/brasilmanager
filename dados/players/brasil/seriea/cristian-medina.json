@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "cristian-medina",
+    "nome": "Cristian Medina",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/cristian-medina.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "01/06/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "6"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€9.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 80,
+    "reputacao": 74,
+    "potencialMidia": 85
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 68,
+    "passeCurto": 77,
+    "passeLongo": 79,
+    "visao": 73,
+    "cruzamento": 68,
+    "drible": 68,
+    "controleBola": 73,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 70,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 79,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 66,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 66,
+    "pressao": 75,
+    "cobertura": 66,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 71,
+    "decisao": 77,
+    "visaoJogo": 71,
+    "compostura": 72,
+    "frieza": 76,
+    "concentracao": 72,
+    "regularidade": 72,
+    "ansiedade": 31,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 67,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 74,
+    "profissionalismo": 72,
+    "lealdade": 49,
+    "catimba": 67,
+    "violencia": 48,
+    "disciplina": 74,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 42,
+    "momentoHeroico": 40,
+    "supersub": 59,
+    "decisivo": 56,
+    "provocador": 34,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 80,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 75,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 75,
+    "recomposicao": 74,
+    "participacaoJogo": 75,
+    "intensidade": 77,
+    "riscoCriativo": 71
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/cristian-medina/profil/spieler/661133",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/cristian-medina.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

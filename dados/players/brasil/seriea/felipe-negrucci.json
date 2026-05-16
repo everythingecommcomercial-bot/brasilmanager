@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "felipe-negrucci",
+    "nome": "Felipe Negrucci",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/felipe-negrucci.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "14/05/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "30"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€800k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 71,
+    "reputacao": 65,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 65,
+    "passeLongo": 68,
+    "visao": 64,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 65,
+    "forca": 68,
+    "impulsao": 61,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 67,
+    "interceptacao": 70,
+    "posicionamentoDefensivo": 70,
+    "pressao": 71,
+    "cobertura": 66,
+    "empenhoTatico": 70
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 62,
+    "decisao": 62,
+    "visaoJogo": 62,
+    "compostura": 62,
+    "frieza": 62,
+    "concentracao": 66,
+    "regularidade": 64,
+    "ansiedade": 34,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 60,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 67,
+    "profissionalismo": 62,
+    "lealdade": 54,
+    "catimba": 60,
+    "violencia": 25,
+    "disciplina": 63,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 52,
+    "momentoHeroico": 51,
+    "supersub": 46,
+    "decisivo": 48,
+    "provocador": 35,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 59
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 66,
+    "participacaoJogo": 66,
+    "intensidade": 68,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/felipe-negrucci/profil/spieler/980837",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/felipe-negrucci.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "eduardo-sasha",
+    "nome": "Eduardo Sasha",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/eduardo-sasha.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "24/02/1992",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "8"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 69,
+    "chuteLongo": 60,
+    "passeCurto": 60,
+    "passeLongo": 60,
+    "visao": 60,
+    "cruzamento": 60,
+    "drible": 60,
+    "controleBola": 66,
+    "dominio": 60,
+    "curva": 60,
+    "cobrancaFalta": 60,
+    "penalti": 66,
+    "cabecamento": 65,
+    "voleio": 69,
+    "acrobacia": 60
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 62,
+    "explosao": 70,
+    "agilidade": 62,
+    "equilibrio": 62,
+    "resistencia": 62,
+    "forca": 66,
+    "impulsao": 62,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 48,
+    "desarme": 48,
+    "interceptacao": 49,
+    "posicionamentoDefensivo": 45,
+    "pressao": 45,
+    "cobertura": 45,
+    "empenhoTatico": 49
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 63,
+    "decisao": 65,
+    "visaoJogo": 63,
+    "compostura": 63,
+    "frieza": 67,
+    "concentracao": 63,
+    "regularidade": 61,
+    "ansiedade": 34,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 64,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 64,
+    "profissionalismo": 60,
+    "lealdade": 61,
+    "catimba": 54,
+    "violencia": 28,
+    "disciplina": 76,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 52,
+    "momentoHeroico": 43,
+    "supersub": 59,
+    "decisivo": 53,
+    "provocador": 53,
+    "batedorPenaltis": 66,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 52,
+    "tendenciaChute": 69,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 46,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 56,
+    "participacaoJogo": 64,
+    "intensidade": 54,
+    "riscoCriativo": 61
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/eduardo-sasha/profil/spieler/162883",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/eduardo-sasha.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

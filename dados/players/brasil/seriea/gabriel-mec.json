@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "gabriel-mec",
+    "nome": "Gabriel Mec",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/gabriel-mec.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "11/04/2008",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "37"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€12.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 86,
+    "reputacao": 79,
+    "potencialMidia": 91
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 68,
+    "passeCurto": 80,
+    "passeLongo": 68,
+    "visao": 78,
+    "cruzamento": 68,
+    "drible": 76,
+    "controleBola": 77,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 71,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 70,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 61,
+    "interceptacao": 64,
+    "posicionamentoDefensivo": 63,
+    "pressao": 62,
+    "cobertura": 63,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 82,
+    "decisao": 72,
+    "visaoJogo": 80,
+    "compostura": 76,
+    "frieza": 74,
+    "concentracao": 73,
+    "regularidade": 73,
+    "ansiedade": 23,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 70,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 87,
+    "profissionalismo": 65,
+    "lealdade": 59,
+    "catimba": 64,
+    "violencia": 47,
+    "disciplina": 70,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 54,
+    "momentoHeroico": 50,
+    "supersub": 51,
+    "decisivo": 51,
+    "provocador": 42,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 71,
+    "especialistaEscanteio": 69
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 86,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 76,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 79,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 66,
+    "participacaoJogo": 72,
+    "intensidade": 66,
+    "riscoCriativo": 79
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/gabriel-mec/profil/spieler/1228661",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/gabriel-mec.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

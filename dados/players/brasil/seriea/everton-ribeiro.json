@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "everton-ribeiro",
+    "nome": "Everton Ribeiro",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/everton-ribeiro.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/04/1989",
+    "idade": 37,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 64,
+    "chuteLongo": 60,
+    "passeCurto": 70,
+    "passeLongo": 60,
+    "visao": 69,
+    "cruzamento": 60,
+    "drible": 69,
+    "controleBola": 68,
+    "dominio": 60,
+    "curva": 60,
+    "cobrancaFalta": 63,
+    "penalti": 60,
+    "cabecamento": 60,
+    "voleio": 60,
+    "acrobacia": 60
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 62,
+    "explosao": 62,
+    "agilidade": 62,
+    "equilibrio": 62,
+    "resistencia": 62,
+    "forca": 62,
+    "impulsao": 62,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 54,
+    "interceptacao": 53,
+    "posicionamentoDefensivo": 53,
+    "pressao": 57,
+    "cobertura": 55,
+    "empenhoTatico": 53
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 74,
+    "decisao": 66,
+    "visaoJogo": 74,
+    "compostura": 68,
+    "frieza": 65,
+    "concentracao": 64,
+    "regularidade": 64,
+    "ansiedade": 37,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 66,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 55,
+    "profissionalismo": 70,
+    "lealdade": 66,
+    "catimba": 65,
+    "violencia": 38,
+    "disciplina": 63,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 48,
+    "momentoHeroico": 38,
+    "supersub": 44,
+    "decisivo": 49,
+    "provocador": 46,
+    "batedorPenaltis": 60,
+    "cobradorFalta": 63,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 8,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 69,
+    "tendenciaChute": 64,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 67,
+    "recomposicao": 58,
+    "participacaoJogo": 64,
+    "intensidade": 60,
+    "riscoCriativo": 71
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/everton-ribeiro/profil/spieler/52896",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/everton-ribeiro.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

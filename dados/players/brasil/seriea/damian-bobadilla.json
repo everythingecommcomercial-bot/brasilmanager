@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "damian-bobadilla",
+    "nome": "Damián Bobadilla",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/damian-bobadilla.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "paraguai"
+    ],
+    "dataNascimento": "11/07/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "16"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 76,
+    "reputacao": 73,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 74,
+    "passeLongo": 77,
+    "visao": 76,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 78,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 76,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 76
+  },
+  "defensivos": {
+    "marcacao": 65,
+    "desarme": 65,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 65,
+    "pressao": 71,
+    "cobertura": 65,
+    "empenhoTatico": 77
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 70,
+    "decisao": 70,
+    "visaoJogo": 70,
+    "compostura": 72,
+    "frieza": 70,
+    "concentracao": 75,
+    "regularidade": 71,
+    "ansiedade": 33,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 66,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 68,
+    "profissionalismo": 61,
+    "lealdade": 63,
+    "catimba": 65,
+    "violencia": 29,
+    "disciplina": 76,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 43,
+    "momentoHeroico": 48,
+    "supersub": 42,
+    "decisivo": 45,
+    "provocador": 35,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 75,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 76,
+    "participacaoJogo": 74,
+    "intensidade": 74,
+    "riscoCriativo": 71
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/damian-bobadilla/profil/spieler/861852",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/paraguai.json"
+    ],
+    "foto": "dados/images/players/brasil/damian-bobadilla.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}
