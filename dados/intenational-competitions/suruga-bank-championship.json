@@ -1,0 +1,24 @@
+{
+  "id": "comp_006_suruga-bank-championship",
+  "schemaVersion": "1.0",
+  "nome": "Suruga Bank Championship",
+  "nome_pt": "Copa Suruga Bank",
+  "tipo": "intercontinental",
+  "organizacao": "CONMEBOL/JFA",
+  "regiao": "América do Sul e Japão",
+  "genero": "masculino",
+  "status": "extinta/suspensa",
+  "nivel": "secundaria",
+  "periodicidade": "anual",
+  "formato": "partida única",
+  "participantes_aproximados": 2,
+  "observacoes": "Entre campeão da Copa Sul-Americana e campeão da Copa da Liga Japonesa.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "intercontinental",
+    "conmebol-jfa",
+    "america-do-sul-e-japao",
+    "extinta-suspensa"
+  ]
+}

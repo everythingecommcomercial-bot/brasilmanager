@@ -1,0 +1,24 @@
+{
+  "id": "comp_005_interamerican-cup",
+  "schemaVersion": "1.0",
+  "nome": "Interamerican Cup",
+  "nome_pt": "Copa Interamericana",
+  "tipo": "intercontinental",
+  "organizacao": "CONMEBOL/CONCACAF",
+  "regiao": "América do Sul e América do Norte/Central/Caribe",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "principal",
+  "periodicidade": "irregular",
+  "formato": "final entre campeões continentais",
+  "participantes_aproximados": 2,
+  "observacoes": "Disputada por campeões da Libertadores e da CONCACAF Champions Cup.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "intercontinental",
+    "conmebol-concacaf",
+    "america-do-sul-e-america-do-norte-central-caribe",
+    "extinta"
+  ]
+}

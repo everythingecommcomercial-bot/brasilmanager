@@ -1,0 +1,357 @@
+{
+  "schemaVersion": "1.0",
+  "total": 50,
+  "descricao": "Competições continentais e intercontinentais de clubes no mundo",
+  "competicoes": [
+    {
+      "nome": "FIFA Club World Cup",
+      "arquivo": "fifa-club-world-cup.json",
+      "organizacao": "FIFA",
+      "status": "ativa",
+      "tipo": "intercontinental"
+    },
+    {
+      "nome": "FIFA Intercontinental Cup",
+      "arquivo": "fifa-intercontinental-cup.json",
+      "organizacao": "FIFA",
+      "status": "ativa",
+      "tipo": "intercontinental"
+    },
+    {
+      "nome": "FIFA Women’s Club World Cup",
+      "arquivo": "fifa-womens-club-world-cup.json",
+      "organizacao": "FIFA",
+      "status": "planejada",
+      "tipo": "intercontinental"
+    },
+    {
+      "nome": "Intercontinental Cup",
+      "arquivo": "intercontinental-cup.json",
+      "organizacao": "UEFA/CONMEBOL",
+      "status": "extinta",
+      "tipo": "intercontinental"
+    },
+    {
+      "nome": "Interamerican Cup",
+      "arquivo": "interamerican-cup.json",
+      "organizacao": "CONMEBOL/CONCACAF",
+      "status": "extinta",
+      "tipo": "intercontinental"
+    },
+    {
+      "nome": "Suruga Bank Championship",
+      "arquivo": "suruga-bank-championship.json",
+      "organizacao": "CONMEBOL/JFA",
+      "status": "extinta/suspensa",
+      "tipo": "intercontinental"
+    },
+    {
+      "nome": "UEFA Champions League",
+      "arquivo": "uefa-champions-league.json",
+      "organizacao": "UEFA",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "UEFA Europa League",
+      "arquivo": "uefa-europa-league.json",
+      "organizacao": "UEFA",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "UEFA Conference League",
+      "arquivo": "uefa-conference-league.json",
+      "organizacao": "UEFA",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "UEFA Super Cup",
+      "arquivo": "uefa-super-cup.json",
+      "organizacao": "UEFA",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "UEFA Women’s Champions League",
+      "arquivo": "uefa-womens-champions-league.json",
+      "organizacao": "UEFA",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "UEFA Youth League",
+      "arquivo": "uefa-youth-league.json",
+      "organizacao": "UEFA",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "UEFA Cup Winners’ Cup",
+      "arquivo": "uefa-cup-winners-cup.json",
+      "organizacao": "UEFA",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "UEFA Intertoto Cup",
+      "arquivo": "uefa-intertoto-cup.json",
+      "organizacao": "UEFA",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CONMEBOL Libertadores",
+      "arquivo": "conmebol-libertadores.json",
+      "organizacao": "CONMEBOL",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CONMEBOL Sudamericana",
+      "arquivo": "conmebol-sudamericana.json",
+      "organizacao": "CONMEBOL",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CONMEBOL Recopa",
+      "arquivo": "conmebol-recopa.json",
+      "organizacao": "CONMEBOL",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CONMEBOL Libertadores Femenina",
+      "arquivo": "conmebol-libertadores-femenina.json",
+      "organizacao": "CONMEBOL",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CONMEBOL Libertadores Sub-20",
+      "arquivo": "conmebol-libertadores-sub-20.json",
+      "organizacao": "CONMEBOL",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Supercopa Libertadores",
+      "arquivo": "supercopa-libertadores.json",
+      "organizacao": "CONMEBOL",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Copa Mercosur",
+      "arquivo": "copa-mercosur.json",
+      "organizacao": "CONMEBOL",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Copa Merconorte",
+      "arquivo": "copa-merconorte.json",
+      "organizacao": "CONMEBOL",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Copa CONMEBOL",
+      "arquivo": "copa-conmebol.json",
+      "organizacao": "CONMEBOL",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CONCACAF Champions Cup",
+      "arquivo": "concacaf-champions-cup.json",
+      "organizacao": "CONCACAF",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Leagues Cup",
+      "arquivo": "leagues-cup.json",
+      "organizacao": "CONCACAF/MLS/Liga MX",
+      "status": "ativa",
+      "tipo": "regional/internacional"
+    },
+    {
+      "nome": "CONCACAF Central American Cup",
+      "arquivo": "concacaf-central-american-cup.json",
+      "organizacao": "CONCACAF",
+      "status": "ativa",
+      "tipo": "regional continental"
+    },
+    {
+      "nome": "CONCACAF Caribbean Cup",
+      "arquivo": "concacaf-caribbean-cup.json",
+      "organizacao": "CONCACAF",
+      "status": "ativa",
+      "tipo": "regional continental"
+    },
+    {
+      "nome": "CONCACAF W Champions Cup",
+      "arquivo": "concacaf-w-champions-cup.json",
+      "organizacao": "CONCACAF",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CONCACAF League",
+      "arquivo": "concacaf-league.json",
+      "organizacao": "CONCACAF",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Caribbean Club Championship",
+      "arquivo": "caribbean-club-championship.json",
+      "organizacao": "CONCACAF/CFU",
+      "status": "extinta/substituída",
+      "tipo": "regional continental"
+    },
+    {
+      "nome": "Campeones Cup",
+      "arquivo": "campeones-cup.json",
+      "organizacao": "MLS/Liga MX",
+      "status": "ativa",
+      "tipo": "regional/internacional"
+    },
+    {
+      "nome": "AFC Champions League Elite",
+      "arquivo": "afc-champions-league-elite.json",
+      "organizacao": "AFC",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "AFC Champions League Two",
+      "arquivo": "afc-champions-league-two.json",
+      "organizacao": "AFC",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "AFC Challenge League",
+      "arquivo": "afc-challenge-league.json",
+      "organizacao": "AFC",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "AFC Women’s Champions League",
+      "arquivo": "afc-womens-champions-league.json",
+      "organizacao": "AFC",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "AFC Cup",
+      "arquivo": "afc-cup.json",
+      "organizacao": "AFC",
+      "status": "extinta/substituída",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Asian Club Championship",
+      "arquivo": "asian-club-championship.json",
+      "organizacao": "AFC",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Asian Cup Winners’ Cup",
+      "arquivo": "asian-cup-winners-cup.json",
+      "organizacao": "AFC",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "Asian Super Cup",
+      "arquivo": "asian-super-cup.json",
+      "organizacao": "AFC",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "ASEAN Club Championship",
+      "arquivo": "asean-club-championship.json",
+      "organizacao": "AFF/ASEAN",
+      "status": "ativa/retomada",
+      "tipo": "regional continental"
+    },
+    {
+      "nome": "CAF Champions League",
+      "arquivo": "caf-champions-league.json",
+      "organizacao": "CAF",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CAF Confederation Cup",
+      "arquivo": "caf-confederation-cup.json",
+      "organizacao": "CAF",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CAF Super Cup",
+      "arquivo": "caf-super-cup.json",
+      "organizacao": "CAF",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CAF Women’s Champions League",
+      "arquivo": "caf-womens-champions-league.json",
+      "organizacao": "CAF",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "African Football League",
+      "arquivo": "african-football-league.json",
+      "organizacao": "CAF/FIFA",
+      "status": "ativa/experimental",
+      "tipo": "continental"
+    },
+    {
+      "nome": "African Cup Winners’ Cup",
+      "arquivo": "african-cup-winners-cup.json",
+      "organizacao": "CAF",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "CAF Cup",
+      "arquivo": "caf-cup.json",
+      "organizacao": "CAF",
+      "status": "extinta",
+      "tipo": "continental"
+    },
+    {
+      "nome": "OFC Champions League",
+      "arquivo": "ofc-champions-league.json",
+      "organizacao": "OFC",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "OFC Women’s Champions League",
+      "arquivo": "ofc-womens-champions-league.json",
+      "organizacao": "OFC",
+      "status": "ativa",
+      "tipo": "continental"
+    },
+    {
+      "nome": "OFC Club Championship",
+      "arquivo": "ofc-club-championship.json",
+      "organizacao": "OFC",
+      "status": "extinta/substituída",
+      "tipo": "continental"
+    }
+  ]
+}

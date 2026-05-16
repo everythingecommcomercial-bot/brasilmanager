@@ -1,0 +1,24 @@
+{
+  "id": "comp_040_asean-club-championship",
+  "schemaVersion": "1.0",
+  "nome": "ASEAN Club Championship",
+  "nome_pt": "Campeonato de Clubes da ASEAN",
+  "tipo": "regional continental",
+  "organizacao": "AFF/ASEAN",
+  "regiao": "Sudeste Asiático",
+  "genero": "masculino",
+  "status": "ativa/retomada",
+  "nivel": "regional",
+  "periodicidade": "anual",
+  "formato": "grupos e mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Competição regional de clubes do Sudeste Asiático.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "regional-continental",
+    "aff-asean",
+    "sudeste-asiatico",
+    "ativa-retomada"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "comp_022_copa-merconorte",
+  "schemaVersion": "1.0",
+  "nome": "Copa Merconorte",
+  "nome_pt": "Copa Merconorte",
+  "tipo": "continental",
+  "organizacao": "CONMEBOL",
+  "regiao": "América do Sul",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "histórica",
+  "periodicidade": "anual",
+  "formato": "grupos e mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Competição regional sul-americana extinta.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "conmebol",
+    "america-do-sul",
+    "extinta"
+  ]
+}

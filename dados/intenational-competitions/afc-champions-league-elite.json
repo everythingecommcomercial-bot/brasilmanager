@@ -1,0 +1,24 @@
+{
+  "id": "comp_032_afc-champions-league-elite",
+  "schemaVersion": "1.0",
+  "nome": "AFC Champions League Elite",
+  "nome_pt": "Liga dos Campeões da AFC Elite",
+  "tipo": "continental",
+  "organizacao": "AFC",
+  "regiao": "Ásia",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "principal",
+  "periodicidade": "anual",
+  "formato": "fase de liga regionalizada e mata-mata",
+  "participantes_aproximados": 24,
+  "observacoes": "Principal competição asiática de clubes no novo sistema AFC.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "afc",
+    "asia",
+    "ativa"
+  ]
+}

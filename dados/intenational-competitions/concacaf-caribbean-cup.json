@@ -1,0 +1,24 @@
+{
+  "id": "comp_027_concacaf-caribbean-cup",
+  "schemaVersion": "1.0",
+  "nome": "CONCACAF Caribbean Cup",
+  "nome_pt": "Copa do Caribe da CONCACAF",
+  "tipo": "regional continental",
+  "organizacao": "CONCACAF",
+  "regiao": "Caribe",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "classificatória/regional",
+  "periodicidade": "anual",
+  "formato": "grupos e mata-mata",
+  "participantes_aproximados": 10,
+  "observacoes": "Competição regional caribenha que classifica para a Champions Cup.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "regional-continental",
+    "concacaf",
+    "caribe",
+    "ativa"
+  ]
+}

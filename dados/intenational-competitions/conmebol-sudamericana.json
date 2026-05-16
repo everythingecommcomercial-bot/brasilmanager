@@ -1,0 +1,24 @@
+{
+  "id": "comp_016_conmebol-sudamericana",
+  "schemaVersion": "1.0",
+  "nome": "CONMEBOL Sudamericana",
+  "nome_pt": "Copa Sul-Americana",
+  "tipo": "continental",
+  "organizacao": "CONMEBOL",
+  "regiao": "América do Sul",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "segunda divisão continental",
+  "periodicidade": "anual",
+  "formato": "fase preliminar, grupos, playoffs e mata-mata",
+  "participantes_aproximados": 56,
+  "observacoes": "Segunda competição sul-americana de clubes.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "conmebol",
+    "america-do-sul",
+    "ativa"
+  ]
+}

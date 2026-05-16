@@ -1,0 +1,24 @@
+{
+  "id": "comp_026_concacaf-central-american-cup",
+  "schemaVersion": "1.0",
+  "nome": "CONCACAF Central American Cup",
+  "nome_pt": "Copa Centro-Americana da CONCACAF",
+  "tipo": "regional continental",
+  "organizacao": "CONCACAF",
+  "regiao": "América Central",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "classificatória/regional",
+  "periodicidade": "anual",
+  "formato": "grupos e mata-mata",
+  "participantes_aproximados": 20,
+  "observacoes": "Competição regional que classifica para a Champions Cup.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "regional-continental",
+    "concacaf",
+    "america-central",
+    "ativa"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "comp_038_asian-cup-winners-cup",
+  "schemaVersion": "1.0",
+  "nome": "Asian Cup Winners’ Cup",
+  "nome_pt": "Recopa Asiática",
+  "tipo": "continental",
+  "organizacao": "AFC",
+  "regiao": "Ásia",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "histórica",
+  "periodicidade": "anual",
+  "formato": "mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Antiga competição entre campeões de copas nacionais asiáticas.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "afc",
+    "asia",
+    "extinta"
+  ]
+}

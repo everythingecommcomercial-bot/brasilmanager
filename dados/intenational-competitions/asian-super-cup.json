@@ -1,0 +1,24 @@
+{
+  "id": "comp_039_asian-super-cup",
+  "schemaVersion": "1.0",
+  "nome": "Asian Super Cup",
+  "nome_pt": "Supercopa Asiática",
+  "tipo": "continental",
+  "organizacao": "AFC",
+  "regiao": "Ásia",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "supercopa histórica",
+  "periodicidade": "anual",
+  "formato": "final",
+  "participantes_aproximados": 2,
+  "observacoes": "Entre campeões asiáticos de diferentes competições.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "afc",
+    "asia",
+    "extinta"
+  ]
+}

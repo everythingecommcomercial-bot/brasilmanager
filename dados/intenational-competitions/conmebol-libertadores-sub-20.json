@@ -1,0 +1,24 @@
+{
+  "id": "comp_019_conmebol-libertadores-sub-20",
+  "schemaVersion": "1.0",
+  "nome": "CONMEBOL Libertadores Sub-20",
+  "nome_pt": "Copa Libertadores Sub-20",
+  "tipo": "continental",
+  "organizacao": "CONMEBOL",
+  "regiao": "América do Sul",
+  "genero": "masculino sub-20",
+  "status": "ativa",
+  "nivel": "base",
+  "periodicidade": "anual/irregular",
+  "formato": "grupos e mata-mata",
+  "participantes_aproximados": 12,
+  "observacoes": "Competição sul-americana sub-20 de clubes.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "conmebol",
+    "america-do-sul",
+    "ativa"
+  ]
+}

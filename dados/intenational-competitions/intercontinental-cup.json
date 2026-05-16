@@ -1,0 +1,24 @@
+{
+  "id": "comp_004_intercontinental-cup",
+  "schemaVersion": "1.0",
+  "nome": "Intercontinental Cup",
+  "nome_pt": "Copa Intercontinental",
+  "tipo": "intercontinental",
+  "organizacao": "UEFA/CONMEBOL",
+  "regiao": "Europa e América do Sul",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "principal",
+  "periodicidade": "anual",
+  "formato": "final entre campeões da UEFA Champions League e CONMEBOL Libertadores",
+  "participantes_aproximados": 2,
+  "observacoes": "Disputada historicamente entre campeões europeu e sul-americano.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "intercontinental",
+    "uefa-conmebol",
+    "europa-e-america-do-sul",
+    "extinta"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "comp_010_uefa-super-cup",
+  "schemaVersion": "1.0",
+  "nome": "UEFA Super Cup",
+  "nome_pt": "Supercopa da UEFA",
+  "tipo": "continental",
+  "organizacao": "UEFA",
+  "regiao": "Europa",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "supercopa",
+  "periodicidade": "anual",
+  "formato": "partida única",
+  "participantes_aproximados": 2,
+  "observacoes": "Entre campeões da Champions League e Europa League.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "uefa",
+    "europa",
+    "ativa"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "comp_011_uefa-womens-champions-league",
+  "schemaVersion": "1.0",
+  "nome": "UEFA Women’s Champions League",
+  "nome_pt": "Liga dos Campeões Feminina da UEFA",
+  "tipo": "continental",
+  "organizacao": "UEFA",
+  "regiao": "Europa",
+  "genero": "feminino",
+  "status": "ativa",
+  "nivel": "principal",
+  "periodicidade": "anual",
+  "formato": "fase de grupos/liga e mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Principal competição europeia feminina de clubes.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "uefa",
+    "europa",
+    "ativa"
+  ]
+}

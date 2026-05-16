@@ -1,0 +1,24 @@
+{
+  "id": "comp_012_uefa-youth-league",
+  "schemaVersion": "1.0",
+  "nome": "UEFA Youth League",
+  "nome_pt": "Liga Jovem da UEFA",
+  "tipo": "continental",
+  "organizacao": "UEFA",
+  "regiao": "Europa",
+  "genero": "masculino sub-19",
+  "status": "ativa",
+  "nivel": "base",
+  "periodicidade": "anual",
+  "formato": "fase de grupos/liga e mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Competição europeia sub-19 de clubes.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "uefa",
+    "europa",
+    "ativa"
+  ]
+}

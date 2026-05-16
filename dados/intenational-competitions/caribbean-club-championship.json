@@ -1,0 +1,24 @@
+{
+  "id": "comp_030_caribbean-club-championship",
+  "schemaVersion": "1.0",
+  "nome": "Caribbean Club Championship",
+  "nome_pt": "Campeonato de Clubes do Caribe",
+  "tipo": "regional continental",
+  "organizacao": "CONCACAF/CFU",
+  "regiao": "Caribe",
+  "genero": "masculino",
+  "status": "extinta/substituída",
+  "nivel": "regional",
+  "periodicidade": "anual",
+  "formato": "grupos e mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Substituída por competições caribenhas modernas da CONCACAF.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "regional-continental",
+    "concacaf-cfu",
+    "caribe",
+    "extinta-substituida"
+  ]
+}

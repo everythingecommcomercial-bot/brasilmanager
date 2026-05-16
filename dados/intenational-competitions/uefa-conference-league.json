@@ -1,0 +1,24 @@
+{
+  "id": "comp_009_uefa-conference-league",
+  "schemaVersion": "1.0",
+  "nome": "UEFA Conference League",
+  "nome_pt": "Liga Conferência da UEFA",
+  "tipo": "continental",
+  "organizacao": "UEFA",
+  "regiao": "Europa",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "terceira divisão continental",
+  "periodicidade": "anual",
+  "formato": "fase de liga e mata-mata",
+  "participantes_aproximados": 36,
+  "observacoes": "Terceira competição continental da UEFA.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "uefa",
+    "europa",
+    "ativa"
+  ]
+}

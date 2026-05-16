@@ -1,0 +1,24 @@
+{
+  "id": "comp_048_ofc-champions-league",
+  "schemaVersion": "1.0",
+  "nome": "OFC Champions League",
+  "nome_pt": "Liga dos Campeões da OFC",
+  "tipo": "continental",
+  "organizacao": "OFC",
+  "regiao": "Oceania",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "principal",
+  "periodicidade": "anual",
+  "formato": "classificatórias, grupos e mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Principal competição oceânica de clubes.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "ofc",
+    "oceania",
+    "ativa"
+  ]
+}

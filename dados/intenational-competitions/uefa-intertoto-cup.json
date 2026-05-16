@@ -1,0 +1,24 @@
+{
+  "id": "comp_014_uefa-intertoto-cup",
+  "schemaVersion": "1.0",
+  "nome": "UEFA Intertoto Cup",
+  "nome_pt": "Copa Intertoto da UEFA",
+  "tipo": "continental",
+  "organizacao": "UEFA",
+  "regiao": "Europa",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "histórica",
+  "periodicidade": "anual",
+  "formato": "mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Competição classificatória de verão para a Copa da UEFA.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "uefa",
+    "europa",
+    "extinta"
+  ]
+}

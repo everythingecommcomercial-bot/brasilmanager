@@ -1,0 +1,24 @@
+{
+  "id": "comp_044_caf-womens-champions-league",
+  "schemaVersion": "1.0",
+  "nome": "CAF Women’s Champions League",
+  "nome_pt": "Liga dos Campeões Feminina da CAF",
+  "tipo": "continental",
+  "organizacao": "CAF",
+  "regiao": "África",
+  "genero": "feminino",
+  "status": "ativa",
+  "nivel": "principal",
+  "periodicidade": "anual",
+  "formato": "grupos e mata-mata",
+  "participantes_aproximados": 8,
+  "observacoes": "Principal competição feminina africana de clubes.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "caf",
+    "africa",
+    "ativa"
+  ]
+}

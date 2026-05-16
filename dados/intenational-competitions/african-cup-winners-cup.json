@@ -1,0 +1,24 @@
+{
+  "id": "comp_046_african-cup-winners-cup",
+  "schemaVersion": "1.0",
+  "nome": "African Cup Winners’ Cup",
+  "nome_pt": "Recopa Africana",
+  "tipo": "continental",
+  "organizacao": "CAF",
+  "regiao": "África",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "histórica",
+  "periodicidade": "anual",
+  "formato": "mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Antiga competição entre campeões de copas nacionais africanas.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "caf",
+    "africa",
+    "extinta"
+  ]
+}

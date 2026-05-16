@@ -1,0 +1,24 @@
+{
+  "id": "comp_021_copa-mercosur",
+  "schemaVersion": "1.0",
+  "nome": "Copa Mercosur",
+  "nome_pt": "Copa Mercosul",
+  "tipo": "continental",
+  "organizacao": "CONMEBOL",
+  "regiao": "América do Sul",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "histórica",
+  "periodicidade": "anual",
+  "formato": "grupos e mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Competição regional sul-americana extinta.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "conmebol",
+    "america-do-sul",
+    "extinta"
+  ]
+}

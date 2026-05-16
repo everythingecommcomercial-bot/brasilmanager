@@ -1,0 +1,24 @@
+{
+  "id": "comp_031_campeones-cup",
+  "schemaVersion": "1.0",
+  "nome": "Campeones Cup",
+  "nome_pt": "Campeones Cup",
+  "tipo": "regional/internacional",
+  "organizacao": "MLS/Liga MX",
+  "regiao": "América do Norte",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "supercopa regional",
+  "periodicidade": "anual",
+  "formato": "partida única",
+  "participantes_aproximados": 2,
+  "observacoes": "Entre campeões da MLS Cup e Campeón de Campeones da Liga MX.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "regional-internacional",
+    "mls-liga-mx",
+    "america-do-norte",
+    "ativa"
+  ]
+}

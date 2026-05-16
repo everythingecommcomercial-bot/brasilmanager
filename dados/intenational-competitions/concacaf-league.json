@@ -1,0 +1,24 @@
+{
+  "id": "comp_029_concacaf-league",
+  "schemaVersion": "1.0",
+  "nome": "CONCACAF League",
+  "nome_pt": "Liga CONCACAF",
+  "tipo": "continental",
+  "organizacao": "CONCACAF",
+  "regiao": "América Central e Caribe",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "segunda divisão/classificatória",
+  "periodicidade": "anual",
+  "formato": "mata-mata",
+  "participantes_aproximados": 22,
+  "observacoes": "Competição extinta que dava vagas à Champions League/Champions Cup.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "concacaf",
+    "america-central-e-caribe",
+    "extinta"
+  ]
+}

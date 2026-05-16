@@ -1,0 +1,24 @@
+{
+  "id": "comp_043_caf-super-cup",
+  "schemaVersion": "1.0",
+  "nome": "CAF Super Cup",
+  "nome_pt": "Supercopa da CAF",
+  "tipo": "continental",
+  "organizacao": "CAF",
+  "regiao": "África",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "supercopa",
+  "periodicidade": "anual",
+  "formato": "partida única",
+  "participantes_aproximados": 2,
+  "observacoes": "Entre campeões da Champions League e Confederation Cup.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "caf",
+    "africa",
+    "ativa"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "comp_047_caf-cup",
+  "schemaVersion": "1.0",
+  "nome": "CAF Cup",
+  "nome_pt": "Copa da CAF",
+  "tipo": "continental",
+  "organizacao": "CAF",
+  "regiao": "África",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "histórica",
+  "periodicidade": "anual",
+  "formato": "mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Fundida/substituída no processo que formou a CAF Confederation Cup.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "caf",
+    "africa",
+    "extinta"
+  ]
+}

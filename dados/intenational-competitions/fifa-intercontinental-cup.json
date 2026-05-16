@@ -1,0 +1,24 @@
+{
+  "id": "comp_002_fifa-intercontinental-cup",
+  "schemaVersion": "1.0",
+  "nome": "FIFA Intercontinental Cup",
+  "nome_pt": "Copa Intercontinental FIFA",
+  "tipo": "intercontinental",
+  "organizacao": "FIFA",
+  "regiao": "Global",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "principal",
+  "periodicidade": "anual",
+  "formato": "mata-mata entre campeões continentais",
+  "participantes_aproximados": 6,
+  "observacoes": "Competição anual entre campeões continentais, criada para substituir o antigo formato anual do Mundial de Clubes.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "intercontinental",
+    "fifa",
+    "global",
+    "ativa"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "comp_037_asian-club-championship",
+  "schemaVersion": "1.0",
+  "nome": "Asian Club Championship",
+  "nome_pt": "Campeonato Asiático de Clubes",
+  "tipo": "continental",
+  "organizacao": "AFC",
+  "regiao": "Ásia",
+  "genero": "masculino",
+  "status": "extinta",
+  "nivel": "histórica/principal",
+  "periodicidade": "anual",
+  "formato": "variado",
+  "participantes_aproximados": null,
+  "observacoes": "Antecessora histórica da AFC Champions League.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "afc",
+    "asia",
+    "extinta"
+  ]
+}

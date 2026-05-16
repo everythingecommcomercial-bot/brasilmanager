@@ -1,0 +1,24 @@
+{
+  "id": "comp_045_african-football-league",
+  "schemaVersion": "1.0",
+  "nome": "African Football League",
+  "nome_pt": "Liga Africana de Futebol",
+  "tipo": "continental",
+  "organizacao": "CAF/FIFA",
+  "regiao": "África",
+  "genero": "masculino",
+  "status": "ativa/experimental",
+  "nivel": "elite",
+  "periodicidade": "irregular/anual",
+  "formato": "mata-mata",
+  "participantes_aproximados": 8,
+  "observacoes": "Competição africana de elite lançada como projeto especial.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "caf-fifa",
+    "africa",
+    "ativa-experimental"
+  ]
+}

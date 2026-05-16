@@ -1,0 +1,24 @@
+{
+  "id": "comp_041_caf-champions-league",
+  "schemaVersion": "1.0",
+  "nome": "CAF Champions League",
+  "nome_pt": "Liga dos Campeões da CAF",
+  "tipo": "continental",
+  "organizacao": "CAF",
+  "regiao": "África",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "principal",
+  "periodicidade": "anual",
+  "formato": "preliminares, grupos e mata-mata",
+  "participantes_aproximados": null,
+  "observacoes": "Principal competição africana de clubes.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "continental",
+    "caf",
+    "africa",
+    "ativa"
+  ]
+}

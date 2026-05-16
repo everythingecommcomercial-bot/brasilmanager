@@ -1,0 +1,24 @@
+{
+  "id": "comp_001_fifa-club-world-cup",
+  "schemaVersion": "1.0",
+  "nome": "FIFA Club World Cup",
+  "nome_pt": "Copa do Mundo de Clubes FIFA",
+  "tipo": "intercontinental",
+  "organizacao": "FIFA",
+  "regiao": "Global",
+  "genero": "masculino",
+  "status": "ativa",
+  "nivel": "principal",
+  "periodicidade": "a cada 4 anos",
+  "formato": "fase de grupos e mata-mata",
+  "participantes_aproximados": 32,
+  "observacoes": "Novo formato expandido com clubes de várias confederações.",
+  "escopo": "clubes",
+  "fonte": "base compilada offline; recomenda-se validação oficial para temporadas futuras",
+  "tags": [
+    "intercontinental",
+    "fifa",
+    "global",
+    "ativa"
+  ]
+}
