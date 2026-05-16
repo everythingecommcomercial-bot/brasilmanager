@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ze-guilherme",
+    "nome": "Zé Guilherme",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ze-guilherme.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/03/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "66"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 70,
+    "reputacao": 61,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 55,
+    "chuteLongo": 55,
+    "passeCurto": 61,
+    "passeLongo": 55,
+    "visao": 55,
+    "cruzamento": 66,
+    "drible": 59,
+    "controleBola": 55,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 55,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 57,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 62,
+    "forca": 57,
+    "impulsao": 57,
+    "stamina": 68
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 60,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 61,
+    "pressao": 61,
+    "cobertura": 65,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 58,
+    "decisao": 62,
+    "visaoJogo": 58,
+    "compostura": 62,
+    "frieza": 62,
+    "concentracao": 61,
+    "regularidade": 57,
+    "ansiedade": 40,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 54,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 73,
+    "profissionalismo": 73,
+    "lealdade": 67,
+    "catimba": 53,
+    "violencia": 21,
+    "disciplina": 66,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 50,
+    "momentoHeroico": 47,
+    "supersub": 56,
+    "decisivo": 46,
+    "provocador": 33,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 47,
+    "tendenciaPasse": 58,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 58,
+    "recomposicao": 64,
+    "participacaoJogo": 62,
+    "intensidade": 62,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ze-guilherme/profil/spieler/1084816",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/ze-guilherme.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

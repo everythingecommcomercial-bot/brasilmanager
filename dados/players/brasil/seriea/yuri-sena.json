@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "yuri-sena",
+    "nome": "Yuri Sena",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/yuri-sena.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "03/01/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "71"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 61,
+    "reputacao": 58,
+    "potencialMidia": 61
+  },
+  "tecnicos": {
+    "finalizacao": 19,
+    "chuteLongo": 29,
+    "passeCurto": 47,
+    "passeLongo": 43,
+    "visao": 23,
+    "cruzamento": 22,
+    "drible": 24,
+    "controleBola": 20,
+    "dominio": 24,
+    "curva": 29,
+    "cobrancaFalta": 30,
+    "penalti": 23,
+    "cabecamento": 19,
+    "voleio": 25,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 60,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 56,
+    "impulsao": 63,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 22,
+    "desarme": 21,
+    "interceptacao": 24,
+    "posicionamentoDefensivo": 15,
+    "pressao": 22,
+    "cobertura": 20,
+    "empenhoTatico": 21
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 57,
+    "concentracao": 57,
+    "regularidade": 54,
+    "ansiedade": 46,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 54,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 64,
+    "profissionalismo": 73,
+    "lealdade": 49,
+    "catimba": 63,
+    "violencia": 49,
+    "disciplina": 68,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 51,
+    "momentoHeroico": 38,
+    "supersub": 53,
+    "decisivo": 50,
+    "provocador": 42,
+    "batedorPenaltis": 23,
+    "cobradorFalta": 30,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 64,
+    "defesa": 64,
+    "posicionamentoGol": 60,
+    "saidaGol": 56,
+    "jogoPes": 54,
+    "reposicao": 54,
+    "pegadorPenaltis": 55
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 61,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 16,
+    "tendenciaChute": 21,
+    "tendenciaPasse": 35,
+    "tendenciaMarcacao": 22,
+    "movimentacaoOfensiva": 39,
+    "recomposicao": 38,
+    "participacaoJogo": 57,
+    "intensidade": 38,
+    "riscoCriativo": 34
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/yuri-sena/profil/spieler/540963",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/yuri-sena.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

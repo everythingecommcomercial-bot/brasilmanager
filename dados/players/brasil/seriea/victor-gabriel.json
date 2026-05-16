@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "victor-gabriel",
+    "nome": "Victor Gabriel",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/victor-gabriel.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "28/04/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "41"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 79,
+    "reputacao": 73,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 45,
+    "chuteLongo": 67,
+    "passeCurto": 71,
+    "passeLongo": 70,
+    "visao": 67,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 79,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 68,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 79,
+    "impulsao": 77,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 76,
+    "desarme": 74,
+    "interceptacao": 78,
+    "posicionamentoDefensivo": 79,
+    "pressao": 74,
+    "cobertura": 78,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 70,
+    "decisao": 72,
+    "visaoJogo": 70,
+    "compostura": 75,
+    "frieza": 69,
+    "concentracao": 74,
+    "regularidade": 72,
+    "ansiedade": 25,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 68,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 77,
+    "profissionalismo": 68,
+    "lealdade": 55,
+    "catimba": 64,
+    "violencia": 30,
+    "disciplina": 64,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 51,
+    "momentoHeroico": 40,
+    "supersub": 48,
+    "decisivo": 52,
+    "provocador": 50,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 69,
+    "tendenciaMarcacao": 75,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 72,
+    "participacaoJogo": 72,
+    "intensidade": 72,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/victor-gabriel/profil/spieler/834444",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/victor-gabriel.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

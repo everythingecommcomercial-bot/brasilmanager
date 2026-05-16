@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "vitor-eudes",
+    "nome": "Vitor Eudes",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/vitor-eudes.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "21/10/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "98"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 62,
+    "reputacao": 61,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 27,
+    "chuteLongo": 21,
+    "passeCurto": 50,
+    "passeLongo": 46,
+    "visao": 25,
+    "cruzamento": 23,
+    "drible": 19,
+    "controleBola": 25,
+    "dominio": 22,
+    "curva": 28,
+    "cobrancaFalta": 20,
+    "penalti": 25,
+    "cabecamento": 31,
+    "voleio": 24,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 60,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 63,
+    "impulsao": 64,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 16,
+    "interceptacao": 18,
+    "posicionamentoDefensivo": 19,
+    "pressao": 20,
+    "cobertura": 23,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 58,
+    "decisao": 63,
+    "visaoJogo": 58,
+    "compostura": 59,
+    "frieza": 58,
+    "concentracao": 59,
+    "regularidade": 60,
+    "ansiedade": 36,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 58,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 64,
+    "profissionalismo": 71,
+    "lealdade": 60,
+    "catimba": 57,
+    "violencia": 48,
+    "disciplina": 70,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 53,
+    "momentoHeroico": 42,
+    "supersub": 49,
+    "decisivo": 52,
+    "provocador": 36,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 28
+  },
+  "goleiro": {
+    "reflexos": 63,
+    "defesa": 67,
+    "posicionamentoGol": 63,
+    "saidaGol": 61,
+    "jogoPes": 59,
+    "reposicao": 56,
+    "pegadorPenaltis": 60
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 11,
+    "tendenciaChute": 13,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 22,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 40,
+    "participacaoJogo": 60,
+    "intensidade": 38,
+    "riscoCriativo": 34
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/vitor-eudes/profil/spieler/590039",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/vitor-eudes.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

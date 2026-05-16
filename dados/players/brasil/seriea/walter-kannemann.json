@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "walter-kannemann",
+    "nome": "Walter Kannemann",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/walter-kannemann.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "argentina",
+      "brasil"
+    ],
+    "dataNascimento": "14/03/1991",
+    "idade": 35,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "4"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 40,
+    "chuteLongo": 53,
+    "passeCurto": 57,
+    "passeLongo": 58,
+    "visao": 53,
+    "cruzamento": 53,
+    "drible": 53,
+    "controleBola": 53,
+    "dominio": 53,
+    "curva": 53,
+    "cobrancaFalta": 53,
+    "penalti": 53,
+    "cabecamento": 67,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 55,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 61,
+    "impulsao": 60,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 65,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 64,
+    "pressao": 64,
+    "cobertura": 63,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 56,
+    "decisao": 60,
+    "visaoJogo": 56,
+    "compostura": 59,
+    "frieza": 56,
+    "concentracao": 61,
+    "regularidade": 59,
+    "ansiedade": 38,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 59,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 62,
+    "profissionalismo": 72,
+    "lealdade": 49,
+    "catimba": 43,
+    "violencia": 23,
+    "disciplina": 72,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 46,
+    "momentoHeroico": 47,
+    "supersub": 60,
+    "decisivo": 52,
+    "provocador": 52,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 50
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 6,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 45,
+    "tendenciaChute": 45,
+    "tendenciaPasse": 55,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 58,
+    "participacaoJogo": 57,
+    "intensidade": 60,
+    "riscoCriativo": 54
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/walter-kannemann/profil/spieler/145400",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json",
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/walter-kannemann.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

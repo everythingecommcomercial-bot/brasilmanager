@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "wendell",
+    "nome": "Wendell",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/wendell.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "20/07/1993",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "18"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 69,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 72,
+    "drible": 69,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 75,
+    "aceleracao": 74,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 72,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 75
+  },
+  "defensivos": {
+    "marcacao": 72,
+    "desarme": 72,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 67,
+    "pressao": 71,
+    "cobertura": 69,
+    "empenhoTatico": 68
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 70,
+    "frieza": 68,
+    "concentracao": 71,
+    "regularidade": 66,
+    "ansiedade": 26,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 71,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 60,
+    "profissionalismo": 71,
+    "lealdade": 54,
+    "catimba": 65,
+    "violencia": 26,
+    "disciplina": 70,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 54,
+    "momentoHeroico": 45,
+    "supersub": 52,
+    "decisivo": 48,
+    "provocador": 44,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 69
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 61,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 72,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 72,
+    "participacaoJogo": 69,
+    "intensidade": 72,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/wendell/profil/spieler/228433",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/wendell.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

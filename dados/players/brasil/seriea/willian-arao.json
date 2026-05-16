@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "willian-arao",
+    "nome": "Willian Arão",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/willian-arao.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "12/03/1992",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "15"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 60,
+    "chuteLongo": 60,
+    "passeCurto": 66,
+    "passeLongo": 67,
+    "visao": 68,
+    "cruzamento": 60,
+    "drible": 60,
+    "controleBola": 60,
+    "dominio": 60,
+    "curva": 60,
+    "cobrancaFalta": 60,
+    "penalti": 60,
+    "cabecamento": 60,
+    "voleio": 60,
+    "acrobacia": 60
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 62,
+    "explosao": 62,
+    "agilidade": 62,
+    "equilibrio": 62,
+    "resistencia": 68,
+    "forca": 66,
+    "impulsao": 62,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 67,
+    "desarme": 67,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 67,
+    "pressao": 69,
+    "cobertura": 68,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 63,
+    "decisao": 67,
+    "visaoJogo": 63,
+    "compostura": 63,
+    "frieza": 62,
+    "concentracao": 67,
+    "regularidade": 61,
+    "ansiedade": 34,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 66,
+    "trabalhoEquipe": 63
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 65,
+    "profissionalismo": 63,
+    "lealdade": 60,
+    "catimba": 65,
+    "violencia": 35,
+    "disciplina": 71,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 52,
+    "momentoHeroico": 48,
+    "supersub": 42,
+    "decisivo": 51,
+    "provocador": 50,
+    "batedorPenaltis": 60,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 57
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 52,
+    "tendenciaChute": 52,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 66,
+    "participacaoJogo": 66,
+    "intensidade": 68,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/willian-arao/profil/spieler/210747",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/willian-arao.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

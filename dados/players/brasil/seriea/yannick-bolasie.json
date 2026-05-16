@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "yannick-bolasie",
+    "nome": "Yannick Bolasie",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/yannick-bolasie.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "dr-congo",
+      "inglaterra"
+    ],
+    "dataNascimento": "24/05/1989",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€200k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 63,
+    "chuteLongo": 53,
+    "passeCurto": 53,
+    "passeLongo": 53,
+    "visao": 53,
+    "cruzamento": 53,
+    "drible": 53,
+    "controleBola": 57,
+    "dominio": 53,
+    "curva": 53,
+    "cobrancaFalta": 53,
+    "penalti": 62,
+    "cabecamento": 60,
+    "voleio": 59,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 55,
+    "explosao": 64,
+    "agilidade": 55,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 58,
+    "impulsao": 55,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 42,
+    "desarme": 38,
+    "interceptacao": 42,
+    "posicionamentoDefensivo": 38,
+    "pressao": 44,
+    "cobertura": 40,
+    "empenhoTatico": 38
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 56,
+    "decisao": 56,
+    "visaoJogo": 56,
+    "compostura": 56,
+    "frieza": 60,
+    "concentracao": 62,
+    "regularidade": 59,
+    "ansiedade": 44,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 56,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 58,
+    "profissionalismo": 61,
+    "lealdade": 67,
+    "catimba": 44,
+    "violencia": 24,
+    "disciplina": 74,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 43,
+    "momentoHeroico": 51,
+    "supersub": 61,
+    "decisivo": 43,
+    "provocador": 36,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 7,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 45,
+    "tendenciaChute": 63,
+    "tendenciaPasse": 53,
+    "tendenciaMarcacao": 43,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 46,
+    "participacaoJogo": 57,
+    "intensidade": 50,
+    "riscoCriativo": 54
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/yannick-bolasie/profil/spieler/75471",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/dr-congo.json",
+      "dados/selecoes/paises/inglaterra.json"
+    ],
+    "foto": "dados/images/players/brasil/yannick-bolasie.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

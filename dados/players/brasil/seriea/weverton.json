@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "weverton",
+    "nome": "Weverton",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/weverton.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "13/12/1987",
+    "idade": 38,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€700k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 63,
+    "potencial": 63,
+    "reputacao": 63,
+    "potencialMidia": 63
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 28,
+    "passeCurto": 48,
+    "passeLongo": 52,
+    "visao": 23,
+    "cruzamento": 21,
+    "drible": 28,
+    "controleBola": 30,
+    "dominio": 31,
+    "curva": 23,
+    "cobrancaFalta": 30,
+    "penalti": 21,
+    "cabecamento": 28,
+    "voleio": 24,
+    "acrobacia": 22
+  },
+  "fisicos": {
+    "velocidade": 59,
+    "aceleracao": 59,
+    "explosao": 59,
+    "agilidade": 63,
+    "equilibrio": 59,
+    "resistencia": 59,
+    "forca": 66,
+    "impulsao": 67,
+    "stamina": 59
+  },
+  "defensivos": {
+    "marcacao": 17,
+    "desarme": 19,
+    "interceptacao": 21,
+    "posicionamentoDefensivo": 19,
+    "pressao": 21,
+    "cobertura": 24,
+    "empenhoTatico": 17
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 60,
+    "decisao": 64,
+    "visaoJogo": 60,
+    "compostura": 66,
+    "frieza": 62,
+    "concentracao": 64,
+    "regularidade": 60,
+    "ansiedade": 43,
+    "agressividade": 60,
+    "coragem": 60,
+    "lideranca": 64,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 64,
+    "profissionalismo": 72,
+    "lealdade": 53,
+    "catimba": 58,
+    "violencia": 27,
+    "disciplina": 62,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 54,
+    "momentoHeroico": 39,
+    "supersub": 42,
+    "decisivo": 44,
+    "provocador": 32,
+    "batedorPenaltis": 21,
+    "cobradorFalta": 30,
+    "especialistaEscanteio": 23
+  },
+  "goleiro": {
+    "reflexos": 65,
+    "defesa": 66,
+    "posicionamentoGol": 62,
+    "saidaGol": 62,
+    "jogoPes": 55,
+    "reposicao": 60,
+    "pegadorPenaltis": 60
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 63,
+    "decadenciaFisica": 9,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 20,
+    "tendenciaChute": 20,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 19,
+    "movimentacaoOfensiva": 47,
+    "recomposicao": 38,
+    "participacaoJogo": 61,
+    "intensidade": 40,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/weverton/profil/spieler/69400",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/weverton.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

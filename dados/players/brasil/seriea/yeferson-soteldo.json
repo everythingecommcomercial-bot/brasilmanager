@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "yeferson-soteldo",
+    "nome": "Yeferson Soteldo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/yeferson-soteldo.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "venezuela"
+    ],
+    "dataNascimento": "30/06/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 75,
+    "drible": 74,
+    "controleBola": 76,
+    "dominio": 65,
+    "curva": 72,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 76,
+    "aceleracao": 76,
+    "explosao": 76,
+    "agilidade": 77,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 56,
+    "desarme": 61,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 58,
+    "pressao": 56,
+    "cobertura": 60,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 68,
+    "decisao": 71,
+    "visaoJogo": 68,
+    "compostura": 69,
+    "frieza": 69,
+    "concentracao": 74,
+    "regularidade": 72,
+    "ansiedade": 34,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 69,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 62,
+    "profissionalismo": 76,
+    "lealdade": 54,
+    "catimba": 47,
+    "violencia": 48,
+    "disciplina": 64,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 47,
+    "momentoHeroico": 38,
+    "supersub": 55,
+    "decisivo": 45,
+    "provocador": 57,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 76
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 71,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 62,
+    "participacaoJogo": 69,
+    "intensidade": 62,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/yeferson-soteldo/profil/spieler/312294",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/venezuela.json"
+    ],
+    "foto": "dados/images/players/brasil/yeferson-soteldo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "vinicius-balieiro",
+    "nome": "Vinicius Balieiro",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/vinicius-balieiro.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "28/05/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "17"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 62,
+    "reputacao": 61,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 55,
+    "chuteLongo": 55,
+    "passeCurto": 61,
+    "passeLongo": 61,
+    "visao": 63,
+    "cruzamento": 55,
+    "drible": 55,
+    "controleBola": 55,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 55,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 62,
+    "forca": 64,
+    "impulsao": 57,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 61,
+    "interceptacao": 67,
+    "posicionamentoDefensivo": 64,
+    "pressao": 62,
+    "cobertura": 65,
+    "empenhoTatico": 66
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 58,
+    "decisao": 59,
+    "visaoJogo": 58,
+    "compostura": 59,
+    "frieza": 62,
+    "concentracao": 64,
+    "regularidade": 59,
+    "ansiedade": 44,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 56,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 57,
+    "profissionalismo": 69,
+    "lealdade": 63,
+    "catimba": 55,
+    "violencia": 32,
+    "disciplina": 69,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 52,
+    "momentoHeroico": 39,
+    "supersub": 48,
+    "decisivo": 47,
+    "provocador": 53,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 47,
+    "tendenciaChute": 47,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 57,
+    "recomposicao": 62,
+    "participacaoJogo": 61,
+    "intensidade": 62,
+    "riscoCriativo": 59
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/vinicius-balieiro/profil/spieler/813108",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/vinicius-balieiro.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "willian-jose",
+    "nome": "Willian José",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/willian-jose.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil",
+      "espanha"
+    ],
+    "dataNascimento": "23/11/1991",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "12"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.40m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 60,
+    "passeCurto": 60,
+    "passeLongo": 60,
+    "visao": 60,
+    "cruzamento": 60,
+    "drible": 60,
+    "controleBola": 68,
+    "dominio": 60,
+    "curva": 60,
+    "cobrancaFalta": 60,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 68,
+    "acrobacia": 60
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 62,
+    "explosao": 65,
+    "agilidade": 62,
+    "equilibrio": 62,
+    "resistencia": 62,
+    "forca": 69,
+    "impulsao": 62,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 45,
+    "desarme": 45,
+    "interceptacao": 51,
+    "posicionamentoDefensivo": 49,
+    "pressao": 50,
+    "cobertura": 51,
+    "empenhoTatico": 49
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 63,
+    "decisao": 69,
+    "visaoJogo": 63,
+    "compostura": 64,
+    "frieza": 66,
+    "concentracao": 66,
+    "regularidade": 65,
+    "ansiedade": 29,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 63,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 59,
+    "profissionalismo": 72,
+    "lealdade": 54,
+    "catimba": 43,
+    "violencia": 26,
+    "disciplina": 70,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 44,
+    "momentoHeroico": 50,
+    "supersub": 51,
+    "decisivo": 55,
+    "provocador": 46,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 52,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 48,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 56,
+    "participacaoJogo": 65,
+    "intensidade": 56,
+    "riscoCriativo": 61
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/willian-jose/profil/spieler/122155",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/espanha.json"
+    ],
+    "foto": "dados/images/players/brasil/willian-jose.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

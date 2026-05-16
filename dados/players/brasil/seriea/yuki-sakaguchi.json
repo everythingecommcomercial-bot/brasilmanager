@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "yuki-sakaguchi",
+    "nome": "Yuki Sakaguchi",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/yuki-sakaguchi.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "16/10/2008",
+    "idade": 17,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "5"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 61,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 59,
+    "drible": 57,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 60,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 65,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 65
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 59,
+    "interceptacao": 56,
+    "posicionamentoDefensivo": 61,
+    "pressao": 59,
+    "cobertura": 61,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 61,
+    "frieza": 59,
+    "concentracao": 57,
+    "regularidade": 57,
+    "ansiedade": 40,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 82,
+    "profissionalismo": 66,
+    "lealdade": 67,
+    "catimba": 60,
+    "violencia": 39,
+    "disciplina": 70,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 47,
+    "momentoHeroico": 42,
+    "supersub": 59,
+    "decisivo": 43,
+    "provocador": 39,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 49,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 56,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 55,
+    "recomposicao": 64,
+    "participacaoJogo": 60,
+    "intensidade": 62,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/yuki-sakaguchi/profil/spieler/1135979",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/yuki-sakaguchi.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

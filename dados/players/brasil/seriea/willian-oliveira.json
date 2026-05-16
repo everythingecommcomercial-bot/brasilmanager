@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "willian-oliveira",
+    "nome": "Willian Oliveira",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/willian-oliveira.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/05/1993",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "29"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 61,
+    "reputacao": 61,
+    "potencialMidia": 61
+  },
+  "tecnicos": {
+    "finalizacao": 55,
+    "chuteLongo": 55,
+    "passeCurto": 61,
+    "passeLongo": 61,
+    "visao": 61,
+    "cruzamento": 55,
+    "drible": 55,
+    "controleBola": 55,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 55,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 66,
+    "forca": 60,
+    "impulsao": 57,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 65,
+    "desarme": 63,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 65,
+    "pressao": 65,
+    "cobertura": 64,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 58,
+    "decisao": 58,
+    "visaoJogo": 58,
+    "compostura": 58,
+    "frieza": 57,
+    "concentracao": 60,
+    "regularidade": 59,
+    "ansiedade": 45,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 58,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 57,
+    "profissionalismo": 76,
+    "lealdade": 61,
+    "catimba": 50,
+    "violencia": 40,
+    "disciplina": 68,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 51,
+    "momentoHeroico": 44,
+    "supersub": 55,
+    "decisivo": 46,
+    "provocador": 45,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 61,
+    "decadenciaFisica": 4,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 47,
+    "tendenciaChute": 47,
+    "tendenciaPasse": 61,
+    "tendenciaMarcacao": 65,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 60,
+    "participacaoJogo": 63,
+    "intensidade": 66,
+    "riscoCriativo": 58
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/willian-oliveira/profil/spieler/252900",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/willian-oliveira.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

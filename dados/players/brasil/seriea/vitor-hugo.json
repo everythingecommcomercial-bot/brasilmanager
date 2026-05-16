@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "vitor-hugo",
+    "nome": "Vitor Hugo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/vitor-hugo.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "20/05/1991",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "14"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€600k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 63,
+    "potencial": 63,
+    "reputacao": 63,
+    "potencialMidia": 63
+  },
+  "tecnicos": {
+    "finalizacao": 40,
+    "chuteLongo": 57,
+    "passeCurto": 61,
+    "passeLongo": 58,
+    "visao": 57,
+    "cruzamento": 57,
+    "drible": 57,
+    "controleBola": 57,
+    "dominio": 57,
+    "curva": 57,
+    "cobrancaFalta": 57,
+    "penalti": 57,
+    "cabecamento": 65,
+    "voleio": 57,
+    "acrobacia": 57
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 59,
+    "explosao": 59,
+    "agilidade": 59,
+    "equilibrio": 59,
+    "resistencia": 59,
+    "forca": 70,
+    "impulsao": 63,
+    "stamina": 59
+  },
+  "defensivos": {
+    "marcacao": 69,
+    "desarme": 70,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 65,
+    "pressao": 69,
+    "cobertura": 65,
+    "empenhoTatico": 68
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 60,
+    "decisao": 66,
+    "visaoJogo": 60,
+    "compostura": 65,
+    "frieza": 65,
+    "concentracao": 63,
+    "regularidade": 63,
+    "ansiedade": 34,
+    "agressividade": 60,
+    "coragem": 60,
+    "lideranca": 66,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 63,
+    "profissionalismo": 62,
+    "lealdade": 54,
+    "catimba": 52,
+    "violencia": 33,
+    "disciplina": 71,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 49,
+    "momentoHeroico": 38,
+    "supersub": 51,
+    "decisivo": 48,
+    "provocador": 57,
+    "batedorPenaltis": 57,
+    "cobradorFalta": 57,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 63,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 49,
+    "tendenciaChute": 49,
+    "tendenciaPasse": 59,
+    "tendenciaMarcacao": 69,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 64,
+    "participacaoJogo": 62,
+    "intensidade": 64,
+    "riscoCriativo": 58
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/vitor-hugo/profil/spieler/149752",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/vitor-hugo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

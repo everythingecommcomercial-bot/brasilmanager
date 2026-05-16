@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "vitinho",
+    "nome": "Vitinho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/vitinho.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "09/10/1993",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 70,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 73,
+    "drible": 70,
+    "controleBola": 69,
+    "dominio": 62,
+    "curva": 66,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 73,
+    "explosao": 74,
+    "agilidade": 71,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 56,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 55,
+    "pressao": 57,
+    "cobertura": 53,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 65,
+    "decisao": 70,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 67,
+    "concentracao": 69,
+    "regularidade": 67,
+    "ansiedade": 32,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 69,
+    "trabalhoEquipe": 65
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 55,
+    "profissionalismo": 64,
+    "lealdade": 61,
+    "catimba": 58,
+    "violencia": 41,
+    "disciplina": 76,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 45,
+    "momentoHeroico": 49,
+    "supersub": 50,
+    "decisivo": 53,
+    "provocador": 46,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 70,
+    "tendenciaChute": 70,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 62,
+    "participacaoJogo": 66,
+    "intensidade": 60,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/vitinho/profil/spieler/213605",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/vitinho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

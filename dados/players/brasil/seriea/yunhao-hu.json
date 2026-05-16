@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "yunhao-hu",
+    "nome": "Yunhao Hu",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/yunhao-hu.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "china"
+    ],
+    "dataNascimento": "11/08/2008",
+    "idade": 17,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 26,
+    "chuteLongo": 20,
+    "passeCurto": 46,
+    "passeLongo": 45,
+    "visao": 21,
+    "cruzamento": 20,
+    "drible": 29,
+    "controleBola": 31,
+    "dominio": 28,
+    "curva": 25,
+    "cobrancaFalta": 20,
+    "penalti": 27,
+    "cabecamento": 21,
+    "voleio": 25,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 57,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 59,
+    "impulsao": 58,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 22,
+    "desarme": 20,
+    "interceptacao": 17,
+    "posicionamentoDefensivo": 23,
+    "pressao": 17,
+    "cobertura": 19,
+    "empenhoTatico": 19
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 55,
+    "decisao": 56,
+    "visaoJogo": 55,
+    "compostura": 59,
+    "frieza": 59,
+    "concentracao": 59,
+    "regularidade": 59,
+    "ansiedade": 45,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 81,
+    "profissionalismo": 70,
+    "lealdade": 50,
+    "catimba": 52,
+    "violencia": 33,
+    "disciplina": 68,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 46,
+    "momentoHeroico": 44,
+    "supersub": 49,
+    "decisivo": 50,
+    "provocador": 38,
+    "batedorPenaltis": 27,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 64,
+    "defesa": 63,
+    "posicionamentoGol": 59,
+    "saidaGol": 59,
+    "jogoPes": 54,
+    "reposicao": 58,
+    "pegadorPenaltis": 60
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 21,
+    "tendenciaChute": 12,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 36,
+    "participacaoJogo": 58,
+    "intensidade": 36,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/yunhao-hu/profil/spieler/1251081",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/china.json"
+    ],
+    "foto": "dados/images/players/brasil/yunhao-hu.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "wermeson",
+    "nome": "Wermeson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/wermeson.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/02/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "38"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 61,
+    "reputacao": 58,
+    "potencialMidia": 61
+  },
+  "tecnicos": {
+    "finalizacao": 60,
+    "chuteLongo": 52,
+    "passeCurto": 59,
+    "passeLongo": 52,
+    "visao": 61,
+    "cruzamento": 52,
+    "drible": 65,
+    "controleBola": 60,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 57,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 48,
+    "desarme": 44,
+    "interceptacao": 43,
+    "posicionamentoDefensivo": 47,
+    "pressao": 45,
+    "cobertura": 47,
+    "empenhoTatico": 46
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 62,
+    "decisao": 56,
+    "visaoJogo": 60,
+    "compostura": 55,
+    "frieza": 56,
+    "concentracao": 55,
+    "regularidade": 54,
+    "ansiedade": 45,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 70,
+    "profissionalismo": 73,
+    "lealdade": 60,
+    "catimba": 50,
+    "violencia": 48,
+    "disciplina": 74,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 47,
+    "momentoHeroico": 38,
+    "supersub": 53,
+    "decisivo": 53,
+    "provocador": 48,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 57,
+    "especialistaEscanteio": 54
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 61,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 46,
+    "movimentacaoOfensiva": 58,
+    "recomposicao": 50,
+    "participacaoJogo": 57,
+    "intensidade": 50,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/wermeson/profil/spieler/740378",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/wermeson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

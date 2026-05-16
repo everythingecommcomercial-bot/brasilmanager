@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "vitor-roque",
+    "nome": "Vitor Roque",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/vitor-roque.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "28/02/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "9"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€38.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 79,
+    "potencial": 86,
+    "reputacao": 84,
+    "potencialMidia": 91
+  },
+  "tecnicos": {
+    "finalizacao": 82,
+    "chuteLongo": 73,
+    "passeCurto": 73,
+    "passeLongo": 73,
+    "visao": 73,
+    "cruzamento": 73,
+    "drible": 73,
+    "controleBola": 79,
+    "dominio": 73,
+    "curva": 73,
+    "cobrancaFalta": 73,
+    "penalti": 82,
+    "cabecamento": 80,
+    "voleio": 81,
+    "acrobacia": 73
+  },
+  "fisicos": {
+    "velocidade": 81,
+    "aceleracao": 75,
+    "explosao": 83,
+    "agilidade": 75,
+    "equilibrio": 75,
+    "resistencia": 75,
+    "forca": 80,
+    "impulsao": 75,
+    "stamina": 75
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 59,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 63,
+    "pressao": 63,
+    "cobertura": 64,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 79,
+    "criatividade": 76,
+    "decisao": 78,
+    "visaoJogo": 76,
+    "compostura": 78,
+    "frieza": 76,
+    "concentracao": 79,
+    "regularidade": 77,
+    "ansiedade": 15,
+    "agressividade": 76,
+    "coragem": 76,
+    "lideranca": 77,
+    "trabalhoEquipe": 81
+  },
+  "personalidade": {
+    "ego": 71,
+    "ambicao": 75,
+    "profissionalismo": 70,
+    "lealdade": 49,
+    "catimba": 65,
+    "violencia": 28,
+    "disciplina": 63,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 69,
+    "jogoGrande": 74,
+    "momentoHeroico": 56,
+    "supersub": 54,
+    "decisivo": 66,
+    "provocador": 50,
+    "batedorPenaltis": 82,
+    "cobradorFalta": 73,
+    "especialistaEscanteio": 73
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 59,
+    "confianca": 64,
+    "formaAtual": 64,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 7,
+    "tetoEvolucao": 86,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 82,
+    "tendenciaPasse": 73,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 78,
+    "recomposicao": 68,
+    "participacaoJogo": 78,
+    "intensidade": 69,
+    "riscoCriativo": 74
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/vitor-roque/profil/spieler/943837",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/vitor-roque.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

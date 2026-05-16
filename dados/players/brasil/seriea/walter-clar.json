@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "walter-clar",
+    "nome": "Walter Clar",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/walter-clar.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "paraguai"
+    ],
+    "dataNascimento": "27/09/1994",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "37"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€500k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 68,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 69,
+    "drible": 63,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 69,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 69,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 63,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 65,
+    "pressao": 63,
+    "cobertura": 68,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 62,
+    "decisao": 65,
+    "visaoJogo": 62,
+    "compostura": 67,
+    "frieza": 61,
+    "concentracao": 67,
+    "regularidade": 64,
+    "ansiedade": 36,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 64,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 59,
+    "profissionalismo": 70,
+    "lealdade": 60,
+    "catimba": 62,
+    "violencia": 46,
+    "disciplina": 68,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 53,
+    "momentoHeroico": 50,
+    "supersub": 55,
+    "decisivo": 53,
+    "provocador": 39,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 55,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 63,
+    "movimentacaoOfensiva": 62,
+    "recomposicao": 64,
+    "participacaoJogo": 67,
+    "intensidade": 66,
+    "riscoCriativo": 61
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/walter-clar/profil/spieler/415843",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/paraguai.json"
+    ],
+    "foto": "dados/images/players/brasil/walter-clar.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

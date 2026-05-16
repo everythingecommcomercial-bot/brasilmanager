@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "wallace-yan",
+    "nome": "Wallace Yan",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/wallace-yan.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "08/02/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "64"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 82,
+    "reputacao": 73,
+    "potencialMidia": 87
+  },
+  "tecnicos": {
+    "finalizacao": 78,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 72,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 73,
+    "cabecamento": 74,
+    "voleio": 75,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 69,
+    "explosao": 73,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 72,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 56,
+    "desarme": 56,
+    "interceptacao": 52,
+    "posicionamentoDefensivo": 53,
+    "pressao": 52,
+    "cobertura": 56,
+    "empenhoTatico": 57
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 70,
+    "decisao": 72,
+    "visaoJogo": 70,
+    "compostura": 71,
+    "frieza": 72,
+    "concentracao": 73,
+    "regularidade": 70,
+    "ansiedade": 27,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 66,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 75,
+    "profissionalismo": 74,
+    "lealdade": 48,
+    "catimba": 55,
+    "violencia": 22,
+    "disciplina": 76,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 54,
+    "momentoHeroico": 45,
+    "supersub": 50,
+    "decisivo": 53,
+    "provocador": 46,
+    "batedorPenaltis": 73,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 82,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 78,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 63,
+    "participacaoJogo": 72,
+    "intensidade": 60,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/wallace-yan/profil/spieler/1082602",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/wallace-yan.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

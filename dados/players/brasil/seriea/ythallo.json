@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ythallo",
+    "nome": "Ythallo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ythallo.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "22/07/2004",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "3"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€300k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 70,
+    "reputacao": 61,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 49,
+    "chuteLongo": 55,
+    "passeCurto": 60,
+    "passeLongo": 58,
+    "visao": 55,
+    "cruzamento": 55,
+    "drible": 55,
+    "controleBola": 55,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 67,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 59,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 68,
+    "impulsao": 63,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 62,
+    "desarme": 64,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 64,
+    "pressao": 64,
+    "cobertura": 67,
+    "empenhoTatico": 65
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 58,
+    "decisao": 64,
+    "visaoJogo": 58,
+    "compostura": 58,
+    "frieza": 59,
+    "concentracao": 62,
+    "regularidade": 56,
+    "ansiedade": 40,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 57,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 79,
+    "profissionalismo": 76,
+    "lealdade": 68,
+    "catimba": 67,
+    "violencia": 32,
+    "disciplina": 64,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 47,
+    "momentoHeroico": 41,
+    "supersub": 51,
+    "decisivo": 50,
+    "provocador": 43,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 47,
+    "tendenciaChute": 47,
+    "tendenciaPasse": 58,
+    "tendenciaMarcacao": 63,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 61,
+    "participacaoJogo": 60,
+    "intensidade": 60,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ythallo/profil/spieler/980854",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/ythallo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "young",
+    "nome": "Young",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/young.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "07/03/2002",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "50"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€100k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 64,
+    "reputacao": 61,
+    "potencialMidia": 64
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 27,
+    "passeCurto": 48,
+    "passeLongo": 49,
+    "visao": 19,
+    "cruzamento": 20,
+    "drible": 29,
+    "controleBola": 27,
+    "dominio": 27,
+    "curva": 27,
+    "cobrancaFalta": 28,
+    "penalti": 26,
+    "cabecamento": 24,
+    "voleio": 22,
+    "acrobacia": 25
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 60,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 23,
+    "desarme": 18,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 22,
+    "pressao": 17,
+    "cobertura": 15,
+    "empenhoTatico": 20
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 58,
+    "decisao": 59,
+    "visaoJogo": 58,
+    "compostura": 58,
+    "frieza": 57,
+    "concentracao": 62,
+    "regularidade": 58,
+    "ansiedade": 41,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 56,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 61,
+    "profissionalismo": 67,
+    "lealdade": 51,
+    "catimba": 59,
+    "violencia": 42,
+    "disciplina": 66,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 52,
+    "momentoHeroico": 50,
+    "supersub": 61,
+    "decisivo": 53,
+    "provocador": 45,
+    "batedorPenaltis": 26,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 63,
+    "defesa": 67,
+    "posicionamentoGol": 64,
+    "saidaGol": 61,
+    "jogoPes": 56,
+    "reposicao": 61,
+    "pegadorPenaltis": 63
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 21,
+    "tendenciaChute": 19,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 43,
+    "recomposicao": 38,
+    "participacaoJogo": 59,
+    "intensidade": 37,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/young/profil/spieler/894532",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/young.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

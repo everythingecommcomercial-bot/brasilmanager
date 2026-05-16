@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "vinicinho",
+    "nome": "Vinicinho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/vinicinho.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "20/02/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "17"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 77,
+    "reputacao": 71,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 73,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 71,
+    "drible": 79,
+    "controleBola": 75,
+    "dominio": 65,
+    "curva": 73,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 76,
+    "explosao": 77,
+    "agilidade": 78,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 58,
+    "desarme": 61,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 62,
+    "pressao": 56,
+    "cobertura": 59,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 70,
+    "frieza": 69,
+    "concentracao": 74,
+    "regularidade": 69,
+    "ansiedade": 30,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 66,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 68,
+    "profissionalismo": 66,
+    "lealdade": 49,
+    "catimba": 52,
+    "violencia": 26,
+    "disciplina": 75,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 45,
+    "momentoHeroico": 43,
+    "supersub": 58,
+    "decisivo": 55,
+    "provocador": 48,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 73
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 79,
+    "tendenciaChute": 73,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 57,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 64,
+    "participacaoJogo": 69,
+    "intensidade": 62,
+    "riscoCriativo": 71
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/vinicinho/profil/spieler/1082593",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/vinicinho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

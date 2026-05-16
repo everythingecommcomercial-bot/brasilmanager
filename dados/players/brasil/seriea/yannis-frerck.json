@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "yannis-frerck",
+    "nome": "Yannis Frerck",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/yannis-frerck.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "04/01/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "26"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 60,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 63,
+    "drible": 57,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 65,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 59,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 59
+  },
+  "defensivos": {
+    "marcacao": 58,
+    "desarme": 60,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 60,
+    "pressao": 62,
+    "cobertura": 56,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 58,
+    "frieza": 55,
+    "concentracao": 61,
+    "regularidade": 58,
+    "ansiedade": 38,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 77,
+    "profissionalismo": 68,
+    "lealdade": 53,
+    "catimba": 45,
+    "violencia": 31,
+    "disciplina": 68,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 43,
+    "momentoHeroico": 40,
+    "supersub": 58,
+    "decisivo": 47,
+    "provocador": 45,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 54
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 49,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 56,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 59,
+    "participacaoJogo": 57,
+    "intensidade": 60,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/yannis-frerck/profil/spieler/1109951",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/yannis-frerck.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "walace-falcao",
+    "nome": "Walace Falcão",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/walace-falcao.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "07/03/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "64"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 43,
+    "chuteLongo": 52,
+    "passeCurto": 55,
+    "passeLongo": 57,
+    "visao": 52,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 60,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 52,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 64,
+    "impulsao": 63,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 60,
+    "interceptacao": 64,
+    "posicionamentoDefensivo": 61,
+    "pressao": 63,
+    "cobertura": 63,
+    "empenhoTatico": 65
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 57,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 59,
+    "concentracao": 55,
+    "regularidade": 58,
+    "ansiedade": 37,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 55,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 73,
+    "profissionalismo": 66,
+    "lealdade": 49,
+    "catimba": 52,
+    "violencia": 34,
+    "disciplina": 76,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 45,
+    "momentoHeroico": 50,
+    "supersub": 42,
+    "decisivo": 46,
+    "provocador": 56,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 53
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 54,
+    "tendenciaMarcacao": 63,
+    "movimentacaoOfensiva": 54,
+    "recomposicao": 60,
+    "participacaoJogo": 56,
+    "intensidade": 58,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/walace-falcao/profil/spieler/1221660",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/walace-falcao.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

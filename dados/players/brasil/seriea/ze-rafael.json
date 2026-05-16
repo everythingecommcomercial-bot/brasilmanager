@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "ze-rafael",
+    "nome": "Zé Rafael",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ze-rafael.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "16/06/1993",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "6"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 70,
+    "passeLongo": 70,
+    "visao": 67,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 67,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 73,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 60,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 60,
+    "pressao": 70,
+    "cobertura": 60,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 65,
+    "decisao": 67,
+    "visaoJogo": 65,
+    "compostura": 70,
+    "frieza": 64,
+    "concentracao": 67,
+    "regularidade": 66,
+    "ansiedade": 34,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 69,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 57,
+    "profissionalismo": 64,
+    "lealdade": 61,
+    "catimba": 51,
+    "violencia": 45,
+    "disciplina": 75,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 51,
+    "momentoHeroico": 40,
+    "supersub": 45,
+    "decisivo": 46,
+    "provocador": 45,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 65,
+    "movimentacaoOfensiva": 67,
+    "recomposicao": 70,
+    "participacaoJogo": 71,
+    "intensidade": 72,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ze-rafael/profil/spieler/225432",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/ze-rafael.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

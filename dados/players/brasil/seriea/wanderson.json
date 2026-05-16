@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "wanderson",
+    "nome": "Wanderson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/wanderson.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil",
+      "belgica"
+    ],
+    "dataNascimento": "07/10/1994",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "94"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 71,
+    "reputacao": 71,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 76,
+    "drible": 78,
+    "controleBola": 71,
+    "dominio": 65,
+    "curva": 74,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 74,
+    "aceleracao": 76,
+    "explosao": 75,
+    "agilidade": 77,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 60,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 62,
+    "pressao": 59,
+    "cobertura": 62,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 68,
+    "decisao": 70,
+    "visaoJogo": 68,
+    "compostura": 72,
+    "frieza": 71,
+    "concentracao": 70,
+    "regularidade": 71,
+    "ansiedade": 24,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 73,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 55,
+    "profissionalismo": 68,
+    "lealdade": 51,
+    "catimba": 64,
+    "violencia": 44,
+    "disciplina": 76,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 44,
+    "momentoHeroico": 45,
+    "supersub": 43,
+    "decisivo": 54,
+    "provocador": 34,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 75
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 78,
+    "tendenciaChute": 71,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 62,
+    "participacaoJogo": 71,
+    "intensidade": 63,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/wanderson/profil/spieler/236202",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/belgica.json"
+    ],
+    "foto": "dados/images/players/brasil/wanderson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "yuri-alberto",
+    "nome": "Yuri Alberto",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/yuri-alberto.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "18/03/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "9"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€25.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 78,
+    "potencial": 81,
+    "reputacao": 83,
+    "potencialMidia": 81
+  },
+  "tecnicos": {
+    "finalizacao": 82,
+    "chuteLongo": 72,
+    "passeCurto": 72,
+    "passeLongo": 72,
+    "visao": 72,
+    "cruzamento": 72,
+    "drible": 72,
+    "controleBola": 78,
+    "dominio": 72,
+    "curva": 72,
+    "cobrancaFalta": 72,
+    "penalti": 82,
+    "cabecamento": 75,
+    "voleio": 79,
+    "acrobacia": 72
+  },
+  "fisicos": {
+    "velocidade": 80,
+    "aceleracao": 74,
+    "explosao": 78,
+    "agilidade": 74,
+    "equilibrio": 74,
+    "resistencia": 74,
+    "forca": 82,
+    "impulsao": 74,
+    "stamina": 74
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 57,
+    "interceptacao": 61,
+    "posicionamentoDefensivo": 61,
+    "pressao": 57,
+    "cobertura": 61,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 79,
+    "criatividade": 75,
+    "decisao": 81,
+    "visaoJogo": 75,
+    "compostura": 81,
+    "frieza": 78,
+    "concentracao": 75,
+    "regularidade": 73,
+    "ansiedade": 24,
+    "agressividade": 75,
+    "coragem": 75,
+    "lideranca": 76,
+    "trabalhoEquipe": 81
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 65,
+    "profissionalismo": 72,
+    "lealdade": 56,
+    "catimba": 65,
+    "violencia": 24,
+    "disciplina": 61,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 58,
+    "jogoGrande": 61,
+    "momentoHeroico": 56,
+    "supersub": 50,
+    "decisivo": 70,
+    "provocador": 46,
+    "batedorPenaltis": 82,
+    "cobradorFalta": 72,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 58,
+    "confianca": 63,
+    "formaAtual": 63,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 81,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 82,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 80,
+    "recomposicao": 68,
+    "participacaoJogo": 78,
+    "intensidade": 66,
+    "riscoCriativo": 73
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/yuri-alberto/profil/spieler/489893",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/yuri-alberto.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "wagner-leonardo",
+    "nome": "Wagner Leonardo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/wagner-leonardo.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "23/07/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "3"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 49,
+    "chuteLongo": 65,
+    "passeCurto": 68,
+    "passeLongo": 68,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 73,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 75,
+    "impulsao": 73,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 78,
+    "desarme": 77,
+    "interceptacao": 72,
+    "posicionamentoDefensivo": 76,
+    "pressao": 72,
+    "cobertura": 74,
+    "empenhoTatico": 72
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 69,
+    "frieza": 69,
+    "concentracao": 68,
+    "regularidade": 70,
+    "ansiedade": 29,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 67,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 61,
+    "profissionalismo": 65,
+    "lealdade": 68,
+    "catimba": 62,
+    "violencia": 37,
+    "disciplina": 73,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 43,
+    "momentoHeroico": 49,
+    "supersub": 59,
+    "decisivo": 53,
+    "provocador": 55,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 66,
+    "tendenciaMarcacao": 75,
+    "movimentacaoOfensiva": 67,
+    "recomposicao": 70,
+    "participacaoJogo": 70,
+    "intensidade": 70,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/wagner-leonardo/profil/spieler/671572",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/wagner-leonardo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}
