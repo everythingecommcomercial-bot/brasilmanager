@@ -1,0 +1,18 @@
+{
+  "id": "cassio",
+  "nome": "Cássio",
+  "clubeAtual": "cruzeiro",
+  "numero": "1",
+  "posicao": "Goalkeeper",
+  "idade": "06/06/1987 (38)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€300k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "japa",
+  "nome": "Japa",
+  "clubeAtual": "cruzeiro",
+  "numero": "77",
+  "posicao": "Central Midfield",
+  "idade": "02/01/2004 (22)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€500k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

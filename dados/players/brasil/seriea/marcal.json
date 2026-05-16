@@ -1,0 +1,18 @@
+{
+  "id": "marcal",
+  "nome": "Marçal",
+  "clubeAtual": "botafogo",
+  "numero": "21",
+  "posicao": "Left-Back",
+  "idade": "19/02/1989 (37)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€250k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

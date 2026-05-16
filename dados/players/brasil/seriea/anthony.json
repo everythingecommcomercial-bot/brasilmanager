@@ -1,0 +1,18 @@
+{
+  "id": "anthony",
+  "nome": "Anthony",
+  "clubeAtual": "botafogo",
+  "numero": "26",
+  "posicao": "Centre-Back",
+  "idade": "12/07/2005 (20)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€300k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

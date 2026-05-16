@@ -1,0 +1,18 @@
+{
+  "id": "bastos",
+  "nome": "Bastos",
+  "clubeAtual": "botafogo",
+  "numero": "15",
+  "posicao": "Centre-Back",
+  "idade": "27/03/1991 (35)",
+  "nacionalidade": [
+    "Angola"
+  ],
+  "valorMercado": "€700k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dudu",
+  "nome": "Dudu",
+  "clubeAtual": "atletico-mg",
+  "numero": "92",
+  "posicao": "Left Winger",
+  "idade": "07/01/1992 (34)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€1.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

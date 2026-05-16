@@ -1,0 +1,19 @@
+{
+  "id": "lyanco",
+  "nome": "Lyanco",
+  "clubeAtual": "atletico-mg",
+  "numero": "13",
+  "posicao": "Centre-Back",
+  "idade": "01/02/1997 (29)",
+  "nacionalidade": [
+    "Brazil",
+    "Serbia"
+  ],
+  "valorMercado": "€5.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

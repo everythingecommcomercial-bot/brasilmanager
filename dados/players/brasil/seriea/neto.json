@@ -1,0 +1,19 @@
+{
+  "id": "neto",
+  "nome": "Neto",
+  "clubeAtual": "botafogo",
+  "numero": "22",
+  "posicao": "Goalkeeper",
+  "idade": "19/07/1989 (36)",
+  "nacionalidade": [
+    "Brazil",
+    "Italy"
+  ],
+  "valorMercado": "€1.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

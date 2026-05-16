@@ -1,0 +1,19 @@
+{
+  "id": "luis-gustavo",
+  "nome": "Luís Gustavo",
+  "clubeAtual": "atletico-mg",
+  "numero": "32",
+  "posicao": "Right-Back",
+  "idade": "24/03/2006 (20)",
+  "nacionalidade": [
+    "Brazil",
+    "Portugal"
+  ],
+  "valorMercado": "-",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

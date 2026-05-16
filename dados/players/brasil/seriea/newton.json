@@ -1,0 +1,18 @@
+{
+  "id": "newton",
+  "nome": "Newton",
+  "clubeAtual": "botafogo",
+  "numero": "28",
+  "posicao": "Defensive Midfield",
+  "idade": "12/03/2000 (26)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€3.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

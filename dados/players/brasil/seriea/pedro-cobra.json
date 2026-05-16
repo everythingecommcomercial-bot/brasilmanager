@@ -1,0 +1,18 @@
+{
+  "id": "pedro-cobra",
+  "nome": "Pedro Cobra",
+  "clubeAtual": "atletico-mg",
+  "numero": "46",
+  "posicao": "Goalkeeper",
+  "idade": "15/05/2006 (20)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€600k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

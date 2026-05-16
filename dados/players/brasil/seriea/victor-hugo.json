@@ -1,0 +1,18 @@
+{
+  "id": "victor-hugo",
+  "nome": "Victor Hugo",
+  "clubeAtual": "atletico-mg",
+  "numero": "30",
+  "posicao": "Central Midfield",
+  "idade": "11/05/2004 (22)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€5.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "wanderson",
+  "nome": "Wanderson",
+  "clubeAtual": "cruzeiro",
+  "numero": "94",
+  "posicao": "Left Winger",
+  "idade": "07/10/1994 (31)",
+  "nacionalidade": [
+    "Brazil",
+    "Belgium"
+  ],
+  "valorMercado": "€3.50m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

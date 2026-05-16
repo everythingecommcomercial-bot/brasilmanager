@@ -1,0 +1,18 @@
+{
+  "id": "danilo",
+  "nome": "Danilo",
+  "clubeAtual": "botafogo",
+  "numero": "8",
+  "posicao": "Central Midfield",
+  "idade": "29/04/2001 (25)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€24.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

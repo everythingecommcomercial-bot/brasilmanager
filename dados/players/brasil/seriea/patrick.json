@@ -1,0 +1,18 @@
+{
+  "id": "patrick",
+  "nome": "Patrick",
+  "clubeAtual": "atletico-mg",
+  "numero": "20",
+  "posicao": "Defensive Midfield",
+  "idade": "19/03/2004 (22)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€1.50m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

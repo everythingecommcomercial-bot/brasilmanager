@@ -1,0 +1,19 @@
+{
+  "id": "gustavo-scarpa",
+  "nome": "Gustavo Scarpa",
+  "clubeAtual": "atletico-mg",
+  "numero": "10",
+  "posicao": "Attacking Midfield",
+  "idade": "05/01/1994 (32)",
+  "nacionalidade": [
+    "Brazil",
+    "Italy"
+  ],
+  "valorMercado": "€5.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}
