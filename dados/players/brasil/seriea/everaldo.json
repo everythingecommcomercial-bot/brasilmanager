@@ -1,0 +1,18 @@
+{
+  "id": "everaldo",
+  "nome": "Everaldo",
+  "clubeAtual": "bahia",
+  "numero": "27",
+  "posicao": "Centre-Forward",
+  "idade": "05/07/1991 (34)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€400k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "felipinho",
+  "nome": "Felipinho",
+  "clubeAtual": "athletico-paranaense",
+  "numero": "5",
+  "posicao": "Central Midfield",
+  "idade": "18/10/2001 (24)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€1.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

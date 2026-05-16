@@ -1,0 +1,18 @@
+{
+  "id": "artur",
+  "nome": "Artur",
+  "clubeAtual": "sao-paulo",
+  "numero": "37",
+  "posicao": "Right Winger",
+  "idade": "15/02/1998 (28)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€7.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

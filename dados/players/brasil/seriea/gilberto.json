@@ -1,0 +1,18 @@
+{
+  "id": "gilberto",
+  "nome": "Gilberto",
+  "clubeAtual": "bahia",
+  "numero": "2",
+  "posicao": "Right-Back",
+  "idade": "07/03/1993 (33)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€2.50m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

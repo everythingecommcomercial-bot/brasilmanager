@@ -1,0 +1,19 @@
+{
+  "id": "joao-moreira",
+  "nome": "João Moreira",
+  "clubeAtual": "sao-paulo",
+  "numero": "15",
+  "posicao": "Right-Back",
+  "idade": "21/05/2004 (21)",
+  "nacionalidade": [
+    "Brazil",
+    "Portugal"
+  ],
+  "valorMercado": "€1.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

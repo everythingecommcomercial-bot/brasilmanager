@@ -1,0 +1,19 @@
+{
+  "id": "cauly",
+  "nome": "Cauly",
+  "clubeAtual": "sao-paulo",
+  "numero": "80",
+  "posicao": "Attacking Midfield",
+  "idade": "15/09/1995 (30)",
+  "nacionalidade": [
+    "Brazil",
+    "Germany"
+  ],
+  "valorMercado": "€4.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}
