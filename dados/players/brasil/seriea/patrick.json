@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "patrick",
+    "nome": "Patrick",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/patrick.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "19/03/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "20"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 74,
+    "reputacao": 68,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 69,
+    "passeLongo": 72,
+    "visao": 70,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 69,
+    "forca": 72,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 68,
+    "interceptacao": 73,
+    "posicionamentoDefensivo": 68,
+    "pressao": 72,
+    "cobertura": 68,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 69,
+    "frieza": 64,
+    "concentracao": 66,
+    "regularidade": 66,
+    "ansiedade": 26,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 64,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 77,
+    "profissionalismo": 69,
+    "lealdade": 50,
+    "catimba": 51,
+    "violencia": 49,
+    "disciplina": 60,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 48,
+    "momentoHeroico": 43,
+    "supersub": 55,
+    "decisivo": 49,
+    "provocador": 37,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 71,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 69,
+    "participacaoJogo": 69,
+    "intensidade": 70,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/patrick/profil/spieler/1082625",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/patrick.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

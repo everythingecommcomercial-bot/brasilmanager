@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "paulo-henrique",
+    "nome": "Paulo Henrique",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/paulo-henrique.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "25/07/1996",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "96"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 73,
+    "reputacao": 73,
+    "potencialMidia": 73
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 70,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 76,
+    "drible": 76,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 80,
+    "aceleracao": 77,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 79,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 79
+  },
+  "defensivos": {
+    "marcacao": 76,
+    "desarme": 72,
+    "interceptacao": 75,
+    "posicionamentoDefensivo": 73,
+    "pressao": 72,
+    "cobertura": 72,
+    "empenhoTatico": 72
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 70,
+    "decisao": 74,
+    "visaoJogo": 70,
+    "compostura": 71,
+    "frieza": 72,
+    "concentracao": 74,
+    "regularidade": 68,
+    "ansiedade": 22,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 76,
+    "trabalhoEquipe": 76
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 57,
+    "profissionalismo": 61,
+    "lealdade": 60,
+    "catimba": 53,
+    "violencia": 36,
+    "disciplina": 64,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 51,
+    "momentoHeroico": 52,
+    "supersub": 44,
+    "decisivo": 49,
+    "provocador": 42,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 68,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 68,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 76,
+    "participacaoJogo": 76,
+    "intensidade": 76,
+    "riscoCriativo": 71
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/paulo-henrique/profil/spieler/412594",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/paulo-henrique.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

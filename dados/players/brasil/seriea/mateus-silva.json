@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "mateus-silva",
+    "nome": "Mateus Silva",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/mateus-silva.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "07/10/1998",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "98"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€800k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 66,
+    "reputacao": 65,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 68,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 68,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 67,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 64,
+    "desarme": 68,
+    "interceptacao": 64,
+    "posicionamentoDefensivo": 64,
+    "pressao": 63,
+    "cobertura": 63,
+    "empenhoTatico": 66
+  },
+  "mentais": {
+    "inteligencia": 67,
+    "criatividade": 62,
+    "decisao": 63,
+    "visaoJogo": 62,
+    "compostura": 65,
+    "frieza": 63,
+    "concentracao": 65,
+    "regularidade": 60,
+    "ansiedade": 38,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 63,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 65,
+    "profissionalismo": 66,
+    "lealdade": 67,
+    "catimba": 62,
+    "violencia": 49,
+    "disciplina": 64,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 52,
+    "momentoHeroico": 48,
+    "supersub": 61,
+    "decisivo": 45,
+    "provocador": 57,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 61,
+    "recomposicao": 66,
+    "participacaoJogo": 66,
+    "intensidade": 65,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/mateus-silva/profil/spieler/870778",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/mateus-silva.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

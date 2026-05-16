@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "memphis-depay",
+    "nome": "Memphis Depay",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/memphis-depay.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "holanda",
+      "gana"
+    ],
+    "dataNascimento": "13/02/1994",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Segundo Atacante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€8.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 81,
+    "potencial": 81,
+    "reputacao": 81,
+    "potencialMidia": 81
+  },
+  "tecnicos": {
+    "finalizacao": 86,
+    "chuteLongo": 85,
+    "passeCurto": 75,
+    "passeLongo": 75,
+    "visao": 75,
+    "cruzamento": 75,
+    "drible": 75,
+    "controleBola": 79,
+    "dominio": 75,
+    "curva": 75,
+    "cobrancaFalta": 84,
+    "penalti": 80,
+    "cabecamento": 80,
+    "voleio": 79,
+    "acrobacia": 75
+  },
+  "fisicos": {
+    "velocidade": 80,
+    "aceleracao": 77,
+    "explosao": 80,
+    "agilidade": 77,
+    "equilibrio": 77,
+    "resistencia": 77,
+    "forca": 81,
+    "impulsao": 77,
+    "stamina": 77
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 64,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 65,
+    "pressao": 65,
+    "cobertura": 66,
+    "empenhoTatico": 66
+  },
+  "mentais": {
+    "inteligencia": 84,
+    "criatividade": 78,
+    "decisao": 82,
+    "visaoJogo": 78,
+    "compostura": 82,
+    "frieza": 79,
+    "concentracao": 82,
+    "regularidade": 78,
+    "ansiedade": 21,
+    "agressividade": 78,
+    "coragem": 78,
+    "lideranca": 81,
+    "trabalhoEquipe": 80
+  },
+  "personalidade": {
+    "ego": 71,
+    "ambicao": 65,
+    "profissionalismo": 73,
+    "lealdade": 59,
+    "catimba": 58,
+    "violencia": 32,
+    "disciplina": 75,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 84,
+    "jogoGrande": 82,
+    "momentoHeroico": 82,
+    "supersub": 43,
+    "decisivo": 82,
+    "provocador": 34,
+    "batedorPenaltis": 80,
+    "cobradorFalta": 75,
+    "especialistaEscanteio": 77
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 61,
+    "confianca": 66,
+    "formaAtual": 66,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 81,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 75,
+    "tendenciaChute": 86,
+    "tendenciaPasse": 75,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 80,
+    "recomposicao": 72,
+    "participacaoJogo": 79,
+    "intensidade": 71,
+    "riscoCriativo": 76
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/memphis-depay/profil/spieler/167850",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/holanda.json",
+      "dados/selecoes/paises/gana.json"
+    ],
+    "foto": "dados/images/players/brasil/memphis-depay.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

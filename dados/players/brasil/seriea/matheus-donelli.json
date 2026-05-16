@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "matheus-donelli",
+    "nome": "Matheus Donelli",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-donelli.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "17/05/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "32"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 74,
+    "reputacao": 68,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 19,
+    "chuteLongo": 29,
+    "passeCurto": 52,
+    "passeLongo": 56,
+    "visao": 19,
+    "cruzamento": 22,
+    "drible": 28,
+    "controleBola": 24,
+    "dominio": 21,
+    "curva": 30,
+    "cobrancaFalta": 24,
+    "penalti": 30,
+    "cabecamento": 24,
+    "voleio": 26,
+    "acrobacia": 19
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 69,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 66,
+    "impulsao": 72,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 22,
+    "desarme": 19,
+    "interceptacao": 15,
+    "posicionamentoDefensivo": 16,
+    "pressao": 16,
+    "cobertura": 21,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 65,
+    "decisao": 68,
+    "visaoJogo": 65,
+    "compostura": 68,
+    "frieza": 66,
+    "concentracao": 69,
+    "regularidade": 66,
+    "ansiedade": 35,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 63,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 70,
+    "profissionalismo": 65,
+    "lealdade": 59,
+    "catimba": 64,
+    "violencia": 35,
+    "disciplina": 61,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 44,
+    "momentoHeroico": 41,
+    "supersub": 50,
+    "decisivo": 49,
+    "provocador": 33,
+    "batedorPenaltis": 30,
+    "cobradorFalta": 24,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 73,
+    "defesa": 73,
+    "posicionamentoGol": 70,
+    "saidaGol": 70,
+    "jogoPes": 60,
+    "reposicao": 66,
+    "pegadorPenaltis": 71
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 20,
+    "tendenciaChute": 21,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 19,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 40,
+    "participacaoJogo": 67,
+    "intensidade": 40,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-donelli/profil/spieler/708723",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-donelli.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

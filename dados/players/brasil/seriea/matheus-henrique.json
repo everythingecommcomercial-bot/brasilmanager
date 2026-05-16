@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheus-henrique",
+    "nome": "Matheus Henrique",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-henrique.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "19/12/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "8"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 75,
+    "passeLongo": 74,
+    "visao": 76,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 76,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 73,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 63,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 63,
+    "pressao": 69,
+    "cobertura": 63,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 68,
+    "decisao": 71,
+    "visaoJogo": 68,
+    "compostura": 74,
+    "frieza": 70,
+    "concentracao": 74,
+    "regularidade": 71,
+    "ansiedade": 29,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 69,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 65,
+    "profissionalismo": 74,
+    "lealdade": 68,
+    "catimba": 67,
+    "violencia": 24,
+    "disciplina": 66,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 46,
+    "momentoHeroico": 43,
+    "supersub": 58,
+    "decisivo": 50,
+    "provocador": 52,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 76,
+    "tendenciaMarcacao": 66,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 72,
+    "participacaoJogo": 72,
+    "intensidade": 71,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-henrique/profil/spieler/552549",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-henrique.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

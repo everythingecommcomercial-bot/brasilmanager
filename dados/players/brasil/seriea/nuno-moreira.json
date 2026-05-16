@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "nuno-moreira",
+    "nome": "Nuno Moreira",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/nuno-moreira.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "portugal"
+    ],
+    "dataNascimento": "16/06/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "17"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 70,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 78,
+    "drible": 80,
+    "controleBola": 79,
+    "dominio": 67,
+    "curva": 71,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 81,
+    "explosao": 78,
+    "agilidade": 75,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 64,
+    "desarme": 58,
+    "interceptacao": 63,
+    "posicionamentoDefensivo": 62,
+    "pressao": 63,
+    "cobertura": 60,
+    "empenhoTatico": 64
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 70,
+    "frieza": 75,
+    "concentracao": 76,
+    "regularidade": 69,
+    "ansiedade": 23,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 67,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 66,
+    "profissionalismo": 65,
+    "lealdade": 58,
+    "catimba": 61,
+    "violencia": 40,
+    "disciplina": 75,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 50,
+    "momentoHeroico": 40,
+    "supersub": 55,
+    "decisivo": 51,
+    "provocador": 53,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 80,
+    "tendenciaChute": 70,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 75,
+    "recomposicao": 66,
+    "participacaoJogo": 72,
+    "intensidade": 66,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/nuno-moreira/profil/spieler/461937",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/portugal.json"
+    ],
+    "foto": "dados/images/players/brasil/nuno-moreira.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

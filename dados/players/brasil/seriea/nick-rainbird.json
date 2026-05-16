@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "nick-rainbird",
+    "nome": "Nick Rainbird",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/nick-rainbird.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "05/09/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 59,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 63,
+    "drible": 58,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 60,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 62,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 60
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 56,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 61,
+    "pressao": 60,
+    "cobertura": 57,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 56,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 59,
+    "frieza": 56,
+    "concentracao": 61,
+    "regularidade": 54,
+    "ansiedade": 36,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 55,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 72,
+    "profissionalismo": 74,
+    "lealdade": 61,
+    "catimba": 54,
+    "violencia": 50,
+    "disciplina": 67,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 42,
+    "momentoHeroico": 40,
+    "supersub": 47,
+    "decisivo": 43,
+    "provocador": 47,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 50,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 56,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 58,
+    "participacaoJogo": 59,
+    "intensidade": 61,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/nick-rainbird/profil/spieler/1109923",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/nick-rainbird.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

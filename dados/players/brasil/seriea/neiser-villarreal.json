@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "neiser-villarreal",
+    "nome": "Néiser Villarreal",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/neiser-villarreal.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "24/04/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 77,
+    "reputacao": 68,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 71,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 72,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 68,
+    "cabecamento": 66,
+    "voleio": 68,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 66,
+    "aceleracao": 64,
+    "explosao": 68,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 71,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 53,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 53,
+    "pressao": 51,
+    "cobertura": 50,
+    "empenhoTatico": 53
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 65,
+    "decisao": 65,
+    "visaoJogo": 65,
+    "compostura": 67,
+    "frieza": 64,
+    "concentracao": 69,
+    "regularidade": 68,
+    "ansiedade": 36,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 63,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 81,
+    "profissionalismo": 76,
+    "lealdade": 48,
+    "catimba": 66,
+    "violencia": 37,
+    "disciplina": 63,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 54,
+    "momentoHeroico": 51,
+    "supersub": 43,
+    "decisivo": 44,
+    "provocador": 56,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 71,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 50,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 58,
+    "participacaoJogo": 67,
+    "intensidade": 58,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/neiser-villarreal/profil/spieler/1182665",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/neiser-villarreal.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

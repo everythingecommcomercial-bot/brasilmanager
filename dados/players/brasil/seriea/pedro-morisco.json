@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "pedro-morisco",
+    "nome": "Pedro Morisco",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/pedro-morisco.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/01/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 79,
+    "reputacao": 73,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 21,
+    "chuteLongo": 29,
+    "passeCurto": 58,
+    "passeLongo": 61,
+    "visao": 19,
+    "cruzamento": 23,
+    "drible": 21,
+    "controleBola": 22,
+    "dominio": 30,
+    "curva": 23,
+    "cobrancaFalta": 24,
+    "penalti": 27,
+    "cabecamento": 28,
+    "voleio": 23,
+    "acrobacia": 30
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 72,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 71,
+    "impulsao": 75,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 18,
+    "desarme": 21,
+    "interceptacao": 19,
+    "posicionamentoDefensivo": 16,
+    "pressao": 22,
+    "cobertura": 21,
+    "empenhoTatico": 21
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 70,
+    "decisao": 74,
+    "visaoJogo": 70,
+    "compostura": 74,
+    "frieza": 75,
+    "concentracao": 73,
+    "regularidade": 73,
+    "ansiedade": 33,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 66,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 71,
+    "profissionalismo": 61,
+    "lealdade": 65,
+    "catimba": 64,
+    "violencia": 26,
+    "disciplina": 63,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 52,
+    "momentoHeroico": 40,
+    "supersub": 53,
+    "decisivo": 56,
+    "provocador": 48,
+    "batedorPenaltis": 27,
+    "cobradorFalta": 24,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 75,
+    "defesa": 77,
+    "posicionamentoGol": 78,
+    "saidaGol": 74,
+    "jogoPes": 71,
+    "reposicao": 70,
+    "pegadorPenaltis": 72
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 13,
+    "tendenciaChute": 21,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 48,
+    "recomposicao": 45,
+    "participacaoJogo": 72,
+    "intensidade": 46,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/pedro-morisco/profil/spieler/974488",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/pedro-morisco.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

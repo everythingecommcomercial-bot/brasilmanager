@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "osvaldo",
+    "nome": "Osvaldo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/osvaldo.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "11/04/1987",
+    "idade": 39,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€100k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 56,
+    "chuteLongo": 53,
+    "passeCurto": 53,
+    "passeLongo": 53,
+    "visao": 53,
+    "cruzamento": 60,
+    "drible": 64,
+    "controleBola": 60,
+    "dominio": 53,
+    "curva": 61,
+    "cobrancaFalta": 53,
+    "penalti": 53,
+    "cabecamento": 53,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 65,
+    "aceleracao": 63,
+    "explosao": 63,
+    "agilidade": 64,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 55,
+    "impulsao": 55,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 47,
+    "interceptacao": 45,
+    "posicionamentoDefensivo": 45,
+    "pressao": 50,
+    "cobertura": 50,
+    "empenhoTatico": 49
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 56,
+    "decisao": 61,
+    "visaoJogo": 56,
+    "compostura": 60,
+    "frieza": 61,
+    "concentracao": 61,
+    "regularidade": 60,
+    "ansiedade": 35,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 56,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 55,
+    "profissionalismo": 67,
+    "lealdade": 48,
+    "catimba": 52,
+    "violencia": 25,
+    "disciplina": 69,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 43,
+    "momentoHeroico": 44,
+    "supersub": 54,
+    "decisivo": 45,
+    "provocador": 37,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 10,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 56,
+    "tendenciaPasse": 53,
+    "tendenciaMarcacao": 50,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 52,
+    "participacaoJogo": 57,
+    "intensidade": 52,
+    "riscoCriativo": 58
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/osvaldo/profil/spieler/76191",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/osvaldo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

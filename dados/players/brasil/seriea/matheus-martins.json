@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheus-martins",
+    "nome": "Matheus Martins",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-martins.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/07/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 79,
+    "reputacao": 73,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 75,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 75,
+    "drible": 79,
+    "controleBola": 77,
+    "dominio": 67,
+    "curva": 71,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 78,
+    "aceleracao": 80,
+    "explosao": 79,
+    "agilidade": 75,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 62,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 64,
+    "pressao": 58,
+    "cobertura": 58,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 70,
+    "decisao": 76,
+    "visaoJogo": 70,
+    "compostura": 75,
+    "frieza": 75,
+    "concentracao": 72,
+    "regularidade": 70,
+    "ansiedade": 33,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 68,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 75,
+    "profissionalismo": 72,
+    "lealdade": 54,
+    "catimba": 59,
+    "violencia": 37,
+    "disciplina": 60,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 42,
+    "momentoHeroico": 46,
+    "supersub": 62,
+    "decisivo": 55,
+    "provocador": 53,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 76
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 79,
+    "tendenciaChute": 75,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 65,
+    "participacaoJogo": 71,
+    "intensidade": 64,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-martins/profil/spieler/668228",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-martins.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

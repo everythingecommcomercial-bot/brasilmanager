@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "marlon-freitas",
+    "nome": "Marlon Freitas",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/marlon-freitas.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "27/03/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "17"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 73,
+    "reputacao": 73,
+    "potencialMidia": 73
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 78,
+    "passeLongo": 75,
+    "visao": 72,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 77,
+    "forca": 72,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 73,
+    "desarme": 77,
+    "interceptacao": 79,
+    "posicionamentoDefensivo": 76,
+    "pressao": 74,
+    "cobertura": 73,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 70,
+    "decisao": 76,
+    "visaoJogo": 70,
+    "compostura": 74,
+    "frieza": 73,
+    "concentracao": 72,
+    "regularidade": 69,
+    "ansiedade": 31,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 75,
+    "trabalhoEquipe": 75
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 58,
+    "profissionalismo": 60,
+    "lealdade": 50,
+    "catimba": 57,
+    "violencia": 36,
+    "disciplina": 72,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 53,
+    "momentoHeroico": 38,
+    "supersub": 54,
+    "decisivo": 53,
+    "provocador": 42,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 69
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 75,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 71,
+    "participacaoJogo": 75,
+    "intensidade": 76,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/marlon-freitas/profil/spieler/364972",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/marlon-freitas.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

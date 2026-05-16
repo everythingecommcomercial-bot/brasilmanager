@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "marcelinho-braz",
+    "nome": "Marcelinho Braz",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/marcelinho-braz.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/08/2004",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "57"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 52,
+    "passeCurto": 60,
+    "passeLongo": 52,
+    "visao": 64,
+    "cruzamento": 52,
+    "drible": 63,
+    "controleBola": 62,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 56,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 47,
+    "desarme": 44,
+    "interceptacao": 43,
+    "posicionamentoDefensivo": 49,
+    "pressao": 46,
+    "cobertura": 44,
+    "empenhoTatico": 44
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 65,
+    "decisao": 58,
+    "visaoJogo": 61,
+    "compostura": 55,
+    "frieza": 56,
+    "concentracao": 61,
+    "regularidade": 59,
+    "ansiedade": 41,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 55,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 77,
+    "profissionalismo": 62,
+    "lealdade": 68,
+    "catimba": 60,
+    "violencia": 32,
+    "disciplina": 76,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 45,
+    "momentoHeroico": 47,
+    "supersub": 52,
+    "decisivo": 53,
+    "provocador": 36,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 56,
+    "especialistaEscanteio": 49
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 63,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 46,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 49,
+    "participacaoJogo": 56,
+    "intensidade": 50,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/marcelinho-braz/profil/spieler/1084073",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/marcelinho-braz.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "paulinho",
+    "nome": "Paulinho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/paulinho.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "17/05/2005",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "39"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 77,
+    "potencial": 86,
+    "reputacao": 77,
+    "potencialMidia": 91
+  },
+  "tecnicos": {
+    "finalizacao": 79,
+    "chuteLongo": 71,
+    "passeCurto": 71,
+    "passeLongo": 71,
+    "visao": 71,
+    "cruzamento": 71,
+    "drible": 71,
+    "controleBola": 76,
+    "dominio": 71,
+    "curva": 71,
+    "cobrancaFalta": 71,
+    "penalti": 77,
+    "cabecamento": 76,
+    "voleio": 76,
+    "acrobacia": 71
+  },
+  "fisicos": {
+    "velocidade": 79,
+    "aceleracao": 73,
+    "explosao": 79,
+    "agilidade": 73,
+    "equilibrio": 73,
+    "resistencia": 73,
+    "forca": 76,
+    "impulsao": 73,
+    "stamina": 73
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 60,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 62,
+    "pressao": 57,
+    "cobertura": 58,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 74,
+    "decisao": 74,
+    "visaoJogo": 74,
+    "compostura": 79,
+    "frieza": 76,
+    "concentracao": 75,
+    "regularidade": 74,
+    "ansiedade": 27,
+    "agressividade": 74,
+    "coragem": 74,
+    "lideranca": 74,
+    "trabalhoEquipe": 78
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 77,
+    "profissionalismo": 68,
+    "lealdade": 53,
+    "catimba": 64,
+    "violencia": 44,
+    "disciplina": 66,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 56,
+    "jogoGrande": 63,
+    "momentoHeroico": 51,
+    "supersub": 58,
+    "decisivo": 63,
+    "provocador": 48,
+    "batedorPenaltis": 77,
+    "cobradorFalta": 71,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 57,
+    "confianca": 62,
+    "formaAtual": 62,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 86,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 63,
+    "tendenciaChute": 79,
+    "tendenciaPasse": 71,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 75,
+    "recomposicao": 66,
+    "participacaoJogo": 76,
+    "intensidade": 65,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/paulinho/profil/spieler/1219851",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/paulinho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

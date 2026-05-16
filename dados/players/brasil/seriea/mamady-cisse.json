@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "mamady-cisse",
+    "nome": "Mamady Cissé",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/mamady-cisse.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "guinea"
+    ],
+    "dataNascimento": "01/07/2007",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "39"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 67,
+    "potencial": 79,
+    "reputacao": 67,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 61,
+    "chuteLongo": 61,
+    "passeCurto": 70,
+    "passeLongo": 71,
+    "visao": 69,
+    "cruzamento": 61,
+    "drible": 61,
+    "controleBola": 71,
+    "dominio": 61,
+    "curva": 61,
+    "cobrancaFalta": 61,
+    "penalti": 61,
+    "cabecamento": 61,
+    "voleio": 61,
+    "acrobacia": 61
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 63,
+    "explosao": 63,
+    "agilidade": 63,
+    "equilibrio": 63,
+    "resistencia": 67,
+    "forca": 63,
+    "impulsao": 63,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 59,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 59,
+    "pressao": 68,
+    "cobertura": 59,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 64,
+    "decisao": 66,
+    "visaoJogo": 64,
+    "compostura": 67,
+    "frieza": 69,
+    "concentracao": 69,
+    "regularidade": 65,
+    "ansiedade": 36,
+    "agressividade": 64,
+    "coragem": 64,
+    "lideranca": 61,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 84,
+    "profissionalismo": 68,
+    "lealdade": 55,
+    "catimba": 55,
+    "violencia": 28,
+    "disciplina": 66,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 46,
+    "momentoHeroico": 43,
+    "supersub": 50,
+    "decisivo": 45,
+    "provocador": 40,
+    "batedorPenaltis": 61,
+    "cobradorFalta": 61,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 47,
+    "confianca": 52,
+    "formaAtual": 52,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 53,
+    "tendenciaChute": 53,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 71,
+    "participacaoJogo": 67,
+    "intensidade": 68,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/mamady-cisse/profil/spieler/1410674",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/guinea.json"
+    ],
+    "foto": "dados/images/players/brasil/mamady-cisse.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

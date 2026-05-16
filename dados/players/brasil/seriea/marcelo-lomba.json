@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "marcelo-lomba",
+    "nome": "Marcelo Lomba",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/marcelo-lomba.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "18/12/1986",
+    "idade": 39,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "14"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€100k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 21,
+    "chuteLongo": 25,
+    "passeCurto": 46,
+    "passeLongo": 45,
+    "visao": 20,
+    "cruzamento": 31,
+    "drible": 22,
+    "controleBola": 27,
+    "dominio": 21,
+    "curva": 23,
+    "cobrancaFalta": 28,
+    "penalti": 29,
+    "cabecamento": 20,
+    "voleio": 29,
+    "acrobacia": 21
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 58,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 62,
+    "impulsao": 59,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 18,
+    "desarme": 18,
+    "interceptacao": 17,
+    "posicionamentoDefensivo": 21,
+    "pressao": 18,
+    "cobertura": 25,
+    "empenhoTatico": 21
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 56,
+    "decisao": 58,
+    "visaoJogo": 56,
+    "compostura": 62,
+    "frieza": 61,
+    "concentracao": 57,
+    "regularidade": 54,
+    "ansiedade": 43,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 56,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 58,
+    "profissionalismo": 70,
+    "lealdade": 52,
+    "catimba": 61,
+    "violencia": 37,
+    "disciplina": 70,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 43,
+    "momentoHeroico": 40,
+    "supersub": 56,
+    "decisivo": 53,
+    "provocador": 42,
+    "batedorPenaltis": 29,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 30
+  },
+  "goleiro": {
+    "reflexos": 61,
+    "defesa": 63,
+    "posicionamentoGol": 62,
+    "saidaGol": 58,
+    "jogoPes": 54,
+    "reposicao": 53,
+    "pegadorPenaltis": 59
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 10,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 14,
+    "tendenciaChute": 17,
+    "tendenciaPasse": 33,
+    "tendenciaMarcacao": 18,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 38,
+    "participacaoJogo": 57,
+    "intensidade": 36,
+    "riscoCriativo": 33
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/marcelo-lomba/profil/spieler/53015",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/marcelo-lomba.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

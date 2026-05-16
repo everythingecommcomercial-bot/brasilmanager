@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "mancha",
+    "nome": "Mancha",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/mancha.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "13/02/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "6"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€550k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 68,
+    "reputacao": 65,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 65,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 68,
+    "drible": 64,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 70,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 68,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 67,
+    "desarme": 69,
+    "interceptacao": 67,
+    "posicionamentoDefensivo": 64,
+    "pressao": 63,
+    "cobertura": 64,
+    "empenhoTatico": 67
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 62,
+    "decisao": 68,
+    "visaoJogo": 62,
+    "compostura": 67,
+    "frieza": 65,
+    "concentracao": 63,
+    "regularidade": 62,
+    "ansiedade": 32,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 58,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 67,
+    "profissionalismo": 62,
+    "lealdade": 62,
+    "catimba": 60,
+    "violencia": 22,
+    "disciplina": 67,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 42,
+    "momentoHeroico": 42,
+    "supersub": 50,
+    "decisivo": 43,
+    "provocador": 53,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 56,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 65,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 66,
+    "participacaoJogo": 65,
+    "intensidade": 66,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/mancha/profil/spieler/871650",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/mancha.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

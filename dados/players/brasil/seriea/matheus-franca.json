@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheus-franca",
+    "nome": "Matheus França",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-franca.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "01/04/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "9"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 80,
+    "reputacao": 74,
+    "potencialMidia": 85
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 68,
+    "passeCurto": 79,
+    "passeLongo": 68,
+    "visao": 82,
+    "cruzamento": 68,
+    "drible": 80,
+    "controleBola": 79,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 76,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 70,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 70,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 61,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 63,
+    "pressao": 63,
+    "cobertura": 65,
+    "empenhoTatico": 65
+  },
+  "mentais": {
+    "inteligencia": 76,
+    "criatividade": 83,
+    "decisao": 75,
+    "visaoJogo": 81,
+    "compostura": 76,
+    "frieza": 70,
+    "concentracao": 71,
+    "regularidade": 72,
+    "ansiedade": 22,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 72,
+    "trabalhoEquipe": 77
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 68,
+    "profissionalismo": 68,
+    "lealdade": 55,
+    "catimba": 46,
+    "violencia": 24,
+    "disciplina": 63,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 47,
+    "momentoHeroico": 49,
+    "supersub": 61,
+    "decisivo": 56,
+    "provocador": 38,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 76,
+    "especialistaEscanteio": 71
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 80,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 80,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 80,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 77,
+    "recomposicao": 68,
+    "participacaoJogo": 74,
+    "intensidade": 66,
+    "riscoCriativo": 82
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-franca/profil/spieler/743597",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-franca.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

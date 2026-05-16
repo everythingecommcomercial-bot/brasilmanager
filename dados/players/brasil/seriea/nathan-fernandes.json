@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "nathan-fernandes",
+    "nome": "Nathan Fernandes",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/nathan-fernandes.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/02/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "16"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 80,
+    "reputacao": 71,
+    "potencialMidia": 85
+  },
+  "tecnicos": {
+    "finalizacao": 72,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 75,
+    "drible": 78,
+    "controleBola": 71,
+    "dominio": 65,
+    "curva": 74,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 80,
+    "aceleracao": 74,
+    "explosao": 76,
+    "agilidade": 77,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 62,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 58,
+    "pressao": 62,
+    "cobertura": 62,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 68,
+    "decisao": 69,
+    "visaoJogo": 68,
+    "compostura": 73,
+    "frieza": 68,
+    "concentracao": 73,
+    "regularidade": 72,
+    "ansiedade": 28,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 64,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 83,
+    "profissionalismo": 73,
+    "lealdade": 66,
+    "catimba": 66,
+    "violencia": 36,
+    "disciplina": 63,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 53,
+    "momentoHeroico": 40,
+    "supersub": 58,
+    "decisivo": 49,
+    "provocador": 32,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 76
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 80,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 78,
+    "tendenciaChute": 72,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 70,
+    "recomposicao": 64,
+    "participacaoJogo": 70,
+    "intensidade": 64,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/nathan-fernandes/profil/spieler/1083600",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/nathan-fernandes.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

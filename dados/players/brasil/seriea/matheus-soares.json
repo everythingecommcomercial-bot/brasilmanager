@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheus-soares",
+    "nome": "Matheus Soares",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-soares.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "10/01/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "42"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 27,
+    "chuteLongo": 21,
+    "passeCurto": 45,
+    "passeLongo": 49,
+    "visao": 21,
+    "cruzamento": 24,
+    "drible": 20,
+    "controleBola": 19,
+    "dominio": 31,
+    "curva": 23,
+    "cobrancaFalta": 31,
+    "penalti": 26,
+    "cabecamento": 20,
+    "voleio": 30,
+    "acrobacia": 21
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 62,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 55,
+    "impulsao": 57,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 23,
+    "desarme": 22,
+    "interceptacao": 25,
+    "posicionamentoDefensivo": 20,
+    "pressao": 18,
+    "cobertura": 15,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 55,
+    "decisao": 59,
+    "visaoJogo": 55,
+    "compostura": 56,
+    "frieza": 60,
+    "concentracao": 58,
+    "regularidade": 58,
+    "ansiedade": 47,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 73,
+    "profissionalismo": 74,
+    "lealdade": 52,
+    "catimba": 48,
+    "violencia": 39,
+    "disciplina": 64,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 50,
+    "momentoHeroico": 49,
+    "supersub": 47,
+    "decisivo": 52,
+    "provocador": 34,
+    "batedorPenaltis": 26,
+    "cobradorFalta": 31,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 65,
+    "defesa": 61,
+    "posicionamentoGol": 62,
+    "saidaGol": 60,
+    "jogoPes": 54,
+    "reposicao": 55,
+    "pegadorPenaltis": 60
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 12,
+    "tendenciaChute": 13,
+    "tendenciaPasse": 33,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 39,
+    "recomposicao": 39,
+    "participacaoJogo": 57,
+    "intensidade": 36,
+    "riscoCriativo": 32
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-soares/profil/spieler/1122597",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-soares.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

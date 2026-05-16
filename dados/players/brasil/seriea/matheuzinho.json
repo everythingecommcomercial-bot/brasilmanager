@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheuzinho",
+    "nome": "Matheuzinho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheuzinho.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "08/09/2000",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "2"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€7.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 77,
+    "reputacao": 74,
+    "potencialMidia": 77
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 68,
+    "passeCurto": 76,
+    "passeLongo": 68,
+    "visao": 68,
+    "cruzamento": 77,
+    "drible": 77,
+    "controleBola": 68,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 78,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 79,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 75
+  },
+  "defensivos": {
+    "marcacao": 77,
+    "desarme": 73,
+    "interceptacao": 77,
+    "posicionamentoDefensivo": 73,
+    "pressao": 73,
+    "cobertura": 75,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 78,
+    "criatividade": 71,
+    "decisao": 76,
+    "visaoJogo": 71,
+    "compostura": 75,
+    "frieza": 74,
+    "concentracao": 74,
+    "regularidade": 72,
+    "ansiedade": 22,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 66,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 71,
+    "profissionalismo": 65,
+    "lealdade": 67,
+    "catimba": 47,
+    "violencia": 37,
+    "disciplina": 62,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 53,
+    "momentoHeroico": 50,
+    "supersub": 45,
+    "decisivo": 52,
+    "provocador": 45,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 69,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 75,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 74,
+    "participacaoJogo": 75,
+    "intensidade": 76,
+    "riscoCriativo": 72
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheuzinho/profil/spieler/594226",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheuzinho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

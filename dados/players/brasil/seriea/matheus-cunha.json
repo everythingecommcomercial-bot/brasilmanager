@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheus-cunha",
+    "nome": "Matheus Cunha",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-cunha.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "24/05/2001",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "31"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 71,
+    "reputacao": 68,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 29,
+    "chuteLongo": 22,
+    "passeCurto": 53,
+    "passeLongo": 59,
+    "visao": 26,
+    "cruzamento": 25,
+    "drible": 30,
+    "controleBola": 26,
+    "dominio": 28,
+    "curva": 22,
+    "cobrancaFalta": 20,
+    "penalti": 25,
+    "cabecamento": 25,
+    "voleio": 26,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 68,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 68,
+    "impulsao": 73,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 25,
+    "desarme": 25,
+    "interceptacao": 22,
+    "posicionamentoDefensivo": 21,
+    "pressao": 23,
+    "cobertura": 21,
+    "empenhoTatico": 16
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 71,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 65,
+    "concentracao": 70,
+    "regularidade": 67,
+    "ansiedade": 30,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 61,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 69,
+    "profissionalismo": 61,
+    "lealdade": 54,
+    "catimba": 58,
+    "violencia": 45,
+    "disciplina": 73,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 49,
+    "momentoHeroico": 46,
+    "supersub": 52,
+    "decisivo": 50,
+    "provocador": 50,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 70,
+    "defesa": 70,
+    "posicionamentoGol": 73,
+    "saidaGol": 68,
+    "jogoPes": 62,
+    "reposicao": 64,
+    "pegadorPenaltis": 66
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 22,
+    "tendenciaChute": 14,
+    "tendenciaPasse": 40,
+    "tendenciaMarcacao": 24,
+    "movimentacaoOfensiva": 48,
+    "recomposicao": 40,
+    "participacaoJogo": 67,
+    "intensidade": 44,
+    "riscoCriativo": 40
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-cunha/profil/spieler/876739",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-cunha.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

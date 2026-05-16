@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rafael",
+    "nome": "Rafael",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rafael.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "23/06/1989",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 28,
+    "chuteLongo": 21,
+    "passeCurto": 48,
+    "passeLongo": 50,
+    "visao": 20,
+    "cruzamento": 26,
+    "drible": 30,
+    "controleBola": 23,
+    "dominio": 20,
+    "curva": 23,
+    "cobrancaFalta": 24,
+    "penalti": 30,
+    "cabecamento": 23,
+    "voleio": 30,
+    "acrobacia": 28
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 63,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 62,
+    "impulsao": 58,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 16,
+    "interceptacao": 24,
+    "posicionamentoDefensivo": 21,
+    "pressao": 17,
+    "cobertura": 15,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 56,
+    "decisao": 56,
+    "visaoJogo": 56,
+    "compostura": 57,
+    "frieza": 57,
+    "concentracao": 56,
+    "regularidade": 58,
+    "ansiedade": 47,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 58,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 57,
+    "profissionalismo": 66,
+    "lealdade": 58,
+    "catimba": 67,
+    "violencia": 48,
+    "disciplina": 69,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 45,
+    "momentoHeroico": 40,
+    "supersub": 61,
+    "decisivo": 46,
+    "provocador": 45,
+    "batedorPenaltis": 30,
+    "cobradorFalta": 24,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 61,
+    "defesa": 61,
+    "posicionamentoGol": 58,
+    "saidaGol": 56,
+    "jogoPes": 54,
+    "reposicao": 58,
+    "pegadorPenaltis": 62
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 7,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 22,
+    "tendenciaChute": 13,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 40,
+    "recomposicao": 35,
+    "participacaoJogo": 57,
+    "intensidade": 36,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rafael/profil/spieler/68097",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/rafael.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

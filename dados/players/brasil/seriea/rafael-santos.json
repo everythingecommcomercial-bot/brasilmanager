@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rafael-santos",
+    "nome": "Rafael Santos",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rafael-santos.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "14/03/1989",
+    "idade": 37,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€100k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 28,
+    "chuteLongo": 28,
+    "passeCurto": 44,
+    "passeLongo": 48,
+    "visao": 31,
+    "cruzamento": 24,
+    "drible": 29,
+    "controleBola": 30,
+    "dominio": 19,
+    "curva": 29,
+    "cobrancaFalta": 24,
+    "penalti": 29,
+    "cabecamento": 19,
+    "voleio": 20,
+    "acrobacia": 31
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 58,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 57,
+    "impulsao": 63,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 25,
+    "desarme": 17,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 19,
+    "pressao": 25,
+    "cobertura": 16,
+    "empenhoTatico": 18
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 56,
+    "decisao": 62,
+    "visaoJogo": 56,
+    "compostura": 62,
+    "frieza": 57,
+    "concentracao": 61,
+    "regularidade": 59,
+    "ansiedade": 45,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 57,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 63,
+    "profissionalismo": 66,
+    "lealdade": 52,
+    "catimba": 57,
+    "violencia": 39,
+    "disciplina": 68,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 47,
+    "momentoHeroico": 39,
+    "supersub": 50,
+    "decisivo": 52,
+    "provocador": 38,
+    "batedorPenaltis": 29,
+    "cobradorFalta": 24,
+    "especialistaEscanteio": 30
+  },
+  "goleiro": {
+    "reflexos": 60,
+    "defesa": 64,
+    "posicionamentoGol": 60,
+    "saidaGol": 61,
+    "jogoPes": 56,
+    "reposicao": 59,
+    "pegadorPenaltis": 62
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 8,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 21,
+    "tendenciaChute": 20,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 25,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 36,
+    "participacaoJogo": 58,
+    "intensidade": 40,
+    "riscoCriativo": 39
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rafael-santos/profil/spieler/93243",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/rafael-santos.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "max-martinello",
+    "nome": "Max Martinello",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/max-martinello.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "22/09/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "15"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 46,
+    "chuteLongo": 52,
+    "passeCurto": 55,
+    "passeLongo": 59,
+    "visao": 52,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 64,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 51,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 61,
+    "impulsao": 63,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 63,
+    "interceptacao": 61,
+    "posicionamentoDefensivo": 59,
+    "pressao": 64,
+    "cobertura": 59,
+    "empenhoTatico": 62
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 58,
+    "frieza": 60,
+    "concentracao": 61,
+    "regularidade": 55,
+    "ansiedade": 44,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 77,
+    "profissionalismo": 76,
+    "lealdade": 61,
+    "catimba": 51,
+    "violencia": 25,
+    "disciplina": 60,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 48,
+    "momentoHeroico": 50,
+    "supersub": 54,
+    "decisivo": 50,
+    "provocador": 54,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 53
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 54,
+    "tendenciaMarcacao": 62,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 58,
+    "participacaoJogo": 56,
+    "intensidade": 59,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/max-martinello/profil/spieler/1133165",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/max-martinello.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

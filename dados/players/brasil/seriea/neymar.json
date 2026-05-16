@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "neymar",
+    "nome": "Neymar",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/neymar.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "05/02/1992",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "10"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€10.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 82,
+    "potencial": 82,
+    "reputacao": 87,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 81,
+    "chuteLongo": 76,
+    "passeCurto": 85,
+    "passeLongo": 76,
+    "visao": 84,
+    "cruzamento": 76,
+    "drible": 91,
+    "controleBola": 90,
+    "dominio": 76,
+    "curva": 76,
+    "cobrancaFalta": 86,
+    "penalti": 76,
+    "cabecamento": 76,
+    "voleio": 76,
+    "acrobacia": 76
+  },
+  "fisicos": {
+    "velocidade": 78,
+    "aceleracao": 78,
+    "explosao": 78,
+    "agilidade": 78,
+    "equilibrio": 78,
+    "resistencia": 78,
+    "forca": 78,
+    "impulsao": 78,
+    "stamina": 78
+  },
+  "defensivos": {
+    "marcacao": 73,
+    "desarme": 69,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 67,
+    "pressao": 72,
+    "cobertura": 72,
+    "empenhoTatico": 67
+  },
+  "mentais": {
+    "inteligencia": 85,
+    "criatividade": 88,
+    "decisao": 80,
+    "visaoJogo": 89,
+    "compostura": 84,
+    "frieza": 83,
+    "concentracao": 80,
+    "regularidade": 82,
+    "ansiedade": 23,
+    "agressividade": 79,
+    "coragem": 79,
+    "lideranca": 82,
+    "trabalhoEquipe": 85
+  },
+  "personalidade": {
+    "ego": 67,
+    "ambicao": 59,
+    "profissionalismo": 76,
+    "lealdade": 56,
+    "catimba": 67,
+    "violencia": 48,
+    "disciplina": 75,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 90,
+    "jogoGrande": 86,
+    "momentoHeroico": 88,
+    "supersub": 59,
+    "decisivo": 85,
+    "provocador": 55,
+    "batedorPenaltis": 76,
+    "cobradorFalta": 80,
+    "especialistaEscanteio": 78
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 62,
+    "confianca": 67,
+    "formaAtual": 67,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 82,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 91,
+    "tendenciaChute": 81,
+    "tendenciaPasse": 84,
+    "tendenciaMarcacao": 72,
+    "movimentacaoOfensiva": 85,
+    "recomposicao": 72,
+    "participacaoJogo": 82,
+    "intensidade": 75,
+    "riscoCriativo": 88
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/neymar/profil/spieler/68290",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/neymar.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

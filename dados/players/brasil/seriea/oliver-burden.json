@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "oliver-burden",
+    "nome": "Oliver Burden",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/oliver-burden.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "06/10/2004",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 60,
+    "chuteLongo": 52,
+    "passeCurto": 63,
+    "passeLongo": 52,
+    "visao": 64,
+    "cruzamento": 52,
+    "drible": 65,
+    "controleBola": 61,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 61,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 43,
+    "desarme": 46,
+    "interceptacao": 43,
+    "posicionamentoDefensivo": 43,
+    "pressao": 45,
+    "cobertura": 47,
+    "empenhoTatico": 49
+  },
+  "mentais": {
+    "inteligencia": 56,
+    "criatividade": 66,
+    "decisao": 59,
+    "visaoJogo": 63,
+    "compostura": 55,
+    "frieza": 60,
+    "concentracao": 57,
+    "regularidade": 58,
+    "ansiedade": 39,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 50,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 79,
+    "profissionalismo": 60,
+    "lealdade": 66,
+    "catimba": 49,
+    "violencia": 20,
+    "disciplina": 61,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 44,
+    "momentoHeroico": 47,
+    "supersub": 58,
+    "decisivo": 49,
+    "provocador": 46,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 61,
+    "especialistaEscanteio": 49
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 65,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 44,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 52,
+    "participacaoJogo": 58,
+    "intensidade": 50,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/oliver-burden/profil/spieler/1179906",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/oliver-burden.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

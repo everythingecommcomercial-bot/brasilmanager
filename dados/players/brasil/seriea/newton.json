@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "newton",
+    "nome": "Newton",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/newton.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "12/03/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "28"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 72,
+    "reputacao": 71,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 74,
+    "passeLongo": 76,
+    "visao": 74,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 76,
+    "forca": 72,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 72,
+    "desarme": 77,
+    "interceptacao": 75,
+    "posicionamentoDefensivo": 72,
+    "pressao": 75,
+    "cobertura": 71,
+    "empenhoTatico": 72
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 68,
+    "decisao": 72,
+    "visaoJogo": 68,
+    "compostura": 72,
+    "frieza": 72,
+    "concentracao": 71,
+    "regularidade": 72,
+    "ansiedade": 34,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 69,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 67,
+    "profissionalismo": 70,
+    "lealdade": 61,
+    "catimba": 51,
+    "violencia": 38,
+    "disciplina": 71,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 43,
+    "momentoHeroico": 45,
+    "supersub": 58,
+    "decisivo": 46,
+    "provocador": 58,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 72,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 74,
+    "tendenciaMarcacao": 74,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 70,
+    "participacaoJogo": 72,
+    "intensidade": 76,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/newton/profil/spieler/811219",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/newton.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

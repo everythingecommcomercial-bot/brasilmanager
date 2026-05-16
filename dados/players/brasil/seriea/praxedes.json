@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "praxedes",
+    "nome": "Praxedes",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/praxedes.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "08/02/2002",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "25"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 71,
+    "reputacao": 68,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 70,
+    "passeLongo": 69,
+    "visao": 69,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 72,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 69,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 60,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 60,
+    "pressao": 66,
+    "cobertura": 60,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 70,
+    "criatividade": 65,
+    "decisao": 65,
+    "visaoJogo": 65,
+    "compostura": 67,
+    "frieza": 66,
+    "concentracao": 70,
+    "regularidade": 64,
+    "ansiedade": 31,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 63,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 63,
+    "profissionalismo": 72,
+    "lealdade": 63,
+    "catimba": 64,
+    "violencia": 43,
+    "disciplina": 66,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 53,
+    "momentoHeroico": 46,
+    "supersub": 48,
+    "decisivo": 53,
+    "provocador": 44,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 63,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 69,
+    "participacaoJogo": 69,
+    "intensidade": 68,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/praxedes/profil/spieler/574765",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/praxedes.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

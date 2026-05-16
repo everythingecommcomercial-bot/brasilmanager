@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "martin-braithwaite",
+    "nome": "Martin Braithwaite",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/martin-braithwaite.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "denmark",
+      "guyana"
+    ],
+    "dataNascimento": "05/06/1991",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 70,
+    "chuteLongo": 60,
+    "passeCurto": 60,
+    "passeLongo": 60,
+    "visao": 60,
+    "cruzamento": 60,
+    "drible": 60,
+    "controleBola": 70,
+    "dominio": 60,
+    "curva": 60,
+    "cobrancaFalta": 60,
+    "penalti": 66,
+    "cabecamento": 63,
+    "voleio": 63,
+    "acrobacia": 60
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 62,
+    "explosao": 67,
+    "agilidade": 62,
+    "equilibrio": 62,
+    "resistencia": 62,
+    "forca": 68,
+    "impulsao": 62,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 45,
+    "desarme": 49,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 51,
+    "pressao": 51,
+    "cobertura": 48,
+    "empenhoTatico": 46
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 63,
+    "decisao": 63,
+    "visaoJogo": 63,
+    "compostura": 67,
+    "frieza": 67,
+    "concentracao": 66,
+    "regularidade": 63,
+    "ansiedade": 34,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 68,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 60,
+    "profissionalismo": 75,
+    "lealdade": 68,
+    "catimba": 45,
+    "violencia": 22,
+    "disciplina": 69,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 42,
+    "momentoHeroico": 45,
+    "supersub": 50,
+    "decisivo": 46,
+    "provocador": 32,
+    "batedorPenaltis": 66,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 57
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 52,
+    "tendenciaChute": 70,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 48,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 54,
+    "participacaoJogo": 66,
+    "intensidade": 56,
+    "riscoCriativo": 61
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/martin-braithwaite/profil/spieler/95732",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/denmark.json",
+      "dados/selecoes/paises/guyana.json"
+    ],
+    "foto": "dados/images/players/brasil/martin-braithwaite.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

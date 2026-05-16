@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "otavio",
+    "nome": "Otávio",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/otavio.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "04/05/1994",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "94"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 73,
+    "passeLongo": 68,
+    "visao": 65,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 68,
+    "forca": 72,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 72,
+    "desarme": 72,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 72,
+    "pressao": 68,
+    "cobertura": 69,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 70,
+    "visaoJogo": 65,
+    "compostura": 66,
+    "frieza": 68,
+    "concentracao": 66,
+    "regularidade": 66,
+    "ansiedade": 29,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 71,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 58,
+    "profissionalismo": 61,
+    "lealdade": 59,
+    "catimba": 45,
+    "violencia": 48,
+    "disciplina": 64,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 50,
+    "momentoHeroico": 50,
+    "supersub": 61,
+    "decisivo": 50,
+    "provocador": 46,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 69,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 68,
+    "participacaoJogo": 69,
+    "intensidade": 68,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/otavio/profil/spieler/312314",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/otavio.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

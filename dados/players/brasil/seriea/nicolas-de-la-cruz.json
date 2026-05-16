@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "nicolas-de-la-cruz",
+    "nome": "Nicolás de la Cruz",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/nicolas-de-la-cruz.png",
+    "clubeAtual": "flamengo",
+    "nacionalidade": [
+      "uruguai",
+      "argentina"
+    ],
+    "dataNascimento": "01/06/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "18"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€9.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 74,
+    "potencial": 75,
+    "reputacao": 74,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 68,
+    "passeCurto": 81,
+    "passeLongo": 77,
+    "visao": 74,
+    "cruzamento": 68,
+    "drible": 68,
+    "controleBola": 77,
+    "dominio": 68,
+    "curva": 68,
+    "cobrancaFalta": 68,
+    "penalti": 68,
+    "cabecamento": 68,
+    "voleio": 68,
+    "acrobacia": 68
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 70,
+    "explosao": 70,
+    "agilidade": 70,
+    "equilibrio": 70,
+    "resistencia": 74,
+    "forca": 70,
+    "impulsao": 70,
+    "stamina": 76
+  },
+  "defensivos": {
+    "marcacao": 66,
+    "desarme": 66,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 66,
+    "pressao": 72,
+    "cobertura": 66,
+    "empenhoTatico": 79
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 71,
+    "decisao": 71,
+    "visaoJogo": 71,
+    "compostura": 75,
+    "frieza": 76,
+    "concentracao": 76,
+    "regularidade": 73,
+    "ansiedade": 20,
+    "agressividade": 71,
+    "coragem": 71,
+    "lideranca": 66,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 59,
+    "profissionalismo": 72,
+    "lealdade": 61,
+    "catimba": 46,
+    "violencia": 31,
+    "disciplina": 76,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 51,
+    "momentoHeroico": 38,
+    "supersub": 53,
+    "decisivo": 54,
+    "provocador": 38,
+    "batedorPenaltis": 68,
+    "cobradorFalta": 68,
+    "especialistaEscanteio": 69
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 54,
+    "confianca": 59,
+    "formaAtual": 59,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 75,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 78,
+    "tendenciaMarcacao": 69,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 78,
+    "participacaoJogo": 74,
+    "intensidade": 73,
+    "riscoCriativo": 71
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/nicolas-de-la-cruz/profil/spieler/397458",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/flamengo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/nicolas-de-la-cruz.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

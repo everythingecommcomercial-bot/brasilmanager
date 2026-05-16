@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "neto",
+    "nome": "Neto",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/neto.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "19/07/1989",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "22"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 66,
+    "potencial": 66,
+    "reputacao": 66,
+    "potencialMidia": 66
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 22,
+    "passeCurto": 52,
+    "passeLongo": 56,
+    "visao": 24,
+    "cruzamento": 30,
+    "drible": 21,
+    "controleBola": 20,
+    "dominio": 25,
+    "curva": 22,
+    "cobrancaFalta": 28,
+    "penalti": 20,
+    "cabecamento": 28,
+    "voleio": 22,
+    "acrobacia": 27
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 62,
+    "explosao": 62,
+    "agilidade": 70,
+    "equilibrio": 62,
+    "resistencia": 62,
+    "forca": 67,
+    "impulsao": 66,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 20,
+    "desarme": 22,
+    "interceptacao": 17,
+    "posicionamentoDefensivo": 15,
+    "pressao": 19,
+    "cobertura": 22,
+    "empenhoTatico": 21
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 63,
+    "decisao": 63,
+    "visaoJogo": 63,
+    "compostura": 66,
+    "frieza": 68,
+    "concentracao": 67,
+    "regularidade": 65,
+    "ansiedade": 33,
+    "agressividade": 63,
+    "coragem": 63,
+    "lideranca": 66,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 61,
+    "profissionalismo": 70,
+    "lealdade": 48,
+    "catimba": 48,
+    "violencia": 32,
+    "disciplina": 74,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 51,
+    "momentoHeroico": 38,
+    "supersub": 54,
+    "decisivo": 47,
+    "provocador": 43,
+    "batedorPenaltis": 20,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 25
+  },
+  "goleiro": {
+    "reflexos": 73,
+    "defesa": 72,
+    "posicionamentoGol": 65,
+    "saidaGol": 65,
+    "jogoPes": 64,
+    "reposicao": 64,
+    "pegadorPenaltis": 68
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 46,
+    "confianca": 51,
+    "formaAtual": 51,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 66,
+    "decadenciaFisica": 7,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 13,
+    "tendenciaChute": 14,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 42,
+    "participacaoJogo": 65,
+    "intensidade": 40,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/neto/profil/spieler/111819",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/neto.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

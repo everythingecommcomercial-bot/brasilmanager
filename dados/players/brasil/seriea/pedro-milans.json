@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "pedro-milans",
+    "nome": "Pedro Milans",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/pedro-milans.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "uruguai",
+      "italia"
+    ],
+    "dataNascimento": "24/03/2002",
+    "idade": 24,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "20"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 71,
+    "reputacao": 68,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 65,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 71,
+    "drible": 71,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 74,
+    "aceleracao": 76,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 73,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 68,
+    "desarme": 67,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 71,
+    "pressao": 70,
+    "cobertura": 66,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 65,
+    "decisao": 67,
+    "visaoJogo": 65,
+    "compostura": 69,
+    "frieza": 67,
+    "concentracao": 69,
+    "regularidade": 64,
+    "ansiedade": 26,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 66,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 66,
+    "profissionalismo": 62,
+    "lealdade": 48,
+    "catimba": 51,
+    "violencia": 42,
+    "disciplina": 64,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 42,
+    "momentoHeroico": 42,
+    "supersub": 61,
+    "decisivo": 48,
+    "provocador": 32,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 63,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 69,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 71,
+    "participacaoJogo": 69,
+    "intensidade": 72,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/pedro-milans/profil/spieler/657743",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/pedro-milans.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

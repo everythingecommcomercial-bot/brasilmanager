@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "pedro-raul",
+    "nome": "Pedro Raul",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/pedro-raul.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "05/11/1996",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "18"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 71,
+    "reputacao": 71,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 76,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 72,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 72,
+    "cabecamento": 68,
+    "voleio": 71,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 70,
+    "aceleracao": 67,
+    "explosao": 72,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 74,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 54,
+    "desarme": 54,
+    "interceptacao": 51,
+    "posicionamentoDefensivo": 54,
+    "pressao": 53,
+    "cobertura": 55,
+    "empenhoTatico": 51
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 68,
+    "decisao": 70,
+    "visaoJogo": 68,
+    "compostura": 70,
+    "frieza": 69,
+    "concentracao": 69,
+    "regularidade": 72,
+    "ansiedade": 34,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 71,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 53,
+    "ambicao": 65,
+    "profissionalismo": 73,
+    "lealdade": 54,
+    "catimba": 52,
+    "violencia": 24,
+    "disciplina": 76,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 50,
+    "momentoHeroico": 39,
+    "supersub": 52,
+    "decisivo": 59,
+    "provocador": 51,
+    "batedorPenaltis": 72,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 76,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 71,
+    "recomposicao": 59,
+    "participacaoJogo": 71,
+    "intensidade": 60,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/pedro-raul/profil/spieler/547443",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/pedro-raul.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "michel-araujo",
+    "nome": "Michel Araújo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/michel-araujo.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "uruguai"
+    ],
+    "dataNascimento": "28/09/1996",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "15"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 70,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 69,
+    "drible": 71,
+    "controleBola": 68,
+    "dominio": 62,
+    "curva": 72,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 77,
+    "explosao": 75,
+    "agilidade": 73,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 55,
+    "desarme": 57,
+    "interceptacao": 55,
+    "posicionamentoDefensivo": 58,
+    "pressao": 59,
+    "cobertura": 53,
+    "empenhoTatico": 55
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 65,
+    "visaoJogo": 65,
+    "compostura": 66,
+    "frieza": 69,
+    "concentracao": 70,
+    "regularidade": 63,
+    "ansiedade": 37,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 70,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 65,
+    "profissionalismo": 70,
+    "lealdade": 66,
+    "catimba": 58,
+    "violencia": 50,
+    "disciplina": 64,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 49,
+    "momentoHeroico": 40,
+    "supersub": 50,
+    "decisivo": 51,
+    "provocador": 53,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 71,
+    "tendenciaChute": 70,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 57,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 60,
+    "participacaoJogo": 67,
+    "intensidade": 62,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/michel-araujo/profil/spieler/482144",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json"
+    ],
+    "foto": "dados/images/players/brasil/michel-araujo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

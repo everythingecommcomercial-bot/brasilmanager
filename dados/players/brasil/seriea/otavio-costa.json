@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "otavio-costa",
+    "nome": "Otávio Costa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/otavio-costa.png",
+    "clubeAtual": "cruzeiro",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "27/12/2005",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "81"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€500k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 74,
+    "reputacao": 65,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 28,
+    "chuteLongo": 26,
+    "passeCurto": 52,
+    "passeLongo": 55,
+    "visao": 31,
+    "cruzamento": 20,
+    "drible": 30,
+    "controleBola": 24,
+    "dominio": 29,
+    "curva": 28,
+    "cobrancaFalta": 19,
+    "penalti": 22,
+    "cabecamento": 31,
+    "voleio": 22,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 68,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 24,
+    "interceptacao": 16,
+    "posicionamentoDefensivo": 19,
+    "pressao": 24,
+    "cobertura": 15,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 62,
+    "decisao": 62,
+    "visaoJogo": 62,
+    "compostura": 68,
+    "frieza": 63,
+    "concentracao": 68,
+    "regularidade": 61,
+    "ansiedade": 34,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 61,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 77,
+    "profissionalismo": 60,
+    "lealdade": 56,
+    "catimba": 66,
+    "violencia": 43,
+    "disciplina": 60,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 51,
+    "momentoHeroico": 42,
+    "supersub": 53,
+    "decisivo": 50,
+    "provocador": 32,
+    "batedorPenaltis": 22,
+    "cobradorFalta": 19,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 70,
+    "defesa": 71,
+    "posicionamentoGol": 65,
+    "saidaGol": 67,
+    "jogoPes": 58,
+    "reposicao": 64,
+    "pegadorPenaltis": 62
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 22,
+    "tendenciaChute": 18,
+    "tendenciaPasse": 42,
+    "tendenciaMarcacao": 24,
+    "movimentacaoOfensiva": 43,
+    "recomposicao": 42,
+    "participacaoJogo": 64,
+    "intensidade": 42,
+    "riscoCriativo": 41
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/otavio-costa/profil/spieler/997947",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/cruzeiro.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/otavio-costa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

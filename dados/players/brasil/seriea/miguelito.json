@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "miguelito",
+    "nome": "Miguelito",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/miguelito.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "bolivia"
+    ],
+    "dataNascimento": "25/04/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "30"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 79,
+    "reputacao": 73,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 75,
+    "chuteLongo": 67,
+    "passeCurto": 76,
+    "passeLongo": 67,
+    "visao": 77,
+    "cruzamento": 67,
+    "drible": 79,
+    "controleBola": 75,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 74,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 62,
+    "desarme": 64,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 63,
+    "pressao": 59,
+    "cobertura": 60,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 76,
+    "decisao": 71,
+    "visaoJogo": 76,
+    "compostura": 76,
+    "frieza": 69,
+    "concentracao": 74,
+    "regularidade": 73,
+    "ansiedade": 28,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 69,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 68,
+    "profissionalismo": 70,
+    "lealdade": 59,
+    "catimba": 54,
+    "violencia": 26,
+    "disciplina": 66,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 42,
+    "momentoHeroico": 47,
+    "supersub": 62,
+    "decisivo": 53,
+    "provocador": 43,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 74,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 79,
+    "tendenciaChute": 75,
+    "tendenciaPasse": 76,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 73,
+    "recomposicao": 66,
+    "participacaoJogo": 71,
+    "intensidade": 64,
+    "riscoCriativo": 77
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/miguelito/profil/spieler/1063811",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/bolivia.json"
+    ],
+    "foto": "dados/images/players/brasil/miguelito.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

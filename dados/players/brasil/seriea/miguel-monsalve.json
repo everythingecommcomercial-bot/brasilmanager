@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "miguel-monsalve",
+    "nome": "Miguel Monsalve",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/miguel-monsalve.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "27/02/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 77,
+    "reputacao": 71,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 72,
+    "chuteLongo": 65,
+    "passeCurto": 75,
+    "passeLongo": 65,
+    "visao": 74,
+    "cruzamento": 65,
+    "drible": 76,
+    "controleBola": 74,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 69,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 58,
+    "desarme": 56,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 61,
+    "pressao": 58,
+    "cobertura": 56,
+    "empenhoTatico": 57
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 77,
+    "decisao": 70,
+    "visaoJogo": 78,
+    "compostura": 70,
+    "frieza": 70,
+    "concentracao": 70,
+    "regularidade": 66,
+    "ansiedade": 34,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 64,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 69,
+    "profissionalismo": 65,
+    "lealdade": 57,
+    "catimba": 54,
+    "violencia": 20,
+    "disciplina": 62,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 46,
+    "momentoHeroico": 51,
+    "supersub": 61,
+    "decisivo": 46,
+    "provocador": 58,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 76,
+    "tendenciaChute": 72,
+    "tendenciaPasse": 74,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 62,
+    "participacaoJogo": 69,
+    "intensidade": 62,
+    "riscoCriativo": 76
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/miguel-monsalve/profil/spieler/828045",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/miguel-monsalve.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

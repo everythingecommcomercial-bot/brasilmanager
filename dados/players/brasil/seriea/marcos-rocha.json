@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "marcos-rocha",
+    "nome": "Marcos Rocha",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/marcos-rocha.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "11/12/1988",
+    "idade": 37,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "14"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€250k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 53,
+    "chuteLongo": 53,
+    "passeCurto": 57,
+    "passeLongo": 53,
+    "visao": 53,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 53,
+    "dominio": 53,
+    "curva": 53,
+    "cobrancaFalta": 53,
+    "penalti": 53,
+    "cabecamento": 53,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 62,
+    "explosao": 55,
+    "agilidade": 55,
+    "equilibrio": 55,
+    "resistencia": 63,
+    "forca": 55,
+    "impulsao": 55,
+    "stamina": 60
+  },
+  "defensivos": {
+    "marcacao": 58,
+    "desarme": 57,
+    "interceptacao": 61,
+    "posicionamentoDefensivo": 59,
+    "pressao": 60,
+    "cobertura": 59,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 56,
+    "decisao": 58,
+    "visaoJogo": 56,
+    "compostura": 56,
+    "frieza": 56,
+    "concentracao": 57,
+    "regularidade": 56,
+    "ansiedade": 43,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 58,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 55,
+    "profissionalismo": 61,
+    "lealdade": 52,
+    "catimba": 48,
+    "violencia": 49,
+    "disciplina": 68,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 51,
+    "momentoHeroico": 52,
+    "supersub": 58,
+    "decisivo": 44,
+    "provocador": 55,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 8,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 45,
+    "tendenciaPasse": 55,
+    "tendenciaMarcacao": 59,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 59,
+    "participacaoJogo": 61,
+    "intensidade": 62,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/marcos-rocha/profil/spieler/75435",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/marcos-rocha.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

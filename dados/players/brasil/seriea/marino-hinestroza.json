@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "marino-hinestroza",
+    "nome": "Marino Hinestroza",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/marino-hinestroza.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "colombia"
+    ],
+    "dataNascimento": "08/07/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "18"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.80m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 77,
+    "reputacao": 71,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 68,
+    "chuteLongo": 65,
+    "passeCurto": 65,
+    "passeLongo": 65,
+    "visao": 65,
+    "cruzamento": 71,
+    "drible": 74,
+    "controleBola": 74,
+    "dominio": 65,
+    "curva": 70,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 74,
+    "aceleracao": 74,
+    "explosao": 75,
+    "agilidade": 75,
+    "equilibrio": 67,
+    "resistencia": 67,
+    "forca": 67,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 61,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 61,
+    "pressao": 58,
+    "cobertura": 57,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 68,
+    "decisao": 72,
+    "visaoJogo": 68,
+    "compostura": 69,
+    "frieza": 67,
+    "concentracao": 71,
+    "regularidade": 68,
+    "ansiedade": 28,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 63,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 71,
+    "profissionalismo": 66,
+    "lealdade": 67,
+    "catimba": 51,
+    "violencia": 26,
+    "disciplina": 73,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 44,
+    "momentoHeroico": 49,
+    "supersub": 57,
+    "decisivo": 45,
+    "provocador": 40,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 68
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 74,
+    "tendenciaChute": 68,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 73,
+    "recomposicao": 63,
+    "participacaoJogo": 69,
+    "intensidade": 62,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/marino-hinestroza/profil/spieler/663319",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/colombia.json"
+    ],
+    "foto": "dados/images/players/brasil/marino-hinestroza.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

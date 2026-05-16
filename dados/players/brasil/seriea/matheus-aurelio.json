@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheus-aurelio",
+    "nome": "Matheus Aurélio",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-aurelio.png",
+    "clubeAtual": "chapecoense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "23/06/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 59,
+    "reputacao": 58,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 22,
+    "chuteLongo": 19,
+    "passeCurto": 44,
+    "passeLongo": 43,
+    "visao": 25,
+    "cruzamento": 28,
+    "drible": 27,
+    "controleBola": 23,
+    "dominio": 21,
+    "curva": 19,
+    "cobrancaFalta": 22,
+    "penalti": 29,
+    "cabecamento": 19,
+    "voleio": 28,
+    "acrobacia": 20
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 62,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 56,
+    "impulsao": 59,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 25,
+    "desarme": 18,
+    "interceptacao": 15,
+    "posicionamentoDefensivo": 18,
+    "pressao": 21,
+    "cobertura": 21,
+    "empenhoTatico": 18
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 55,
+    "decisao": 59,
+    "visaoJogo": 55,
+    "compostura": 57,
+    "frieza": 58,
+    "concentracao": 59,
+    "regularidade": 56,
+    "ansiedade": 38,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 55,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 67,
+    "profissionalismo": 68,
+    "lealdade": 48,
+    "catimba": 43,
+    "violencia": 44,
+    "disciplina": 61,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 53,
+    "momentoHeroico": 43,
+    "supersub": 47,
+    "decisivo": 47,
+    "provocador": 50,
+    "batedorPenaltis": 29,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 59,
+    "defesa": 60,
+    "posicionamentoGol": 60,
+    "saidaGol": 58,
+    "jogoPes": 55,
+    "reposicao": 58,
+    "pegadorPenaltis": 59
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 19,
+    "tendenciaChute": 11,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 23,
+    "movimentacaoOfensiva": 41,
+    "recomposicao": 36,
+    "participacaoJogo": 57,
+    "intensidade": 38,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-aurelio/profil/spieler/646676",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/chapecoense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-aurelio.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheus-pereira",
+    "nome": "Matheus Pereira",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-pereira.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "25/02/1998",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 71,
+    "passeLongo": 73,
+    "visao": 71,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 73,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 68,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 70
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 60,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 60,
+    "pressao": 66,
+    "cobertura": 60,
+    "empenhoTatico": 70
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 66,
+    "concentracao": 68,
+    "regularidade": 69,
+    "ansiedade": 31,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 66,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 66,
+    "profissionalismo": 67,
+    "lealdade": 54,
+    "catimba": 65,
+    "violencia": 34,
+    "disciplina": 72,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 52,
+    "momentoHeroico": 39,
+    "supersub": 47,
+    "decisivo": 49,
+    "provocador": 41,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 71,
+    "tendenciaMarcacao": 63,
+    "movimentacaoOfensiva": 71,
+    "recomposicao": 70,
+    "participacaoJogo": 69,
+    "intensidade": 67,
+    "riscoCriativo": 66
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-pereira/profil/spieler/323934",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-pereira.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

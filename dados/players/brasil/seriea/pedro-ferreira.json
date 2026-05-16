@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "pedro-ferreira",
+    "nome": "Pedro Ferreira",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/pedro-ferreira.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "24/04/2007",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "46"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 57,
+    "chuteLongo": 52,
+    "passeCurto": 63,
+    "passeLongo": 52,
+    "visao": 61,
+    "cruzamento": 52,
+    "drible": 60,
+    "controleBola": 60,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 56,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 49,
+    "desarme": 47,
+    "interceptacao": 49,
+    "posicionamentoDefensivo": 45,
+    "pressao": 49,
+    "cobertura": 48,
+    "empenhoTatico": 43
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 63,
+    "decisao": 61,
+    "visaoJogo": 60,
+    "compostura": 55,
+    "frieza": 57,
+    "concentracao": 58,
+    "regularidade": 53,
+    "ansiedade": 40,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 83,
+    "profissionalismo": 76,
+    "lealdade": 53,
+    "catimba": 60,
+    "violencia": 46,
+    "disciplina": 64,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 53,
+    "momentoHeroico": 46,
+    "supersub": 44,
+    "decisivo": 46,
+    "provocador": 43,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 56,
+    "especialistaEscanteio": 54
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 60,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 49,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 48,
+    "participacaoJogo": 56,
+    "intensidade": 52,
+    "riscoCriativo": 61
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/pedro-ferreira/profil/spieler/1362701",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/pedro-ferreira.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

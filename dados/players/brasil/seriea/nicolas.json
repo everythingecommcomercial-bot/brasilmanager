@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "nicolas",
+    "nome": "Nicolas",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/nicolas.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "brasil",
+      "switzerland"
+    ],
+    "dataNascimento": "08/04/2007",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "56"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 56,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 62,
+    "drible": 55,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 66,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 65,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 56,
+    "desarme": 60,
+    "interceptacao": 62,
+    "posicionamentoDefensivo": 57,
+    "pressao": 59,
+    "cobertura": 60,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 55,
+    "decisao": 56,
+    "visaoJogo": 55,
+    "compostura": 58,
+    "frieza": 55,
+    "concentracao": 57,
+    "regularidade": 54,
+    "ansiedade": 44,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 80,
+    "profissionalismo": 67,
+    "lealdade": 68,
+    "catimba": 59,
+    "violencia": 31,
+    "disciplina": 71,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 52,
+    "momentoHeroico": 38,
+    "supersub": 55,
+    "decisivo": 49,
+    "provocador": 35,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 47,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 54,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 54,
+    "recomposicao": 59,
+    "participacaoJogo": 60,
+    "intensidade": 62,
+    "riscoCriativo": 54
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/nicolas/profil/spieler/1387007",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/switzerland.json"
+    ],
+    "foto": "dados/images/players/brasil/nicolas.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

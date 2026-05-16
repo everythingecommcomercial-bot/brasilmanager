@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "mycael",
+    "nome": "Mycael",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/mycael.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "12/03/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 74,
+    "reputacao": 68,
+    "potencialMidia": 79
+  },
+  "tecnicos": {
+    "finalizacao": 19,
+    "chuteLongo": 24,
+    "passeCurto": 52,
+    "passeLongo": 55,
+    "visao": 26,
+    "cruzamento": 23,
+    "drible": 29,
+    "controleBola": 28,
+    "dominio": 31,
+    "curva": 24,
+    "cobrancaFalta": 20,
+    "penalti": 27,
+    "cabecamento": 28,
+    "voleio": 28,
+    "acrobacia": 29
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 70,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 68,
+    "impulsao": 71,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 18,
+    "desarme": 24,
+    "interceptacao": 18,
+    "posicionamentoDefensivo": 23,
+    "pressao": 24,
+    "cobertura": 25,
+    "empenhoTatico": 20
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 65,
+    "decisao": 70,
+    "visaoJogo": 65,
+    "compostura": 70,
+    "frieza": 69,
+    "concentracao": 69,
+    "regularidade": 66,
+    "ansiedade": 31,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 61,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 67,
+    "profissionalismo": 75,
+    "lealdade": 68,
+    "catimba": 53,
+    "violencia": 26,
+    "disciplina": 63,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 50,
+    "momentoHeroico": 38,
+    "supersub": 57,
+    "decisivo": 47,
+    "provocador": 33,
+    "batedorPenaltis": 27,
+    "cobradorFalta": 20,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 72,
+    "defesa": 70,
+    "posicionamentoGol": 72,
+    "saidaGol": 65,
+    "jogoPes": 62,
+    "reposicao": 64,
+    "pegadorPenaltis": 69
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 21,
+    "tendenciaChute": 16,
+    "tendenciaPasse": 39,
+    "tendenciaMarcacao": 21,
+    "movimentacaoOfensiva": 49,
+    "recomposicao": 42,
+    "participacaoJogo": 67,
+    "intensidade": 44,
+    "riscoCriativo": 40
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/mycael/profil/spieler/743586",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/mycael.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

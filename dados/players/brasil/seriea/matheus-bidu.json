@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "matheus-bidu",
+    "nome": "Matheus Bidu",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/matheus-bidu.png",
+    "clubeAtual": "corinthians",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "04/05/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "21"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 67,
+    "chuteLongo": 67,
+    "passeCurto": 76,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 75,
+    "drible": 74,
+    "controleBola": 67,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 79,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 78,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 79
+  },
+  "defensivos": {
+    "marcacao": 77,
+    "desarme": 71,
+    "interceptacao": 73,
+    "posicionamentoDefensivo": 72,
+    "pressao": 75,
+    "cobertura": 76,
+    "empenhoTatico": 77
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 72,
+    "frieza": 75,
+    "concentracao": 76,
+    "regularidade": 69,
+    "ansiedade": 24,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 66,
+    "trabalhoEquipe": 76
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 57,
+    "profissionalismo": 68,
+    "lealdade": 55,
+    "catimba": 45,
+    "violencia": 29,
+    "disciplina": 75,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 47,
+    "momentoHeroico": 48,
+    "supersub": 55,
+    "decisivo": 50,
+    "provocador": 34,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 74
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 66,
+    "tendenciaChute": 59,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 76,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 78,
+    "participacaoJogo": 76,
+    "intensidade": 76,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/matheus-bidu/profil/spieler/670021",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/corinthians.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/matheus-bidu.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

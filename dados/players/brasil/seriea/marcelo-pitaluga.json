@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "marcelo-pitaluga",
+    "nome": "Marcelo Pitaluga",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/marcelo-pitaluga.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "brasil",
+      "alemanha"
+    ],
+    "dataNascimento": "20/12/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "27"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€200k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 67,
+    "reputacao": 61,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 28,
+    "chuteLongo": 31,
+    "passeCurto": 48,
+    "passeLongo": 49,
+    "visao": 27,
+    "cruzamento": 23,
+    "drible": 31,
+    "controleBola": 24,
+    "dominio": 28,
+    "curva": 27,
+    "cobrancaFalta": 31,
+    "penalti": 27,
+    "cabecamento": 29,
+    "voleio": 25,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 61,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 63,
+    "impulsao": 61,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 17,
+    "desarme": 17,
+    "interceptacao": 22,
+    "posicionamentoDefensivo": 20,
+    "pressao": 23,
+    "cobertura": 22,
+    "empenhoTatico": 22
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 58,
+    "decisao": 60,
+    "visaoJogo": 58,
+    "compostura": 63,
+    "frieza": 60,
+    "concentracao": 61,
+    "regularidade": 61,
+    "ansiedade": 34,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 57,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 68,
+    "profissionalismo": 69,
+    "lealdade": 67,
+    "catimba": 53,
+    "violencia": 40,
+    "disciplina": 63,
+    "adaptacao": 57
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 43,
+    "momentoHeroico": 44,
+    "supersub": 62,
+    "decisivo": 52,
+    "provocador": 46,
+    "batedorPenaltis": 27,
+    "cobradorFalta": 31,
+    "especialistaEscanteio": 23
+  },
+  "goleiro": {
+    "reflexos": 66,
+    "defesa": 67,
+    "posicionamentoGol": 66,
+    "saidaGol": 62,
+    "jogoPes": 54,
+    "reposicao": 56,
+    "pegadorPenaltis": 59
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 23,
+    "tendenciaChute": 23,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 40,
+    "participacaoJogo": 59,
+    "intensidade": 40,
+    "riscoCriativo": 39
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/marcelo-pitaluga/profil/spieler/662334",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/alemanha.json"
+    ],
+    "foto": "dados/images/players/brasil/marcelo-pitaluga.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}
