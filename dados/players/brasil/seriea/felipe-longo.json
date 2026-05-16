@@ -1,0 +1,19 @@
+{
+  "id": "felipe-longo",
+  "nome": "Felipe Longo",
+  "clubeAtual": "corinthians",
+  "numero": "40",
+  "posicao": "Goalkeeper",
+  "idade": "05/03/2005 (21)",
+  "nacionalidade": [
+    "Brazil",
+    "Italy"
+  ],
+  "valorMercado": "€500k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

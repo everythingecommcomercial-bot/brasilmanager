@@ -1,0 +1,18 @@
+{
+  "id": "alex",
+  "nome": "Alex",
+  "clubeAtual": "santos",
+  "numero": "-",
+  "posicao": "Centre-Back",
+  "idade": "10/05/1999 (27)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€400k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gabriel-mercado",
+  "nome": "Gabriel Mercado",
+  "clubeAtual": "internacional",
+  "numero": "25",
+  "posicao": "Centre-Back",
+  "idade": "18/03/1987 (39)",
+  "nacionalidade": [
+    "Argentina",
+    "Spain"
+  ],
+  "valorMercado": "€150k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gabriel-paulista",
+  "nome": "Gabriel Paulista",
+  "clubeAtual": "corinthians",
+  "numero": "3",
+  "posicao": "Centre-Back",
+  "idade": "26/11/1990 (35)",
+  "nacionalidade": [
+    "Brazil",
+    "Spain"
+  ],
+  "valorMercado": "€700k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

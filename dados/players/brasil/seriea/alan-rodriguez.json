@@ -1,0 +1,19 @@
+{
+  "id": "alan-rodriguez",
+  "nome": "Alan Rodríguez",
+  "clubeAtual": "internacional",
+  "numero": "14",
+  "posicao": "Central Midfield",
+  "idade": "25/01/2000 (26)",
+  "nacionalidade": [
+    "Uruguay",
+    "Italy"
+  ],
+  "valorMercado": "€2.30m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

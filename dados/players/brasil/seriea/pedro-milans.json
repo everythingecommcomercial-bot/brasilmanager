@@ -1,0 +1,19 @@
+{
+  "id": "pedro-milans",
+  "nome": "Pedro Milans",
+  "clubeAtual": "corinthians",
+  "numero": "20",
+  "posicao": "Right-Back",
+  "idade": "24/03/2002 (24)",
+  "nacionalidade": [
+    "Uruguay",
+    "Italy"
+  ],
+  "valorMercado": "€1.50m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

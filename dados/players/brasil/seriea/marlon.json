@@ -1,0 +1,18 @@
+{
+  "id": "marlon",
+  "nome": "Marlon",
+  "clubeAtual": "gremio",
+  "numero": "23",
+  "posicao": "Left-Back",
+  "idade": "20/05/1997 (28)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€4.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

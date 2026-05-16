@@ -1,0 +1,18 @@
+{
+  "id": "diogenes",
+  "nome": "Diógenes",
+  "clubeAtual": "santos",
+  "numero": "1",
+  "posicao": "Goalkeeper",
+  "idade": "06/01/2001 (25)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€200k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

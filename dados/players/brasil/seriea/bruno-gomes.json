@@ -1,0 +1,19 @@
+{
+  "id": "bruno-gomes",
+  "nome": "Bruno Gomes",
+  "clubeAtual": "internacional",
+  "numero": "15",
+  "posicao": "Right-Back",
+  "idade": "04/04/2001 (25)",
+  "nacionalidade": [
+    "Brazil",
+    "Italy"
+  ],
+  "valorMercado": "€5.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

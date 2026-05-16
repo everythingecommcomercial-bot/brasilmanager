@@ -1,0 +1,19 @@
+{
+  "id": "ze-rafael",
+  "nome": "Zé Rafael",
+  "clubeAtual": "santos",
+  "numero": "6",
+  "posicao": "Central Midfield",
+  "idade": "16/06/1993 (32)",
+  "nacionalidade": [
+    "Brazil",
+    "Italy"
+  ],
+  "valorMercado": "€2.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

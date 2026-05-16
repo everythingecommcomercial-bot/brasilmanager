@@ -1,0 +1,18 @@
+{
+  "id": "bahia",
+  "nome": "Bahia",
+  "clubeAtual": "corinthians",
+  "numero": "54",
+  "posicao": "Central Midfield",
+  "idade": "02/01/2006 (20)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "-",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

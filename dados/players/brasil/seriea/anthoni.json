@@ -1,0 +1,18 @@
+{
+  "id": "anthoni",
+  "nome": "Anthoni",
+  "clubeAtual": "internacional",
+  "numero": "24",
+  "posicao": "Goalkeeper",
+  "idade": "23/01/2002 (24)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€4.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

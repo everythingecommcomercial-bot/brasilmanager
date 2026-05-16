@@ -1,0 +1,18 @@
+{
+  "id": "moises",
+  "nome": "Moisés",
+  "clubeAtual": "santos",
+  "numero": "21",
+  "posicao": "Left Winger",
+  "idade": "02/09/1996 (29)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€2.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}
