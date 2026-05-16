@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "samuel-xavier",
+    "nome": "Samuel Xavier",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/samuel-xavier.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "06/06/1990",
+    "idade": 35,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "2"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€250k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 53,
+    "chuteLongo": 53,
+    "passeCurto": 61,
+    "passeLongo": 53,
+    "visao": 53,
+    "cruzamento": 65,
+    "drible": 57,
+    "controleBola": 53,
+    "dominio": 53,
+    "curva": 53,
+    "cobrancaFalta": 53,
+    "penalti": 53,
+    "cabecamento": 53,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 65,
+    "explosao": 55,
+    "agilidade": 55,
+    "equilibrio": 55,
+    "resistencia": 64,
+    "forca": 55,
+    "impulsao": 55,
+    "stamina": 60
+  },
+  "defensivos": {
+    "marcacao": 63,
+    "desarme": 62,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 59,
+    "pressao": 59,
+    "cobertura": 62,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 56,
+    "decisao": 56,
+    "visaoJogo": 56,
+    "compostura": 62,
+    "frieza": 55,
+    "concentracao": 62,
+    "regularidade": 60,
+    "ansiedade": 41,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 58,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 63,
+    "profissionalismo": 62,
+    "lealdade": 55,
+    "catimba": 48,
+    "violencia": 41,
+    "disciplina": 61,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 49,
+    "momentoHeroico": 42,
+    "supersub": 61,
+    "decisivo": 51,
+    "provocador": 49,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 6,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 49,
+    "tendenciaChute": 45,
+    "tendenciaPasse": 57,
+    "tendenciaMarcacao": 61,
+    "movimentacaoOfensiva": 54,
+    "recomposicao": 60,
+    "participacaoJogo": 62,
+    "intensidade": 62,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/samuel-xavier/profil/spieler/198250",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/samuel-xavier.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

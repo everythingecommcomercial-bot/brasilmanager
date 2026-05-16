@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ryoji-moto",
+    "nome": "Ryoji Moto",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ryoji-moto.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "",
+    "idade": "(-)",
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "30"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 62,
+    "reputacao": 58,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 30,
+    "chuteLongo": 26,
+    "passeCurto": 46,
+    "passeLongo": 49,
+    "visao": 30,
+    "cruzamento": 23,
+    "drible": 26,
+    "controleBola": 22,
+    "dominio": 20,
+    "curva": 31,
+    "cobrancaFalta": 23,
+    "penalti": 20,
+    "cabecamento": 25,
+    "voleio": 27,
+    "acrobacia": 26
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 57,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 55,
+    "impulsao": 61,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 18,
+    "desarme": 23,
+    "interceptacao": 15,
+    "posicionamentoDefensivo": 20,
+    "pressao": 23,
+    "cobertura": 25,
+    "empenhoTatico": 15
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 57,
+    "visaoJogo": 55,
+    "compostura": 57,
+    "frieza": 57,
+    "concentracao": 60,
+    "regularidade": 59,
+    "ansiedade": 40,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 54,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 73,
+    "profissionalismo": 75,
+    "lealdade": 54,
+    "catimba": 46,
+    "violencia": 26,
+    "disciplina": 76,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 48,
+    "momentoHeroico": 39,
+    "supersub": 47,
+    "decisivo": 47,
+    "provocador": 34,
+    "batedorPenaltis": 20,
+    "cobradorFalta": 23,
+    "especialistaEscanteio": 29
+  },
+  "goleiro": {
+    "reflexos": 59,
+    "defesa": 58,
+    "posicionamentoGol": 60,
+    "saidaGol": 61,
+    "jogoPes": 52,
+    "reposicao": 52,
+    "pegadorPenaltis": 56
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 4,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 18,
+    "tendenciaChute": 18,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 40,
+    "recomposicao": 34,
+    "participacaoJogo": 56,
+    "intensidade": 38,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ryoji-moto/profil/spieler/1541948",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/ryoji-moto.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

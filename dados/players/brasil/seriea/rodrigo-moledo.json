@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rodrigo-moledo",
+    "nome": "Rodrigo Moledo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rodrigo-moledo.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "27/10/1987",
+    "idade": 38,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "4"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€100k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 50,
+    "chuteLongo": 53,
+    "passeCurto": 55,
+    "passeLongo": 58,
+    "visao": 53,
+    "cruzamento": 53,
+    "drible": 53,
+    "controleBola": 53,
+    "dominio": 53,
+    "curva": 53,
+    "cobrancaFalta": 53,
+    "penalti": 53,
+    "cabecamento": 61,
+    "voleio": 53,
+    "acrobacia": 53
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 55,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 66,
+    "impulsao": 61,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 64,
+    "desarme": 61,
+    "interceptacao": 64,
+    "posicionamentoDefensivo": 61,
+    "pressao": 62,
+    "cobertura": 61,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 56,
+    "decisao": 57,
+    "visaoJogo": 56,
+    "compostura": 60,
+    "frieza": 57,
+    "concentracao": 58,
+    "regularidade": 55,
+    "ansiedade": 47,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 61,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 63,
+    "profissionalismo": 70,
+    "lealdade": 63,
+    "catimba": 49,
+    "violencia": 46,
+    "disciplina": 76,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 50,
+    "momentoHeroico": 52,
+    "supersub": 54,
+    "decisivo": 49,
+    "provocador": 41,
+    "batedorPenaltis": 53,
+    "cobradorFalta": 53,
+    "especialistaEscanteio": 51
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 9,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 45,
+    "tendenciaChute": 45,
+    "tendenciaPasse": 54,
+    "tendenciaMarcacao": 63,
+    "movimentacaoOfensiva": 55,
+    "recomposicao": 58,
+    "participacaoJogo": 57,
+    "intensidade": 58,
+    "riscoCriativo": 54
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rodrigo-moledo/profil/spieler/119434",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/rodrigo-moledo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

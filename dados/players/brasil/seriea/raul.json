@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "raul",
+    "nome": "Raul",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/raul.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "28/07/1997",
+    "idade": 28,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 62,
+    "reputacao": 61,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 27,
+    "passeCurto": 46,
+    "passeLongo": 51,
+    "visao": 27,
+    "cruzamento": 19,
+    "drible": 30,
+    "controleBola": 27,
+    "dominio": 22,
+    "curva": 27,
+    "cobrancaFalta": 23,
+    "penalti": 21,
+    "cabecamento": 20,
+    "voleio": 21,
+    "acrobacia": 21
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 57,
+    "explosao": 57,
+    "agilidade": 65,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 58,
+    "impulsao": 61,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 20,
+    "interceptacao": 17,
+    "posicionamentoDefensivo": 21,
+    "pressao": 19,
+    "cobertura": 21,
+    "empenhoTatico": 17
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 58,
+    "decisao": 60,
+    "visaoJogo": 58,
+    "compostura": 63,
+    "frieza": 57,
+    "concentracao": 62,
+    "regularidade": 57,
+    "ansiedade": 35,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 54,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 67,
+    "profissionalismo": 71,
+    "lealdade": 49,
+    "catimba": 47,
+    "violencia": 36,
+    "disciplina": 67,
+    "adaptacao": 64
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 50,
+    "momentoHeroico": 44,
+    "supersub": 52,
+    "decisivo": 47,
+    "provocador": 56,
+    "batedorPenaltis": 21,
+    "cobradorFalta": 23,
+    "especialistaEscanteio": 21
+  },
+  "goleiro": {
+    "reflexos": 65,
+    "defesa": 65,
+    "posicionamentoGol": 63,
+    "saidaGol": 64,
+    "jogoPes": 54,
+    "reposicao": 59,
+    "pegadorPenaltis": 61
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 22,
+    "tendenciaChute": 19,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 22,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 37,
+    "participacaoJogo": 60,
+    "intensidade": 38,
+    "riscoCriativo": 38
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/raul/profil/spieler/520093",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/raul.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

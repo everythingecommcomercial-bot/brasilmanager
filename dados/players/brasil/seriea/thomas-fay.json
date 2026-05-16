@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "thomas-fay",
+    "nome": "Thomas Fay",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/thomas-fay.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "09/03/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 61,
+    "reputacao": 58,
+    "potencialMidia": 61
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 57,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 58,
+    "drible": 59,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 65,
+    "aceleracao": 63,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 62,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 65
+  },
+  "defensivos": {
+    "marcacao": 61,
+    "desarme": 61,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 58,
+    "pressao": 61,
+    "cobertura": 60,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 56,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 56,
+    "concentracao": 60,
+    "regularidade": 58,
+    "ansiedade": 36,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 55,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 64,
+    "profissionalismo": 65,
+    "lealdade": 56,
+    "catimba": 66,
+    "violencia": 22,
+    "disciplina": 76,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 50,
+    "momentoHeroico": 50,
+    "supersub": 51,
+    "decisivo": 46,
+    "provocador": 42,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 52
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 61,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 54,
+    "tendenciaMarcacao": 61,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 62,
+    "participacaoJogo": 59,
+    "intensidade": 62,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/thomas-fay/profil/spieler/892106",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/thomas-fay.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

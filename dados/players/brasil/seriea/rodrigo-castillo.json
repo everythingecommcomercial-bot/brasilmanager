@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rodrigo-castillo",
+    "nome": "Rodrigo Castillo",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rodrigo-castillo.png",
+    "clubeAtual": "fluminense",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "26/02/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "19"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 81,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 72,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 75,
+    "cabecamento": 73,
+    "voleio": 72,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 69,
+    "explosao": 75,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 76,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 54,
+    "desarme": 58,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 56,
+    "pressao": 56,
+    "cobertura": 57,
+    "empenhoTatico": 56
+  },
+  "mentais": {
+    "inteligencia": 75,
+    "criatividade": 70,
+    "decisao": 71,
+    "visaoJogo": 70,
+    "compostura": 72,
+    "frieza": 71,
+    "concentracao": 71,
+    "regularidade": 69,
+    "ansiedade": 32,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 66,
+    "trabalhoEquipe": 75
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 67,
+    "profissionalismo": 72,
+    "lealdade": 58,
+    "catimba": 47,
+    "violencia": 45,
+    "disciplina": 73,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 51,
+    "momentoHeroico": 41,
+    "supersub": 54,
+    "decisivo": 61,
+    "provocador": 40,
+    "batedorPenaltis": 75,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 81,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 55,
+    "movimentacaoOfensiva": 72,
+    "recomposicao": 62,
+    "participacaoJogo": 72,
+    "intensidade": 62,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rodrigo-castillo/profil/spieler/984416",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/fluminense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/rodrigo-castillo.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

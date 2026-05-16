@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "robert-renan",
+    "nome": "Robert Renan",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/robert-renan.png",
+    "clubeAtual": "vasco-da-gama",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "11/10/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "30"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€10.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 81,
+    "reputacao": 80,
+    "potencialMidia": 86
+  },
+  "tecnicos": {
+    "finalizacao": 42,
+    "chuteLongo": 69,
+    "passeCurto": 72,
+    "passeLongo": 74,
+    "visao": 69,
+    "cruzamento": 69,
+    "drible": 69,
+    "controleBola": 69,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 69,
+    "penalti": 69,
+    "cabecamento": 80,
+    "voleio": 69,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 71,
+    "aceleracao": 71,
+    "explosao": 71,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 71,
+    "forca": 78,
+    "impulsao": 76,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 80,
+    "desarme": 81,
+    "interceptacao": 77,
+    "posicionamentoDefensivo": 82,
+    "pressao": 77,
+    "cobertura": 79,
+    "empenhoTatico": 77
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 72,
+    "decisao": 78,
+    "visaoJogo": 72,
+    "compostura": 76,
+    "frieza": 73,
+    "concentracao": 77,
+    "regularidade": 72,
+    "ansiedade": 26,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 67,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 68,
+    "profissionalismo": 75,
+    "lealdade": 66,
+    "catimba": 45,
+    "violencia": 38,
+    "disciplina": 75,
+    "adaptacao": 66
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 52,
+    "momentoHeroico": 43,
+    "supersub": 54,
+    "decisivo": 47,
+    "provocador": 38,
+    "batedorPenaltis": 69,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 81,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 61,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 78,
+    "movimentacaoOfensiva": 74,
+    "recomposicao": 74,
+    "participacaoJogo": 73,
+    "intensidade": 74,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/robert-renan/profil/spieler/958598",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vasco-da-gama.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/robert-renan.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

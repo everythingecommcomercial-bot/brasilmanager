@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rodriguinho",
+    "nome": "Rodriguinho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rodriguinho.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "16/03/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "20"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 79,
+    "reputacao": 73,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 74,
+    "chuteLongo": 67,
+    "passeCurto": 76,
+    "passeLongo": 67,
+    "visao": 76,
+    "cruzamento": 67,
+    "drible": 78,
+    "controleBola": 79,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 74,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 58,
+    "desarme": 62,
+    "interceptacao": 60,
+    "posicionamentoDefensivo": 59,
+    "pressao": 62,
+    "cobertura": 62,
+    "empenhoTatico": 63
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 76,
+    "decisao": 72,
+    "visaoJogo": 75,
+    "compostura": 70,
+    "frieza": 73,
+    "concentracao": 76,
+    "regularidade": 71,
+    "ansiedade": 25,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 68,
+    "trabalhoEquipe": 73
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 70,
+    "profissionalismo": 61,
+    "lealdade": 67,
+    "catimba": 45,
+    "violencia": 35,
+    "disciplina": 72,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 42,
+    "momentoHeroico": 40,
+    "supersub": 47,
+    "decisivo": 57,
+    "provocador": 44,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 74,
+    "especialistaEscanteio": 67
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 78,
+    "tendenciaChute": 74,
+    "tendenciaPasse": 76,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 66,
+    "participacaoJogo": 72,
+    "intensidade": 66,
+    "riscoCriativo": 77
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rodriguinho/profil/spieler/743593",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/rodriguinho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "robert",
+    "nome": "Robert",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/robert.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "03/02/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "31"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 24,
+    "passeCurto": 43,
+    "passeLongo": 47,
+    "visao": 24,
+    "cruzamento": 20,
+    "drible": 22,
+    "controleBola": 28,
+    "dominio": 29,
+    "curva": 29,
+    "cobrancaFalta": 28,
+    "penalti": 19,
+    "cabecamento": 29,
+    "voleio": 29,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 58,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 60,
+    "impulsao": 57,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 23,
+    "desarme": 19,
+    "interceptacao": 22,
+    "posicionamentoDefensivo": 22,
+    "pressao": 22,
+    "cobertura": 16,
+    "empenhoTatico": 20
+  },
+  "mentais": {
+    "inteligencia": 56,
+    "criatividade": 55,
+    "decisao": 55,
+    "visaoJogo": 55,
+    "compostura": 59,
+    "frieza": 54,
+    "concentracao": 58,
+    "regularidade": 53,
+    "ansiedade": 45,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 77,
+    "profissionalismo": 70,
+    "lealdade": 65,
+    "catimba": 64,
+    "violencia": 37,
+    "disciplina": 60,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 48,
+    "momentoHeroico": 44,
+    "supersub": 43,
+    "decisivo": 45,
+    "provocador": 45,
+    "batedorPenaltis": 19,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 65,
+    "defesa": 62,
+    "posicionamentoGol": 60,
+    "saidaGol": 58,
+    "jogoPes": 53,
+    "reposicao": 53,
+    "pegadorPenaltis": 58
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 14,
+    "tendenciaChute": 16,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 22,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 37,
+    "participacaoJogo": 57,
+    "intensidade": 38,
+    "riscoCriativo": 34
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/robert/profil/spieler/1124553",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/robert.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

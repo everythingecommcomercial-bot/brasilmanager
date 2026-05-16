@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "santos",
+    "nome": "Santos",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/santos.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "17/03/1990",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 59,
+    "potencial": 59,
+    "reputacao": 59,
+    "potencialMidia": 59
+  },
+  "tecnicos": {
+    "finalizacao": 27,
+    "chuteLongo": 21,
+    "passeCurto": 44,
+    "passeLongo": 44,
+    "visao": 23,
+    "cruzamento": 21,
+    "drible": 31,
+    "controleBola": 23,
+    "dominio": 24,
+    "curva": 28,
+    "cobrancaFalta": 28,
+    "penalti": 23,
+    "cabecamento": 23,
+    "voleio": 30,
+    "acrobacia": 30
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 55,
+    "explosao": 55,
+    "agilidade": 59,
+    "equilibrio": 55,
+    "resistencia": 55,
+    "forca": 58,
+    "impulsao": 61,
+    "stamina": 55
+  },
+  "defensivos": {
+    "marcacao": 20,
+    "desarme": 24,
+    "interceptacao": 20,
+    "posicionamentoDefensivo": 17,
+    "pressao": 22,
+    "cobertura": 24,
+    "empenhoTatico": 19
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 56,
+    "decisao": 60,
+    "visaoJogo": 56,
+    "compostura": 61,
+    "frieza": 59,
+    "concentracao": 57,
+    "regularidade": 55,
+    "ansiedade": 43,
+    "agressividade": 56,
+    "coragem": 56,
+    "lideranca": 56,
+    "trabalhoEquipe": 62
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 55,
+    "profissionalismo": 62,
+    "lealdade": 49,
+    "catimba": 54,
+    "violencia": 46,
+    "disciplina": 64,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 48,
+    "momentoHeroico": 39,
+    "supersub": 61,
+    "decisivo": 51,
+    "provocador": 49,
+    "batedorPenaltis": 23,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 22
+  },
+  "goleiro": {
+    "reflexos": 65,
+    "defesa": 63,
+    "posicionamentoGol": 62,
+    "saidaGol": 56,
+    "jogoPes": 56,
+    "reposicao": 59,
+    "pegadorPenaltis": 62
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 59,
+    "decadenciaFisica": 7,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 23,
+    "tendenciaChute": 13,
+    "tendenciaPasse": 34,
+    "tendenciaMarcacao": 21,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 37,
+    "participacaoJogo": 59,
+    "intensidade": 38,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/santos/profil/spieler/140811",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/santos.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

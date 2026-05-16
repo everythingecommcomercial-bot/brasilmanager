@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "riquelme-fillipi",
+    "nome": "Riquelme Fillipi",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/riquelme-fillipi.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "15/09/2006",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "37"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 67,
+    "potencial": 79,
+    "reputacao": 67,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 66,
+    "chuteLongo": 61,
+    "passeCurto": 61,
+    "passeLongo": 61,
+    "visao": 61,
+    "cruzamento": 66,
+    "drible": 70,
+    "controleBola": 72,
+    "dominio": 61,
+    "curva": 71,
+    "cobrancaFalta": 61,
+    "penalti": 61,
+    "cabecamento": 61,
+    "voleio": 61,
+    "acrobacia": 61
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 71,
+    "explosao": 74,
+    "agilidade": 74,
+    "equilibrio": 63,
+    "resistencia": 63,
+    "forca": 63,
+    "impulsao": 63,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 54,
+    "desarme": 56,
+    "interceptacao": 53,
+    "posicionamentoDefensivo": 58,
+    "pressao": 57,
+    "cobertura": 53,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 64,
+    "decisao": 65,
+    "visaoJogo": 64,
+    "compostura": 64,
+    "frieza": 63,
+    "concentracao": 64,
+    "regularidade": 65,
+    "ansiedade": 29,
+    "agressividade": 64,
+    "coragem": 64,
+    "lideranca": 64,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 82,
+    "profissionalismo": 60,
+    "lealdade": 52,
+    "catimba": 45,
+    "violencia": 20,
+    "disciplina": 71,
+    "adaptacao": 62
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 48,
+    "momentoHeroico": 47,
+    "supersub": 55,
+    "decisivo": 51,
+    "provocador": 34,
+    "batedorPenaltis": 61,
+    "cobradorFalta": 61,
+    "especialistaEscanteio": 70
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 47,
+    "confianca": 52,
+    "formaAtual": 52,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 70,
+    "tendenciaChute": 66,
+    "tendenciaPasse": 61,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 60,
+    "participacaoJogo": 67,
+    "intensidade": 60,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/riquelme-fillipi/profil/spieler/1124298",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/riquelme-fillipi.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

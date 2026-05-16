@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ramon",
+    "nome": "Ramon",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ramon.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "13/03/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "13"
+  },
+  "posicao": {
+    "principal": "Lateral Esquerdo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 71,
+    "reputacao": 68,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 68,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 74,
+    "drible": 67,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 73,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 70,
+    "forca": 64,
+    "impulsao": 64,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 71,
+    "desarme": 66,
+    "interceptacao": 67,
+    "posicionamentoDefensivo": 66,
+    "pressao": 70,
+    "cobertura": 69,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 65,
+    "decisao": 66,
+    "visaoJogo": 65,
+    "compostura": 68,
+    "frieza": 70,
+    "concentracao": 69,
+    "regularidade": 64,
+    "ansiedade": 31,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 66,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 68,
+    "profissionalismo": 63,
+    "lealdade": 56,
+    "catimba": 46,
+    "violencia": 27,
+    "disciplina": 71,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 42,
+    "momentoHeroico": 38,
+    "supersub": 62,
+    "decisivo": 49,
+    "provocador": 54,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 69
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 65,
+    "tendenciaMarcacao": 70,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 70,
+    "participacaoJogo": 70,
+    "intensidade": 70,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ramon/profil/spieler/663578",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/ramon.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

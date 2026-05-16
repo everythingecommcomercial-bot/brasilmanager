@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "samuel",
+    "nome": "Samuel",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/samuel.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "09/02/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "34"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 47,
+    "chuteLongo": 52,
+    "passeCurto": 54,
+    "passeLongo": 59,
+    "visao": 52,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 61,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 55,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 64,
+    "impulsao": 59,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 65,
+    "desarme": 62,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 65,
+    "pressao": 64,
+    "cobertura": 63,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 57,
+    "concentracao": 57,
+    "regularidade": 56,
+    "ansiedade": 43,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 54,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 57,
+    "ambicao": 77,
+    "profissionalismo": 68,
+    "lealdade": 66,
+    "catimba": 66,
+    "violencia": 32,
+    "disciplina": 63,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 50,
+    "momentoHeroico": 46,
+    "supersub": 53,
+    "decisivo": 46,
+    "provocador": 37,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 53
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 53,
+    "tendenciaMarcacao": 64,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 57,
+    "participacaoJogo": 56,
+    "intensidade": 59,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/samuel/profil/spieler/1116834",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/samuel.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

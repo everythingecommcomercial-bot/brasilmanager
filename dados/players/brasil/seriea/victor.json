@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "victor",
+    "nome": "Victor",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/victor.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "03/05/2006",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 22,
+    "chuteLongo": 30,
+    "passeCurto": 46,
+    "passeLongo": 48,
+    "visao": 24,
+    "cruzamento": 21,
+    "drible": 25,
+    "controleBola": 20,
+    "dominio": 30,
+    "curva": 20,
+    "cobrancaFalta": 23,
+    "penalti": 25,
+    "cabecamento": 28,
+    "voleio": 21,
+    "acrobacia": 19
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 62,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 58,
+    "impulsao": 57,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 17,
+    "desarme": 19,
+    "interceptacao": 22,
+    "posicionamentoDefensivo": 15,
+    "pressao": 22,
+    "cobertura": 21,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 55,
+    "decisao": 59,
+    "visaoJogo": 55,
+    "compostura": 59,
+    "frieza": 57,
+    "concentracao": 58,
+    "regularidade": 58,
+    "ansiedade": 36,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 76,
+    "profissionalismo": 67,
+    "lealdade": 64,
+    "catimba": 49,
+    "violencia": 43,
+    "disciplina": 68,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 50,
+    "momentoHeroico": 45,
+    "supersub": 54,
+    "decisivo": 47,
+    "provocador": 46,
+    "batedorPenaltis": 25,
+    "cobradorFalta": 23,
+    "especialistaEscanteio": 18
+  },
+  "goleiro": {
+    "reflexos": 62,
+    "defesa": 59,
+    "posicionamentoGol": 59,
+    "saidaGol": 58,
+    "jogoPes": 53,
+    "reposicao": 58,
+    "pegadorPenaltis": 56
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 17,
+    "tendenciaChute": 22,
+    "tendenciaPasse": 35,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 40,
+    "recomposicao": 39,
+    "participacaoJogo": 56,
+    "intensidade": 38,
+    "riscoCriativo": 35
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/victor/profil/spieler/1109027",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/victor.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

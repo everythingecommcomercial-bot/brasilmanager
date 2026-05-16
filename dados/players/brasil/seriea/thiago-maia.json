@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "thiago-maia",
+    "nome": "Thiago Maia",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/thiago-maia.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "23/03/1997",
+    "idade": 29,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "29"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 71,
+    "reputacao": 71,
+    "potencialMidia": 71
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 75,
+    "passeLongo": 73,
+    "visao": 70,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 71,
+    "forca": 75,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 76,
+    "desarme": 75,
+    "interceptacao": 75,
+    "posicionamentoDefensivo": 72,
+    "pressao": 74,
+    "cobertura": 75,
+    "empenhoTatico": 73
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 68,
+    "decisao": 73,
+    "visaoJogo": 68,
+    "compostura": 71,
+    "frieza": 73,
+    "concentracao": 73,
+    "regularidade": 66,
+    "ansiedade": 31,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 73,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 49,
+    "ambicao": 58,
+    "profissionalismo": 68,
+    "lealdade": 53,
+    "catimba": 64,
+    "violencia": 38,
+    "disciplina": 70,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 41,
+    "jogoGrande": 47,
+    "momentoHeroico": 41,
+    "supersub": 58,
+    "decisivo": 47,
+    "provocador": 44,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 72,
+    "tendenciaMarcacao": 75,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 70,
+    "participacaoJogo": 70,
+    "intensidade": 72,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/thiago-maia/profil/spieler/294873",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/thiago-maia.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

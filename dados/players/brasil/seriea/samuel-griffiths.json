@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "samuel-griffiths",
+    "nome": "Samuel Griffiths",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/samuel-griffiths.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "",
+    "idade": "(-)",
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "17"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 62,
+    "reputacao": 58,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 55,
+    "chuteLongo": 52,
+    "passeCurto": 52,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 59,
+    "drible": 61,
+    "controleBola": 58,
+    "dominio": 52,
+    "curva": 60,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 65,
+    "aceleracao": 61,
+    "explosao": 63,
+    "agilidade": 66,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 43,
+    "desarme": 43,
+    "interceptacao": 44,
+    "posicionamentoDefensivo": 44,
+    "pressao": 48,
+    "cobertura": 46,
+    "empenhoTatico": 47
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 55,
+    "decisao": 56,
+    "visaoJogo": 55,
+    "compostura": 59,
+    "frieza": 56,
+    "concentracao": 58,
+    "regularidade": 56,
+    "ansiedade": 46,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 50,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 70,
+    "profissionalismo": 66,
+    "lealdade": 60,
+    "catimba": 46,
+    "violencia": 34,
+    "disciplina": 70,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 43,
+    "momentoHeroico": 45,
+    "supersub": 42,
+    "decisivo": 51,
+    "provocador": 40,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 4,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 61,
+    "tendenciaChute": 55,
+    "tendenciaPasse": 52,
+    "tendenciaMarcacao": 46,
+    "movimentacaoOfensiva": 57,
+    "recomposicao": 50,
+    "participacaoJogo": 57,
+    "intensidade": 51,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/samuel-griffiths/profil/spieler/1282911",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/samuel-griffiths.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

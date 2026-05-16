@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "roger",
+    "nome": "Roger",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/roger.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "29/04/2008",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "47"
+  },
+  "posicao": {
+    "principal": "Ponta Direita",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€400k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 73,
+    "reputacao": 61,
+    "potencialMidia": 78
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 55,
+    "passeCurto": 55,
+    "passeLongo": 55,
+    "visao": 55,
+    "cruzamento": 63,
+    "drible": 66,
+    "controleBola": 63,
+    "dominio": 55,
+    "curva": 65,
+    "cobrancaFalta": 55,
+    "penalti": 55,
+    "cabecamento": 55,
+    "voleio": 55,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 65,
+    "aceleracao": 69,
+    "explosao": 63,
+    "agilidade": 66,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 57,
+    "impulsao": 57,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 51,
+    "desarme": 46,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 51,
+    "pressao": 51,
+    "cobertura": 51,
+    "empenhoTatico": 48
+  },
+  "mentais": {
+    "inteligencia": 64,
+    "criatividade": 58,
+    "decisao": 64,
+    "visaoJogo": 58,
+    "compostura": 61,
+    "frieza": 61,
+    "concentracao": 59,
+    "regularidade": 59,
+    "ansiedade": 33,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 57,
+    "trabalhoEquipe": 59
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 85,
+    "profissionalismo": 67,
+    "lealdade": 48,
+    "catimba": 66,
+    "violencia": 44,
+    "disciplina": 64,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 46,
+    "momentoHeroico": 50,
+    "supersub": 54,
+    "decisivo": 44,
+    "provocador": 35,
+    "batedorPenaltis": 55,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 63
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 66,
+    "tendenciaChute": 62,
+    "tendenciaPasse": 55,
+    "tendenciaMarcacao": 51,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 52,
+    "participacaoJogo": 59,
+    "intensidade": 54,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/roger/profil/spieler/1260202",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/roger.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

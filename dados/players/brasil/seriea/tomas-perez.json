@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "tomas-perez",
+    "nome": "Tomás Pérez",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/tomas-perez.png",
+    "clubeAtual": "atletico-mg",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "26/08/2005",
+    "idade": 20,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "25"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€3.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 70,
+    "potencial": 79,
+    "reputacao": 70,
+    "potencialMidia": 84
+  },
+  "tecnicos": {
+    "finalizacao": 64,
+    "chuteLongo": 64,
+    "passeCurto": 70,
+    "passeLongo": 73,
+    "visao": 69,
+    "cruzamento": 64,
+    "drible": 64,
+    "controleBola": 64,
+    "dominio": 64,
+    "curva": 64,
+    "cobrancaFalta": 64,
+    "penalti": 64,
+    "cabecamento": 64,
+    "voleio": 64,
+    "acrobacia": 64
+  },
+  "fisicos": {
+    "velocidade": 66,
+    "aceleracao": 66,
+    "explosao": 66,
+    "agilidade": 66,
+    "equilibrio": 66,
+    "resistencia": 76,
+    "forca": 74,
+    "impulsao": 66,
+    "stamina": 66
+  },
+  "defensivos": {
+    "marcacao": 72,
+    "desarme": 75,
+    "interceptacao": 72,
+    "posicionamentoDefensivo": 70,
+    "pressao": 71,
+    "cobertura": 72,
+    "empenhoTatico": 75
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 67,
+    "decisao": 67,
+    "visaoJogo": 67,
+    "compostura": 72,
+    "frieza": 69,
+    "concentracao": 73,
+    "regularidade": 65,
+    "ansiedade": 27,
+    "agressividade": 67,
+    "coragem": 67,
+    "lideranca": 66,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 78,
+    "profissionalismo": 60,
+    "lealdade": 64,
+    "catimba": 56,
+    "violencia": 36,
+    "disciplina": 60,
+    "adaptacao": 63
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 46,
+    "momentoHeroico": 51,
+    "supersub": 51,
+    "decisivo": 53,
+    "provocador": 39,
+    "batedorPenaltis": 64,
+    "cobradorFalta": 64,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 50,
+    "confianca": 55,
+    "formaAtual": 55,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 79,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 56,
+    "tendenciaChute": 56,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 72,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 70,
+    "participacaoJogo": 72,
+    "intensidade": 74,
+    "riscoCriativo": 67
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/tomas-perez/profil/spieler/1152154",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/atletico-mg.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/tomas-perez.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

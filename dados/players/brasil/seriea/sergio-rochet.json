@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "sergio-rochet",
+    "nome": "Sergio Rochet",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/sergio-rochet.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "uruguai",
+      "italia"
+    ],
+    "dataNascimento": "23/03/1993",
+    "idade": 33,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "1"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€2.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 68,
+    "reputacao": 68,
+    "potencialMidia": 68
+  },
+  "tecnicos": {
+    "finalizacao": 31,
+    "chuteLongo": 21,
+    "passeCurto": 52,
+    "passeLongo": 53,
+    "visao": 30,
+    "cruzamento": 27,
+    "drible": 27,
+    "controleBola": 20,
+    "dominio": 20,
+    "curva": 28,
+    "cobrancaFalta": 22,
+    "penalti": 23,
+    "cabecamento": 23,
+    "voleio": 23,
+    "acrobacia": 20
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 67,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 68,
+    "impulsao": 72,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 21,
+    "desarme": 20,
+    "interceptacao": 24,
+    "posicionamentoDefensivo": 15,
+    "pressao": 25,
+    "cobertura": 20,
+    "empenhoTatico": 17
+  },
+  "mentais": {
+    "inteligencia": 71,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 69,
+    "frieza": 67,
+    "concentracao": 66,
+    "regularidade": 65,
+    "ansiedade": 34,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 66,
+    "trabalhoEquipe": 69
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 60,
+    "profissionalismo": 61,
+    "lealdade": 66,
+    "catimba": 56,
+    "violencia": 28,
+    "disciplina": 75,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 49,
+    "momentoHeroico": 47,
+    "supersub": 62,
+    "decisivo": 48,
+    "provocador": 51,
+    "batedorPenaltis": 23,
+    "cobradorFalta": 22,
+    "especialistaEscanteio": 30
+  },
+  "goleiro": {
+    "reflexos": 71,
+    "defesa": 68,
+    "posicionamentoGol": 73,
+    "saidaGol": 69,
+    "jogoPes": 63,
+    "reposicao": 68,
+    "pegadorPenaltis": 65
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 68,
+    "decadenciaFisica": 4,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 19,
+    "tendenciaChute": 13,
+    "tendenciaPasse": 41,
+    "tendenciaMarcacao": 23,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 40,
+    "participacaoJogo": 67,
+    "intensidade": 44,
+    "riscoCriativo": 41
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/sergio-rochet/profil/spieler/264014",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/sergio-rochet.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

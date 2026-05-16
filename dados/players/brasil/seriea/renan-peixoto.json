@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "renan-peixoto",
+    "nome": "Renan Peixoto",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/renan-peixoto.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "21/02/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "70"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.50m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 70,
+    "chuteLongo": 62,
+    "passeCurto": 62,
+    "passeLongo": 62,
+    "visao": 62,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 69,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 70,
+    "cabecamento": 69,
+    "voleio": 69,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 65,
+    "aceleracao": 64,
+    "explosao": 69,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 64,
+    "forca": 69,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 52,
+    "interceptacao": 48,
+    "posicionamentoDefensivo": 50,
+    "pressao": 49,
+    "cobertura": 50,
+    "empenhoTatico": 52
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 69,
+    "frieza": 64,
+    "concentracao": 67,
+    "regularidade": 69,
+    "ansiedade": 34,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 64,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 55,
+    "ambicao": 59,
+    "profissionalismo": 76,
+    "lealdade": 64,
+    "catimba": 57,
+    "violencia": 45,
+    "disciplina": 67,
+    "adaptacao": 59
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 49,
+    "momentoHeroico": 41,
+    "supersub": 47,
+    "decisivo": 44,
+    "provocador": 44,
+    "batedorPenaltis": 70,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 70,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 50,
+    "movimentacaoOfensiva": 69,
+    "recomposicao": 58,
+    "participacaoJogo": 67,
+    "intensidade": 56,
+    "riscoCriativo": 63
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/renan-peixoto/profil/spieler/883623",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/renan-peixoto.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

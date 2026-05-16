@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ryota-yoshikawa",
+    "nome": "Ryota Yoshikawa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ryota-yoshikawa.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "",
+    "idade": "(-)",
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 62,
+    "reputacao": 58,
+    "potencialMidia": 62
+  },
+  "tecnicos": {
+    "finalizacao": 22,
+    "chuteLongo": 29,
+    "passeCurto": 42,
+    "passeLongo": 48,
+    "visao": 30,
+    "cruzamento": 23,
+    "drible": 27,
+    "controleBola": 31,
+    "dominio": 26,
+    "curva": 28,
+    "cobrancaFalta": 28,
+    "penalti": 30,
+    "cabecamento": 24,
+    "voleio": 24,
+    "acrobacia": 27
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 61,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 56,
+    "impulsao": 61,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 19,
+    "desarme": 20,
+    "interceptacao": 23,
+    "posicionamentoDefensivo": 22,
+    "pressao": 19,
+    "cobertura": 16,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 57,
+    "frieza": 58,
+    "concentracao": 60,
+    "regularidade": 59,
+    "ansiedade": 37,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 55,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 64,
+    "profissionalismo": 68,
+    "lealdade": 56,
+    "catimba": 54,
+    "violencia": 40,
+    "disciplina": 74,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 48,
+    "momentoHeroico": 38,
+    "supersub": 45,
+    "decisivo": 45,
+    "provocador": 54,
+    "batedorPenaltis": 30,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 63,
+    "defesa": 59,
+    "posicionamentoGol": 58,
+    "saidaGol": 59,
+    "jogoPes": 50,
+    "reposicao": 57,
+    "pegadorPenaltis": 55
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 4,
+    "tetoEvolucao": 62,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 19,
+    "tendenciaChute": 21,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 19,
+    "movimentacaoOfensiva": 44,
+    "recomposicao": 39,
+    "participacaoJogo": 56,
+    "intensidade": 36,
+    "riscoCriativo": 37
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ryota-yoshikawa/profil/spieler/1541940",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/ryota-yoshikawa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

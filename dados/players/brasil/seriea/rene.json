@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rene",
+    "nome": "Renê",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rene.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "07/10/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "91"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 58,
+    "chuteLongo": 52,
+    "passeCurto": 52,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 61,
+    "drible": 64,
+    "controleBola": 62,
+    "dominio": 52,
+    "curva": 60,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 63,
+    "explosao": 60,
+    "agilidade": 63,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 43,
+    "desarme": 44,
+    "interceptacao": 48,
+    "posicionamentoDefensivo": 48,
+    "pressao": 49,
+    "cobertura": 46,
+    "empenhoTatico": 49
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 57,
+    "frieza": 55,
+    "concentracao": 56,
+    "regularidade": 55,
+    "ansiedade": 36,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 52,
+    "trabalhoEquipe": 57
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 68,
+    "profissionalismo": 73,
+    "lealdade": 67,
+    "catimba": 62,
+    "violencia": 38,
+    "disciplina": 65,
+    "adaptacao": 56
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 46,
+    "momentoHeroico": 51,
+    "supersub": 53,
+    "decisivo": 51,
+    "provocador": 37,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 58,
+    "tendenciaPasse": 52,
+    "tendenciaMarcacao": 46,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 52,
+    "participacaoJogo": 56,
+    "intensidade": 52,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rene/profil/spieler/1093951",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/rene.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

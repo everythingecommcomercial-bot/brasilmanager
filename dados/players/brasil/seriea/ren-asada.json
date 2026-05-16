@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ren-asada",
+    "nome": "Ren Asada",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ren-asada.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "10/06/2010",
+    "idade": 15,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "32"
+  },
+  "posicao": {
+    "principal": "Midfielder",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 63,
+    "passeLongo": 60,
+    "visao": 63,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 59,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 57,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 63
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 50,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 50,
+    "pressao": 58,
+    "cobertura": 50,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 59,
+    "criatividade": 55,
+    "decisao": 59,
+    "visaoJogo": 55,
+    "compostura": 59,
+    "frieza": 59,
+    "concentracao": 57,
+    "regularidade": 54,
+    "ansiedade": 44,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 54,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 83,
+    "profissionalismo": 74,
+    "lealdade": 49,
+    "catimba": 56,
+    "violencia": 32,
+    "disciplina": 66,
+    "adaptacao": 70
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 45,
+    "momentoHeroico": 45,
+    "supersub": 56,
+    "decisivo": 49,
+    "provocador": 41,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 49
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 63,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 59,
+    "recomposicao": 62,
+    "participacaoJogo": 59,
+    "intensidade": 58,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ren-asada/profil/spieler/1541596",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/ren-asada.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

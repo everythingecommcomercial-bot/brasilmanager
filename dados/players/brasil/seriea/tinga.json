@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "tinga",
+    "nome": "Tinga",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/tinga.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "01/09/1993",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "2"
+  },
+  "posicao": {
+    "principal": "Lateral Direito",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€500k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 64,
+    "passeLongo": 59,
+    "visao": 59,
+    "cruzamento": 67,
+    "drible": 65,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 73,
+    "aceleracao": 70,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 70,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 68
+  },
+  "defensivos": {
+    "marcacao": 65,
+    "desarme": 63,
+    "interceptacao": 65,
+    "posicionamentoDefensivo": 66,
+    "pressao": 69,
+    "cobertura": 64,
+    "empenhoTatico": 66
+  },
+  "mentais": {
+    "inteligencia": 63,
+    "criatividade": 62,
+    "decisao": 63,
+    "visaoJogo": 62,
+    "compostura": 63,
+    "frieza": 66,
+    "concentracao": 63,
+    "regularidade": 66,
+    "ansiedade": 33,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 68,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 59,
+    "ambicao": 64,
+    "profissionalismo": 66,
+    "lealdade": 67,
+    "catimba": 59,
+    "violencia": 30,
+    "disciplina": 60,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 42,
+    "jogoGrande": 50,
+    "momentoHeroico": 39,
+    "supersub": 59,
+    "decisivo": 45,
+    "provocador": 34,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 61
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 67,
+    "movimentacaoOfensiva": 61,
+    "recomposicao": 67,
+    "participacaoJogo": 66,
+    "intensidade": 70,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/tinga/profil/spieler/273442",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/tinga.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

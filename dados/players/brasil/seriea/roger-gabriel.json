@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "roger-gabriel",
+    "nome": "Roger Gabriel",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/roger-gabriel.png",
+    "clubeAtual": "bahia",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "12/02/2007",
+    "idade": 19,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "80"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 61,
+    "chuteLongo": 52,
+    "passeCurto": 64,
+    "passeLongo": 52,
+    "visao": 60,
+    "cruzamento": 52,
+    "drible": 59,
+    "controleBola": 64,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 60,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 43,
+    "desarme": 43,
+    "interceptacao": 45,
+    "posicionamentoDefensivo": 45,
+    "pressao": 44,
+    "cobertura": 46,
+    "empenhoTatico": 44
+  },
+  "mentais": {
+    "inteligencia": 56,
+    "criatividade": 61,
+    "decisao": 58,
+    "visaoJogo": 63,
+    "compostura": 59,
+    "frieza": 60,
+    "concentracao": 57,
+    "regularidade": 59,
+    "ansiedade": 46,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 53,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 80,
+    "profissionalismo": 68,
+    "lealdade": 56,
+    "catimba": 58,
+    "violencia": 27,
+    "disciplina": 75,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 48,
+    "momentoHeroico": 52,
+    "supersub": 55,
+    "decisivo": 49,
+    "provocador": 41,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 60,
+    "especialistaEscanteio": 51
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 61,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 44,
+    "movimentacaoOfensiva": 61,
+    "recomposicao": 49,
+    "participacaoJogo": 57,
+    "intensidade": 49,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/roger-gabriel/profil/spieler/1044131",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/bahia.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/roger-gabriel.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

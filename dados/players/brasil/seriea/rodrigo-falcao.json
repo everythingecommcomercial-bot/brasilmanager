@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rodrigo-falcao",
+    "nome": "Rodrigo Falcão",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rodrigo-falcao.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "23/03/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "67"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 25,
+    "chuteLongo": 31,
+    "passeCurto": 42,
+    "passeLongo": 47,
+    "visao": 28,
+    "cruzamento": 27,
+    "drible": 26,
+    "controleBola": 31,
+    "dominio": 22,
+    "curva": 29,
+    "cobrancaFalta": 23,
+    "penalti": 19,
+    "cabecamento": 22,
+    "voleio": 23,
+    "acrobacia": 27
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 58,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 61,
+    "impulsao": 59,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 25,
+    "desarme": 22,
+    "interceptacao": 19,
+    "posicionamentoDefensivo": 23,
+    "pressao": 15,
+    "cobertura": 18,
+    "empenhoTatico": 16
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 56,
+    "frieza": 59,
+    "concentracao": 56,
+    "regularidade": 53,
+    "ansiedade": 37,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 80,
+    "profissionalismo": 67,
+    "lealdade": 62,
+    "catimba": 46,
+    "violencia": 49,
+    "disciplina": 63,
+    "adaptacao": 69
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 47,
+    "momentoHeroico": 46,
+    "supersub": 60,
+    "decisivo": 45,
+    "provocador": 53,
+    "batedorPenaltis": 19,
+    "cobradorFalta": 23,
+    "especialistaEscanteio": 28
+  },
+  "goleiro": {
+    "reflexos": 59,
+    "defesa": 59,
+    "posicionamentoGol": 60,
+    "saidaGol": 59,
+    "jogoPes": 52,
+    "reposicao": 54,
+    "pegadorPenaltis": 57
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 18,
+    "tendenciaChute": 23,
+    "tendenciaPasse": 35,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 35,
+    "participacaoJogo": 57,
+    "intensidade": 34,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rodrigo-falcao/profil/spieler/1089956",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/rodrigo-falcao.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

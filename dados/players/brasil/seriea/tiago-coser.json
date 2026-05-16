@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "tiago-coser",
+    "nome": "Tiago Cóser",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/tiago-coser.png",
+    "clubeAtual": "coritiba",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "16/01/2004",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€800k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 71,
+    "reputacao": 65,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 45,
+    "chuteLongo": 59,
+    "passeCurto": 67,
+    "passeLongo": 65,
+    "visao": 59,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 70,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 63,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 61,
+    "forca": 71,
+    "impulsao": 66,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 70,
+    "desarme": 72,
+    "interceptacao": 72,
+    "posicionamentoDefensivo": 72,
+    "pressao": 72,
+    "cobertura": 68,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 68,
+    "criatividade": 62,
+    "decisao": 63,
+    "visaoJogo": 62,
+    "compostura": 65,
+    "frieza": 64,
+    "concentracao": 65,
+    "regularidade": 61,
+    "ansiedade": 33,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 58,
+    "trabalhoEquipe": 64
+  },
+  "personalidade": {
+    "ego": 56,
+    "ambicao": 74,
+    "profissionalismo": 64,
+    "lealdade": 50,
+    "catimba": 55,
+    "violencia": 46,
+    "disciplina": 62,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 46,
+    "momentoHeroico": 39,
+    "supersub": 55,
+    "decisivo": 44,
+    "provocador": 36,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 56
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 71,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 63,
+    "tendenciaMarcacao": 71,
+    "movimentacaoOfensiva": 61,
+    "recomposicao": 65,
+    "participacaoJogo": 63,
+    "intensidade": 66,
+    "riscoCriativo": 60
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/tiago-coser/profil/spieler/834443",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/coritiba.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/tiago-coser.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

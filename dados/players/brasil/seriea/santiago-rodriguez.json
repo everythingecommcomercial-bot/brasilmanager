@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "santiago-rodriguez",
+    "nome": "Santiago Rodríguez",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/santiago-rodriguez.png",
+    "clubeAtual": "botafogo",
+    "nacionalidade": [
+      "uruguai"
+    ],
+    "dataNascimento": "08/01/2000",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "23"
+  },
+  "posicao": {
+    "principal": "Meia Ofensivo",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€6.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 74,
+    "reputacao": 73,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 75,
+    "chuteLongo": 67,
+    "passeCurto": 80,
+    "passeLongo": 67,
+    "visao": 80,
+    "cruzamento": 67,
+    "drible": 79,
+    "controleBola": 79,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 76,
+    "penalti": 67,
+    "cabecamento": 67,
+    "voleio": 67,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 69,
+    "aceleracao": 69,
+    "explosao": 69,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 69,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 60,
+    "interceptacao": 59,
+    "posicionamentoDefensivo": 59,
+    "pressao": 59,
+    "cobertura": 58,
+    "empenhoTatico": 61
+  },
+  "mentais": {
+    "inteligencia": 74,
+    "criatividade": 79,
+    "decisao": 74,
+    "visaoJogo": 79,
+    "compostura": 75,
+    "frieza": 75,
+    "concentracao": 71,
+    "regularidade": 73,
+    "ansiedade": 22,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 71,
+    "trabalhoEquipe": 74
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 61,
+    "profissionalismo": 67,
+    "lealdade": 58,
+    "catimba": 43,
+    "violencia": 35,
+    "disciplina": 74,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 54,
+    "momentoHeroico": 43,
+    "supersub": 57,
+    "decisivo": 63,
+    "provocador": 33,
+    "batedorPenaltis": 67,
+    "cobradorFalta": 76,
+    "especialistaEscanteio": 65
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 79,
+    "tendenciaChute": 75,
+    "tendenciaPasse": 80,
+    "tendenciaMarcacao": 59,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 65,
+    "participacaoJogo": 72,
+    "intensidade": 64,
+    "riscoCriativo": 79
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/santiago-rodriguez/profil/spieler/465819",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/botafogo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/uruguai.json"
+    ],
+    "foto": "dados/images/players/brasil/santiago-rodriguez.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

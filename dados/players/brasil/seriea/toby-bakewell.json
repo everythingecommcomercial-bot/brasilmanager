@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "toby-bakewell",
+    "nome": "Toby Bakewell",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/toby-bakewell.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "01/01/2005",
+    "idade": 21,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "24"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 67,
+    "reputacao": 58,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 59,
+    "passeLongo": 58,
+    "visao": 58,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 52,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 60,
+    "forca": 61,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 59,
+    "desarme": 59,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 58,
+    "pressao": 60,
+    "cobertura": 59,
+    "empenhoTatico": 58
+  },
+  "mentais": {
+    "inteligencia": 57,
+    "criatividade": 55,
+    "decisao": 60,
+    "visaoJogo": 55,
+    "compostura": 56,
+    "frieza": 58,
+    "concentracao": 56,
+    "regularidade": 57,
+    "ansiedade": 44,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 61,
+    "ambicao": 73,
+    "profissionalismo": 62,
+    "lealdade": 50,
+    "catimba": 52,
+    "violencia": 38,
+    "disciplina": 73,
+    "adaptacao": 55
+  },
+  "especial": {
+    "estrela": 47,
+    "jogoGrande": 43,
+    "momentoHeroico": 52,
+    "supersub": 44,
+    "decisivo": 46,
+    "provocador": 57,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 53
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 9,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 58,
+    "tendenciaMarcacao": 60,
+    "movimentacaoOfensiva": 56,
+    "recomposicao": 56,
+    "participacaoJogo": 59,
+    "intensidade": 60,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/toby-bakewell/profil/spieler/1276559",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/toby-bakewell.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

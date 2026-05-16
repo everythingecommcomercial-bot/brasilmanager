@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rony",
+    "nome": "Rony",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rony.png",
+    "clubeAtual": "santos",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "11/05/1995",
+    "idade": 31,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "11"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€5.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 73,
+    "potencial": 73,
+    "reputacao": 73,
+    "potencialMidia": 73
+  },
+  "tecnicos": {
+    "finalizacao": 80,
+    "chuteLongo": 67,
+    "passeCurto": 67,
+    "passeLongo": 67,
+    "visao": 67,
+    "cruzamento": 67,
+    "drible": 67,
+    "controleBola": 74,
+    "dominio": 67,
+    "curva": 67,
+    "cobrancaFalta": 67,
+    "penalti": 74,
+    "cabecamento": 75,
+    "voleio": 70,
+    "acrobacia": 67
+  },
+  "fisicos": {
+    "velocidade": 72,
+    "aceleracao": 69,
+    "explosao": 72,
+    "agilidade": 69,
+    "equilibrio": 69,
+    "resistencia": 69,
+    "forca": 77,
+    "impulsao": 69,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 52,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 58,
+    "pressao": 52,
+    "cobertura": 54,
+    "empenhoTatico": 57
+  },
+  "mentais": {
+    "inteligencia": 73,
+    "criatividade": 70,
+    "decisao": 76,
+    "visaoJogo": 70,
+    "compostura": 72,
+    "frieza": 69,
+    "concentracao": 73,
+    "regularidade": 68,
+    "ansiedade": 26,
+    "agressividade": 70,
+    "coragem": 70,
+    "lideranca": 74,
+    "trabalhoEquipe": 71
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 55,
+    "profissionalismo": 60,
+    "lealdade": 52,
+    "catimba": 46,
+    "violencia": 22,
+    "disciplina": 65,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 50,
+    "jogoGrande": 54,
+    "momentoHeroico": 41,
+    "supersub": 47,
+    "decisivo": 54,
+    "provocador": 41,
+    "batedorPenaltis": 74,
+    "cobradorFalta": 67,
+    "especialistaEscanteio": 67
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 53,
+    "confianca": 58,
+    "formaAtual": 58,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 73,
+    "decadenciaFisica": 2,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 59,
+    "tendenciaChute": 80,
+    "tendenciaPasse": 67,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 75,
+    "recomposicao": 63,
+    "participacaoJogo": 71,
+    "intensidade": 60,
+    "riscoCriativo": 68
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rony/profil/spieler/371009",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/santos.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/rony.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

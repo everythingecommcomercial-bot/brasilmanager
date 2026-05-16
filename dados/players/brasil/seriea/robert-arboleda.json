@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "robert-arboleda",
+    "nome": "Robert Arboleda",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/robert-arboleda.png",
+    "clubeAtual": "sao-paulo",
+    "nacionalidade": [
+      "equador"
+    ],
+    "dataNascimento": "22/10/1991",
+    "idade": 34,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "5"
+  },
+  "posicao": {
+    "principal": "Zagueiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€600k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 63,
+    "potencial": 63,
+    "reputacao": 63,
+    "potencialMidia": 63
+  },
+  "tecnicos": {
+    "finalizacao": 40,
+    "chuteLongo": 57,
+    "passeCurto": 64,
+    "passeLongo": 59,
+    "visao": 57,
+    "cruzamento": 57,
+    "drible": 57,
+    "controleBola": 57,
+    "dominio": 57,
+    "curva": 57,
+    "cobrancaFalta": 57,
+    "penalti": 57,
+    "cabecamento": 65,
+    "voleio": 57,
+    "acrobacia": 57
+  },
+  "fisicos": {
+    "velocidade": 57,
+    "aceleracao": 59,
+    "explosao": 59,
+    "agilidade": 59,
+    "equilibrio": 59,
+    "resistencia": 59,
+    "forca": 66,
+    "impulsao": 67,
+    "stamina": 59
+  },
+  "defensivos": {
+    "marcacao": 67,
+    "desarme": 65,
+    "interceptacao": 67,
+    "posicionamentoDefensivo": 65,
+    "pressao": 68,
+    "cobertura": 67,
+    "empenhoTatico": 65
+  },
+  "mentais": {
+    "inteligencia": 62,
+    "criatividade": 60,
+    "decisao": 63,
+    "visaoJogo": 60,
+    "compostura": 64,
+    "frieza": 65,
+    "concentracao": 60,
+    "regularidade": 58,
+    "ansiedade": 42,
+    "agressividade": 60,
+    "coragem": 60,
+    "lideranca": 61,
+    "trabalhoEquipe": 60
+  },
+  "personalidade": {
+    "ego": 54,
+    "ambicao": 56,
+    "profissionalismo": 64,
+    "lealdade": 50,
+    "catimba": 64,
+    "violencia": 38,
+    "disciplina": 76,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 45,
+    "momentoHeroico": 45,
+    "supersub": 43,
+    "decisivo": 44,
+    "provocador": 49,
+    "batedorPenaltis": 57,
+    "cobradorFalta": 57,
+    "especialistaEscanteio": 60
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 63,
+    "decadenciaFisica": 5,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 49,
+    "tendenciaChute": 49,
+    "tendenciaPasse": 60,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 62,
+    "participacaoJogo": 61,
+    "intensidade": 64,
+    "riscoCriativo": 58
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/robert-arboleda/profil/spieler/139867",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/sao-paulo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/equador.json"
+    ],
+    "foto": "dados/images/players/brasil/robert-arboleda.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

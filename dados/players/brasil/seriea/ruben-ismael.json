@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "ruben-ismael",
+    "nome": "Rúben Ismael",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ruben-ismael.png",
+    "clubeAtual": "vitoria",
+    "nacionalidade": [
+      "portugal"
+    ],
+    "dataNascimento": "25/03/1999",
+    "idade": 27,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "16"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€1.20m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 68,
+    "potencial": 69,
+    "reputacao": 68,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 62,
+    "chuteLongo": 62,
+    "passeCurto": 70,
+    "passeLongo": 73,
+    "visao": 69,
+    "cruzamento": 62,
+    "drible": 62,
+    "controleBola": 62,
+    "dominio": 62,
+    "curva": 62,
+    "cobrancaFalta": 62,
+    "penalti": 62,
+    "cabecamento": 62,
+    "voleio": 62,
+    "acrobacia": 62
+  },
+  "fisicos": {
+    "velocidade": 64,
+    "aceleracao": 64,
+    "explosao": 64,
+    "agilidade": 64,
+    "equilibrio": 64,
+    "resistencia": 69,
+    "forca": 67,
+    "impulsao": 64,
+    "stamina": 64
+  },
+  "defensivos": {
+    "marcacao": 71,
+    "desarme": 73,
+    "interceptacao": 68,
+    "posicionamentoDefensivo": 70,
+    "pressao": 73,
+    "cobertura": 69,
+    "empenhoTatico": 69
+  },
+  "mentais": {
+    "inteligencia": 66,
+    "criatividade": 65,
+    "decisao": 69,
+    "visaoJogo": 65,
+    "compostura": 65,
+    "frieza": 64,
+    "concentracao": 67,
+    "regularidade": 66,
+    "ansiedade": 37,
+    "agressividade": 65,
+    "coragem": 65,
+    "lideranca": 65,
+    "trabalhoEquipe": 67
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 60,
+    "profissionalismo": 61,
+    "lealdade": 57,
+    "catimba": 45,
+    "violencia": 41,
+    "disciplina": 66,
+    "adaptacao": 65
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 42,
+    "momentoHeroico": 39,
+    "supersub": 43,
+    "decisivo": 51,
+    "provocador": 42,
+    "batedorPenaltis": 62,
+    "cobradorFalta": 62,
+    "especialistaEscanteio": 62
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 48,
+    "confianca": 53,
+    "formaAtual": 53,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 69,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 54,
+    "tendenciaChute": 54,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 72,
+    "movimentacaoOfensiva": 66,
+    "recomposicao": 66,
+    "participacaoJogo": 68,
+    "intensidade": 71,
+    "riscoCriativo": 65
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ruben-ismael/profil/spieler/468332",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/vitoria.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/portugal.json"
+    ],
+    "foto": "dados/images/players/brasil/ruben-ismael.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "tiaguinho",
+    "nome": "Tiaguinho",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/tiaguinho.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "02/02/2008",
+    "idade": 18,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "39"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€500k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 77,
+    "reputacao": 65,
+    "potencialMidia": 82
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 69,
+    "passeLongo": 65,
+    "visao": 70,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 66,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 65,
+    "forca": 61,
+    "impulsao": 61,
+    "stamina": 69
+  },
+  "defensivos": {
+    "marcacao": 57,
+    "desarme": 57,
+    "interceptacao": 57,
+    "posicionamentoDefensivo": 57,
+    "pressao": 65,
+    "cobertura": 57,
+    "empenhoTatico": 65
+  },
+  "mentais": {
+    "inteligencia": 69,
+    "criatividade": 62,
+    "decisao": 64,
+    "visaoJogo": 62,
+    "compostura": 66,
+    "frieza": 65,
+    "concentracao": 67,
+    "regularidade": 62,
+    "ansiedade": 30,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 58,
+    "trabalhoEquipe": 68
+  },
+  "personalidade": {
+    "ego": 62,
+    "ambicao": 82,
+    "profissionalismo": 75,
+    "lealdade": 58,
+    "catimba": 48,
+    "violencia": 33,
+    "disciplina": 70,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 49,
+    "momentoHeroico": 40,
+    "supersub": 57,
+    "decisivo": 43,
+    "provocador": 53,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 57
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 77,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 70,
+    "tendenciaMarcacao": 61,
+    "movimentacaoOfensiva": 65,
+    "recomposicao": 67,
+    "participacaoJogo": 66,
+    "intensidade": 65,
+    "riscoCriativo": 64
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/tiaguinho/profil/spieler/1285798",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/tiaguinho.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

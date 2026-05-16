@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "thiago-beltrame",
+    "nome": "Thiago Beltrame",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/thiago-beltrame.png",
+    "clubeAtual": "gremio",
+    "nacionalidade": [
+      "brasil",
+      "italia"
+    ],
+    "dataNascimento": "02/07/2003",
+    "idade": 22,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "24"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 20,
+    "chuteLongo": 29,
+    "passeCurto": 43,
+    "passeLongo": 45,
+    "visao": 31,
+    "cruzamento": 22,
+    "drible": 31,
+    "controleBola": 30,
+    "dominio": 28,
+    "curva": 25,
+    "cobrancaFalta": 26,
+    "penalti": 21,
+    "cabecamento": 24,
+    "voleio": 26,
+    "acrobacia": 29
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 58,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 58,
+    "impulsao": 60,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 24,
+    "desarme": 24,
+    "interceptacao": 17,
+    "posicionamentoDefensivo": 19,
+    "pressao": 25,
+    "cobertura": 22,
+    "empenhoTatico": 24
+  },
+  "mentais": {
+    "inteligencia": 60,
+    "criatividade": 55,
+    "decisao": 55,
+    "visaoJogo": 55,
+    "compostura": 59,
+    "frieza": 55,
+    "concentracao": 56,
+    "regularidade": 56,
+    "ansiedade": 40,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 50,
+    "trabalhoEquipe": 55
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 77,
+    "profissionalismo": 71,
+    "lealdade": 68,
+    "catimba": 49,
+    "violencia": 42,
+    "disciplina": 74,
+    "adaptacao": 54
+  },
+  "especial": {
+    "estrela": 40,
+    "jogoGrande": 45,
+    "momentoHeroico": 38,
+    "supersub": 45,
+    "decisivo": 53,
+    "provocador": 41,
+    "batedorPenaltis": 21,
+    "cobradorFalta": 26,
+    "especialistaEscanteio": 24
+  },
+  "goleiro": {
+    "reflexos": 60,
+    "defesa": 62,
+    "posicionamentoGol": 60,
+    "saidaGol": 55,
+    "jogoPes": 56,
+    "reposicao": 57,
+    "pegadorPenaltis": 61
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 23,
+    "tendenciaChute": 21,
+    "tendenciaPasse": 37,
+    "tendenciaMarcacao": 24,
+    "movimentacaoOfensiva": 42,
+    "recomposicao": 39,
+    "participacaoJogo": 56,
+    "intensidade": 40,
+    "riscoCriativo": 39
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/thiago-beltrame/profil/spieler/959088",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/gremio.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json",
+      "dados/selecoes/paises/italia.json"
+    ],
+    "foto": "dados/images/players/brasil/thiago-beltrame.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

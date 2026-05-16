@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "shuto-yamada",
+    "nome": "Shuto Yamada",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/shuto-yamada.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "02/05/2009",
+    "idade": 17,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "17"
+  },
+  "posicao": {
+    "principal": "Striker",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 52,
+    "chuteLongo": 52,
+    "passeCurto": 64,
+    "passeLongo": 58,
+    "visao": 59,
+    "cruzamento": 52,
+    "drible": 52,
+    "controleBola": 59,
+    "dominio": 52,
+    "curva": 52,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 54,
+    "equilibrio": 54,
+    "resistencia": 61,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 62
+  },
+  "defensivos": {
+    "marcacao": 50,
+    "desarme": 50,
+    "interceptacao": 50,
+    "posicionamentoDefensivo": 50,
+    "pressao": 61,
+    "cobertura": 50,
+    "empenhoTatico": 60
+  },
+  "mentais": {
+    "inteligencia": 56,
+    "criatividade": 55,
+    "decisao": 58,
+    "visaoJogo": 55,
+    "compostura": 58,
+    "frieza": 54,
+    "concentracao": 58,
+    "regularidade": 58,
+    "ansiedade": 46,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 52,
+    "ambicao": 80,
+    "profissionalismo": 73,
+    "lealdade": 55,
+    "catimba": 55,
+    "violencia": 21,
+    "disciplina": 64,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 46,
+    "momentoHeroico": 50,
+    "supersub": 52,
+    "decisivo": 53,
+    "provocador": 38,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 50
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 44,
+    "tendenciaChute": 44,
+    "tendenciaPasse": 62,
+    "tendenciaMarcacao": 56,
+    "movimentacaoOfensiva": 58,
+    "recomposicao": 61,
+    "participacaoJogo": 59,
+    "intensidade": 61,
+    "riscoCriativo": 55
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/shuto-yamada/profil/spieler/1541942",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/shuto-yamada.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

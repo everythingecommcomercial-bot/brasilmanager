@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "rodrigo-villagra",
+    "nome": "Rodrigo Villagra",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/rodrigo-villagra.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "argentina"
+    ],
+    "dataNascimento": "14/02/2001",
+    "idade": 25,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "5"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€4.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 71,
+    "potencial": 74,
+    "reputacao": 71,
+    "potencialMidia": 74
+  },
+  "tecnicos": {
+    "finalizacao": 65,
+    "chuteLongo": 65,
+    "passeCurto": 76,
+    "passeLongo": 74,
+    "visao": 74,
+    "cruzamento": 65,
+    "drible": 65,
+    "controleBola": 65,
+    "dominio": 65,
+    "curva": 65,
+    "cobrancaFalta": 65,
+    "penalti": 65,
+    "cabecamento": 65,
+    "voleio": 65,
+    "acrobacia": 65
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 67,
+    "explosao": 67,
+    "agilidade": 67,
+    "equilibrio": 67,
+    "resistencia": 74,
+    "forca": 75,
+    "impulsao": 67,
+    "stamina": 67
+  },
+  "defensivos": {
+    "marcacao": 76,
+    "desarme": 77,
+    "interceptacao": 75,
+    "posicionamentoDefensivo": 76,
+    "pressao": 74,
+    "cobertura": 77,
+    "empenhoTatico": 74
+  },
+  "mentais": {
+    "inteligencia": 72,
+    "criatividade": 68,
+    "decisao": 71,
+    "visaoJogo": 68,
+    "compostura": 71,
+    "frieza": 70,
+    "concentracao": 73,
+    "regularidade": 66,
+    "ansiedade": 32,
+    "agressividade": 68,
+    "coragem": 68,
+    "lideranca": 63,
+    "trabalhoEquipe": 70
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 66,
+    "profissionalismo": 61,
+    "lealdade": 58,
+    "catimba": 65,
+    "violencia": 37,
+    "disciplina": 63,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 48,
+    "jogoGrande": 53,
+    "momentoHeroico": 39,
+    "supersub": 48,
+    "decisivo": 46,
+    "provocador": 40,
+    "batedorPenaltis": 65,
+    "cobradorFalta": 65,
+    "especialistaEscanteio": 64
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 51,
+    "confianca": 56,
+    "formaAtual": 56,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 3,
+    "tetoEvolucao": 74,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 57,
+    "tendenciaChute": 57,
+    "tendenciaPasse": 75,
+    "tendenciaMarcacao": 75,
+    "movimentacaoOfensiva": 68,
+    "recomposicao": 70,
+    "participacaoJogo": 72,
+    "intensidade": 74,
+    "riscoCriativo": 69
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/rodrigo-villagra/profil/spieler/657220",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/rodrigo-villagra.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

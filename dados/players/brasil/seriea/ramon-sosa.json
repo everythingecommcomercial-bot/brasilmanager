@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "ramon-sosa",
+    "nome": "Ramón Sosa",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/ramon-sosa.png",
+    "clubeAtual": "palmeiras",
+    "nacionalidade": [
+      "paraguai",
+      "argentina"
+    ],
+    "dataNascimento": "31/08/1999",
+    "idade": 26,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "19"
+  },
+  "posicao": {
+    "principal": "Segundo Atacante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€10.00m",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 75,
+    "potencial": 76,
+    "reputacao": 80,
+    "potencialMidia": 76
+  },
+  "tecnicos": {
+    "finalizacao": 79,
+    "chuteLongo": 69,
+    "passeCurto": 69,
+    "passeLongo": 69,
+    "visao": 69,
+    "cruzamento": 69,
+    "drible": 69,
+    "controleBola": 75,
+    "dominio": 69,
+    "curva": 69,
+    "cobrancaFalta": 69,
+    "penalti": 77,
+    "cabecamento": 78,
+    "voleio": 74,
+    "acrobacia": 69
+  },
+  "fisicos": {
+    "velocidade": 77,
+    "aceleracao": 71,
+    "explosao": 75,
+    "agilidade": 71,
+    "equilibrio": 71,
+    "resistencia": 71,
+    "forca": 75,
+    "impulsao": 71,
+    "stamina": 71
+  },
+  "defensivos": {
+    "marcacao": 60,
+    "desarme": 59,
+    "interceptacao": 58,
+    "posicionamentoDefensivo": 58,
+    "pressao": 55,
+    "cobertura": 55,
+    "empenhoTatico": 54
+  },
+  "mentais": {
+    "inteligencia": 77,
+    "criatividade": 72,
+    "decisao": 76,
+    "visaoJogo": 72,
+    "compostura": 75,
+    "frieza": 77,
+    "concentracao": 78,
+    "regularidade": 74,
+    "ansiedade": 30,
+    "agressividade": 72,
+    "coragem": 72,
+    "lideranca": 68,
+    "trabalhoEquipe": 72
+  },
+  "personalidade": {
+    "ego": 51,
+    "ambicao": 67,
+    "profissionalismo": 72,
+    "lealdade": 63,
+    "catimba": 66,
+    "violencia": 40,
+    "disciplina": 66,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 56,
+    "momentoHeroico": 38,
+    "supersub": 62,
+    "decisivo": 65,
+    "provocador": 56,
+    "batedorPenaltis": 77,
+    "cobradorFalta": 69,
+    "especialistaEscanteio": 66
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 55,
+    "confianca": 60,
+    "formaAtual": 60,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 1,
+    "tetoEvolucao": 76,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 69,
+    "tendenciaChute": 79,
+    "tendenciaPasse": 69,
+    "tendenciaMarcacao": 58,
+    "movimentacaoOfensiva": 76,
+    "recomposicao": 62,
+    "participacaoJogo": 73,
+    "intensidade": 63,
+    "riscoCriativo": 70
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/ramon-sosa/profil/spieler/745191",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/palmeiras.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/paraguai.json",
+      "dados/selecoes/paises/argentina.json"
+    ],
+    "foto": "dados/images/players/brasil/ramon-sosa.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

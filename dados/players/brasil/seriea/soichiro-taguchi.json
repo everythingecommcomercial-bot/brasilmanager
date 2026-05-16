@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "soichiro-taguchi",
+    "nome": "Soichiro Taguchi",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/soichiro-taguchi.png",
+    "clubeAtual": "remo",
+    "nacionalidade": [
+      "japao"
+    ],
+    "dataNascimento": "11/07/2010",
+    "idade": 15,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "41"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 70,
+    "reputacao": 58,
+    "potencialMidia": 75
+  },
+  "tecnicos": {
+    "finalizacao": 19,
+    "chuteLongo": 23,
+    "passeCurto": 46,
+    "passeLongo": 46,
+    "visao": 31,
+    "cruzamento": 22,
+    "drible": 23,
+    "controleBola": 30,
+    "dominio": 21,
+    "curva": 20,
+    "cobrancaFalta": 26,
+    "penalti": 26,
+    "cabecamento": 24,
+    "voleio": 22,
+    "acrobacia": 19
+  },
+  "fisicos": {
+    "velocidade": 54,
+    "aceleracao": 54,
+    "explosao": 54,
+    "agilidade": 58,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 56,
+    "impulsao": 61,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 25,
+    "desarme": 15,
+    "interceptacao": 24,
+    "posicionamentoDefensivo": 19,
+    "pressao": 25,
+    "cobertura": 17,
+    "empenhoTatico": 25
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 61,
+    "frieza": 60,
+    "concentracao": 55,
+    "regularidade": 56,
+    "ansiedade": 43,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 56,
+    "trabalhoEquipe": 61
+  },
+  "personalidade": {
+    "ego": 47,
+    "ambicao": 87,
+    "profissionalismo": 75,
+    "lealdade": 63,
+    "catimba": 49,
+    "violencia": 37,
+    "disciplina": 62,
+    "adaptacao": 61
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 45,
+    "momentoHeroico": 41,
+    "supersub": 56,
+    "decisivo": 46,
+    "provocador": 46,
+    "batedorPenaltis": 26,
+    "cobradorFalta": 26,
+    "especialistaEscanteio": 19
+  },
+  "goleiro": {
+    "reflexos": 60,
+    "defesa": 61,
+    "posicionamentoGol": 58,
+    "saidaGol": 59,
+    "jogoPes": 52,
+    "reposicao": 57,
+    "pegadorPenaltis": 58
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 12,
+    "tetoEvolucao": 70,
+    "decadenciaFisica": 0,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 15,
+    "tendenciaChute": 15,
+    "tendenciaPasse": 38,
+    "tendenciaMarcacao": 25,
+    "movimentacaoOfensiva": 46,
+    "recomposicao": 40,
+    "participacaoJogo": 58,
+    "intensidade": 40,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/soichiro-taguchi/profil/spieler/1541955",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/remo.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/japao.json"
+    ],
+    "foto": "dados/images/players/brasil/soichiro-taguchi.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

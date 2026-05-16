@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "scott-balderson",
+    "nome": "Scott Balderson",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/scott-balderson.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "australia"
+    ],
+    "dataNascimento": "18/12/1989",
+    "idade": 36,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "-"
+  },
+  "posicao": {
+    "principal": "Meio-Campo Central",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 56,
+    "potencial": 56,
+    "reputacao": 56,
+    "potencialMidia": 56
+  },
+  "tecnicos": {
+    "finalizacao": 50,
+    "chuteLongo": 50,
+    "passeCurto": 57,
+    "passeLongo": 58,
+    "visao": 57,
+    "cruzamento": 50,
+    "drible": 50,
+    "controleBola": 59,
+    "dominio": 50,
+    "curva": 50,
+    "cobrancaFalta": 50,
+    "penalti": 50,
+    "cabecamento": 50,
+    "voleio": 50,
+    "acrobacia": 50
+  },
+  "fisicos": {
+    "velocidade": 52,
+    "aceleracao": 52,
+    "explosao": 52,
+    "agilidade": 52,
+    "equilibrio": 52,
+    "resistencia": 55,
+    "forca": 52,
+    "impulsao": 52,
+    "stamina": 56
+  },
+  "defensivos": {
+    "marcacao": 48,
+    "desarme": 48,
+    "interceptacao": 48,
+    "posicionamentoDefensivo": 48,
+    "pressao": 59,
+    "cobertura": 48,
+    "empenhoTatico": 59
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 53,
+    "decisao": 56,
+    "visaoJogo": 53,
+    "compostura": 55,
+    "frieza": 56,
+    "concentracao": 59,
+    "regularidade": 53,
+    "ansiedade": 38,
+    "agressividade": 53,
+    "coragem": 53,
+    "lideranca": 59,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 63,
+    "ambicao": 61,
+    "profissionalismo": 69,
+    "lealdade": 62,
+    "catimba": 50,
+    "violencia": 39,
+    "disciplina": 64,
+    "adaptacao": 68
+  },
+  "especial": {
+    "estrela": 45,
+    "jogoGrande": 50,
+    "momentoHeroico": 49,
+    "supersub": 50,
+    "decisivo": 45,
+    "provocador": 46,
+    "batedorPenaltis": 50,
+    "cobradorFalta": 50,
+    "especialistaEscanteio": 48
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 56,
+    "decadenciaFisica": 7,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 42,
+    "tendenciaChute": 42,
+    "tendenciaPasse": 57,
+    "tendenciaMarcacao": 54,
+    "movimentacaoOfensiva": 58,
+    "recomposicao": 58,
+    "participacaoJogo": 56,
+    "intensidade": 57,
+    "riscoCriativo": 53
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/scott-balderson/profil/spieler/141170",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/scott-balderson.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

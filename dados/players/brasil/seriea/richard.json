@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "richard",
+    "nome": "Richard",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/richard.png",
+    "clubeAtual": "internacional",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "18/02/1994",
+    "idade": 32,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "36"
+  },
+  "posicao": {
+    "principal": "Volante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€700k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 65,
+    "potencial": 65,
+    "reputacao": 65,
+    "potencialMidia": 65
+  },
+  "tecnicos": {
+    "finalizacao": 59,
+    "chuteLongo": 59,
+    "passeCurto": 65,
+    "passeLongo": 69,
+    "visao": 64,
+    "cruzamento": 59,
+    "drible": 59,
+    "controleBola": 59,
+    "dominio": 59,
+    "curva": 59,
+    "cobrancaFalta": 59,
+    "penalti": 59,
+    "cabecamento": 59,
+    "voleio": 59,
+    "acrobacia": 59
+  },
+  "fisicos": {
+    "velocidade": 61,
+    "aceleracao": 61,
+    "explosao": 61,
+    "agilidade": 61,
+    "equilibrio": 61,
+    "resistencia": 68,
+    "forca": 67,
+    "impulsao": 61,
+    "stamina": 61
+  },
+  "defensivos": {
+    "marcacao": 68,
+    "desarme": 65,
+    "interceptacao": 66,
+    "posicionamentoDefensivo": 69,
+    "pressao": 69,
+    "cobertura": 68,
+    "empenhoTatico": 71
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 62,
+    "decisao": 63,
+    "visaoJogo": 62,
+    "compostura": 64,
+    "frieza": 62,
+    "concentracao": 65,
+    "regularidade": 61,
+    "ansiedade": 40,
+    "agressividade": 62,
+    "coragem": 62,
+    "lideranca": 64,
+    "trabalhoEquipe": 66
+  },
+  "personalidade": {
+    "ego": 60,
+    "ambicao": 55,
+    "profissionalismo": 71,
+    "lealdade": 48,
+    "catimba": 64,
+    "violencia": 34,
+    "disciplina": 65,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 44,
+    "jogoGrande": 47,
+    "momentoHeroico": 43,
+    "supersub": 50,
+    "decisivo": 45,
+    "provocador": 33,
+    "batedorPenaltis": 59,
+    "cobradorFalta": 59,
+    "especialistaEscanteio": 61
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 65,
+    "decadenciaFisica": 3,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 51,
+    "tendenciaChute": 51,
+    "tendenciaPasse": 64,
+    "tendenciaMarcacao": 68,
+    "movimentacaoOfensiva": 61,
+    "recomposicao": 66,
+    "participacaoJogo": 66,
+    "intensidade": 68,
+    "riscoCriativo": 62
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/richard/profil/spieler/530737",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/internacional.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/richard.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

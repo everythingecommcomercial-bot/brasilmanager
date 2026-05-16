@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "renan-viana",
+    "nome": "Renan Viana",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/renan-viana.png",
+    "clubeAtual": "athletico-paranaense",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "31/01/2003",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "50"
+  },
+  "posicao": {
+    "principal": "Centroavante",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€225k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 61,
+    "potencial": 67,
+    "reputacao": 61,
+    "potencialMidia": 72
+  },
+  "tecnicos": {
+    "finalizacao": 66,
+    "chuteLongo": 55,
+    "passeCurto": 55,
+    "passeLongo": 55,
+    "visao": 55,
+    "cruzamento": 55,
+    "drible": 55,
+    "controleBola": 65,
+    "dominio": 55,
+    "curva": 55,
+    "cobrancaFalta": 55,
+    "penalti": 60,
+    "cabecamento": 59,
+    "voleio": 61,
+    "acrobacia": 55
+  },
+  "fisicos": {
+    "velocidade": 62,
+    "aceleracao": 57,
+    "explosao": 63,
+    "agilidade": 57,
+    "equilibrio": 57,
+    "resistencia": 57,
+    "forca": 62,
+    "impulsao": 57,
+    "stamina": 57
+  },
+  "defensivos": {
+    "marcacao": 45,
+    "desarme": 40,
+    "interceptacao": 44,
+    "posicionamentoDefensivo": 40,
+    "pressao": 42,
+    "cobertura": 42,
+    "empenhoTatico": 40
+  },
+  "mentais": {
+    "inteligencia": 65,
+    "criatividade": 58,
+    "decisao": 62,
+    "visaoJogo": 58,
+    "compostura": 60,
+    "frieza": 58,
+    "concentracao": 58,
+    "regularidade": 56,
+    "ansiedade": 43,
+    "agressividade": 58,
+    "coragem": 58,
+    "lideranca": 58,
+    "trabalhoEquipe": 58
+  },
+  "personalidade": {
+    "ego": 50,
+    "ambicao": 69,
+    "profissionalismo": 70,
+    "lealdade": 51,
+    "catimba": 67,
+    "violencia": 46,
+    "disciplina": 63,
+    "adaptacao": 58
+  },
+  "especial": {
+    "estrela": 49,
+    "jogoGrande": 49,
+    "momentoHeroico": 50,
+    "supersub": 45,
+    "decisivo": 43,
+    "provocador": 35,
+    "batedorPenaltis": 60,
+    "cobradorFalta": 55,
+    "especialistaEscanteio": 58
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 67,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 47,
+    "tendenciaChute": 66,
+    "tendenciaPasse": 55,
+    "tendenciaMarcacao": 44,
+    "movimentacaoOfensiva": 64,
+    "recomposicao": 48,
+    "participacaoJogo": 59,
+    "intensidade": 50,
+    "riscoCriativo": 56
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/renan-viana/profil/spieler/869007",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/athletico-paranaense.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/renan-viana.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

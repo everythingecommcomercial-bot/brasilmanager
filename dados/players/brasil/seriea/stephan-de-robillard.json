@@ -1,0 +1,174 @@
+{
+  "identificacao": {
+    "id": "stephan-de-robillard",
+    "nome": "Stephan De Robillard",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/stephan-de-robillard.png",
+    "clubeAtual": "mirassol",
+    "nacionalidade": [
+      "mauritius",
+      "australia"
+    ],
+    "dataNascimento": "02/12/2002",
+    "idade": 23,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "7"
+  },
+  "posicao": {
+    "principal": "Ponta Esquerda",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "-",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 58,
+    "potencial": 64,
+    "reputacao": 58,
+    "potencialMidia": 69
+  },
+  "tecnicos": {
+    "finalizacao": 60,
+    "chuteLongo": 52,
+    "passeCurto": 52,
+    "passeLongo": 52,
+    "visao": 52,
+    "cruzamento": 58,
+    "drible": 64,
+    "controleBola": 60,
+    "dominio": 52,
+    "curva": 58,
+    "cobrancaFalta": 52,
+    "penalti": 52,
+    "cabecamento": 52,
+    "voleio": 52,
+    "acrobacia": 52
+  },
+  "fisicos": {
+    "velocidade": 67,
+    "aceleracao": 65,
+    "explosao": 60,
+    "agilidade": 61,
+    "equilibrio": 54,
+    "resistencia": 54,
+    "forca": 54,
+    "impulsao": 54,
+    "stamina": 54
+  },
+  "defensivos": {
+    "marcacao": 45,
+    "desarme": 49,
+    "interceptacao": 44,
+    "posicionamentoDefensivo": 49,
+    "pressao": 44,
+    "cobertura": 43,
+    "empenhoTatico": 49
+  },
+  "mentais": {
+    "inteligencia": 58,
+    "criatividade": 55,
+    "decisao": 61,
+    "visaoJogo": 55,
+    "compostura": 60,
+    "frieza": 60,
+    "concentracao": 55,
+    "regularidade": 57,
+    "ansiedade": 38,
+    "agressividade": 55,
+    "coragem": 55,
+    "lideranca": 51,
+    "trabalhoEquipe": 56
+  },
+  "personalidade": {
+    "ego": 58,
+    "ambicao": 69,
+    "profissionalismo": 64,
+    "lealdade": 52,
+    "catimba": 50,
+    "violencia": 29,
+    "disciplina": 65,
+    "adaptacao": 60
+  },
+  "especial": {
+    "estrela": 46,
+    "jogoGrande": 48,
+    "momentoHeroico": 38,
+    "supersub": 51,
+    "decisivo": 47,
+    "provocador": 54,
+    "batedorPenaltis": 52,
+    "cobradorFalta": 52,
+    "especialistaEscanteio": 59
+  },
+  "goleiro": {
+    "reflexos": 10,
+    "defesa": 10,
+    "posicionamentoGol": 10,
+    "saidaGol": 10,
+    "jogoPes": 10,
+    "reposicao": 10,
+    "pegadorPenaltis": 10
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 6,
+    "tetoEvolucao": 64,
+    "decadenciaFisica": 0,
+    "idadePico": "27-30"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 64,
+    "tendenciaChute": 60,
+    "tendenciaPasse": 52,
+    "tendenciaMarcacao": 44,
+    "movimentacaoOfensiva": 60,
+    "recomposicao": 52,
+    "participacaoJogo": 56,
+    "intensidade": 49,
+    "riscoCriativo": 57
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/stephan-de-robillard/profil/spieler/867746",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/mirassol.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/mauritius.json",
+      "dados/selecoes/paises/australia.json"
+    ],
+    "foto": "dados/images/players/brasil/stephan-de-robillard.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}

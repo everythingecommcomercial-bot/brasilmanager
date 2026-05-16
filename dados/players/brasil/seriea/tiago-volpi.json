@@ -1,0 +1,172 @@
+{
+  "identificacao": {
+    "id": "tiago-volpi",
+    "nome": "Tiago Volpi",
+    "nomeCompleto": "",
+    "apelido": "",
+    "foto": "dados/images/players/brasil/tiago-volpi.png",
+    "clubeAtual": "rb-bragantino",
+    "nacionalidade": [
+      "brasil"
+    ],
+    "dataNascimento": "19/12/1990",
+    "idade": 35,
+    "altura": "",
+    "peso": "",
+    "pePreferido": "",
+    "numero": "18"
+  },
+  "posicao": {
+    "principal": "Goleiro",
+    "secundarias": []
+  },
+  "contratoMercado": {
+    "valorMercado": "€900k",
+    "salario": "",
+    "contratoAte": "",
+    "multaRescisoria": "",
+    "empresario": "",
+    "statusTransferencia": ""
+  },
+  "overall": {
+    "overall": 63,
+    "potencial": 63,
+    "reputacao": 63,
+    "potencialMidia": 63
+  },
+  "tecnicos": {
+    "finalizacao": 29,
+    "chuteLongo": 31,
+    "passeCurto": 49,
+    "passeLongo": 49,
+    "visao": 24,
+    "cruzamento": 24,
+    "drible": 23,
+    "controleBola": 22,
+    "dominio": 28,
+    "curva": 21,
+    "cobrancaFalta": 28,
+    "penalti": 29,
+    "cabecamento": 20,
+    "voleio": 25,
+    "acrobacia": 23
+  },
+  "fisicos": {
+    "velocidade": 59,
+    "aceleracao": 59,
+    "explosao": 59,
+    "agilidade": 64,
+    "equilibrio": 59,
+    "resistencia": 59,
+    "forca": 60,
+    "impulsao": 65,
+    "stamina": 59
+  },
+  "defensivos": {
+    "marcacao": 16,
+    "desarme": 18,
+    "interceptacao": 17,
+    "posicionamentoDefensivo": 19,
+    "pressao": 23,
+    "cobertura": 20,
+    "empenhoTatico": 23
+  },
+  "mentais": {
+    "inteligencia": 61,
+    "criatividade": 60,
+    "decisao": 60,
+    "visaoJogo": 60,
+    "compostura": 65,
+    "frieza": 62,
+    "concentracao": 66,
+    "regularidade": 60,
+    "ansiedade": 42,
+    "agressividade": 60,
+    "coragem": 60,
+    "lideranca": 60,
+    "trabalhoEquipe": 63
+  },
+  "personalidade": {
+    "ego": 48,
+    "ambicao": 57,
+    "profissionalismo": 72,
+    "lealdade": 49,
+    "catimba": 55,
+    "violencia": 26,
+    "disciplina": 65,
+    "adaptacao": 67
+  },
+  "especial": {
+    "estrela": 43,
+    "jogoGrande": 44,
+    "momentoHeroico": 41,
+    "supersub": 55,
+    "decisivo": 53,
+    "provocador": 46,
+    "batedorPenaltis": 29,
+    "cobradorFalta": 28,
+    "especialistaEscanteio": 26
+  },
+  "goleiro": {
+    "reflexos": 65,
+    "defesa": 63,
+    "posicionamentoGol": 63,
+    "saidaGol": 66,
+    "jogoPes": 57,
+    "reposicao": 59,
+    "pegadorPenaltis": 63
+  },
+  "statusDinamico": {
+    "moral": 70,
+    "fadiga": 0,
+    "ritmoDeJogo": 45,
+    "confianca": 50,
+    "formaAtual": 50,
+    "lesionado": false,
+    "suspenso": false,
+    "minutagemTemporada": 0
+  },
+  "historico": {
+    "jogos": 0,
+    "gols": 0,
+    "assistencias": 0,
+    "cartoesAmarelos": 0,
+    "cartoesVermelhos": 0,
+    "titulos": [],
+    "premiosIndividuais": []
+  },
+  "desenvolvimento": {
+    "evolucaoEsperada": 0,
+    "tetoEvolucao": 63,
+    "decadenciaFisica": 6,
+    "idadePico": "29-34"
+  },
+  "iaGameplay": {
+    "tendenciaDrible": 15,
+    "tendenciaChute": 23,
+    "tendenciaPasse": 36,
+    "tendenciaMarcacao": 20,
+    "movimentacaoOfensiva": 41,
+    "recomposicao": 41,
+    "participacaoJogo": 62,
+    "intensidade": 41,
+    "riscoCriativo": 36
+  },
+  "fonte": {
+    "transfermarktUrl": "https://www.transfermarkt.com/tiago-volpi/profil/spieler/227671",
+    "coletadoEm": "2026-05-16"
+  },
+  "referencias": {
+    "clube": "dados/clubs/brasil/rb-bragantino.json",
+    "nacionalidade": [
+      "dados/selecoes/paises/brasil.json"
+    ],
+    "foto": "dados/images/players/brasil/tiago-volpi.png",
+    "ligasNacionais": "dados/ligas/brasil",
+    "competicoesInternacionais": "dados/intenational-competitions",
+    "competicoesSelecoes": "dados/selecoes/competition",
+    "historicoClubes": "dados/ligas/(pais-da-conquista)",
+    "historicoInternacional": "dados/intenational-competitions",
+    "historicoSelecoes": "dados/selecoes/competition"
+  }
+}
