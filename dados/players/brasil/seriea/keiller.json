@@ -1,0 +1,19 @@
+{
+  "id": "keiller",
+  "nome": "Keiller",
+  "clubeAtual": "coritiba",
+  "numero": "13",
+  "posicao": "Goalkeeper",
+  "idade": "29/10/1996 (29)",
+  "nacionalidade": [
+    "Brazil",
+    "Italy"
+  ],
+  "valorMercado": "€600k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

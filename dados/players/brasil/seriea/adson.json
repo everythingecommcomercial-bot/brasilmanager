@@ -1,0 +1,18 @@
+{
+  "id": "adson",
+  "nome": "Adson",
+  "clubeAtual": "vasco-da-gama",
+  "numero": "28",
+  "posicao": "Right Winger",
+  "idade": "06/10/2000 (25)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€2.50m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

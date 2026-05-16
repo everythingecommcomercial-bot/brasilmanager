@@ -1,0 +1,19 @@
+{
+  "id": "maicon",
+  "nome": "Maicon",
+  "clubeAtual": "coritiba",
+  "numero": "3",
+  "posicao": "Centre-Back",
+  "idade": "14/09/1988 (37)",
+  "nacionalidade": [
+    "Brazil",
+    "Portugal"
+  ],
+  "valorMercado": "€100k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

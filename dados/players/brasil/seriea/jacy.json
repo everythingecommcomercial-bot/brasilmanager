@@ -1,0 +1,18 @@
+{
+  "id": "jacy",
+  "nome": "Jacy",
+  "clubeAtual": "coritiba",
+  "numero": "55",
+  "posicao": "Centre-Back",
+  "idade": "11/07/1997 (28)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€1.50m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

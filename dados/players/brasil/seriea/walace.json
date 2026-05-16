@@ -1,0 +1,18 @@
+{
+  "id": "walace",
+  "nome": "Walace",
+  "clubeAtual": "cruzeiro",
+  "numero": "5",
+  "posicao": "Defensive Midfield",
+  "idade": "04/04/1995 (31)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€3.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

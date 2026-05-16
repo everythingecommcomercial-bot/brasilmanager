@@ -1,0 +1,18 @@
+{
+  "id": "fabinho",
+  "nome": "Fabinho",
+  "clubeAtual": "coritiba",
+  "numero": "28",
+  "posicao": "Right Winger",
+  "idade": "18/11/1999 (26)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€1.00m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

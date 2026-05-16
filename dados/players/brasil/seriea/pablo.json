@@ -1,0 +1,18 @@
+{
+  "id": "pablo",
+  "nome": "Pablo",
+  "clubeAtual": "vitoria",
+  "numero": "62",
+  "posicao": "Attacking Midfield",
+  "idade": "03/08/2003 (22)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€200k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "erick",
+  "nome": "Erick",
+  "clubeAtual": "vitoria",
+  "numero": "33",
+  "posicao": "Right Winger",
+  "idade": "10/12/1997 (28)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€1.80m",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

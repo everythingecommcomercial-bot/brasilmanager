@@ -1,0 +1,18 @@
+{
+  "id": "marinho",
+  "nome": "Marinho",
+  "clubeAtual": "vitoria",
+  "numero": "7",
+  "posicao": "Right Winger",
+  "idade": "29/05/1990 (35)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€250k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}

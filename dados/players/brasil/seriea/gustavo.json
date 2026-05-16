@@ -1,0 +1,18 @@
+{
+  "id": "gustavo",
+  "nome": "Gustavo",
+  "clubeAtual": "coritiba",
+  "numero": "39",
+  "posicao": "Attacking Midfield",
+  "idade": "11/09/2002 (23)",
+  "nacionalidade": [
+    "Brazil"
+  ],
+  "valorMercado": "€500k",
+  "overall": 0,
+  "potencial": 0,
+  "salario": "",
+  "contratoAte": "",
+  "foto": "",
+  "status": "ativo"
+}
